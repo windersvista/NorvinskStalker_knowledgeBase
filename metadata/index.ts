@@ -1,5 +1,5 @@
 /** 文本 */
-export const siteName = 'Norvinsk Stalker knowledge Base'
+export const siteName = 'Norvinsk Stalker知识库'
 export const siteShortName = 'NorStlkNolebase'
 export const siteDescription = '《诺文斯克潜行者》知识库'
 
