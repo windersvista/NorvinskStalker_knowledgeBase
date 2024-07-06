@@ -2,26 +2,29 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: Norvinsk Stalker
+titleTemplate: 塔科夫与潜行者的结合体，无法逃离的世界
 
 hero:
   name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  text: 塔科夫与潜行者的结合体，无法逃离的世界
+  tagline: 这里是离线塔科夫整合包《诺文斯克潜行者》的知识库，目前有三个板块：安装技术指南、游玩指南、MOD修改指南
   image:
     src: /logo.svg
     alt: Vitest
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 开始阅读指南
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
+      text: B站-Samuel是不是好奇猫-主页：
+      link: https://space.bilibili.com/9883076
+    - theme: alt
+      text: 在爱发电支持我：
+      link: https://afdian.net/a/samuel_szeto
     - theme: alt
       text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      link: https://github.com/windersvista/NorvinskStalker_knowledgeBase
 
 features:
   - title: 多样的主题和内容
