@@ -53,51 +53,6 @@
 
 
 
-和其他的由 [Hexo](https://hexo.io) 驱动和生成的博客和静态网站类似，[Nólëbase](https://nolebase.ayaka.io) 其实使用了名为 [VitePress](https://vitepress.dev) 的静态生成器来驱动和生成网站，像 [VitePress](https://vitepress.dev) 这样的静态生成器支持在 Markdown 文件中使用 [Vue](https://vuejs.org/) 组件来嵌入并增强文档的阅读和使用体验。而 [VitePress](https://vitepress.dev) 和 [Vue](https://vuejs.org/) 是 [Node.js](https://nodejs.org/en) 生态的一部分，他们都属于「前端技术」的一部分。
-
-在运行和部署上，我们使用免费的 [Netlify](https://www.netlify.com/) 来提供网站的托管，使用 [GitHub Actions](https://github.com/features/actions)（你可以理解一个将会在每次我们将笔记和知识库内容更新到 GitHub 仓库之后会自动触发的一个自动化工作）把我们的笔记和知识库内容自动构建和部署到 [Netlify](https://www.netlify.com/) 上。
-
-### 等等，这和 [Obsidian Publish](https://obsidian.md/publish) 有什么不同
-
-好问题，作为 [Obsidian](https://obsidian.md) 的用户，你可能会知道他们开发团队提供了一套专门用于发布 [Obsidian](https://obsidian.md) 中的笔记的服务「[Obsidian Publish](https://obsidian.md/publish)」，如果你不知道也不要紧，可以把 [Obsidian Publish](https://obsidian.md/publish) 理解为一个可以帮助你将 [Obsidian](https://obsidian.md) 中的笔记发布到互联网上帮助你分享和提供搜索引擎优化（SEO）的服务。
-
-#### 为什么不用 [Obsidian Publish](https://obsidian.md/publish)
-
-1. [Obsidian Publish](https://obsidian.md/publish) 需要付费才能使用，但是实际上对于静态网站而言，就像先前介绍的那样，我们可以白嫖一些像是 [GitHub Pages](https://pages.github.com/)，[Netlify](https://www.netlify.com/)，[Vercel](https://vercel.com/) 和 [Cloudflare Pages](https://pages.cloudflare.com/) 这样现成的基础设施帮忙托管；
-2. [Obsidian Publish](https://obsidian.md/publish) 部署后的静态页面是没有 [Obsidian](https://obsidian.md) 自带的插件功能的支持的，这意味着很多作者（或者你）在本地撰写好的使用了插件支持的语法的文档在本地使用 [Obsidian](https://obsidian.md) 渲染和预览的时候是能正常工作的，然而将会在 [Obsidian Publish](https://obsidian.md/publish) 部署和托管后变得不可用。这是非常关键的一个问题，很多用户（包括我在内）都非常依赖于 [Obsidian](https://obsidian.md) 的插件生态，这样的问题现在还没有足够好的解决方案，但我们创建了名为 [Nólëbase 集成](https://github.com/nolebase/integrations) 这样的项目来尝试提供一些常见的和常用的 [Obsidian](https://obsidian.md) 插件在 [VitePress](https://vitepress.dev) 和 [Vue](https://vuejs.org/) 的环境下的替代方案，这样的替代方案虽然不能完全替代 [Obsidian](https://obsidian.md) 插件的功能，但是可以在一定程度上提供类似的功能，你也可以关注一下；
-
-#### 在什么情况下你应该使用 [Obsidian Publish](https://obsidian.md/publish)
-
-[Obsidian Publish](https://obsidian.md/publish) 也有它自己的优点：
-
-1. 寻找适合 [VitePress](https://vitepress.dev) 的 Markdown 插件是困难和复杂的，[Obsidian Publish](https://obsidian.md/publish) 天然支持所有 [Obsidian](https://obsidian.md) 原生支持的语法和插件，这意味着你不需要额外的调研和试错工作就可以将你在本地使用 [Obsidian](https://obsidian.md) 撰写的文档直接部署到互联网上；
-2. 运行和部署像是 [Nólëbase](https://nolebase.ayaka.io) 这样的静态网站对于不具备任何的代码和编程知识的作者难度大得多，但是 [Obsidian Publish](https://obsidian.md/publish) 不需要任何的代码和编程知识，也无需关心任何的技术细节，和 Notion 的分享一样，你只需要点击几下就可以完成部署；
-
-所以如果你没有掌握必备的编程技能，或者你不想花时间和精力去学习和掌握这些技能，那么 [Obsidian Publish](https://obsidian.md/publish) 可能是一个更好的选择。
-
-### 所以，也有别人在这样使用 [VitePress](https://vitepress.dev) 作为可部署的知识库吗？
-
-哦，当然！
-
-这里有一些我们在 GitHub 上发现的使用 [VitePress](https://vitepress.dev) 作为知识库的项目：
-
-- [Charles7c/charles7c.github.io：基于 VitePress 构建的个人知识库/博客。](https://github.com/Charles7c/charles7c.github.io)
-- [Lercel/Vision](https://github.com/Lercel/Vision)
-- [maomao1996/mm-notes: 茂茂物语: 各种笔记记录（想到啥写啥系列）](https://github.com/maomao1996/mm-notes)
-- [ATQQ/sugar-blog: ✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记](https://github.com/ATQQ/sugar-blog)
-- [chodocs/chodocs: 一站式前端内容网站，包括学习路线、知识体系。](https://github.com/chodocs/chodocs)
-- [cangzihan/knolls-think-tank: 基于Nólëbase的个人知识库](https://github.com/cangzihan/knolls-think-tank)
-- [CHENJIAMIAN/Blog: Obsidian笔记库 | 我的笔记分bei享fen | 根据GitHub工作流自动构建vitepress博客 | http://chenjiamian.me/Blog/](https://github.com/CHENJIAMIAN/Blog)
-- [realzhengyiming/YiMingBlog: a... new blog again, hhhh](https://github.com/realzhengyiming/YiMingBlog)
-- [nikitavoloboev/knowledge: Everything I know](https://github.com/nikitavoloboev/knowledge?tab=readme-ov-file)
-- [senup/wiki: wiki](https://github.com/senup/wiki?tab=readme-ov-file)
-- [kkoscielniak/digital-garden: 🥦 Things I know](https://github.com/kkoscielniak/digital-garden)
-- [Merlin-Chest/Blog: 个人学习及知识记录整理](https://github.com/Merlin-Chest/Blog)
-- [selwynpolit/d9book: Drupal at your Fingertips: A developers quick reference for Drupal 9 and 10](https://github.com/selwynpolit/d9book)
-- [vlad196/ALTRegularGnomeWiki: открытое сообщество пользователей операционной системы ALT Regular Gnome](https://github.com/vlad196/ALTRegularGnomeWiki)
-- [shalotts/shalodoc](https://github.com/shalotts/shalodoc)
-- [vdriasworld/manual: Vdrias World! 游玩指南](https://github.com/vdriasworld/manual)
-- [LittleSkinCommspt/manual-ng: under dev](https://github.com/LittleSkinCommspt/manual-ng)
 
 ### 如何下载到本地
 
