@@ -36,11 +36,11 @@ features:
   - title: 超过100+的MOD总数
     details: 本整合包拥有超过100个MOD，涵盖武器、服装、配件、玩法大修、地图大修、玩法大修等几乎所有方向的修改。
     icon: 📃
-  - title: 不只是MOD的拼凑
-    details: 整合包搭建过程中，就精心筛选过绝大多数SPT社区中的MOD。所有采用的MOD都经由长时间测试，并进行数值平衡，必要时甚至对源代码进行进一步修改，以求让它们和谐共存。
+  - title: 专属商人+专属剧情
+    details: 新商人AliceIllusion和配套剧情任务《诺文斯克之影》，将会带领玩家在诺文斯克这片土地上展开另一场冒险。
     icon: 🚀
   - title: 特别鸣谢
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
+    details: 本站的建设感谢Nólëbase[https://github.com/nolebase]的简单易上手的知识库部署方案，并感谢jackie_xiao提供的教程和git模版[https://github.com/Jackiexiao/nolebase-template]
     icon: 🗃
 ---
 
