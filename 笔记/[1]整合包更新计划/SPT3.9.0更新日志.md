@@ -1,32 +1,33 @@
-## Changes
+## SPT3.9.0更改
 
 
-### EFT CHANGES
-* `Unheard` profile
-* New PMC outfits
-* Added `Ref` Trader (Partially implemented in SPT)
-* Adjustments to sound system
-* Added `BTR-82A` to Woods
-* Added first iteration of seasons system
-* New trader barters
-* Body hitbox penetration rework
-* Armor penetration rework
-* New sandbox map for level 20+
-    * Better loot
-    * `Kollontay` boss
-* Significantly reduced fog on all maps
-* GP coins are now a currency and stack to 20
-* New achievements
-* Reduced inertia
-* Removed `Found In Raid` requirement for listing items in flea market
-* Enabled `Spring` season
+### EFT 变化
+* “未闻者”档案
+* 新的 PMC 装备
+* 新增 "Ref "交易员（部分在 SPT 中实现）
+* 调整声音系统
+* 为 "森林 "添加了 "BTR-82A
+* 添加了第一代季节系统
+* 新的交易商
+* 重做身体命中率
+* 装甲穿透重做
+* 20级以上的中心区地图
+    * 更好的战利品
+    * 葛朗台BOSS
+* 大幅减少所有地图上的雾气
+* GP币现在是一种货币，可以叠加到20级
+* 新成就
+* 减少惯性
+* 删除了在跳蚤市场列出物品的 "在突袭中发现 "要求
+* 启用 ”春季“
 
-### ADDED
-* New Server and Launcher icons from competition winner (Rasdow) https://dev.sp-tarkov.com/SPT/Server/commit/41b047e43657e8a38d5748ec7435add4d69edf16
-* Regenerated map loot using 3.5 months worth of data dumps
-* Added quests `Easy Money. Part 1`, `Easy Money part 2`, `Balancing Part 1`, `Balancing Part 2`,  `A Key to Salvation`, `Gendarmerie District Patrol`, `Test Drive Part 3` and `Hustle`
-* Item/quest/trader icons are now stored separately from live inside the SPT folder (spt/user/sptAppData) https://dev.sp-tarkov.com/SPT/Modules/pulls/133
-* Added `TarkovTV` gift codes `KILLA, BITCOIN, GROUNDZERO1, OBDOLBOS, THICC` https://dev.sp-tarkov.com/SPT/Server/commit/910189d4254cc301a9e8b9deda65f241a8dda3ae
+### 新增
+* 来自竞赛获胜者 (Rasdow) 的新服务器和启动器图标
+* 使用 3.5 个月的数据转储重新生成地图战利品
+* 添加了任务 "轻松赚钱。第 1 部分"、"轻松赚钱第 2 部分"、"平衡第 1 部分"、"平衡第 2 部分"、"救赎之匙"、"宪兵区巡逻"、"试驾第 3 部分 "和 "喧嚣"。
+* 项目/查询/交易图标现在与 SPT 文件夹 (spt/user/sptAppData) 中的实时图标分开存储。
+* 添加了 "TarkovTV "礼品代码 "KILLA, BITCOIN, GROUNDZERO1, OBDOLBOS, THICC
+
 * Added `Tournament` profile (Unique secure container + flea and fence ban) https://dev.sp-tarkov.com/SPT/Server/commit/eba65cdd834f72d72d9e910681319b070a09c57d
     * Added tournament profile gift code. Send `TOURNAMENTGIFT` to SPT on friend list https://dev.sp-tarkov.com/SPT/Server/commit/885a2abcab56fcabfe49e60776be539b9f820089
 * PMCs will sometimes send player a pity gift code if they die and feel bad https://dev.sp-tarkov.com/SPT/Server/commit/e0717daa996af8647c5e7ba9358c6d1b109625b0
