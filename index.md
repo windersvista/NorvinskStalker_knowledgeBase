@@ -17,7 +17,7 @@ hero:
       text: 开始阅读《诺文斯克潜行者》指南
       link: /笔记/index
     - theme: brand
-      text: 开始阅读《诺文斯克潜行者》指南
+      text: 下载《诺文斯克潜行者》
       link: /笔记/安装技术指南/《诺文斯克潜行者》1.1.8版下载链接
     - theme: alt
       text: 整合包作者：Samuel是不是好奇猫
