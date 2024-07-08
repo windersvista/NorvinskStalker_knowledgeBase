@@ -1,0 +1,1224 @@
+{
+    "//Note": "Valid map and exfil names can be found in the src/useful-data.ts file",
+
+    "//Uninstall Note1": "To uninstall, set uninstall to true and load the game all the way to your stash once.",
+    "//Uninstall Note2": "This will delete all custom items added by Traveler and load your home stash and hideout.",
+    "//Uninstall Note3": "ONLY your home stash and hideout will be saved for use after removing Traveler from your mods folder.",
+    "uninstall": false,
+
+    "home": "Woods.Zb016",
+    "multi_stash": true,
+    "multi_hideout": true,
+    "locale_language": "ch",
+    "trader_access_restriction": true,
+    "world_event_exfil_requirements": true,
+    "post_raid_healing_enabled":true,
+    "disable_out_of_raid_quest_stash": false,
+    "car_exfils":{
+        "all_cars_free": false,
+        "car_currency": "roubles",
+        "customs": 100000,
+        "interchange": 300000,
+        "lighthouse": 100000,
+        "streets": 100000,
+        "woods": 100000
+    },
+
+    "//markFIR note": "kiki_markFIR = true means all items on your pmc will be FIR on raid end regardless of death, etc.",
+    "kiki_markFIR": true,
+    "flea_purchases_are_FIR": true,
+    "trader_purchases_are_FIR": true,
+
+    "number_of_profile_backups": 50,
+    "backup_on_game_start": true,
+    "backup_on_raid_start": true,
+    "backup_on_raid_end": true,
+
+    "death_updates_offraid_position": true,
+    "checkpoint_trader_config": {
+        "trader": "therapist",
+        "loyalty_level": 1,
+        "currency": "roubles",
+        "price": 69420,
+        "stock_amount": 1,
+        "unlimited_stock": false
+    },
+    "checkpoints":[
+        "Woods.Zb016",
+        "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+        "Streets.yard",
+        "Customs.ZB-1011",
+        "Interchange.ScavCamp",
+        "Interchange.Car-alt>-Streets.ExpoCP",
+        "Factory.Cellars",
+        "Reserve.DepotHermeticDoor",
+        "Woods.Zb014",
+        "Customs.ZB1013"
+    ],
+
+    
+    "regen": {
+        "health_regen":{
+            "//Note": "Rates only apply if available_everywhere = false",
+            "available_everywhere": true,
+            "head_rate": 0.6125,
+            "chest_rate": 1.4,
+            "stomach_rate": 1.225,
+            "left_arm_rate": 1.05,
+            "right_arm_rate": 1.05,
+            "left_leg_rate": 1.1375,
+            "right_leg_rate": 1.1375,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP",
+                "Factory.Cellars",
+                "Reserve.DepotHermeticDoor",
+                "Woods.Zb014",
+                "Customs.ZB1013",
+                "Interchange.Saferoom"
+                ]
+        },
+
+        "energy_regen":{
+            "//Note": "Rates only apply if available_everywhere = false",
+            "available_everywhere": false,
+            "rate": 1,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP",
+                "Factory.Cellars",
+                "Reserve.DepotHermeticDoor",
+                "Woods.Zb014",
+                "Customs.ZB1013",
+                "Interchange.Saferoom"
+                ]
+        },
+
+        "hydration_regen":{
+            "//Note": "Rates only apply if available_everywhere = false",
+            "available_everywhere": false,
+            "rate": 1,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP",
+                "Factory.Cellars",
+                "Reserve.DepotHermeticDoor",
+                "Woods.Zb014",
+                "Customs.ZB1013",
+                "Interchange.Saferoom"
+                ]
+        }
+    },
+
+    "trader_config": {
+        "Therapist": {
+            "trader_id": "54cb57776803fa99248b456e",
+            "trader_description_text": "治疗师，俗称大妈。",
+            "trader_location_text": "生存难度中作为NPC出现在各个“城镇”中。",
+            "accessible_everywhere": false,
+            "is_medic": true,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Prapor": {
+            "trader_id": "54cb50c76803fa8b248b4571",
+            "trader_description_text": "是个好人。",
+            "trader_location_text": "生存难度中作为NPC出现在各个“城镇”中。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Ragman": {
+            "trader_id": "5ac3b934156ae10c4430e83c",
+            "trader_description_text": "卖衣服的",
+            "trader_location_text": "生存难度中作为NPC出现在各个“城镇”中。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Flea": {
+            "trader_id": "ragfair",
+            "unlock_via_offraid_pos": true,
+            "//Note": "unlock_level only applies if unlock_via_offraid_pos = true",
+            "unlock_level": 10,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Skier": {
+            "trader_id": "58330581ace78e27b8b10cee",
+            "trader_description_text": "坏人",
+            "trader_location_text": "生存难度中和其他商人都在海关的013。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": ["Customs.ZB1013","Interchange.Car-alt>-Streets.ExpoCP"]
+        },
+        "Jaeger": {
+            "trader_id": "5c0647fdd443bc2504c2d371",
+            "trader_description_text": "PMC的总教官",
+            "trader_location_text": "生存难度中在森林的ZB014。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": ["Woods.Zb014","Interchange.Car-alt>-Streets.ExpoCP"]
+        },
+        "Mechanic": {
+            "trader_id": "5a7c2eca46aef81a7ca2145d",
+            "trader_description_text": "好人（也许）",
+            "trader_location_text": "生存难度中在工厂的摄像头地堡。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": ["Factory.Cellars","Interchange.Car-alt>-Streets.ExpoCP"]
+        },
+        
+        "Peacekeeper": {
+            "trader_id": "5935c25fb3acc3127c3d8cd9",
+            "trader_description_text": "美国佬，只会贪污受贿。",
+            "trader_location_text": "生存难度中在储备站的地下地堡密闭门。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": ["Reserve.DepotHermeticDoor","Interchange.Car-alt>-Streets.ExpoCP"]
+        },
+        "Fence": {
+            "trader_id": "579dc571d53a0658a154fbec",
+            "trader_description_text": "别在只有它的中转站存放物品，会被他黑掉。",
+            "trader_location_text": "无处不在",
+            "accessible_everywhere": true,
+            "is_medic": false,
+            "access_via": [""]
+        },
+        "Goblin King": {
+            "trader_id": "GoblinKing",
+            "trader_description_text": "一个卖毒品的美国佬",
+            "trader_location_text": "生存难度中和其他商人都在海关的013",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Broker": {
+            "trader_id": "broker-trader-id",
+            "trader_description_text": "他会帮你转卖所有物品给最适合的人，包括跳蚤。让你获得最公道的价钱。",
+            "trader_location_text": "生存难度中和其他商人都在海关的013",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Moron DRIP Trader": {
+            "trader_id": "moron",
+            "trader_description_text": "卖各色各样的衣服和背包神之更多，货色比服装商还齐全，且有自己的任务。",
+            "trader_location_text": "生存难度中和其他商人都在海关的013",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "ArtemTrader": {
+            "trader_id": "ArtemTrader",
+            "trader_description_text": "有一系列很有沉浸感的任务。",
+            "trader_location_text": "生存难度中和其他商人都在海关的013",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "DOC_TRADER": {
+            "trader_id": "DOC_TRADER",
+            "trader_description_text": "大量新军火，包括筒子",
+            "trader_location_text": "生存难度中和其他商人都在海关的013",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Woods.Zb016",
+                "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+                "Customs.ZB-1011",
+                "Interchange.ScavCamp",
+                "Streets.yard",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "gunsmith": {
+            "trader_id": "gunsmith",
+            "trader_description_text": "出售枪匠任务相关武器。",
+            "trader_location_text": "生存难度中和其他商人都在海关的013",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": ["Factory.Cellars",
+            "Interchange.Car-alt>-Streets.ExpoCP"]
+        },
+        "GriffinSupplier": {
+            "trader_id": "GriffinSupplier",
+            "trader_description_text": "少女前线诺文斯克行动MOD商人",
+            "trader_location_text": "在各城镇中有代表。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+            "Woods.Zb016",
+            "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+            "Customs.ZB-1011",
+            "Interchange.ScavCamp",
+            "Streets.yard",
+            "Interchange.Car-alt>-Streets.ExpoCP"
+            ]
+        },
+        "PAINTERSHOP": {
+            "trader_id": "PAINTERSHOP",
+            "trader_description_text": "Civic配件系列商人",
+            "trader_location_text": "与机械师在工厂。",
+            "accessible_everywhere": false,
+            "is_medic": false,
+            "access_via": [
+                "Factory.Cellars",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+            ]
+        }
+    },
+
+    "//Stash Note": "if upgradable = true the size will coorelate to the stash hideout station at that stashes location",
+   
+    "stashes": {
+        "Home_Stash":{
+            "upgradable": true,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": [
+                "Interchange.Saferoom",
+                "Interchange.Car-alt>-Streets.ExpoCP"
+                ]
+        },
+        "Prapor_Stash":{
+            "upgradable": false,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": []
+        },
+        "Jaeger_Stash":{
+            "upgradable": false,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": []
+        },
+        "Mechanic_Stash":{
+            "upgradable": false,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": []
+        },
+        "Peacekeeper_Stash":{
+            "upgradable": false,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": []
+        },
+        "Ragman_Stash":{
+            "upgradable": false,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": []
+        },
+        "Skier_Stash":{
+            "upgradable": false,
+            "size_h": 0,
+            "size_v": 0,
+            "access_via": []
+        },
+        "Interchange.Saferoom_Stash":{
+            "upgradable": false,
+            "size_h": 10,
+            "size_v": 50,
+            "access_via": []
+        },
+        "Customs.ZB1013_Stash":{
+            "upgradable": false,
+            "size_h": 10,
+            "size_v": 50,
+            "access_via": []
+        },
+        "RuinedHouse_Stash":{
+            "upgradable": false,
+            "size_h": 10,
+            "size_v": 50,
+            "access_via": []
+        }
+    },
+
+    "//Hideout Note": "不能禁用发电机、集水器、空气过滤器和健身房，以防止游戏崩溃。",
+    "//Hideout Note2": "包含您想包含的每个台站，或包含 all_stations = true 后减去您想减去的任何台站 = false",
+
+    "hideouts":{
+        "Home_Hideout":{
+
+            "access_via":[
+                "Interchange.Saferoom"
+            ],
+            
+            "stations": {
+                "generator": true,
+                "water collector": true,
+                "air filter": true,
+                "gym": true,
+
+                "vents": true,
+                "security": true,
+                "lavatory": true,
+                "stash": true,
+                "heating": true,
+                "med station": true,
+                "nutrition": true,
+                "rest space": true,
+                "workbench": true,
+                "intel center": true,
+                "shooting range": true,
+                "library": true,
+                "scav case": true,
+                "lights": true,
+                "solar": true,
+                "booze": true,
+                "bitcoin farm": true,
+                "christmas tree": true,
+                "defective wall": true,
+                "gunstand primary": true,
+                "gunstand secondary": true
+            }
+        },
+
+        "Prapor_Hideout":{
+
+            "access_via":["Woods.Zb016",
+            "Shoreline.Tunnel--Lighthouse.SouthernRoad",
+            "Customs.ZB-1011",
+            "Interchange.ScavCamp",
+            "Streets.yard",
+            "Interchange.Car-alt>-Streets.ExpoCP"
+        ],
+            
+            "stations": {
+                "generator": true,
+                "water collector": false,
+                "air filter": false,
+                "gym": false,
+                "vents": true,
+                "security": true,
+                "lavatory": true,
+                "stash": false,
+                "heating": true,
+                "med station": true,
+                "nutrition": true,
+                "rest space": true,
+                "workbench": true,
+                "intel center": false,
+                "shooting range": false,
+                "library": false,
+                "scav case": false,
+                "lights": true,
+                "solar": false,
+                "booze": false,
+                "bitcoin farm": false,
+                "christmas tree": false,
+                "defective wall": false,
+                "gunstand primary": false,
+                "gunstand secondary": false
+            }
+        },
+
+        "Skier_Hideout":{
+
+            "access_via":[
+            
+        ],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "Jaeger_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "Mechanic_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "Ragman_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "Peacekeeper_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "Interchange.Saferoom_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "Customs.ZB1013_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        },
+
+        "RuinedHouse_Hideout":{
+
+            "access_via":[],
+            
+            "stations": {
+                "all_stations": false
+            }
+        }
+    }, 
+
+    "offraid_positions":{
+
+        "Customs.FactoryFarCorner--Factory.Gate3":{
+
+            "access_via":{
+                "factory4_day": ["Gate 3"],
+                "factory4_night": ["Gate 3"],
+                "bigmap": ["Factory Far Corner"]
+            },
+
+            "can_infil_to":{
+                "factory4_day": "Gate 3",
+                "factory4_night": "Gate 3",
+                "bigmap": "Factory Far Corner"
+            }
+        },
+        "Reserve.DepotHermeticDoor":{
+
+            "access_via":{
+                "rezervbase": ["Exit3"]
+            },
+
+            "can_infil_to":{
+                "rezervbase": "Depot Hermetic"
+            }
+        },
+        "Customs.ZB-1011":{
+
+            "access_via":{
+                "bigmap": ["ZB-1011"]
+            },
+
+            "can_infil_to":{
+                "bigmap": "ZB-1011"
+            }
+        },
+        "Factory.Cellars":{
+
+            "access_via":{
+                "factory4_day": ["Cellars"],
+                "factory4_night": ["Cellars"],
+				"factory4_day": ["Camera Bunker Door"],
+                "factory4_night": ["Camera Bunker Door"]
+            },
+
+            "can_infil_to":{
+                "factory4_day": "Camera Bunker Door",
+                "factory4_night": "Camera Bunker Door"
+            }
+        },
+        "Interchange.ScavCamp":{
+
+            
+            "access_via":{
+                "interchange": ["Interchange Cooperation"]
+            },
+
+            "can_infil_to":{
+                "interchange": "Scav Camp"
+            }
+        },
+        "Woods.ScavBunker":{
+            "access_via":{
+                "woods": ["East Gate"]
+            },
+
+            "can_infil_to":{
+                "woods": "Scav Bunker"
+            }
+        },
+        "Woods.TheBoat":{
+            "access_via":{
+                "woods": ["The Boat"]
+            },
+
+            "can_infil_to":{
+                "woods": "Scav Bunker"
+            }
+        },
+        "interchange.HoleExfill":{
+            "access_via":{
+                "woods": ["Hole Exfill"]
+            },
+
+            "can_infil_to":{
+                "woods": "Hole Exfill"
+            }
+        },
+        "Woods.FactoryGate--Factory.MedTent":{
+
+
+            "access_via":{
+                "factory4_day": ["Gate m"],
+                "factory4_night": ["Gate m"],
+                "woods": ["Factory Gate"]
+            },
+
+            "can_infil_to":{
+                "factory4_day": "Med tent gates",
+                "factory4_night": "Med tent gates",
+                "woods": "Factory Gate"
+            }
+        },
+
+        "Customs.OldGasScav--Factory.Gate0":{
+
+            "access_via":{
+                "factory4_day": ["Gate 0"],
+                "factory4_night": ["Gate 0"],
+                "bigmap": ["Old Azs Gate"]
+            },
+
+            "can_infil_to":{
+                "factory4_day": "Gate 0",
+                "factory4_night": "Gate 0",
+                "bigmap": "Old Gas Scav"
+            }
+        },
+
+        "Customs.RRtoTarkov--Interchange.Railway":{
+
+            "access_via":{
+                "interchange": ["NW Exfil"],
+                "bigmap": ["Railroad To Tarkov"]
+            },
+
+            "can_infil_to":{
+                "interchange": "Railway",
+                "bigmap": "RR To Tarkov"
+            }
+        },
+
+        "Customs.RRtoMilitaryBase-1w>-Reserve.TrainStation":{
+
+            "access_via":{
+                "bigmap": ["Railroad To Military Base"]
+            },
+
+            "can_infil_to":{
+                "rezervbase": "Train Station"
+            }
+        },
+
+        "Customs.RRtoPort--Shoreline.RailwayBridge":{
+
+            "access_via":{
+                "bigmap": ["Railroad To Port"],
+                "shoreline": ["Road_at_railbridge"]
+            },
+
+            "can_infil_to":{
+                "bigmap": "RR To Port",
+                "shoreline": "Railway Bridge"
+
+            }
+        },
+
+        "Customs.Crossroads--interchange.SEExfil":{
+
+            "access_via":{
+                "bigmap": ["Crossroads"],
+                "shoreline": ["Road to Customs"],
+                "tarkovstreets": ["E4"],
+                "interchange": ["SE Exfil"]
+            },
+
+            "can_infil_to":{
+                "bigmap": "Crossroads",
+                "tarkovstreets": "Crash Site",
+                "interchange": "Emercom",
+                "shoreline": "Road to Customs"
+
+            }
+        },
+
+        "Customs.Crossroads--tarkovstreets.EvacuationZone":{
+
+            "access_via":{
+                "bigmap": ["Crossroads"],
+                "shoreline": ["Scav Road to Customs"],
+                "tarkovstreets": ["E4"],
+                "interchange": ["SE Exfil"]
+            },
+
+            "can_infil_to":{
+                "bigmap": "Crossroads",
+                "tarkovstreets": "Crash Site",
+                "interchange": "Emercom",
+                "shoreline": "Road to Customs"
+
+            }
+        }, 
+
+        "Woods.UNRoadblock--Customs.ScavCP":{
+
+            "access_via":{
+                "woods": ["UN Roadblock"],
+                "bigmap": ["Military Checkpoint"]
+            },
+
+            "can_infil_to":{
+                "woods": "UN Roadblock",
+                "bigmap": "Scav CP"
+
+            }
+        },
+
+
+        "Customs.ZB1013":{
+
+            "access_via":{
+                "bigmap": ["EXFIL_ZB013"]
+            },
+
+            "can_infil_to":{
+                "bigmap": "ZB-1013"
+            }
+        },
+
+
+        "Woods.Outskirts--Lighthouse.NorthernCP":{
+
+            "access_via":{
+                "woods": ["Outskirts"],
+                "lighthouse": ["Nothern_Checkpoint"]
+            },
+
+            "can_infil_to":{
+                "woods": "Outskirts",
+                "lighthouse": "Northern CP"
+            }
+        },
+
+        "Woods.Car-1w>-Streets.KamchatskyaArch":{
+
+            "access_via":{
+                "woods": ["South V-Ex"]
+            },
+
+            "can_infil_to":{
+                "woods":"Woods Vehicle Extract",
+                "interchange":"Interchange Vehicle Extract",
+                "rezervbase":"Train Station",
+                "laboratory":"Parking Gate",
+                "shoreline":"Road to Customs",
+                "tarkovstreets": "Streets Vehicle Extract"
+            }
+        },
+
+        "Customs.Car-1w>-Streets.KamchatskyaArch":{
+
+            "access_via":{
+                "bigmap": ["Dorms V-Ex"]
+            },
+
+            "can_infil_to":{
+                "bigmap":"Dorms Car",
+                "laboratory":"Parking Gate",
+                "lighthouse": "Lighthouse Vehicle Extract",
+                "tarkovstreets": "Streets Vehicle Extract"
+            }
+        },
+
+
+        "Woods.Zb016":{
+		
+		    "access_via":{
+				"woods": ["ZB-016"]
+            },
+
+            "can_infil_to":{
+                "woods": "ZB-1016"
+            }
+        },
+		
+		"Woods.Zb014":{
+		
+		    "access_via":{
+                "woods": ["ZB-014"]
+            },
+
+            "can_infil_to":{
+                "woods": "ZB-1014"
+            }
+        },
+        "lighthouse.IndustrialZone":{
+		
+		    "access_via":{
+                "lighthouse": ["Scav_Industrial_zone"]
+            },
+
+            "can_infil_to":{
+                "lighthouse": "Scav_Industrial_zone"
+            }
+        },
+        "shoreline.AdmBasement":{
+		
+		    "access_via":{
+                "shoreline": ["Adm Basement"]
+            },
+
+            "can_infil_to":{
+                "shoreline": "Admin Basement"
+            }
+        },
+
+        "Woods.NorthernUN-alt>-Customs.ScavCP":{
+
+            "access_via":{
+                "woods": ["un-sec"]
+            },
+
+            "can_infil_to":{
+                "woods": "Northern UN Roadblock",
+                "bigmap": "Scav CP"
+            }
+        },
+
+        "Reserve.Manhole--Streets.Manhole":{
+
+            "access_via":{
+                "rezervbase": ["EXFIL_vent"],
+                "tarkovstreets": ["scav_e4"]
+            },
+
+            "can_infil_to":{
+                "rezervbase": "Reserve Manhole",
+                "tarkovstreets": "Streets Manhole"
+            }
+        },
+
+        "Streets.CrashSite--Reserve.CPFence":{
+
+            "access_via":{
+                "rezervbase": ["Exit4"],
+                "tarkovstreets": ["E4"]
+            },
+
+            "can_infil_to":{
+                "rezervbase": "CP Fence",
+                "tarkovstreets": "Crash Site"
+            }
+        },
+
+        "Reserve.CliffDescent-1w>-Shoreline.NorthernCliffs":{
+
+            "access_via":{
+                "rezervbase": ["Alpinist"]
+            },
+
+            "can_infil_to":{
+                "shoreline": "Shoreline Northern Cliffs"
+            }
+        },
+
+        "Reserve.D2-1w>-Woods.SniperRockBunker":{
+
+            "access_via":{
+                "rezervbase": ["EXFIL_Bunker_D2"]
+            },
+
+            "can_infil_to":{
+                "woods": "Sniper Rock Bunker"
+            }
+        },
+
+        "Reserve.BunkerHermetic-1w>-Shoreline.CCPTemporary":{
+
+            "access_via":{
+                "rezervbase": ["EXFIL_Bunker"]
+            },
+
+            "can_infil_to":{
+                "shoreline": "CCP Temporary"
+            }
+        },
+
+        "Reserve.HeatingPipe-1w>-Factory.Cellars":{
+
+            "access_via":{
+                "rezervbase": ["Exit2"]
+            },
+
+            "can_infil_to":{
+                "factory4_day": "Cellars",
+                "factory4_night": "Cellars"
+            }
+        },
+
+        "factory4_night.Office Window>-Reserve.HeatingPipe-1w":{
+
+            "access_via":{
+                "factory4_night": ["Office Window"],
+                "factory4_day": ["Office Window"]
+            },
+
+            "can_infil_to":{
+                "rezervbase": "Bunker Hermetic"
+            }
+        },
+
+
+        "Interchange.Car-alt>-Streets.ExpoCP":{
+
+            "access_via":{
+                "interchange": ["PP Exfil"]
+            },
+
+            "can_infil_to":{
+                "interchange": "Interchange Vehicle Extract",
+                "factory4_day":"Gate 0",
+                "factory4_night":"Gate 0",
+                "woods":"Woods Vehicle Extract",
+                "lighthouse":"Lighthouse Vehicle Extract",
+                "rezervbase":"Train Station",
+                "shoreline":"Railway Bridge",
+                "laboratory":"Parking Gate"
+            }
+        },
+
+        "Interchange.Emercom--Streets.ExpoCP":{
+
+            "access_via":{
+                "interchange": ["SE Exfil"],
+                "tarkovstreets": ["E7"]
+            },
+
+            "can_infil_to":{
+                "interchange": "Emercom",
+                "tarkovstreets": "Expo Checkpoint"
+            }
+        },
+
+
+        "Interchange.Saferoom":{
+
+            "access_via":{
+                "interchange": ["Saferoom Exfil"]
+            },
+
+            "can_infil_to":{
+                "interchange": "Safe Room"
+            }
+        },
+
+        "Shoreline.NorthFencePassage-1w>-Reserve.HoleInWall":{
+
+            "access_via":{
+                "shoreline": ["South Fence Passage"]
+            },
+
+            "can_infil_to":{
+                "rezervbase": "Hole In Wall"
+            }
+        },
+
+
+        "Lighthouse.Grotto--Shoreline.PierBoat":{
+
+            "access_via":{
+                "lighthouse": ["Scav_Hideout_at_the_grotto"],
+                "shoreline": ["Pier Boat"]
+            },
+
+            "can_infil_to":{
+                "lighthouse": "Grotto",
+                "shoreline": "Pier Boat"
+            }
+        },
+
+        "Shoreline.Tunnel--Lighthouse.SouthernRoad":{
+
+            "access_via":{
+                "lighthouse": ["tunnel_shared"],
+                "shoreline": ["Tunnel"]
+            },
+
+            "can_infil_to":{
+                "lighthouse": "Lighthouse Tunnel",
+                "shoreline": "Shoreline Tunnel"
+            }
+        },
+
+        "Shoreline.PathToLighthouse--Lighthouse.PathToShoreline":{
+
+            "access_via":{
+                "lighthouse": ["Shorl_free"],
+                "shoreline": ["Lighthouse_pass"]
+            },
+
+            "can_infil_to":{
+                "lighthouse": "Path to Shoreline",
+                "shoreline": "Path to Lighthouse"
+            }
+        },
+
+
+        "Lighthouse.Car--Streets.StreetsVehicleExtract":{
+
+            "access_via":{
+                "Lighthouse": ["V-ex_light"]
+            },
+
+            "can_infil_to":{
+                "lighthouse":"Lighthouse Vehicle Extract",
+                "factory4_day":"Gate 0",
+                "factory4_night":"Gate 0",
+                "bigmap":"Dorms Car",
+                "tarkovstreets":"Streets Vehicle Extract",
+                "rezervbase": "Train Station",
+                "interchange":"Interchange Vehicle Extract"
+            }
+        },
+
+        "Streets.StreetsVehicleExtract--Lighthouse.Car":{
+
+            "access_via":{
+                "tarkovstreets": ["E7_car"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets":"Streets Vehicle Extract",
+                "lighthouse":"Southern Road",
+                "shoreline":"Road to Customs",
+                "woods":"Woods Vehicle Extract",
+                "bigmap":"Dorms Car",
+                "factory4_day":"Gate 0",
+                "factory4_night":"Gate 0"
+            }
+        },
+
+        "Lighthouse.SouthernRoad-alt>-Shoreline.Tunnel":{
+
+            "access_via":{
+                "lighthouse": ["Coastal_South_Road"]
+            },
+
+            "can_infil_to":{
+                "lighthouse": "Southern Road",
+                "shoreline": "Shoreline Tunnel"
+            }
+        },
+
+        "Lighthouse.MountainPass-alt>-Shoreline.PathToLighthouse":{
+
+            "access_via":{
+                "lighthouse": ["Alpinist_light"]
+            },
+
+            "can_infil_to":{
+                "lighthouse": "Mountain Pass",
+                "shoreline": "Path to Lighthouse"
+            }
+        },
+
+        "Streets.SewerRiver--Lab.SewageConduit":{
+
+            "access_via":{
+                "tarkovstreets": ["E2"],
+                "laboratory": ["lab_Under_Storage_Collector"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets": "Sewer River",
+                "laboratory": "Lab Sewage Conduit"
+            }
+        },
+
+        "Streets.BasementDescent--Lab.MainElevator":{
+
+            "access_via":{
+                "tarkovstreets": ["scav_e1"],
+                "laboratory": ["lab_Elevator_Main"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets": "Basement Descent",
+                "laboratory": "Main Elevator"
+            }
+        },
+
+        "Streets.Catacombs--Lab.ParkingGate":{
+
+            "access_via":{
+                "tarkovstreets": ["scav_e2"],
+                "laboratory": ["lab_Parking_Gate"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets": "Catacombs",
+                "laboratory": "Parking Gate"
+            }
+        },
+
+        "Streets.VentilationShaft--Lab.VentilationShaft":{
+
+            "access_via":{
+                "tarkovstreets": ["scav_e3"],
+                "laboratory": ["lab_Vent"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets": "Streets Vents",
+                "laboratory": "Lab Vents"
+            }
+        },
+
+        "Streets.RuinedHouse":{
+
+
+            "access_via":{
+                "tarkovstreets": ["E3"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets": "Streets Ruined House"
+            }
+        },
+        "Streets.yard":{
+            "access_via":{
+                "tarkovstreets": ["E8_yard"]
+            },
+
+            "can_infil_to":{
+                "tarkovstreets": "Courtyard"
+            }
+        },
+
+        "Lab.HangarGate-alt>-Streets.Catacombs":{
+
+            "access_via":{
+                "laboratory": ["lab_Hangar_Gate"]
+            },
+
+            "can_infil_to":{
+                "laboratory": "Hangar Gate",
+                "tarkovstreets": "Catacombs"
+            }
+        },
+
+        "Lab.MedElevator-alt>-Streets.BasementDescent":{
+
+            "access_via":{
+                "laboratory": ["lab_Elevator_Med"]
+            },
+
+            "can_infil_to":{
+                "laboratory": "Med Block Elevator",
+                "tarkovstreets": "Basement Descent"
+            }
+        },
+
+        "Lab.CargoElevator-alt>-Streets.BasementDescent":{
+
+            "access_via":{
+                "laboratory": ["lab_Elevator_Cargo"]
+            },
+
+            "can_infil_to":{
+                "laboratory": "Cargo Elevator",
+                "tarkovstreets": "Basement Descent"
+            }
+        }
+    }
+}
