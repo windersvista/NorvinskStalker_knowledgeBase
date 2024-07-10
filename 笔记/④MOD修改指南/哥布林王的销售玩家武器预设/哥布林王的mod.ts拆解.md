@@ -6,67 +6,40 @@
 
 ## 总结
 
-**==先说结论，这个文件里的代码大概可以归结为一条编写代码的逻辑链条：==**
-**==创建商人——>注册商人——>将商人相关的所有信息注入到游戏——>定义单个物品的属性、定义以物易物物品的属性、定义一组物品的属性 ——>将已定义属性的物品加入售卖列表——>将这个售卖列表添加给商人。**==
+**先说结论，这个文件里的代码大概可以归结为一条编写代码的逻辑链条：**
+**创建商人——>注册商人——>将商人相关的所有信息注入到游戏——>定义单个物品的属性、定义以物易物物品的属性、定义一组物品的属性 ——>将已定义属性的物品加入售卖列表——>将这个售卖列表添加给商人。**
 
 ---
 ### 导入模块
 
 ```
 /* eslint-disable @typescript-eslint/naming-convention */
-
 import { PreAkiModLoader } from "@spt-aki/loaders/PreAkiModLoader";
-
 import { Item } from "@spt-aki/models/eft/common/tables/IItem";
-
 import { IBarterScheme, ITraderAssort, ITraderBase } from "@spt-aki/models/eft/common/tables/ITrader";
-
 import { QuestController } from "../controllers/QuestController";
-
 import { ConfigTypes } from "@spt-aki/models/enums/ConfigTypes";
-
 import { Money } from "@spt-aki/models/enums/Money";
-
 import { QuestRewardType } from "@spt-aki/models/enums/QuestRewardType";
-
 import { JsonUtil } from "@spt-aki/utils/JsonUtil";
-
 import { IPostDBLoadMod } from "@spt-aki/models/external/IPostDBLoadMod";
-
 import { IPreAkiLoadMod } from "@spt-aki/models/external/IPreAkiLoadMod";
-
 import { IRagfairConfig } from "@spt-aki/models/spt/config/IRagfairConfig";
-
 import { ITraderConfig, UpdateTime } from "@spt-aki/models/spt/config/ITraderConfig";
-
 import { LogTextColor } from "@spt-aki/models/spt/logging/LogTextColor";
-
 import { IDatabaseTables } from "@spt-aki/models/spt/server/IDatabaseTables";
-
 import { ILogger } from "@spt-aki/models/spt/utils/ILogger";
-
 import { ImageRouter } from "@spt-aki/routers/ImageRouter";
-
 import { ConfigServer } from "@spt-aki/servers/ConfigServer";
-
 import { DatabaseServer } from "@spt-aki/servers/DatabaseServer";
-
 import { StaticRouterModService } from "@spt-aki/services/mod/staticRouter/StaticRouterModService";
-
 import { RagfairPriceService } from "@spt-aki/services/RagfairPriceService";
-
 import { ImporterUtil } from "@spt-aki/utils/ImporterUtil";
-
 import { DependencyContainer} from "tsyringe";
-
 import { Traders } from "@spt-aki/models/enums/Traders";
 
-  
-
 import * as ConfigJson from "../config/config.json";
-
 import * as GoblinKingJson from "../db/GoblinKing.json";
-
 import * as QuestAssortJson from "../db/questassort.json";
 ```
 
@@ -83,18 +56,14 @@ import * as QuestAssortJson from "../db/questassort.json";
 
 ```
 class GoblinKing implements IPreAkiLoadMod, IPostDBLoadMod
-
 {
     modName: string;
     logger: ILogger;
     mydb: any;
-
     constructor()
-
     {
         this.modName = "GoblinKing";
     }
-  
 ```
 
 这段代码正在创建一个名为 `GoblinKing` 的类，它实现了 `IPreAkiLoadMod` 和 `IPostDBLoadMod` 接口。这个类有三个属性：`modName`、`logger` 和 `mydb`。在构造函数中，你已经将 `modName` 初始化为 “GoblinKing”。
@@ -104,19 +73,15 @@ class GoblinKing implements IPreAkiLoadMod, IPostDBLoadMod
 
 ```
 preAkiLoad(container: DependencyContainer): void
-
     {
         this.logger = container.resolve<ILogger>("WinstonLogger");
         this.logger.debug(`[${this.modName}] preAki Loading... `);
-
         this.setupTraderUpdateTime(container);
         this.registerProfileImage(container);
         this.registerStaticRouter(container);
 
         //Chomp made me add this to get messages to work. Say "thank you." In Sicilia we say, "vaffenculo," In Espania we say, "vete a la mierda."
-
         Traders[GoblinKingJson._id] = GoblinKingJson._id;
-
         this.logger.debug(`[${this.modName}] preAki Loaded`);
     }
 ```
@@ -152,7 +117,6 @@ postDBLoad(container: DependencyContainer): void
             GoblinKingJson.nickname,
             GoblinKingJson.location,
             "Originally from El Paso, Texas. Oscar Vasquez ended up in Tarkov during a supply drop off during the Contract Wars when his chopper was shot down by anti air missles. Unable to get home Oscar decided to take advantage of the crisis in the region setting up a network of medical supplies and storage. Don't be fooled by his cheery candor. Oscar isn't particular with how he gains product and will use any means necessary. Many question his true motive and goal in Norvinsk and his prices aren't exactly fair. This reputation and being only five foot five, earned him the nickname 'Goblin'"
-
         );
         this.addTraderToFleaMarket(container);
         this.addItemsToDb(container);
@@ -161,7 +125,6 @@ postDBLoad(container: DependencyContainer): void
         this.addBuffsToDb(container);
         this.logger.debug(`[${this.modName}] postDB Loaded`);
         this.logger.log(`[${this.modName}] Goblin King Active`, LogTextColor.GREEN);
-
         this.logger.log(`[${this.modName}] Spreading marigolds and painting sugar skulls for the ofrenda.`, LogTextColor.GREEN);
         this.logger.log(`[${this.modName}] Passing the blizzy to Hephaestus.`, LogTextColor.GREEN);
         this.logger.log(`[${this.modName}] Please report bugs in the mod's comments or support thread.`, LogTextColor.GREEN);
@@ -247,16 +210,10 @@ private registerProfileImage(container: DependencyContainer): void
 
 ```
 private registerStaticRouter(container: DependencyContainer): void
-
     {
-
         const staticRouterModService: StaticRouterModService = container.resolve<StaticRouterModService>("StaticRouterModService");
-
-  
         staticRouterModService.registerStaticRouter(
-
             "GoblinKingUpdateLogin",
-
             [
                 {
                     url: "/launcher/profile/login",
@@ -269,18 +226,14 @@ private registerStaticRouter(container: DependencyContainer): void
                     }
                 }
             ],
-
             "aki"
         );
-
         staticRouterModService.registerStaticRouter(
             "GoblinKingUpdate",
             [
                 {
                     url: "/client/game/profile/items/moving",
-
                     action: (url: string, info: any, sessionId: string, output: string) =>
-
                     {
                         if (info.data[0].Action != "Examine")
                         {
@@ -305,7 +258,6 @@ private registerStaticRouter(container: DependencyContainer): void
 1. `GoblinKingUpdateLogin`：当 URL 为 `/launcher/profile/login` 时，会执行对应的动作函数。这个函数会从容器中获取 `DatabaseServer`，然后获取数据库表 `databaseTables`。然后，它会更新 `GoblinKingJson._id` 对应的交易者的商品排序表 `assort`。最后，函数返回 `output`。
     
 2. `GoblinKingUpdate`：当 URL 为 `/client/game/profile/items/moving` 时，会执行对应的动作函数。这个函数首先检查 `info.data[0].Action` 是否不等于 `"Examine"`。如果不等于，那么它会执行类似 `GoblinKingUpdateLogin` 的操作：从容器中获取 `DatabaseServer`，获取数据库表 `databaseTables`，更新 `GoblinKingJson._id` 对应的交易者的商品排序表 `assort`。最后，函数返回 `output`。
-    
 
 这样，每当有一个请求到达这些注册的 URL 时，就会执行相应的动作函数，从而实现特定的功能。这是一种常见的路由注册和处理模式，用于处理不同的网络请求。在这个特定的情况下，它被用于更新游戏中的交易者的商品排序表。
 
@@ -322,14 +274,11 @@ private addSingleItemToAssortWithBarterScheme(assortTable: ITraderAssort, itemTp
             _tpl: itemTpl,
             parentId: "hideout",
             slotId: "hideout",
-
             upd: {
-
                 UnlimitedCount: unlimitedCount,
                 StackObjectsCount: stackCount
             }
         };
-
         assortTable.items.push(newItem);
         assortTable.barter_scheme[itemTpl] = barterSchemes;
 
@@ -359,7 +308,7 @@ private addSingleItemToAssortWithBarterScheme(assortTable: ITraderAssort, itemTp
 
 最后，如果提供了 `loyaltyLevel` 参数，那么将其添加到 `assortTable.loyal_level_items` 对象中，键也为商品的模板 ID `itemTpl`。
 
-这样，就完成了向交易者的商品排序表中添加单个商品，并设置其交易方案的操作。希望这个解释对你有所帮助！
+这样，就完成了向交易者的商品排序表中添加单个商品，并设置其交易方案的操作。
 
 ---
 ### 向商人的售卖列表添加单个商品
@@ -451,16 +400,11 @@ private addCollectionToAssort(assortTable: ITraderAssort, items: Item[], unlimit
 
 ```
 private getPresets(container: DependencyContainer, assortTable, currency, profiles) {
-
         const jsonUtil = container.resolve<JsonUtil>("JsonUtil");
         const RagfairPriceService = container.resolve<RagfairPriceService>("RagfairPriceService");
-
         let pool = [];
-
         for (let p in (profiles || [])) {
-
             for (let wbk in profiles[p].userbuilds.weaponBuilds) {
-
                 let wb = profiles[p].userbuilds.weaponBuilds[wbk];
                 let preItems = wb.items;
                 let id = preItems[0]._id;
@@ -468,10 +412,8 @@ private getPresets(container: DependencyContainer, assortTable, currency, profil
                 if (pool.includes(id)) {
                     continue;
                 }
-
                 pool.push(id)
                 preItems[0] = {
-
                     "_id": id,
                     "_tpl": tpl,
                     "parentId": "hideout",
@@ -483,7 +425,6 @@ private getPresets(container: DependencyContainer, assortTable, currency, profil
                     },
                     "preWeapon": true
                 };
-
                 let preItemsObj = jsonUtil.clone(preItems);
                 for (let preItemObj of preItemsObj) {
                     assortTable.items.push(preItemObj);
@@ -495,12 +436,9 @@ private getPresets(container: DependencyContainer, assortTable, currency, profil
                 }
                 let price = (config || {}).cost || 7500;
                 try {
-
                     price = RagfairPriceService.getDynamicOfferPriceForOffer(preItems,currency);
-
                 } catch (error) {
                 }
-
                 let offerRequire = [
                     {
                         "count": price,
@@ -652,6 +590,7 @@ const singleItemBarterSchemes: SingleItemBarterScheme[] = [
 
 总的来说，这个函数的主要功能是根据给定的参数和预设的商品信息，创建一个交易商的商品表。这个商品表可以用于在游戏中展示交易商的商品供玩家购买。
 
+---
 ### 创建商人数据库
 
 ```
@@ -691,7 +630,6 @@ private add556SludgeToGuns(container: DependencyContainer): void
             "63171672192e68c5460cebc5", // augA3
             "5c488a752e221602b412af63", // dtmdr
             ……
-
         ];
         for (const weapon of weapons)
         {
@@ -834,37 +772,19 @@ private addTraderToDb(container: DependencyContainer): void
 
 ```
 private lockTraderBehindCollector(container: DependencyContainer)
-
     {
-
         const databaseServer: DatabaseServer = container.resolve<DatabaseServer>("DatabaseServer");
-
         const databaseTables: IDatabaseTables = databaseServer.getTables();
-
-  
-
         const questCollector: QuestController = databaseTables.templates.quests["5c51aac186f77432ea65c552"];
-
         questCollector.rewards.Success.push({
-
             _id: "",
-
             _tpl: "",
-
             id: `${GoblinKingJson._id}_UNLOCK`,
-
             type: QuestRewardType.TRADER_UNLOCK,
-
             index: 2,
-
             target: GoblinKingJson._id
-
         });
-
-  
-
         this.logger.log(`[${this.modName}] Goblin will be unlocked after 'Collector'`, LogTextColor.BLUE);
-
     }
 ```
 
@@ -890,7 +810,6 @@ private addTraderToLocales(container: DependencyContainer, fullName: string, fir
         const databaseServer: DatabaseServer = container.resolve<DatabaseServer>("DatabaseServer");
         const databaseTables: IDatabaseTables = databaseServer.getTables();
         const locales: Record<string, Record<string, string>> = databaseTables.locales.global;
-
         for (const locale in locales)
         {
             locales[locale][`${GoblinKingJson._id} FullName`] = fullName;
