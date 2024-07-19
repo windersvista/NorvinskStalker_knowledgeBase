@@ -14,14 +14,18 @@
 | ----------- | ----- |
 
 #### 海关：
-	     Crossroads -  十字路口 (去海岸线, 通往海关的路)
-	     Smuggler's Boat -  
-	     ZB-1012 -  
-		ZB-1011 -  海关城镇—科蓝尼治
-	       Trailer Park -  
-         Old Gas Station -  
-         Dorms V-Ex -  宿舍黑车 (去街区, 塔科夫街区西部院子)
-	       EXFIL_ZB013 -  13号仓库 (雪人据点)
+
+| Crossroads      | 十字路口 (去海岸线, 通往海关的路)   |
+| --------------- | --------------------- |
+| Smuggler's Boat | 走私者的船                 |
+| ZB-1012         |                       |
+| ZB-1011         | 海关城镇—科蓝尼治             |
+| Trailer Park    |                       |
+| Old Gas Station |                       |
+| Dorms V-Ex      | 宿舍黑车 (去街区, 塔科夫街区西部院子) |
+| EXFIL_ZB013     | 13号仓库 (雪人据点)          |
+
+	        -  
          Shack -  军事基地检查站 (美商家)
          Beyond Fuel Tank -  
          Railroad To Military Base -  军事基地铁路 (去储备站, 装甲列车站)
