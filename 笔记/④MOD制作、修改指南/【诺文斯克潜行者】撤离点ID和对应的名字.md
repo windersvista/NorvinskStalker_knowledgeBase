@@ -24,6 +24,8 @@
 | Old Gas Station |                       |
 | Dorms V-Ex      | 宿舍黑车 (去街区, 塔科夫街区西部院子) |
 | EXFIL_ZB013     | 13号仓库 (雪人据点)          |
+| Shack           | 军事基地检查站               |
+|                 |                       |
 
 	        -  
          Shack -  军事基地检查站 (美商家)
