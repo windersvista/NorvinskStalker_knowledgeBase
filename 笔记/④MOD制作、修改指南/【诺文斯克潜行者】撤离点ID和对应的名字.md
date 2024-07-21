@@ -13,55 +13,55 @@
 | EXFIL_Train | 火车撤离点 |
 | ----------- | ----- |
 
-#### 海关：
+#### 海关：bigmap
 
-| Crossroads      | 十字路口 (去海岸线, 通往海关的路)   |
-| --------------- | --------------------- |
-| Smuggler's Boat | 走私者的船                 |
-| ZB-1012         |                       |
-| ZB-1011         | 海关城镇—科蓝尼治             |
-| Trailer Park    |                       |
-| Old Gas Station |                       |
-| Dorms V-Ex      | 宿舍黑车 (去街区, 塔科夫街区西部院子) |
-| EXFIL_ZB013     | 13号仓库 (雪人据点)          |
-| Shack           | 军事基地检查站               |
-|                 |                       |
+| Crossroads                 | 十字路口 (去海岸线, 通往海关的路)   |
+| -------------------------- | --------------------- |
+| Smuggler's Boat            | 走私者的船                 |
+| ZB-1012                    |                       |
+| ZB-1011                    | 海关城镇—科蓝尼治             |
+| Trailer Park               |                       |
+| Old Gas Station            |                       |
+| Dorms V-Ex                 | 宿舍黑车 (去街区, 塔科夫街区西部院子) |
+| EXFIL_ZB013                | 13号仓库 (雪人据点)          |
+| Shack                      | 军事基地检查站               |
+| Beyond Fuel Tank           |                       |
+| Railroad To Military Base  | 军事基地铁路 (去储备站, 装甲列车站)  |
+| Old Road Gate              |                       |
+| Sniper Roadblock           |                       |
+| Trailer Park Workers Shack |                       |
+| Railroad To Port           | 通往码头的铁路               |
+| Railroad To Tarkov         | 通往塔科夫的铁路              |
+| RUAF Roadblock_scav        |                       |
+| Warehouse 17               | 17号仓库                 |
+| Factory Shacks             |                       |
+| Warehouse 4                |                       |
+| Old Azs Gate               | 老加油站                  |
+| Factory Far Corner         | 工厂远角                  |
+| Administration Gate        |                       |
+| Military Checkpoint        | SCAV检查站 (去森林, UN路障)   |
 
-	        -  
-         Shack -  军事基地检查站 (美商家)
-         Beyond Fuel Tank -  
-         Railroad To Military Base -  军事基地铁路 (去储备站, 装甲列车站)
-         Old Road Gate -  
-         Sniper Roadblock -  
-         Trailer Park Workers Shack -  
-         Railroad To Port -   通往码头的铁路 (去海岸线, 铁路桥)
-         Railroad To Tarkov -   通往塔科夫的铁路 (去立交桥, 铁路撤离点)
-         RUAF Roadblock_scav -  
-         Warehouse 17 -   17号仓库 (商人Skier藏身处)
-         Factory Shacks -  
-         Warehouse 4 -  
-         Old Azs Gate -   老加油站 (去工厂, 0号门)
-         Factory Far Corner -  工厂远角 (去工厂, 三号门)
-         Administration Gate -  
-         Military Checkpoint -  SCAV检查站 (去森林, UN路障)
-        
-#### 工厂：
-         Cellars -  地窖(联通仓库的中转站)
-         Gate 3 -   三号门 (去海关, 工厂远角)
-         Gate 0 -   0号门 (去海关, 老加油站)
-         Gate m -   医疗帐篷逃生点 (去森林, 工厂后门)
-         Camera Bunker Door -   监控地堡大门 (机械师据点)
-         Office Window -   三楼办公室窗口 (去储备站, 重机枪碉堡)
+#### 工厂：分日夜：factory4_day和factory4_night
 
-#### 立交桥：
-         NW Exfil -   铁路撤离点 (去海关, 通往塔科夫的铁路)
-         SE Exfil -   Emercom应急检查站 (去塔科夫街区, 北部立交桥地下通道)
-         PP Exfil -   发电站黑车 (30万去其他地图，可拜访所有商人及跳蚤藏身处)
-         Saferoom Exfil -  无主安全屋
-         Hole Exfill -  围栏破洞
-         Interchange Cooperation -  立交桥城镇—布艺城
+| Cellars            | 地窖                  |
+| ------------------ | ------------------- |
+| Gate 3             | 三号门 (去海关, 工厂远角)     |
+| Gate 0             | 0号门 (去海关, 老加油站)     |
+| Gate m             | 医疗帐篷逃生点 (去森林, 工厂后门) |
+| Camera Bunker Door | 监控地堡大门 (机械师据点)      |
+| Office Window      | 三楼办公室窗口             |
 
-#### 实验室：
+#### 立交桥：interchange
+
+| NW Exfil                | 铁路撤离点 (去海关, 通往塔科夫的铁路) |
+| ----------------------- | --------------------- |
+| SE Exfil                | Emercom应急检查站          |
+| PP Exfil                | 发电站黑车                 |
+| Saferoom Exfil          | 无主安全屋                 |
+| Hole Exfill             | 围栏破洞                  |
+| Interchange Cooperation | 立交桥城镇—布艺城             |
+
+#### 实验室：laboratory
 	     lab_Parking_Gate -  停车门（通往街道、地下墓穴）
          lab_Hangar_Gate -  机库大门（通往街道、地下墓穴）
          lab_Elevator_med -  医疗区电梯（通往街道、地下室）
@@ -70,7 +70,7 @@
          lab_Vent -  通风口（通往街道，通风口）
          lab_Elevator_Cargo -  货梯（通往街道、地下室）
 
-#### 灯塔：
+#### 灯塔：lighthouse
          Alpinist_light -  山间小路 (去海岸线, 通往灯塔的路)
          Tunnel_Shared -  隧道撤离点 (城镇—“洞窟”，通往海岸线)
          Nothern_Checkpoint -  北部检查点 (前往森林, 郊区)
@@ -83,7 +83,7 @@
          Scav_Hideout_at_the_grotto -  洞穴SCAV藏身处 (去海岸线, 检查站的船)
          Scav_Industrial_zone -  工业区大门
 
-#### 储备站：
+#### 储备站：rezervbase
          Alpinist -   气象站悬崖 (去海岸线, 北部悬崖)
          EXFIL_ScavCooperation -  
          EXFIL_Bunker -   地堡密闭门-需拉闸 (去海岸线, 临时指挥所)
@@ -94,7 +94,7 @@
          Exit3 -   地下仓库密闭门 (美商据点)
          Exit4 -  检查点围墙 (去塔科夫街区, 坠机点)
 
-#### 海岸线：
+#### 海岸线：shoreline
          Tunnel -  隧道 (城镇—“洞窟”，通往灯塔)
          Rock Passage -  
          Pier Boat -  灯塔的船 (通往灯塔, 洞穴SCAV藏身处)
@@ -111,7 +111,7 @@
          RWing Gym Entrance -  
          Adm Basement -  疗养院行政楼地下室
 
-#### 街区：
+#### 街区：tarkovstreets
           E1 -  
            E2 -  污水河（到实验室、污水管道）
          E3 -  破败的房子
@@ -128,7 +128,7 @@
          scav_e3 -  通风管道（到实验室，通风管道）
          scav_e4 -  下水道（到储备站，下水道）
 
-#### 森林：
+#### 森林：woods
          ZB-016 -  森林城镇—安德伍德
          Outskirts -  郊区 (前往灯塔, 北部检查站)
          UN Roadblock -  UN路障 (去海关, SCAV检查站)
@@ -146,7 +146,7 @@
          West Border -  
          Old Station -  
 
-#### 中心区：
+#### 中心区：sandbox
          Unity_free_exit -  Emercom检查站 
          Sandbox_VExit -  黑车 
          Nakatani_stairs_free_exit -  Nakatani地下室 
