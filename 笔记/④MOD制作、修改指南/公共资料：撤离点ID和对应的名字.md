@@ -21,8 +21,8 @@
 | Crossroads                 | 十字路口 (去海岸线, 通往海关的路)   |
 | Smuggler's Boat            | 走私者的船                 |
 | ZB-1012                    |                       |
-| ZB-1011                    | 海关城镇—科蓝尼治             |
-| Trailer Park               |                       |
+| ZB-1011                    |                       |
+| Trailer Park               | 海关城镇—科蓝尼治             |
 | Old Gas Station            |                       |
 | Dorms V-Ex                 | 宿舍黑车 (去街区, 塔科夫街区西部院子) |
 | EXFIL_ZB013                | 13号仓库 (雪人据点)          |
@@ -94,17 +94,17 @@
 
 #### 储备站：rezervbase
 
-| 撤离点ID                 | 撤离点名称（已确定的）    |
-| --------------------- | -------------- |
-| Alpinist              | 气象站悬崖          |
-| EXFIL_ScavCooperation |                |
-| EXFIL_Bunker          | 地堡密闭门-需拉闸      |
-| EXFIL_BUNKER_D2       | D-2地下室密门-需拉闸供电 |
-| EXFIL_vent            | 下水道检修孔         |
-| Exit3                 | 地下仓库密闭门        |
-| Exit2                 | 热水管            |
-| Exit1                 |                |
-| Exit4                 | 检查点围墙          |
+|       撤离点ID        | 撤离点名称（已确定的）   |
+|:---------------------:| ------------------------ |
+|       Alpinist        | 气象站悬崖               |
+| EXFIL_ScavCooperation |                          |
+|     EXFIL_Bunker      | 地堡密闭门-需拉闸        |
+|    EXFIL_BUNKER_D2    | D-2地下室密门-需拉闸供电 |
+|      EXFIL_vent       | 下水道检修孔             |
+|         Exit3         | 地下仓库密闭门           |
+|         Exit2         | 热水管                   |
+|         Exit1         |                          |
+|         Exit4         | 检查点围墙               |
 
 #### 海岸线：shoreline（暂未完全更新扩展后的撤离点
 
