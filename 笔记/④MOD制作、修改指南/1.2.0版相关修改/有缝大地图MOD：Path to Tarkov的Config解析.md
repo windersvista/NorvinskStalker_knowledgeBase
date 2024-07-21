@@ -1,9 +1,13 @@
 
 > [!NOTE] 好奇猫注：
 > 以下内容是我个人的对MOD功能的个人理解，如有错误，请及时反馈。
-> 整套设置最重要的部分是《第六部分：入局点》的设置，要对默认路线进行大修，先改第6部分，再改第5部分，再依次改其他部分。
+> 
+> ==**整套设置最重要的部分是《第六部分：入局点》的设置，要对默认路线进行大修，先改第6部分，再改第5部分，再依次改其他部分。**==
+> 
+> 另外以下用于解析的代码是mod的默认代码，**并非我修改路径后的**。
 ---
 
+---
 ##### 第一部分：基础设置
 ```
 "enabled": true, //MOD的总开关
@@ -155,7 +159,7 @@
 ```
 "exfiltrations": {//撤离点设置
     "factory4_day": {//这里是白天工厂撤离点的设置
-      "Gate 3": "FactoryZB-1013",//这句代码意思是：从撤离点"Gate 3"撤离后将到ID为"FactoryZB-1013"的入局点中，入局点可以去往哪里，将由第六部分进行设置。
+      "Gate 3": "FactoryZB-1013",//这句代码意思是：从撤离点"Gate 3"撤离后将到ID为"FactoryZB-1013"的入局点，入局点将决定该撤离点最终可以去哪些地图，从哪些地图的哪些出生点出生，将由第六部分进行设置。
       "Gate m": "FactoryZB-1012",
       "Cellars": "FactoryZB-1011",
       "Camera Bunker Door": "FactoryZB-1011",
@@ -187,80 +191,24 @@
       "Administration Gate": "WoodsMilitaryPath",
       "Factory Far Corner": "ScavWindow"
     },
-    "woods": {
-      "un-sec": "WoodsCustoms",
-      "Factory Gate": "WoodsFactoryGate",
-      "ZB-014": "FactoryZB-1013",
-      "Outskirts": "WoodsReserveShoreline",
-      "The Boat": "Boat",
-      "South V-Ex": "Car",
-      "RUAF Gate": "WoodsMilitaryPath"
-    },
-    "rezervbase": {
-      "EXFIL_ScavCooperation": "CustomsMilitaryBaseCP",
-      "EXFIL_Train": "MilitaryBaseRail",
-      "Exit1": "WoodsReserveShoreline",
-      "Exit2": "WoodsReserveShoreline",
-      "Exit3": "WoodsReserveShoreline",
-      "Exit4": "WoodsReserveShoreline",
-      "Alpinist": "ShorelineNorthMoutains",
-      "EXFIL_Bunker_D2": "SafeRoom",
-      "EXFIL_vent": "ManHoleToReserve"
-    },
-    "interchange": {
-      "PP Exfil": "Car",
-      "Hole Exfill": "InterchangeCustoms",
-      "Saferoom Exfil": "SafeRoom",
-      "NW Exfil": "CustomsTarkovRail",
-      "SE Exfil": "StreetsEvac"
-    },
-    "shoreline": {
-      "exit_scav_NORTH_fencepassage": "ShorelineNorthMoutains",
-      "Road to Customs": "ShorelineCustoms",
-      "Pier Boat": "Boat",
-      "Tunnel": "ShorelineLighthouseTunnel",
-      "Lighthouse_pass": "ShorelineLighthousePath"
-    },
-    "lighthouse": {
-      " V-Ex_light": "Car",
-      "Shorl_free": "ShorelineLighthousePath",
-      "tunnel_shared": "ShorelineLighthouseTunnel"
-    },
-    "tarkovstreets": {
-      "E1": "UnderpasstoLabs",
-      "E4": "StreetsEvac",
-      "E7_car": "Car",
-      "E9_sniper": "SniperPath",
-      "scav_e1": "EmercomToKlimov",
-      "scav_e2": "CatacombsHangar",
-      "scav_e4": "ManHoleToReserve"
-    },
-    "laboratory": {
-      "lab_Parking_Gate": "UnderpasstoLabs",
-      "lab_Hangar_Gate": "CatacombsHangar",
-      "lab_Elevator_Med": "Car",
-      "lab_Under_Storage_Collector": "Car",
-      "lab_Elevator_Main": "Car",
-      "lab_Elevator_Cargo": "Car"
-    },
-    "sandbox": {
-      "Unity_free_exit": "EmercomToKlimov",
-      "Sandbox_VExit": "Car",
-      "Nakatani_stairs_free_exit": "PlayerHideout",
-      "Sniper_exit": "SniperPath",
-      "Scav_coop_exit": "TherapistHideout"
-    }
+    内容过多，略……
   },
 ```
 
 ##### 第六部分：“入局点”设置
+> [!NOTE] 入局点说明
+> ==**入局点：将决定该撤离点最终可以去哪些地图，从哪些地图的哪些出生点出生**==
+> **最重要部分：入局点设置**可以设置和修改出自己想要的路径，这里需要同时用到两个文件：
+> - [公共资料：撤离点ID和对应的名字](../公共资料：撤离点ID和对应的名字.md)
+> - 跟PTT相同目录下的player_spawnpoints.json，==它定义了玩家在各地图的的出生点==。按照Traveler的经验，可以往里新增出生点，但所需的坐标系需另外说明。
+
 ```
-"infiltrations": {
-    "ShorelineLighthousePath": {
-      "shoreline": ["Path to Lighthouse"],
-      "lighthouse": ["Path to Shoreline"],
-      "rezervbase": ["CP Fence"]
-    },
+"infiltrations": {//**最重要部分：入局点设置**
+    "ShorelineLighthousePath": {//入局点的ID，可以自定义，**但建议ID起名能清晰明了地看出该入局点是连接哪些地图的出生点的**。
+      "shoreline": ["Path to Lighthouse"],//这段代码的意思是从这个入局点出发去"shoreline"即海岸线，将从海岸线的"Path to Lighthouse"即通往灯塔的道路出生。
+      "lighthouse": ["Path to Shoreline"],//这段代码的意思是从这个入局点出发去"lighthouse"灯塔，将从灯塔的"Path to Shoreline"即通往海岸线的道路出生。
+      "rezervbase": ["CP Fence"]//这段代码的意思是从这个入局点出发去"rezervbase"储备站，将从储备站的"CP Fence"即检查点围栏出生。好奇猫注：这个路径设置很扯，从实际地图上看，储备站应该从黑车的道路去。
+    },//
     "ShorelineLighthouseTunnel": {
       "shoreline": ["Tunnel"],
       "lighthouse": ["Lighthouse tunnel"]
@@ -281,105 +229,9 @@
       "bigmap": ["MallTrain"],
       "interchange": ["Railway"]
     },
-    "WoodsCustoms": {
-      "woods": ["UN Roadblock"],
-      "bigmap": ["RUAF Roadblock"]
-    },
-    "Boat": {
-      "bigmap": ["Smuggler's Boat"],
-      "woods": ["The Boat"],
-      "shoreline": ["Pier Boat"],
-      "lighthouse": ["Lighthouse Docks Boat"]
-    },
-    "ShorelineCustoms": {
-      "bigmap": ["Sniper Roadblock"],
-      "shoreline": ["Road to Customs"]
-    },
-    "Car": {
-      "bigmap": ["Dorms Car"],
-      "interchange": ["Car at Power Station"],
-      "woods": ["Bridge Car"],
-      "lighthouse": ["Lighthouse Vehicle Extract"],
-      "tarkovstreets": ["Primorsky Vehicle Extract"],
-      "sandbox": ["hideout_gz"]
-    },
-    "CustomsMilitaryBaseCP": {
-      "bigmap": ["Military Base CP"],
-      "rezervbase": ["Scav lands"]
-    },
-    "PilgrimTrail": {
-      "bigmap": ["PraveenGasoline"],
-      "tarkovstreets": ["Crane"]
-    },
-    "MilitaryBaseRail": {
-      "bigmap": ["Railroad To Military Base"],
-      "rezervbase": ["Train Station"]
-    },
-    "FactoryZB-1013": {
-      "bigmap": ["ZB-1013"],
-      "woods": ["ZB-1014"],
-      "factory4_day": ["Gate 3"],
-      "factory4_night": ["Gate 3"]
-    },
-    "FactoryZB-1012": {
-      "bigmap": ["ZB-1012"],
-      "factory4_day": ["Med tent gates"],
-      "factory4_night": ["Med tent gates"]
-    },
-    "FactoryZB-1011": {
-      "bigmap": ["ZB-1011"],
-      "factory4_day": ["Cellars"],
-      "factory4_night": ["Cellars"]
-    },
-    "ScavWindow": {
-      "bigmap": ["OfficePath"],
-      "factory4_day": ["OfficeWindow"],
-      "factory4_night": ["OfficeWindow"]
-    },
-    "WoodsFactoryGate": {
-      "woods": ["Factory Gate"],
-      "factory4_day": ["Gate 0"],
-      "factory4_night": ["Gate 0"]
-    },
-    "WoodsMilitaryPath": {
-      "woods": ["RUAFRoadblock"],
-      "bigmap": ["RUAFAdmin"]
-    },
-    "SafeRoom": {
-      "rezervbase": ["D-2"],
-      "interchange": ["Safe Room"]
-    },
-    "TherapistHideout": {
-      "sandbox": ["Crow Hideout"]
-    },
-    "PlayerHideout": {
-      "sandbox": ["hideout_gz"]
-    },
-    "EmercomToKlimov": {
-      "sandbox": ["Crow Hideout"],
-      "tarkovstreets": ["Basement Descent"]
-    },
-    "SniperPath": {
-      "sandbox": ["From Streets"],
-      "tarkovstreets": ["Klimov Street"]
-    },
-    "UnderpasstoLabs": {
-      "tarkovstreets": ["Underpass"],
-      "laboratory": ["Parking Gate"]
-    },
-    "ManHoleToReserve": {
-      "tarkovstreets": ["Streets Manhole"],
-      "rezervbase": ["Reserve Manhole"]
-    },
-    "StreetsEvac": {
-      "tarkovstreets": ["Evacuation Zone"],
-      "interchange": ["EmercomMall"],
-      "bigmap": ["Old Gas Scav"]
-    },
-    "CatacombsHangar": {
-      "tarkovstreets": ["Catacombs"],
-      "laboratory": ["Hangar Gate"]
-    }
-  }
+    内容过多，略……
   }
 ```
+
+---
+完结……

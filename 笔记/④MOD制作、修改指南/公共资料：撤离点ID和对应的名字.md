@@ -106,7 +106,7 @@
 | Exit1                 |                |
 | Exit4                 | 检查点围墙          |
 
-#### 海岸线：shoreline（暂未更新扩展后的撤离点
+#### 海岸线：shoreline（暂未完全更新扩展后的撤离点
 
 | 撤离点ID                | 撤离点名称（已确定的） |
 | -------------------- | ----------- |
@@ -125,6 +125,7 @@
 | South Fence Passage  | 北围墙通道       |
 | RWing Gym Entrance   | 东翼地下健身房     |
 | Adm Basement         | 疗养院行政楼地下室   |
+| North Fence Passage  | 黑车          |
 
 #### 街区：tarkovstreets
 
