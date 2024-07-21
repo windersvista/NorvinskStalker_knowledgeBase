@@ -150,12 +150,12 @@
 ##### 第五部分：各地图撤离点联通设置
 
 > [!NOTE] 撤离点明细
-> 这里的撤离点明细可查看[【诺文斯克潜行者】撤离点ID和对应的名字](../【诺文斯克潜行者】撤离点ID和对应的名字.md)
+> 这里的撤离点明细可查看[公共资料：撤离点ID和对应的名字](../公共资料：撤离点ID和对应的名字.md)
 
 ```
 "exfiltrations": {//撤离点设置
-    "factory4_day": {
-      "Gate 3": "FactoryZB-1013",
+    "factory4_day": {//这里是白天工厂撤离点的设置
+      "Gate 3": "FactoryZB-1013",//这句代码意思是：从撤离点"Gate 3"撤离后将到ID为"FactoryZB-1013"的入局点中，入局点可以去往哪里，将由第六部分进行设置。
       "Gate m": "FactoryZB-1012",
       "Cellars": "FactoryZB-1011",
       "Camera Bunker Door": "FactoryZB-1011",
