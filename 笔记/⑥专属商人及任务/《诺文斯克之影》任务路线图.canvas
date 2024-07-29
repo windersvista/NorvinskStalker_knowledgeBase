@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"aaf140b7390170b0","type":"group","x":-700,"y":-300,"width":880,"height":340,"label":"AI任务线"},
+		{"id":"3c3df87d8c72ae1b","type":"group","x":-700,"y":-480,"width":880,"height":120,"label":"黑商任务"},
+		{"id":"c169de6645013f97","type":"text","text":"主线6","x":-686,"y":-280,"width":140,"height":50},
+		{"id":"a0b53b0521a3248a","type":"text","text":"序章：她是谁？","x":-686,"y":-455,"width":140,"height":75},
+		{"id":"c61faf9ef2eb1128","type":"text","text":"序章：她是谁？","x":-509,"y":-455,"width":140,"height":75},
+		{"id":"b0df55ec1f97d80b","type":"text","text":"主线3","x":-332,"y":-455,"width":140,"height":75},
+		{"id":"999f9e9970b9b57e","type":"text","text":"主线4","x":-155,"y":-455,"width":140,"height":75},
+		{"id":"77f505a6195a8326","type":"text","text":"主线5","x":20,"y":-455,"width":140,"height":75}
+	],
+	"edges":[
+		{"id":"49d5fe03239f38f9","fromNode":"a0b53b0521a3248a","fromSide":"right","toNode":"c61faf9ef2eb1128","toSide":"left"},
+		{"id":"cb001403d17b6aa5","fromNode":"c61faf9ef2eb1128","fromSide":"right","toNode":"b0df55ec1f97d80b","toSide":"left"},
+		{"id":"151c718ed2af5230","fromNode":"b0df55ec1f97d80b","fromSide":"right","toNode":"999f9e9970b9b57e","toSide":"left"},
+		{"id":"b4761a1cc41a1141","fromNode":"999f9e9970b9b57e","fromSide":"right","toNode":"77f505a6195a8326","toSide":"left"}
+	]
+}

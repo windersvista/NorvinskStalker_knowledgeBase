@@ -43,7 +43,7 @@
 | Administration Gate        |                       |
 | Military Checkpoint        | SCAV检查站 (去森林, UN路障)   |
 
-#### 工厂：分日夜：factory4_day和factory4_night
+#### 工厂：分日夜：factory4_day/factory4_night
 
 | 撤离点ID              | 撤离点名称（已确定的）         |
 | ------------------ | ------------------- |
@@ -146,6 +146,9 @@
 | scav_e2       | 地下墓穴入口      |
 | scav_e3       | 通风管道        |
 | scav_e4       | 下水道         |
+| scav_e5       |             |
+| scav_e7       |             |
+| scav_e8       |             |
 
 #### 森林：woods
 
