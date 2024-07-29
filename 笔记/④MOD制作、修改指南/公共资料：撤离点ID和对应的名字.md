@@ -94,17 +94,17 @@
 
 #### 储备站：rezervbase
 
-|       撤离点ID        | 撤离点名称（已确定的）   |
-|:---------------------:| ------------------------ |
-|       Alpinist        | 气象站悬崖               |
-| EXFIL_ScavCooperation |                          |
-|     EXFIL_Bunker      | 地堡密闭门-需拉闸        |
+|         撤离点ID         | 撤离点名称（已确定的）    |
+| :-------------------: | -------------- |
+|       Alpinist        | 气象站悬崖          |
+| EXFIL_ScavCooperation |                |
+|     EXFIL_Bunker      | 地堡密闭门-需拉闸      |
 |    EXFIL_BUNKER_D2    | D-2地下室密门-需拉闸供电 |
-|      EXFIL_vent       | 下水道检修孔             |
-|         Exit3         | 地下仓库密闭门           |
-|         Exit2         | 热水管                   |
-|         Exit1         |                          |
-|         Exit4         | 检查点围墙               |
+|      EXFIL_vent       | 下水道检修孔         |
+|         Exit3         | 地下仓库密闭门        |
+|         Exit2         | 热水管            |
+|         Exit1         |                |
+|         Exit4         | 检查点围墙          |
 
 #### 海岸线：shoreline（暂未完全更新扩展后的撤离点
 
