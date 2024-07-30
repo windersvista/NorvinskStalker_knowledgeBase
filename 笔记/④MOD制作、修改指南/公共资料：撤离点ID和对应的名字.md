@@ -64,6 +64,7 @@
 | Hole Exfill             | 围栏破洞                  |
 | Interchange Cooperation | 立交桥城镇—布艺城             |
 
+
 #### 实验室：laboratory
 
 | 撤离点ID                       | 撤离点名称（已确定的） |
@@ -108,47 +109,50 @@
 
 #### 海岸线：shoreline（暂未完全更新扩展后的撤离点
 
-| 撤离点ID                | 撤离点名称（已确定的） |
-| -------------------- | ----------- |
-| Tunnel               | 隧道          |
-| Rock Passage         |             |
-| Pier Boat            | 灯塔的船        |
-| CCP Temporary        |             |
-| Road to Customs      | 通往海关的路      |
-| Lighthouse_pass      | 前往灯塔的路      |
-| ROAD_AT_RAILBRIDGE   | 铁路桥         |
-| Scav Road to Customs | SCAV通往海关的路  |
-| Lighthouse           |             |
-| Wrecked Road         |             |
-| Svetliy Dead End     |             |
-| Ruined House Fence   |             |
-| South Fence Passage  | 北围墙通道       |
-| RWing Gym Entrance   | 东翼地下健身房     |
-| Adm Basement         | 疗养院行政楼地下室   |
-| North Fence Passage  | 黑车          |
+| 撤离点ID                | 撤离点名称（已确定的）      |
+| -------------------- | ---------------- |
+| Tunnel               | 隧道               |
+| Pier Boat            | 灯塔的船             |
+| Road to Customs      | 通往海关的路           |
+| Scav Road to Customs | SCAV的通往海关的路      |
+| Lighthouse_pass      | 前往灯塔的路           |
+| Road_at_railbridge   | 铁路桥              |
+| Lighthouse           | 海边灯塔             |
+| Wrecked Road         | 被毁的道路            |
+| South Fence Passage  | 南围墙通道（老地堡？       |
+| RWing Gym Entrance   | 东翼地下健身房          |
+| Adm Basement         | 疗养院行政楼地下室        |
+| Shorl_V-Ex           | 黑车               |
+| Smugglers_Trail_coop | 走私者的通道           |
+| RedRebel_alp         | 攀岩者之路            |
+| Ruined House Fence   | 被毁的房屋围栏（014已无    |
+| Svetliy Dead End     | Svetliy死胡同（014已无 |
+| North Fence Passage  | （014已无           |
+| Rock Passage         | （014已无           |
+| CCP Temporary        | （014已无           |
 
 #### 街区：tarkovstreets
 
-| 撤离点ID         | 撤离点名称（已确定的） |
-| ------------- | ----------- |
-| E1            |             |
-| E2            | 污水河         |
-| E3            | 破败的房子       |
-| E4            | 坠机地点        |
-| E5            |             |
-| E6            |             |
-| E7            | 展览馆检查点      |
-| E7_car        | 街区黑车        |
-| E8_yard       | 街区城镇—后院     |
-| E9_sniper     | Klimov大街    |
-| Exit_E10_coop | Pinewood地下室 |
-| scav_e1       | 地下通道        |
-| scav_e2       | 地下墓穴入口      |
-| scav_e3       | 通风管道        |
-| scav_e4       | 下水道         |
-| scav_e5       |             |
-| scav_e7       |             |
-| scav_e8       |             |
+| 撤离点ID         | 撤离点名称（已确定的）          | 阵营   |
+| ------------- | -------------------- | ---- |
+| E1            | 3楼升降梯                | PMC  |
+| E2            | 污水河                  | PMC  |
+| E3            | 破败的房子                | PMC  |
+| E4            | 坠机地点                 | PMC  |
+| E5            | 倒塌的吊车                | PMC  |
+| E6            | KAMC拱门旁？地下室？         | PMC  |
+| E7            | 展览馆检查点               | PMC  |
+| E7_car        | 街区黑车                 |      |
+| E8_yard       | 街区城镇—后院              |      |
+| E9_sniper     | Klimov大街             |      |
+| Exit_E10_coop | Pinewood地下室          | COOP |
+| scav_e1       | 地下楼梯间？               |      |
+| scav_e2       | 地下墓穴入口               |      |
+| scav_e3       | 通风管道                 |      |
+| scav_e4       | 下水道                  |      |
+| scav_e5       | scav_e5是Klimov交易中心？  |      |
+| scav_e7       | scav_e7是大街拱门？        |      |
+| scav_e8       | scav_e8是Cardinal停车场？ |      |
 
 #### 森林：woods
 
