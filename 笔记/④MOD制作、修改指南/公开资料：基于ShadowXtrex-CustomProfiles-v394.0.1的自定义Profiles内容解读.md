@@ -17,6 +17,9 @@
 
 > [!NOTE] 注
 > 档案文件的主体主要分为"bear"和"usec"两个部分，其实就是定义玩家选择的两个阵营后人物该自带哪些东西。两个阵营的人物各不相同。
+> 这里有一些需要用到的资料：
+> 	藏身处设施ID：https://hub.sp-tarkov.com/doc/entry/4-resources-hideout-areas-ids/
+> 	塔科夫ID搜索器：https://db.sp-tarkov.com/search
 
 
 ```
@@ -268,10 +271,10 @@
                         "completeTime": 0,
                         "constructing": false,
                         "lastRecipe": "",
-                        "level": 1,
+                        "level": 1, //设施的初始等级
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 3//
+                        "type": 3//type3是仓库
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -280,7 +283,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 0
+                        "type": 0//通风
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -289,7 +292,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 1
+                        "type": 1//安全门
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -298,7 +301,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 2
+                        "type": 2//厕所
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -307,7 +310,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 4
+                        "type": 4//发电机
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -316,7 +319,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 5
+                        "type": 5//暖气
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -325,7 +328,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 6
+                        "type": 6//水收集器
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -334,7 +337,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 7
+                        "type": 7//医疗站
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -343,7 +346,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 8
+                        "type": 8//厨房
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -352,7 +355,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 9
+                        "type": 9//休息间
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -361,7 +364,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 10
+                        "type": 10//工作台
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -370,7 +373,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 11
+                        "type": 11//情报中心
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -379,7 +382,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 12
+                        "type": 12//靶场
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -388,7 +391,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 13
+                        "type": 13//书架
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -397,7 +400,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 14
+                        "type": 14//Scav宝箱
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -406,7 +409,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 15
+                        "type": 15//照明
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -415,7 +418,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 16
+                        "type": 16//名人堂
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -424,7 +427,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": false,
                         "slots": [],
-                        "type": 17
+                        "type": 17//空滤
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -433,7 +436,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 18
+                        "type": 18//太阳能
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -442,7 +445,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 19
+                        "type": 19//酿酒器
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -451,7 +454,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 20
+                        "type": 20//挖矿机
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -460,7 +463,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 21
+                        "type": 21//圣诞树
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -469,7 +472,7 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 22
+                        "type": 22//可破坏的墙
                     }, {
                         "active": true,
                         "completeTime": 0,
@@ -478,13 +481,13 @@
                         "level": 0,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 23
+                        "type": 23//健身房
                     }
                 ],
                 "Improvement": {},
                 "Production": {}
             },
-            "Info": {
+            "Info": {//人物基本信息，一般不改。
                 "AccountType": 0,
                 "BannedState": false,
                 "BannedUntil": 0,
@@ -514,7 +517,7 @@
                 "lockedMoveCommands": true
             },
             "InsuredItems": [],
-            "Inventory": {
+            "Inventory": {//这里设置人物出生时的身上的初始装备和物品
                 "equipment": "5fe49444ae6628187a2e77b8",
                 "fastPanel": {},
                 "hideoutAreaStashes": {},
@@ -574,7 +577,7 @@
                 "offers": [],
                 "rating": 0.2
             },
-            "Skills": {
+            "Skills": {//这里设置人物出生时的技能等级
                 "Common": [
                     {
                         "Id": "BotReload",
