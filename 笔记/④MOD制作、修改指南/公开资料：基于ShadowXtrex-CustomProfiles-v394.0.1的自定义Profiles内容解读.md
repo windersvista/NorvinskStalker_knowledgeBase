@@ -23,20 +23,20 @@
 "bear": {
         "character": {
             "TaskConditionCounters": {},
-            "Bonuses": [
+            "Bonuses": [//设定初始仓库大小
                 {
                     "id": "64f5b9e5fa34f11b380756c0",
                     "templateId": "566abbc34bdc2d92178b4576",
                     "type": "StashSize"
                 }
             ],
-            "Customization": {
+            "Customization": {//设定人物的穿着和头模
                 "Body": "5cc0858d14c02e000c6bea66",
                 "Feet": "5cc085bb14c02e000e67a5c5",
                 "Hands": "5cc0876314c02e000c6bea6b",
                 "Head": "__REPLACEME__"
             },
-            "Encyclopedia": {
+            "Encyclopedia": {//未知
                 "5448bd6b4bdc2dfc2f8b4569": false,
                 "5448be9a4bdc2dfd2f8b456a": true,
                 "5448c12b4bdc2d02308b456f": false,
@@ -202,7 +202,7 @@
                 "5e87116b81c4ed43e83cefdd": false,
                 "5f4f9eb969cdc30ff33f09db": false
             },
-            "Health": {
+            "Health": {//身体各部位的血量上限
                 "BodyParts": {
                     "Chest": {
                         "Health": {
@@ -247,21 +247,21 @@
                         }
                     }
                 },
-                "Energy": {
+                "Energy": {//能量上限
                     "Current": 100,
                     "Maximum": 100
                 },
-                "Hydration": {
+                "Hydration": {//水量上限
                     "Current": 100,
                     "Maximum": 100
                 },
-                "Temperature": {
+                "Temperature": {//体温上限
                     "Current": 36.6,
                     "Maximum": 40
                 },
                 "UpdateTime": 1608815684
             },
-            "Hideout": {
+            "Hideout": {//设定初始的藏身处设施，每个"type"对应不同的设施
                 "Areas": [
                     {
                         "active": true,
@@ -271,7 +271,7 @@
                         "level": 1,
                         "passiveBonusesEnabled": true,
                         "slots": [],
-                        "type": 3
+                        "type": 3//
                     }, {
                         "active": true,
                         "completeTime": 0,
