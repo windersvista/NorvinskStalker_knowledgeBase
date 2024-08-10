@@ -24,7 +24,7 @@ hero:
       link: https://space.bilibili.com/9883076
     - theme: alt
       text: 可以在爱发电支持我
-      link: https://afdian.net/a/samuel_szeto
+      link: https://afdian.com/a/samuel_szeto
     - theme: alt
       text: 本知识库的GitHub源码
       link: https://github.com/windersvista/NorvinskStalker_knowledgeBase

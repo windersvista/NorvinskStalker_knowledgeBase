@@ -9,7 +9,7 @@ export const include = ['教程', '指南']
 /** Repo */
 export const githubRepoLink = 'https://github.com/windersvista/NorvinskStalker_knowledgeBase'
 /** Aifadian */
-export const discordLink = 'https://afdian.net/a/samuel_szeto'
+export const discordLink = 'https://afdian.com/a/samuel_szeto'
 
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'https://norvinsk-stalker-knowledge-base.vercel.app'
