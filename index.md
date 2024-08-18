@@ -8,7 +8,7 @@ titleTemplate: 诺文斯克，你始终无法逃离的世界
 hero:
   name: g~Nj$3J2^
   text: 诺文斯克，你始终无法逃离的世界
-  tagline: 这里是离线塔科夫整合包《诺文斯克潜行者》的知识库，目前有三个板块：安装技术指南、游玩指南、MOD修改指南
+  tagline: 这里是离线塔科夫整合包《诺文斯克潜行者》的知识库，可以进Q群：881730404实时互动
   image:
     src: /logo.png
     alt: Vitest
