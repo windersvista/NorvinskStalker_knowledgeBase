@@ -18,7 +18,7 @@ hero:
       link: /笔记/index
     - theme: brand
       text: 即刻下载《诺文斯克潜行者》
-      link: /笔记/②下载安装指南/《诺文斯克潜行者》1.1.8版下载链接
+      link: /笔记/-零-整合包相关下载链接/《诺文斯克潜行者》1.1.8版下载链接
     - theme: alt
       text: B站：Samuel是不是好奇猫
       link: https://space.bilibili.com/9883076
