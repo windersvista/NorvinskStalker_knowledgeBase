@@ -2,43 +2,43 @@
 # All exfiltrations-全部撤离点
 ## Customs-海关
 
-| identifier                   | description                 | 中文      | mapgenie.io                                                       |
-| ---------------------------- | --------------------------- | ------- | ----------------------------------------------------------------- |
-| "Crossroads"                 | Crossroads                  | 十字路口    | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29969) |
-| "Smuggler's Boat"            | Smuggler's Boat             | 走私船     | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29968) |
-| "RUAF Roadblock"             | RUAF Roadblock              | RUAF 路障 | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29973) |
-| "ZB-1012"                    | ZB-1012                     |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=30117) |
-| "ZB-1011"                    | ZB-1011                     |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=30116) |
-| "Trailer Park"               | Trailer Park                | 拖车公园    | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29970) |
-| "Old Gas Station"            | Old Gas Station             | 旧加油站    | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29974) |
-| "Dorms V-Ex"                 | Dorms V-Ex                  | 宿舍 黑车   | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29982) |
-| "EXFIL_ZB013"                | ZB-013                      |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=43360) |
-| "Railroad To Tarkov"         | Railroad to Tarkov          |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29971) |
-| "Railroad To Port"           | Railroad to Port            |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29967) |
-| "Railroad To Military Base"  | Railroad to Military Base   |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29980) |
-| "Trailer Park Workers Shack" | Trailer Park Workers' Shack |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29972) |
-| "Sniper Roadblock"           | Sniper Roadblock            |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29983) |
-| "Warehouse 17"               | Warehouse 17                |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29985) |
-| "Factory Shacks"             | Factory Shacks              |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29984) |
-| "Old Road Gate"              | Old Road Gate               |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29981) |
-| "Warehouse 4"                | Warehouse 4                 |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=30162) |
-| "Old Azs Gate"               | Old Gas Station Gate        |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=59684) |
-| "Beyond Fuel Tank"           | Passage Between Rocks       |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29979) |
-| "Shack"                      | Military Base CP            |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29978) |
-| "Military Checkpoint"        | Scav Checkpoint             |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29977) |
-| "Administration Gate"        | Administration Gate         |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29976) |
-| "Factory Far Corner"         | Factory Far Corner          |         | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29975) |
+| identifier                   | description                 | 中文        | mapgenie.io                                                       |
+| ---------------------------- | --------------------------- | --------- | ----------------------------------------------------------------- |
+| "Crossroads"                 | Crossroads                  | 十字路口      | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29969) |
+| "Smuggler's Boat"            | Smuggler's Boat             | 走私船       | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29968) |
+| "RUAF Roadblock"             | RUAF Roadblock              | RUAF 路障   | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29973) |
+| "ZB-1012"                    | ZB-1012                     |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=30117) |
+| "ZB-1011"                    | ZB-1011                     |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=30116) |
+| "Trailer Park"               | Trailer Park                | 拖车公园      | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29970) |
+| "Old Gas Station"            | Old Gas Station             | 旧加油站      | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29974) |
+| "Dorms V-Ex"                 | Dorms V-Ex                  | 宿舍 黑车     | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29982) |
+| "EXFIL_ZB013"                | ZB-013                      |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=43360) |
+| "Railroad To Tarkov"         | Railroad to Tarkov          | 通往塔科夫的铁路  | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29971) |
+| "Railroad To Port"           | Railroad to Port            | 通往港口的铁路   | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29967) |
+| "Railroad To Military Base"  | Railroad to Military Base   | 通往军事基地的铁路 | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29980) |
+| "Trailer Park Workers Shack" | Trailer Park Workers' Shack | 拖车公园工人小屋  | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29972) |
+| "Sniper Roadblock"           | Sniper Roadblock            | 狙击手路障     | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29983) |
+| "Warehouse 17"               | Warehouse 17                | 第 17 号仓库  | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29985) |
+| "Factory Shacks"             | Factory Shacks              | 工厂棚屋      | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29984) |
+| "Old Road Gate"              | Old Road Gate               | 旧道闸       | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29981) |
+| "Warehouse 4"                | Warehouse 4                 | 第 4 号仓库   | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=30162) |
+| "Old Azs Gate"               | Old Gas Station Gate        |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=59684) |
+| "Beyond Fuel Tank"           | Passage Between Rocks       |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29979) |
+| "Shack"                      | Military Base CP            |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29978) |
+| "Military Checkpoint"        | Scav Checkpoint             |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29977) |
+| "Administration Gate"        | Administration Gate         |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29976) |
+| "Factory Far Corner"         | Factory Far Corner          |           | [link](https://mapgenie.io/tarkov/maps/customs?locationIds=29975) |
 
 ## Factory-工厂
 
-| identifier           | description        | 中文  | mapgenie.io                                                       |
-| -------------------- | ------------------ | --- | ----------------------------------------------------------------- |
-| "Cellars"            | Cellars            |     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25059) |
-| "Gate 3"             | Gate 3             |     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25056) |
-| "Gate 0"             | Gate 0             |     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25057) |
-| "Gate m"             | Med Tent Gate      |     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=88025) |
-| "Office Window"      | Office Window      |     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25060) |
-| "Camera Bunker Door" | Camera Bunker Door |     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25058) |
+| identifier           | description        | 中文     | mapgenie.io                                                       |
+| -------------------- | ------------------ | ------ | ----------------------------------------------------------------- |
+| "Cellars"            | Cellars            | 地窖     | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25059) |
+| "Gate 3"             | Gate 3             | 3号门    | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25056) |
+| "Gate 0"             | Gate 0             | 0号门    | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25057) |
+| "Gate m"             | Med Tent Gate      | 医疗帐篷门  | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=88025) |
+| "Office Window"      | Office Window      | 办公室窗户  | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25060) |
+| "Camera Bunker Door" | Camera Bunker Door | 摄像头地堡门 | [link](https://mapgenie.io/tarkov/maps/factory?locationIds=25058) |
 
 ## Interchange-立交桥
 
@@ -111,19 +111,19 @@
 
 ## Lighthouse-灯塔
 
-| identifier                   | description                     | 中文  | mapgenie.io                                                           |
-| ---------------------------- | ------------------------------- | --- | --------------------------------------------------------------------- |
-| "EXFIL_Train"                | Armored Train                   |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152316) |
-| "Alpinist_light"             | Mountain Pass                   |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152323) |
-| "tunnel_shared"              | Side Tunnel (Co-Op)             |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152326) |
-| "Nothern_Checkpoint"         | Northern Checkpoint             |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152315) |
-| "Coastal_South_Road"         | Southern Road                   |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152328) |
-| "Shorl_free"                 | Path to Shoreline               |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152322) |
-| " V-Ex_light"                | Road to Military Base V-Ex      |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152319) |
-| "SCAV_Industrial_Zone"       | Industrial Zone Gates           |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152317) |
-| "Scav_Hideout_at_the_grotto" | Scav Hideout at the Grotto      |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152321) |
-| "SCAV_Underboat_Hideout"     | Hideout Under the Landing Stage |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152325) |
-| "Scav_Coastal_South"         | Southern Road Landslide         |     | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152329) |
+| identifier                   | description                     | 中文           | mapgenie.io                                                           |
+| ---------------------------- | ------------------------------- | ------------ | --------------------------------------------------------------------- |
+| "EXFIL_Train"                | Armored Train                   |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152316) |
+| "Alpinist_light"             | Mountain Pass                   |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152323) |
+| "tunnel_shared"              | Side Tunnel (Co-Op)             |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152326) |
+| "Nothern_Checkpoint"         | Northern Checkpoint             |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152315) |
+| "Coastal_South_Road"         | Southern Road                   |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152328) |
+| "Shorl_free"                 | Path to Shoreline               |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152322) |
+| " V-Ex_light"                | Road to Military Base V-Ex      |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152319) |
+| "SCAV_Industrial_Zone"       | Industrial Zone Gates           |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152317) |
+| "Scav_Hideout_at_the_grotto" | Scav Hideout at the Grotto      | 石窟的 Scav 隐藏处 | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152321) |
+| "SCAV_Underboat_Hideout"     | Hideout Under the Landing Stage |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152325) |
+| "Scav_Coastal_South"         | Southern Road Landslide         |              | [link](https://mapgenie.io/tarkov/maps/lighthouse?locationIds=152329) |
 
 ## Streets of Tarkov-街区
 
