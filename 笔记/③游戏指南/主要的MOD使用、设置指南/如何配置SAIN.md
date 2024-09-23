@@ -2,4 +2,7 @@
 > [!NOTE] 好奇猫注：
 >因为很多玩家不明白如何设置SAIN，或者觉得我预设的AI太难或太容易，故有此说明，以便玩家们更好的设计出属于自己的塔科夫AI设置。
 
-进入游戏后，按F6即可呼出SAIN的设置主界面：[SAIN-setting-pic-1](assets/SAIN-setting-pic-1.png)
+进入游戏后，按F6即可呼出SAIN的设置主界面：
+
+![](assets/SAIN-setting-pic-1.png)
+![](../../../Pasted%20image%2020240923215940.png)
