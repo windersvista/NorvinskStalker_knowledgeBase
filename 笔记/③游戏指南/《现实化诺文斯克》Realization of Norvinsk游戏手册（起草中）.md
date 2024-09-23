@@ -1,6 +1,5 @@
 
-# 《现实化诺文斯克》
-Realization of Norvinsk游戏手册
+## 现实化诺文斯克-Realization of Norvinsk游戏手册
 
 > [!NOTE]
 > #### 整合包信息：
