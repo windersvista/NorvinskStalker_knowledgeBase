@@ -17,7 +17,7 @@
 
 接下来会详细解释三个模块里的功能和内容
 
-### Home-预设和基础参数
+### 第一个模块：Home-预设和基础参数
 
 这个模块主要设置基础参数，修改这里会影响所有AI类型的各项参数，如果要单独修改某几个AI的类型的参数，则是第二个模块Bot Settings的功能。
 #### 第一部分：预设
@@ -55,7 +55,7 @@
 6. 我没理解是啥，反正越低越难。
 7. 精准速度乘数，我理解为越瞄越准的速度，夜视越低越难。
 
-##### **General：一般设置**
+##### **General：全局设置**
 
 ![](assets/Pasted%20image%2020240924001013.png)
 
@@ -84,11 +84,154 @@
 ##### **Aiming：瞄准**
 
 ![](assets/Pasted%20image%2020240924003928.png)
-
+1. Center Mass（中心质量）可能指整个人体模型的中间，所以这个关掉也许能避免总被打牛子（
+2. AI瞄准时如果中弹的效果。可以不动，默认效果已经能让AI在中弹时几乎无法还击。
+3. 可以不动。
+4. AI移动时的受到的最大散布增益，AI移动时最大散布=AI基础散布值/这个值
+5. AI移动时的受到的最大散布减益，AI移动时最小散布=AI基础散布值/这个值
+6. AI冲刺时的受到的散布减益，AI冲刺散布=AI基础散布值/这个值
+7. 总体更快的CQB反应
+8. PMC强制锁头
+9. 如果8开了，这里设置PMC锁你头的概率。
 ##### **Hearing：听力**
+
+![](assets/Pasted%20image%2020240924200322.png)
+1. AI听到脚步声的最远距离（脚步声包括：脚步声、冲刺声、跳跃声、转弯声、装备声以及任何与运动相关的声音）
+2. AI没带耳机时听到的最远脚步声距离
+3. AI没带耳机时回报敌人动作的距离
+4. 已被激活的敌人对声音的反应时间
+5. 未被激活的敌人对声音的反应时间
+6. 全局枪声可听范围乘数
+7. 全局脚步声可听范围乘数
+8. 消声器实际声音数值=全局枪声可听范围乘数X这个值
+9. 亚音速实际声音数值=全局枪声可听范围乘数X这个值
 
 ##### **Look：视力**
 
+![](assets/Pasted%20image%2020240924203507.png)
+1. 视力速度设置，设置AI在不同情况（海拔、移动、只见部位、姿态）下发现目标的速度。
+2. 视野距离设置，这项设置决定AI会在多远距离内发现移动中的玩家（玩家在移动时通常比静止更容易被AI发现。）
+3. 设置你没发现AI时，AI发现你并锁定你的时间会慢多少，实验性功能，别动。
+4. AI视野是否无视植被。这个功能与“NO BUSH ESP”这个MOD冲突。
+5. 设置AI在夜里和雪夜发现你的距离。
+6. 我不懂，你也别动。
+
 ##### **Mind：意志**
 
+![](assets/Pasted%20image%2020240924204831.png)
+1. 强制所有AI只有一种人格。我会在第三个模块Personality中说明8种人格的特点。
+2. 全局侵略性，数值越高，AI冲脸概率越大。
+3. 如果AI认为自己没有被你发现，会静步搜索。
+4. 仅潜行人格会静步搜索。
 ##### **Shoot：射击**
+
+![](assets/Pasted%20image%2020240924210116.png)
+1. 所有AI的后坐力乘数
+2. 子弹射击能力。影响AI使用不同子弹时半自动射击速度和全自动连发长度。别动。
+3. AI使用不同子弹时的与敌人的最大距离
+4. 武器射击能力。影响AI使用不同武器类型的可射击程度会影响半自动射击速度和全自动连发长度。别动。
+5. AI射击间隔，这个值X子弹射击能力X武器射击能力=AI最终射击间隔。
+
+### 第二个模块：Bot settings-不同种类AI的细分调整
+
+待写
+
+### 第三个模块：Personality-AI人格
+
+待写
+
+
+---
+
+## SAIN主页的功能说明翻译：
+
+[SAIN下载主页](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
+
+- 全新战斗 AI
+    - 完全替换了战斗逻辑。  
+    - AI会在装弹和使用急救时跑向掩体。  
+    - 全新的决策系统和框架。
+- 在游戏中对AI进行全面定制和难度修改。  
+    - 按 f6（默认键）打开新的游戏内图形用户界面。  
+    - 包括可修改 SAIN 配置设置的难度预设。  
+        - 这些预设对其他多器官功能障碍中的其他难度选项或开始突袭时选择的难度没有影响。它们仅用于快速更改 SAIN gui 设置。  
+- **新的AI最后已知位置跟踪功能。**  
+    - AI将只使用真实的感官信息来追踪它们最后一次看到或听到你声音的位置，并将更长时间地记住该位置。如果机器人在一个群组中，并使用耳麦或靠近友军，它们将共享这些信息。  
+    - 当从一个地方发出大量声音时，机器人会获得越来越准确的声音来源信息，并能从更远的地方看到目标，如果它们从当前所在的同一地方听到声音，则能更快地看到目标。重新定位是关键！
+- **AI撤离
+    - PMC 和 Scavs 会在突袭结束时，或在受重伤无法治疗的情况下转移到撤离点。  
+    - 如果使用Looting Bots，SAIN 会跟踪它们在突袭中获得了多少战利品（净战利品价值），如果它们感到满意，可以决定离开。  
+        - 可在 "全局设置 "的 "掠夺机器人 "选项卡中进行配置。
+- **AI会对你重新装弹、治疗、拔出手榴弹、拔出手榴弹上的插销、使用手术或掠夺做出反应。** 
+    - 是的，你现在可以诱导人工智能。  
+- **新的AI掩护系统**
+	- AI使用真实游戏世界中周围的物体，而不是预设的静态点。  
+    - 只要有 NavMesh 和物体的地方，AI就会找掩护并正常战斗。  
+    - 根据 Waypoint 的扩展 NavMesh 构建，因此整个地图对AI来说都是公平的。
+- **新的人工智能性格系统**
+	- 机器人会被分配一个性格预设，该预设会影响它们的决策和说话行为：GigaChad、Snapping Turtle、Wreckless、Chad、Rat、Coward、Timmy、Normal。
+- **新对话系统** 
+	- 单人机器人不太爱说话 
+	- 机器人群组现在使用复杂的系统来呼叫敌人位置、友军状态、当前行动，以及向附近的其他群组成员发出请求。  
+    - 小队长会根据情况向机器人发出指令。  
+    - 针对特定角色的语音行为 - 老鼠和 Timmys 可能会求饶并试图阻止您射击它们。  
+        - Chads/GigaChads 会嘲弄敌人。  
+        - 还有一些我不会剧透的秘密稀有事件。  
+    - 新的人工智能语音响应系统 
+    - 具有特定性格的人工智能会对玩家和其他机器人的语音线做出响应，因此如果你开始说大话，它们可能会开始回嘴！ 
+    - 友好的机器人会向你回话，因此你可以更容易地判断附近是否有友好的机器人，这样你就不会失去搜刮业力。  
+- **新的小队战术**
+    - 小队将协同作战。  
+        - 成群结队的Scav，尤其是 PMC 比以前更加危险。在与一群全副武装的 PMC 交火之前，请慎重考虑！ - 小队在遇到困难时，会尽力帮助友队成员
+        - 如果小队偏离得太远，他们会重新聚集在小队长周围。  
+        - 当友军撤退治疗或装弹时，小队会压制角落里的敌人。  
+    - 新的小队长系统 
+	    - 每组机器人都有一个小队长，他可以下达命令并有不同的行为 
+	    - 杀死该小队长会使小队特定的机器人行动失效，从而降低小队的战斗力 
+	    - 尽量找出小队长并先将其杀死，这样可以使小队更容易对付！
+- **机器人盲射
+    - 机器人会对敌人方向的物体进行盲射。
+- **高级搜索行为和移动
+    - 机器人在搜索敌人时会尽量躲在角落里，并清除危险区域。  
+- **机器人现在可以充分利用其库存中的刺激器和注射器。**  
+- **如果友军在视线范围内，机器人会用手势代替语音提示。**  
+- **Certain equipment items provide buffs or debuffs to stealth against AI if further than 50 meters away. Will work on adding these to the description for items, and expanding on the system for easily adding new items or configuring these values in the future.  
+    
+    - **Currently Implemented:  
+        **
+    - **Tan Ulach - 7.5% faster vision speed  
+        **
+    - **Blue Untar Helmet - 10% faster vision speed  
+        **
+    - **Boonie Hats - 20% slower vision speed  
+        **
+    - **Pilgrim Backpack - 10% faster vision speed  
+        **
+    - **RAID (couch) backpack - 7.5% faster vision speed.  
+        **
+    - **Any face cover - 5% slower vision speed.  
+        **
+- **Revamped scatter system for bots based on their weapons recoil stats.**
+    - You can adjust this in the f12 menu. If a mod you are using lowers recoil for weapons, bots will also have reduced recoil!
+    - There are additional settings available if advanced settings are enabled in the f12 menu (Checkbox at the top) but I do not recommend messing with this without some fine tuning, or bots won't be able to hit anything.
+- **Flashlight detection and blinding for bots.**
+    - Bots can detect your flashlight beam being shined around and will investigate, they estimate the position and the accuracy is based on distance to to the object being illuminated.
+    - Bots are blinded by flashlights at close range, they will have increased recoil and slower aim speed.
+- **Dynamic Lean.**
+    - Bots will lean based on objects around them and their enemies position, and can do so while peeking corners.
+- **Weather affects bot visibility.**
+    - Poor weather conditions will actually have an affect on how well bots can see and how fast they see you.
+- **More accurate time-of-day vision.**
+    - Bot vision will gradually reduce as darkness falls or increase as the sun rises. in vanilla, it changes very rapidly, but only after the sun is completely set.
+- **Sound occlusion for bot hearing.**
+    - The distance bots can hear sounds is affected by objects between them and the source. The more objects - the higher the occlusion.
+- **Gunshot audible range based on weapon caliber.**
+    - In Vanilla, bots hear all unsuppressed weapons at the same range. Now this scales depending on the caliber properly.
+- **Subsonic ammo is quieter for bots.**
+    - Using a suppressor + subsonic ammo will have a dramatic effect on the range bots can hear your gunshots.
+- **Rain affects bot hearing.**
+    - Heavy rain will reduce the range bots can hear sounds.
+- **Semi-auto firemode swap for bots firing at 40+ meters.**
+    - Bots will automatically swap to semi auto when engaging targets at range.
+- **Recoil, Ergo, Ammo-Type based fire-rate and full auto burst length.**
+    - How fast bots shoot is affected by their weapon stats. So low recoil guns will be fired in semi auto at a faster rate at long range, and bots will fire longer burts at close range.
