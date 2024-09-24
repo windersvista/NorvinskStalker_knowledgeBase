@@ -147,18 +147,18 @@
 
 [SAIN下载主页](https://hub.sp-tarkov.com/files/file/1062-sain-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 
-- 全新战斗 AI
+- **全新战斗 AI**
     - 完全替换了战斗逻辑。  
     - AI会在装弹和使用急救时跑向掩体。  
     - 全新的决策系统和框架。
-- 在游戏中对AI进行全面定制和难度修改。  
+- **在游戏中对AI进行全面定制和难度修改。**  
     - 按 f6（默认键）打开新的游戏内图形用户界面。  
     - 包括可修改 SAIN 配置设置的难度预设。  
         - 这些预设对其他多器官功能障碍中的其他难度选项或开始突袭时选择的难度没有影响。它们仅用于快速更改 SAIN gui 设置。  
 - **新的AI最后已知位置跟踪功能。**  
     - AI将只使用真实的感官信息来追踪它们最后一次看到或听到你声音的位置，并将更长时间地记住该位置。如果机器人在一个群组中，并使用耳麦或靠近友军，它们将共享这些信息。  
     - 当从一个地方发出大量声音时，机器人会获得越来越准确的声音来源信息，并能从更远的地方看到目标，如果它们从当前所在的同一地方听到声音，则能更快地看到目标。重新定位是关键！
-- **AI撤离
+- **AI撤离**
     - PMC 和 Scavs 会在突袭结束时，或在受重伤无法治疗的情况下转移到撤离点。  
     - 如果使用Looting Bots，SAIN 会跟踪它们在突袭中获得了多少战利品（净战利品价值），如果它们感到满意，可以决定离开。  
         - 可在 "全局设置 "的 "掠夺机器人 "选项卡中进行配置。
@@ -189,49 +189,41 @@
 	    - 每组机器人都有一个小队长，他可以下达命令并有不同的行为 
 	    - 杀死该小队长会使小队特定的机器人行动失效，从而降低小队的战斗力 
 	    - 尽量找出小队长并先将其杀死，这样可以使小队更容易对付！
-- **机器人盲射
+- **机器人盲射**
     - 机器人会对敌人方向的物体进行盲射。
-- **高级搜索行为和移动
+- **高级搜索行为和移动**
     - 机器人在搜索敌人时会尽量躲在角落里，并清除危险区域。  
 - **机器人现在可以充分利用其库存中的刺激器和注射器。**  
 - **如果友军在视线范围内，机器人会用手势代替语音提示。**  
-- **Certain equipment items provide buffs or debuffs to stealth against AI if further than 50 meters away. Will work on adding these to the description for items, and expanding on the system for easily adding new items or configuring these values in the future.  
-    
-    - **Currently Implemented:  
-        **
-    - **Tan Ulach - 7.5% faster vision speed  
-        **
-    - **Blue Untar Helmet - 10% faster vision speed  
-        **
-    - **Boonie Hats - 20% slower vision speed  
-        **
-    - **Pilgrim Backpack - 10% faster vision speed  
-        **
-    - **RAID (couch) backpack - 7.5% faster vision speed.  
-        **
-    - **Any face cover - 5% slower vision speed.  
-        **
-- **Revamped scatter system for bots based on their weapons recoil stats.**
-    - You can adjust this in the f12 menu. If a mod you are using lowers recoil for weapons, bots will also have reduced recoil!
-    - There are additional settings available if advanced settings are enabled in the f12 menu (Checkbox at the top) but I do not recommend messing with this without some fine tuning, or bots won't be able to hit anything.
-- **Flashlight detection and blinding for bots.**
-    - Bots can detect your flashlight beam being shined around and will investigate, they estimate the position and the accuracy is based on distance to to the object being illuminated.
-    - Bots are blinded by flashlights at close range, they will have increased recoil and slower aim speed.
-- **Dynamic Lean.**
-    - Bots will lean based on objects around them and their enemies position, and can do so while peeking corners.
-- **Weather affects bot visibility.**
-    - Poor weather conditions will actually have an affect on how well bots can see and how fast they see you.
-- **More accurate time-of-day vision.**
-    - Bot vision will gradually reduce as darkness falls or increase as the sun rises. in vanilla, it changes very rapidly, but only after the sun is completely set.
-- **Sound occlusion for bot hearing.**
-    - The distance bots can hear sounds is affected by objects between them and the source. The more objects - the higher the occlusion.
-- **Gunshot audible range based on weapon caliber.**
-    - In Vanilla, bots hear all unsuppressed weapons at the same range. Now this scales depending on the caliber properly.
-- **Subsonic ammo is quieter for bots.**
-    - Using a suppressor + subsonic ammo will have a dramatic effect on the range bots can hear your gunshots.
-- **Rain affects bot hearing.**
-    - Heavy rain will reduce the range bots can hear sounds.
-- **Semi-auto firemode swap for bots firing at 40+ meters.**
-    - Bots will automatically swap to semi auto when engaging targets at range.
-- **Recoil, Ergo, Ammo-Type based fire-rate and full auto burst length.**
-    - How fast bots shoot is affected by their weapon stats. So low recoil guns will be fired in semi auto at a faster rate at long range, and bots will fire longer burts at close range.
+- **如果距离超过 50 米，某些装备物品会为针对 AI 的隐身提供 buff 或 debuff。我们将努力在物品说明中添加这些内容，并在将来扩展系统，以便轻松添加新物品或配置这些值。**  
+    - 目前已实施：
+    - Tan Ulach - 7.5% faster vision speed  
+    - Blue Untar Helmet - 10% faster vision speed  
+    - Boonie Hats - 20% slower vision speed  
+    - Pilgrim Backpack - 10% faster vision speed  
+    - RAID (couch) backpack - 7.5% faster vision speed.  
+    - Any face cover - 5% slower vision speed.  
+        
+- **根据机器人的武器后坐力数据对其散射系统进行了改进。如果您使用的修改器降低了武器的后坐力，机器人的后坐力也会降低！**
+	- 如果在 f12 菜单中启用高级设置（顶部的复选框），还可以进行其他设置，但我不建议在没有进行微调的情况下乱动，否则机器人将无法击中任何东西。
+- **手电筒检测和致盲机器人。**
+	- 机器人可以检测到手电筒光束的照射范围并进行调查，它们会估计位置，准确度取决于与被照亮物体的距离。
+	- 机器人在近距离被手电筒致盲，它们的后坐力会增加，瞄准速度也会变慢。
+- **动态倾斜** 
+	- 机器人会根据周围物体和敌人的位置进行倾斜，并能在偷窥角落时进行倾斜。
+- **天气会影响机器人的能见度** 
+	- 恶劣的天气条件实际上会影响机器人的能见度和看到你的速度。
+- **更准确的日间视力** 
+	- 随着天色变暗，肉眼视力会逐渐减弱，或者随着太阳升起，肉眼视力会逐渐增强。在香草中，肉眼视力的变化非常快，但只有在太阳完全落山后才会发生变化。
+- **机器人听觉的声音遮挡** 
+	- 机器人与声源之间的物体会影响它们听到声音的距离。物体越多，遮蔽程度越高。
+- **基于武器口径的枪声可闻范围** 
+	- 在原版中，机器人可在相同范围内听到所有无压制武器的枪声。现在，这将根据口径适当缩放。
+- **亚音速弹药对机器人来说更安静** 
+	- 使用抑制器和亚音速弹药会对机器人听到枪声的范围产生巨大影响。
+- **雨水会影响机器人的听力。**
+    - 大雨会缩小机器人听到声音的范围。
+- **为在 40 多米外射击的机器人更换半自动射击模式。**
+    - 在射程内与目标交战时，机器人会自动切换到半自动模式。
+- **后坐力、Ergo、基于弹药类型的射速和全自动连发长度。**
+    - 机器人的射击速度受其武器属性的影响。因此，低后坐力的枪支在远距离上会以更快的速度半自动射击，而机器人在近距离上会发射更长的子弹。
