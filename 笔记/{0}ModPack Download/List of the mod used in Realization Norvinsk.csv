@@ -1,0 +1,197 @@
+现实化诺文斯克0.9.x测试版MOD列表,,,,,
+#Mod_Name,#Mod_URL,#Note,#Mod_Version,#Install_Date,#Download_File_Name
+[1]前置MOD（不要关）_separator,,,,,
+[1]前置-《现实化诺文斯克》好奇猫自用游戏设置及按键,,对游戏界面有自己习惯请关掉此项。否则进入游戏将只有左下角蹲姿体力槽,,2024-7-7 4:02,
+[1]前置-《现实化诺文斯克》修改本体及MOD排序文件和整合包说明文档,,利用Mo2的文件覆盖机制实现对本体文件的修改,,2024-7-7 4:01,
+[1]前置框架-kmyuhkyuk-EFTApi,https://hub.sp-tarkov.com/files/file/1215-eft-api/,GamepanelHUD的前置,d2024.7.7.0,2024-7-7 21:23,kmyuhkyuk-EFTApi-(Release_1.2.2).7z
+[1]前置框架-UnityToolkit,https://hub.sp-tarkov.com/files/file/1976-unitytoolkit/,,d2024.7.8.0,2024-7-14 11:40,UnityToolkit-1.0.1.7z
+[1]前置框架-自定义交互-CustomInteractions,https://hub.sp-tarkov.com/files/file/1278-custom-interactions/,,d2024.9.1.0,2024-9-1 10:29,CustomInteractions-1.5.0.zip
+[1]前置框架-商人服务启用-TraderServiceFix,https://hub.sp-tarkov.com/files/file/2098-trader-service-fix/,,d2024.7.11.0,2024-7-11 0:22,TraderServiceFix.7z
+[1]前置框架-自定义任务加载器-Virtual's Custom Quest Loader,https://hub.sp-tarkov.com/files/file/885-virtual-s-custom-quest-loader/,包含了迎新礼物,d2024.7.7.0,2024-7-7 11:58,VCQL-2.0.2.zip
+[1]前置框架-Trap的自定义任务框架-CustomQuests,https://hub.sp-tarkov.com/files/file/588-custom-quests/,,d2024.9.1.0,2024-9-1 10:08,Trap-CustomQuests-3.2.3.zip
+[1]前置框架-商人可售卖装有东西的容器-TradersSellBundles,https://hub.sp-tarkov.com/files/file/2380-traders-sell-bundles/,,d2024.9.26.0,2024-9-26 18:40,TradersSellBundles.zip
+[2]新内容_separator,,,,,
+[2]新人物脸型-MoxoPixel-WarHeads,https://hub.sp-tarkov.com/files/file/1796-war-heads/,,d2024.8.25.0,2024-8-25 11:29,MoxoPixel-WarHeads.zip
+[2]新人物脸型-WTT-TheLongLostHeadsOfYojenkz,https://hub.sp-tarkov.com/files/file/1858-wtt-the-long-lost-heads-of-yojenkz/,,d2024.7.12.0,2024-7-12 19:02,WTT-TheLongLostHeadsOfYojenkz-1.0.3.zip
+[2]新物品-镀金钥匙链（更好的钥匙容器）-Jehree-GildedKeyStorage,https://hub.sp-tarkov.com/files/file/1166-gilded-key-storage/#versions,方便存放钥匙和钥匙卡，可帮助辨别捡到的钥匙是否重复,d2024.9.15.0,2024-9-15 21:20,Jehree-GildedKeyStorage-1.4.0.zip
+[2]新服饰-SamSWAT-CoDMW_CTSFO1,https://hub.sp-tarkov.com/files/file/1825-samswat-s-call-of-duty-mw-mil-sim-ctsfo-1/,已加入现实主义兼容,d2024.8.10.0,2024-8-10 13:41,SamSWAT-CoDMW_CTSFO1.Fixed.zip
+[2]新针剂-MusicManiac-ConsumablesGalore,https://hub.sp-tarkov.com/files/file/1725-consumables-galore/,在《现实化诺文斯克》v0.9.0版药品酒水沉浸感增强设置有做针对性调整,d2024.9.8.0,2024-9-8 17:29,MusicManiac-ConsumablesGalore.rar
+[2]新酒水-WTT - CornerStore,https://hub.sp-tarkov.com/files/file/2334-wtt-corner-store/,在《现实化诺文斯克》v0.9.0版药品酒水沉浸感增强设置有做针对性调整,d2024.9.8.0,2024-9-8 17:29,WTT - CornerStore.7z
+[2]可弹奏的吉他-PlayableGuitar,https://hub.sp-tarkov.com/files/file/2347-playable-guitar/,顾名思义,d2024.9.15.0,2024-9-15 20:39,PlayableGuitar-v1.1.0.zip
+[2]新容器-WTT-PackNStrap,https://hub.sp-tarkov.com/files/file/1790-wtt-pack-n-strap/,多款可放在臂章位置的腰包，属于第二个安全箱，已有现实主义兼容,d2024.7.12.0,2024-7-12 18:55,WTT-PackNStrap-1.0.7.zip
+[2]新BOSS-惩罚者-WTT-RogueJustice,https://hub.sp-tarkov.com/files/file/1317-wtt-rogue-justice/,包含新BOSS、新装备、新武器，已有现实主义兼容,d2024.7.17.0,2024-7-17 18:46,WTT-RogueJustice-1.0.5.zip
+[2]新装备-外骨骼-SamSWAT-DolgExoS2,https://hub.sp-tarkov.com/files/file/1961-reupload-duty-exoskeleton/,拆自潜2的外骨骼，已制作NVSK现实主义兼容,d2024.8.10.0,2024-8-10 13:41,SamSWAT-DolgExoS2.zip
+[2]新装备、衣服-MoxoPixel-TacticalGearComponent,https://hub.sp-tarkov.com/files/file/1555-tactical-gear-component/,Civic系列服饰装备，自带现实主义兼容,d2024.9.22.0,2024-9-22 9:34,MoxoPixel-TacticalGearComponent.zip
+[2]新装备-更多的星战面罩-SerWolfik-Heavy-Troopers,https://hub.sp-tarkov.com/files/file/2145-wolfik-s-heavy-trooper-masks-reupload/,,d2024.9.4.0,2024-9-4 23:19,SerWolfik-Heavy-Troopers1.0.5.zip
+[3]新武器_separator,,,,,
+[3]新武器-UnheardKukri-UnityStoreEdition,https://hub.sp-tarkov.com/files/file/1886-unheard-kukri-unity-store-edition/,提供蓝边口袋大小,d2024.7.12.0,2024-7-12 18:55,Unheard.Kukri.-.Unity.Store.Edition-1.0.2.zip
+[3]让Tagila的大锤可用-choccy-hultafors,https://hub.sp-tarkov.com/files/file/1040-hultafors-dead-blow-hammer/,让玩家可以正常使用大锤掉落的大锤,d2024.7.22.0,2024-7-22 23:53,choccy-hultafors-1.1.6.zip
+[3]新武器和新装备-ATLAS-GEAR,https://hub.sp-tarkov.com/files/file/1026-atlas-custom-weapons-equipment/#versions,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:06,ATLAS-GEAR_1.2.1.zip
+[3]015新内容-RaiRaiTheRaichu-Update15Backport,https://hub.sp-tarkov.com/files/file/2354-update-15-backport/,未做现实主义兼容,d2024.9.15.0,2024-9-15 2:09,RaiRaiTheRaichu-Update15Backport-1.0.1.zip
+狙击步枪_separator,,,,,
+[3]新武器-狙击步枪-WTT-M700LA,https://hub.sp-tarkov.com/files/file/2335-wtt-m700-long-action/,已有现实主义兼容（有第三方制作补丁,d2024.9.18.0,2024-9-13 17:35,WTT-M700 Lapua - Norma Patch 1.0.3.rar
+[3]新武器-狙击步枪-WTT-Armory-M107,https://hub.sp-tarkov.com/files/file/2274-wtt-armory-barrett-m107a1/,已制作NVSK现实主义兼容,d2024.0.0.0-08-24,2024-8-24 0:31,WTT-Armory-M107.zip
+[3]新武器-狙击步枪-WTT-Armory-Remington MSR,https://hub.sp-tarkov.com/files/file/2361-wtt-armory-remington-msr/,自带现实主义兼容（安装包自带补丁,d2024.9.25.0,2024-9-25 0:43,1WTT-Armory-Remington MSR 1.0.2.rar
+[3]新武器-狙击步枪-WTT-Armory-Cheytac Intervention,https://hub.sp-tarkov.com/files/file/2074-wtt-armory-cheytac-intervention/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:11,WTT-Armory-Cheytac-1.0.1.zip
+射手步枪_separator,,,,,
+[3]新武器-WTT-Armory-HK417,https://hub.sp-tarkov.com/files/file/1984-wtt-armory-hk417/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:12,WTT-Armory-HK417-1.1.6.zip
+[3]新武器-WTT-Armory-SVD,https://hub.sp-tarkov.com/files/file/2000-wtt-armory-svd/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:14,WTT-Armory-SVD-1.0.6.zip
+卡宾枪、步枪_separator,,,,,
+[3]新武器-Mira-M16A4,https://hub.sp-tarkov.com/files/file/1357-m16a4-by-miralyn/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:19,Mira-M16A4 1.2.4.rar
+[3]新武器-ZLR GRAU 762 ASSAULT RIFLE,https://hub.sp-tarkov.com/files/file/2184-zlr-grau-556-762-assault-rifle/,武器已制作NVSK现实主义兼容,d2024.9.15.0,2024-9-15 2:21,ZLR_GRAU.7z
+[3]新武器-97式步枪现代化-Mass_DG56,https://hub.sp-tarkov.com/files/file/2364-dg-56-5-56x45-rifle/,武器已制作NVSK现实主义兼容,d2024.9.14.0,2024-9-14 14:26,Mass_DG56.7z
+[3]新武器-97式步枪-Mass_QBZ97,https://hub.sp-tarkov.com/files/file/2090-qbz-97-5-56x45-rifle/,已有现实主义兼容（有第三方制作补丁,d2024.9.14.0,2024-9-14 14:26,Mass_QBZ97.7z
+[3]新武器-WTT-Armory-RexTacWoS,https://hub.sp-tarkov.com/files/file/2042-wtt-armory-rextac-wages-of-sin/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:22,WTT-Armory-RexTacWoS-1.0.1.zip
+[3]新武器-WTT-Armory-Ak5C,https://hub.sp-tarkov.com/files/file/2056-wtt-armory-ak5c/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:23,WTT-Armory-Ak5C-1.0.2.zip
+[3]新武器-WTT-Armory-Remington ACR,https://hub.sp-tarkov.com/files/file/1862-wtt-remington-adaptive-combat-rifle/,自带现实主义兼容,d2024.9.15.0,2024-9-15 20:37,WTT-ACR.Realism.Patchv1.0.rar
+[3]新武器-WTT-Armory-X95,https://hub.sp-tarkov.com/files/file/2204-wtt-armory-x95/,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:26,WTT.-.IWI.X95.Realism.Patchv1.1.rar
+[3]新武器-WTT-Armory-Remington R5,https://hub.sp-tarkov.com/files/file/2311-wtt-armory-r5/,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:27,WTT.-.R5.Realism.Patch.v1.2.rar
+冲锋枪_separator,,,,,
+[3]新武器-WTT-SianydeAndScorpiness,https://hub.sp-tarkov.com/files/file/1901-wtt-cz-scorpion-evo-3/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:25,WTT-SianydeAndScorpiness-1.1.1.zip
+手枪_separator,,,,,
+[3]新武器-WTT-RexProdigy,https://hub.sp-tarkov.com/files/file/2024-wtt-armory-rex-is-a-prodigy/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:29,WTT-RexProdigy-1.0.4.zip
+[3]新武器-手枪-WTT-Armory-CZ75,https://hub.sp-tarkov.com/files/file/2023-wtt-armory-%C4%8Dz-75/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:29,WTT-Armory-CZ75-1.0.5.zip
+[3]新武器-手枪-WTT-Armory-WilsonCombat,https://hub.sp-tarkov.com/files/file/1928-wtt-armory-wilson-combat/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:30,WTT-Armory-WilsonCombat-1.0.4.zip
+机枪_separator,,,,,
+[3]新武器-机枪-WTT-Armory-M249,https://hub.sp-tarkov.com/files/file/2381-wtt-armory-m249/,,d2024.9.27.0,2024-9-27 20:28,WTT-Armory-M249.zip
+[3.1]新配件_separator,,,,,
+[3]新配件-SAMSWAT配件精选-SELECT SAMSWAT MODS,https://hub.sp-tarkov.com/files/file/2178-select-samswat-mods-3-9-x-port/,,d2024.9.15.0,2024-9-15 2:17,SamSWAT Bundle.7z
+[3]新配件-格洛克改装套件-ToxicGlockBros,https://hub.sp-tarkov.com/files/file/2148-toxic-glock-bros/,,d2024.9.15.0,2024-9-15 2:16,ToxicGlockBros 3.9.x.zip
+[3]新配件-MoxoPixel-MagTape,https://hub.sp-tarkov.com/files/file/1404-mag-tape/,新商人-油漆匠-CivicPainter的前置，已有现实主义兼容,d2024.9.15.0,2024-9-15 2:31,MoxoPixel-MagTape.zip
+[3]新配件-MoxoPixel-BlackCore,https://hub.sp-tarkov.com/files/file/1345-blackcore/,新商人-油漆匠-CivicPainter的前置，已有现实主义兼容,d2024.9.15.0,2024-9-15 2:33,MoxoPixel-BlackCore.7z
+[3]新配件-MoxoPixel-SandCore,https://hub.sp-tarkov.com/files/file/1379-sandcore-fde-retextures/,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:49,MoxoPixel-SandCore.zip
+[3]新配件-MoxoPixel-GreenCore,https://hub.sp-tarkov.com/files/file/1260-greencore/,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:49,MoxoPixel-GreenCore.zip
+[3]新配件-MoxoPixel-WhiteCore,https://hub.sp-tarkov.com/files/file/1313-whitecore/,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:49,MoxoPixel-WhiteCore.zip
+[3]新配件-HK416-Heavy-Barrel,https://hub.sp-tarkov.com/files/file/1615-hk416-16-in-406mm-heavy-barrel/,,d2024.9.15.0,2024-9-15 2:02,HK416-Heavy-Barrel-1.1.3.zip
+[3]新配件-TheLittleDrummerBoy,https://hub.sp-tarkov.com/files/file/1818-wtt-little-drummer-boy/,新的多种弹鼓,d2024.9.15.0,2024-9-15 2:34,WTT-LittleDrummerBoy-1.0.5.zip
+[3]新配件-LLMVarioRay,https://hub.sp-tarkov.com/files/file/2344-rheinmetall-llm-varioray-tactical-device/,,d2024.9.7.0,2024-9-7 21:26,LLMVarioRay.zip
+[3]新配件-IceM4gic-ArisakaOffsetMount,https://hub.sp-tarkov.com/files/file/2223-arisaka-offset-optic-mount/,Arisaka 偏置瞄准镜座,d2024.9.15.0,2024-9-15 1:54,IceM4gic-ArisakaOffsetMount-1.0.3.zip
+[3]新配件-G36配件扩展-Lyconox-g36ex,https://hub.sp-tarkov.com/files/file/1449-g36-mod-0-extreme/,G36配件扩展，已有现实主义兼容,d2024.9.15.0,2024-9-15 2:35,G36 MOD 0 EXTREME Compatibility.rar
+[3]新配件-莫辛扩展-Lyconox-MosinEx,https://hub.sp-tarkov.com/files/file/2006-mosin-extension/,已有现实主义兼容,d2024.9.12.0,2024-9-12 3:48,Mosin-Extension-1.3.0.zip
+[3]新配件-VSS配件扩展-VSSM,https://hub.sp-tarkov.com/files/file/2357-vssm-kits/,,d2024.9.12.0,2024-9-12 3:49,VSSM-1.0.0.zip
+[3]新配件包-AK系导轨-Ak Rail Extension,https://hub.sp-tarkov.com/files/file/2261-ak-rail-extension-port/,已有现实主义兼容,d2024.9.15.0,2024-8-18 21:56,AK Rail Extension Compat.7z
+[3]新配件包-EpicRangeTime-Weapons,https://hub.sp-tarkov.com/files/file/1764-epic-s-all-in-one,已有现实主义兼容,d2024.9.15.0,2024-9-15 2:38,EpicRangeTime-Weapons-2.0.0.zip
+[3]新配件-Carl-STAR15 300 blk,https://hub.sp-tarkov.com/files/file/1419-star-15-by-carl-makes-mods/,自带现实主义兼容,d2024.9.15.0,2024-9-15 2:37,Carl-STAR15 300 blk 1.1.5.rar
+[4]自定义商人_separator,,,,,
+[4]新商人-竞技场商人-acidphantasm-ref-sptfriendly-quests,https://hub.sp-tarkov.com/files/file/2108-ref-spt-friendly-quests/,,d2024.7.9.0,2024-7-9 19:49,acidphantasm-refsptfriendlyquests.7z
+[4]新商人-阿乔姆-ArtemTrader,https://hub.sp-tarkov.com/files/file/1410-artem/,MOD商人，感谢群友????对任务本文进行更细致的精翻，已有现实主义兼容,d2024.9.6.0,2024-9-6 19:04,Artem 1.9.zip
+[4]新商人-油漆匠-MoxoPixel-Painter,https://hub.sp-tarkov.com/files/file/1412-painter/,需要MagTape和BlackCore作为前置，群友????对任务本文进行了翻译,d2024.8.11.0,2024-8-11 11:17,MoxoPixel-Painter.zip
+[4]新商人-毒蝎-acidphantasm-scorpion,https://hub.sp-tarkov.com/files/file/1869-beta-scorpion/,一大堆任务，群友????对任务本文进行了翻译,d2024.9.7.0,2024-9-7 21:29,acidphantasm-scorpion.zip
+[4]新商人-赌鬼-TheGambler,https://hub.sp-tarkov.com/files/file/2013-gambler-trader/,售卖各种盲盒,d2024.9.7.0,2024-9-7 21:29,GamblerTrader0.2.4.zip
+[4]新商人-出售枪匠任务枪商人-Gunsmith,https://hub.sp-tarkov.com/files/file/1022-gunsmith/,用于快速通过枪匠任务,d2024.7.19.0,2024-7-19 20:21,Gunsmith_210.zip
+[4]新商人-毒蛇-Viper,https://hub.sp-tarkov.com/files/file/2299-beta-viper/,,d2024.9.28.0,2024-9-28 20:25,Viper-1.0.5.zip
+[4]新任务线-SPT官方任务线：圣殿陷落-operation-sanctumfall,https://hub.sp-tarkov.com/files/file/2343-operation-sanctumfall/,,d2024.9.7.0,2024-9-7 21:27,operation-sanctumfall-1.7z
+[4]新任务线-可重复赏金任务-Trap-BabaYaga,https://hub.sp-tarkov.com/files/file/701-baba-yaga/,改过条件,d2024.8.22.0,2024-8-24 0:33,Trap-BabaYaga-2.2.2.zip
+[5]整合包核心MOD（开关此类需要重开档）_separator,,,,,
+[5]伪无缝地图-通往塔科夫之路-Trap-PathToTarkov,https://hub.sp-tarkov.com/files/file/569-path-to-tarkov/,,d2024.9.16.0,2024-9-17 0:15,Trap-PathToTarkov-5.3.3.zip
+[5]自定义档案-ShadowXtrex-CustomProfiles,https://hub.sp-tarkov.com/files/file/1354-custom-profiles/#versions,自定义档案，整合包中用来提供“角色”形式的不同开局,d2024.9.5.0,2024-9-5 19:23,ShadowXtrex-CustomProfiles-v398.0.1.7z
+[5]经济与制造系统大修-ODT-Softcore,https://hub.sp-tarkov.com/files/file/998-softcore-proper-singleplayer-experience-for-spt/,经济系统改造MOD，整合包核心MOD，2.2.0版，勿关。,d2024.7.30.0,2024-7-30 19:40,odt-softcore.zip
+[5]现实主义大修-Fontaine-Realism-Mod,https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/,,d2024.9.25.0,2024-9-25 0:43,Realism-Mod-v1.4.5-SPT-v3.9.8.zip
+[5]战局大修-Raid Overhaul,https://hub.sp-tarkov.com/files/file/1943-raid-overhaul-standalone/,,d2024.9.14.0,2024-9-14 22:07,RaidOverhaul.7z
+[5]沉浸式日夜循环-ImmersiveDaylightCycle,https://hub.sp-tarkov.com/files/file/2019-immersive-daylight-cycle/,让整个游戏只有一个时间循环，且撤离后计时停止，在战局内时间才继续流动。与战局大修部分冲突,d2024.7.30.0,2024-7-30 19:37,SP_ONLY_ImmersiveDaylightCycle-2.0.0.zip
+[6]AI行为拟人化（最吃帧数，配置过低只需要关这类，关本类后需重开档）_separator,,,,,
+[6]AI锁头重定向（防锁头）-Headshot Damage Redirection,https://hub.sp-tarkov.com/files/file/1809-headshot-damage-redirection-hdr/,防锁头MOD，这个mod的作用是将原本锁头带来的伤害重分配到其他身体部位，减少一枪喷子白头眼情况发生,d2024.7.8.0,2024-7-8 20:04,Solarint-Headshot-Damage-Redirect-1.2.zip
+[6]AI路径扩展-DrakiaXYZ-Waypoints,https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-navmesh/,更多的路径点，运行AI走得更远，更没有限制范围。,d2024.7.20.0,2024-7-20 19:57,DrakiaXYZ-Waypoints-1.5.1.zip
+[6]AI拟人MOD的前置框架-DrakiaXYZ-BigBrain（吃帧数）,https://hub.sp-tarkov.com/files/file/1219-bigbrain/,"整套BigBrain系AI扩展的必备前置MOD，依赖它的：SAIN
+SWAG
+Waypoints
+Looting Bots",d2024.7.20.0,2024-7-20 19:57,DrakiaXYZ-BigBrain-1.0.1.zip
+[6]AI增强-SAIN（吃帧数）,https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/,增强的AI,d2024.8.5.0,2024-8-5 20:37,SAIN-3.1.0-Release.7z
+[6]AI视野真实化-That's Lit（吃帧数）,https://hub.sp-tarkov.com/files/file/1453-that-s-lit-logical-ai-vision/,,d2024.9.26.0,2024-9-26 18:21,ThatsLit_1.394.05.zip
+[6]AI自动搜索物品-Skwizzy-LootingBots（吃帧数）,https://hub.sp-tarkov.com/files/file/1096-looting-bots/,AI现在会搜索捡拾他看见的所有东西，包括你骗保的装备。,d2024.7.9.0,2024-7-9 19:49,Skwizzy-LootingBots-1.3.5.zip
+[6]AI动态生成点-SWAG-Donuts（吃帧数）,https://hub.sp-tarkov.com/files/file/878-swag-donuts-dynamic-spawn-waves-and-custom-spawn-points/,负责所有AI的生成,d2024.8.4.0,2024-8-4 16:36,SWAG-Donuts-v3.5.1-SPT39x (1).zip
+[6]可指挥的AI队友-friendlypmc（吃帧数）,https://hub.sp-tarkov.com/files/file/989-friendly-pmc/,受指挥的随从，很好用，但巨掉帧，慎开。,d2024.9.15.0,2024-9-15 20:39,friendlypmc-3.7.0.zip
+[7]装备、物品功能大修_separator,,,,,
+[7]瞄准视野大修-Fontaine-FOV-Fix,https://hub.sp-tarkov.com/files/file/942-fontaine-s-fov-fix-variable-optics/,给部分光学倍镜添加Ctrl+鼠标滚轮的无极变焦功能，F12中可修改,d2024.9.25.0,2024-9-25 21:21,Fontaine-FOV-Fix-v2.1.4-SPT-v3.9.x.zip
+[7]光学镜视野大修-EFT SCOPE AND RED DOT SIGHT OVERHAUL,https://hub.sp-tarkov.com/files/file/1327-eft-scope-and-red-dot-sight-overhaul-by-geff-hannigan-reupload/,光学镜和红点镜视野大修,d2024.7.17.0,2024-7-17 18:49,ACOG4Life-OpticRework-SPT-390.zip
+[7]巫毒镜变焦大修-SamSWAT-EOTechVuduOverhaul,https://hub.sp-tarkov.com/files/file/1892-samswat-s-eotech-vudu-overhaul-reupload/,,d2024.7.20.0,2024-7-20 19:58,SamSWAT-EOTechVuduOverhaul.zip
+[7]反射镜视野重做-SamSWAT.ReflexSightsRework,https://hub.sp-tarkov.com/files/file/1753-reflex-sights-rework-updated/,反射镜红点大修，不挡视野,d2024.7.8.0,2024-7-8 20:03,SamSWAT.ReflexSightsRework-3.9.0-1.0.0.zip
+[7]红点颜色修改-Fontaine-Red-Dot-Tweaker,https://hub.sp-tarkov.com/files/file/1335-fontaine-s-red-dot-tweaker/,顾名思义,d2024.8.4.0,2024-8-4 15:57,Fontaine-Red-Dot-Tweaker-v1.1.1-for-3.8.x.zip
+[7]平衡的夜视装备视效-BORKEL'S REALISTIC NIGHT VISION GOGGLES(BRNVG),https://hub.sp-tarkov.com/files/file/1303-borkel-s-realistic-night-vision-goggles-nvgs-and-t-7/,更真实的夜视装备视野效果,d2024.8.25.0,2024-8-25 11:30,BRNVG-1.5.8.zip
+[7]平衡的热成像视觉效果-BORKEL'S BIG REALISTIC THERMAL PACKAGE,https://hub.sp-tarkov.com/files/file/1510-borkel-s-big-realistic-thermal-package-bring-real-life-realism-to-your-thermal-s/,更真实的热成像装备视野效果,d2024.7.22.0,2024-7-22 23:28,BBRTP-1.0.4.zip
+[7]增加视野范围上限-SamSwat-INCREASED FOV,https://hub.sp-tarkov.com/files/file/1474-samswat-s-increased-fov-reupload/,视野范围越大，帧数可能越低。,d2024.8.4.0,2024-8-4 18:40,SamSwat-FOV.zip
+[7]更大的背包-JoshMate-BetterBackpacks,https://hub.sp-tarkov.com/files/file/772-josh-mate-s-better-backpacks/,,d2024.8.7.0,2024-8-7 23:25,JoshMate-BetterBackpacks_U24.zip
+[7]反重力臂章-Kiki-AntigravArmbands,https://hub.sp-tarkov.com/files/file/1894-kiki-antigravarmbandrepack/,让所有袖章可以减少5-25KG的负重，并可堆叠5个，力量满级后袖章请放在背包或者保险箱,d2024.7.10.0,2024-7-11 0:18,Kiki-AntigravArmbands.rar
+[7]更亮的镭射线-acidphantasm-brightlasers,https://hub.sp-tarkov.com/files/file/1880-brightlasers/,,d2024.7.7.0,2024-7-7 11:57,acidphantasm-brightlasers.7z
+[7]长弹匣长度修改-Platinum-TwoSlotExtendedMags,https://hub.sp-tarkov.com/files/file/1241-two-slot-extended-mags/,,d2024.8.8.0,2024-8-8 20:04,Platinum-TwoSlotExtendedMags-1.0.4.zip
+[7]可获取所有服装-RaiRaiTheRaichu-AllTheClothes,https://hub.sp-tarkov.com/files/file/740-all-the-clothes/,,d2024.9.6.0,2024-9-6 22:42,RaiRaiTheRaichu-AllTheClothes-2.0.1.zip
+[8]战局内功能大修_separator,,,,,
+[8]容易的技能选项-EasySkillOptions,https://hub.sp-tarkov.com/files/file/1518-easy-skill-options,,d2024.8.14.0,2024-8-15 19:31,EasySkillOptions.7z
+[8]全技能等级单独设置-Manual Experience Multiplier for Each Skills (M.E.M.E.S),https://hub.sp-tarkov.com/files/file/1953-manual-experience-multiplier-for-each-skills-m-e-m-e-s/,,d2024.8.4.0,2024-7-7 4:02,全技能等级单独设置-ManualExperienceMultiplier.zip
+[8]人物技能扩展和撬锁-SkillsExtended,https://hub.sp-tarkov.com/files/file/1722-beta-skills-extended/,顾名思义，它会修改部分技能的效果，目前处于初期测试阶段，但和现实主义没有冲突,d2024.9.1.0,2024-9-1 23:04,SkillsExtended.7z
+[8]身上任何物品均可绑定快捷键-UseItemsFromAnywhere,https://hub.sp-tarkov.com/files/file/1416-use-items-anywhere/,顾名思义,d2024.7.8.0,2024-7-8 20:00,UseItemsAnywhere1.1.1.7z
+[8]武器破门-dvize.BackdoorBandit,https://hub.sp-tarkov.com/files/file/1154-backdoor-bandit-bb/,整合包默认所有武器可破门。,d2024.7.8.0,2024-7-8 20:02,dvize.BackdoorBandit-v1.9.0.0.zip
+[8]更多界面信息-GamePanelHUD,https://hub.sp-tarkov.com/files/file/652-game-panel-hud/,多功能用户界面,d2024.7.7.0,2024-7-7 21:23,kmyuhkyuk-GamePanelHUD-(Release_3.1.1).7z
+[8]门的状态随机化-DrakiaXYZ-DoorRandomizer,https://hub.sp-tarkov.com/files/file/1107-door-randomizer/,现在所有的门的开关状态不是一成不变的。,d2024.7.7.0,2024-7-7 12:06,DrakiaXYZ-DoorRandomizer-1.4.0_3.9.0.7z
+[8]直接使用未捡物品-Gaylatea-UseLooseLoot,https://hub.sp-tarkov.com/files/file/1264-use-loose-loot/,对于未拾取的吃喝药品，可以直接使用，而不用先捡进包里,d2024.7.7.0,2024-7-7 12:06,Gaylatea-UseLooseLoot-1.2.0.7z
+[8]直接搜索已打开容器-DrakiaXYZ-SearchOpenContainers,https://hub.sp-tarkov.com/files/file/1265-search-open-containers/,可以直接搜索打开的文件柜等，不用关了再开。,d2024.7.7.0,2024-7-7 11:55,DrakiaXYZ-SearchOpenContainers-1.1.0.7z
+[8]禁用Scav模式-DisableScavMode,https://hub.sp-tarkov.com/files/file/1815-disablescavmode-egboggied/,因为核心MOD：Traveler已经破坏了scav模式，为避免误点，所以直接禁用Scav,d2024.7.7.0,2024-7-7 11:57,DisableScavMode.zip
+[8]开放所有撤离点-refringe-openextracts,https://hub.sp-tarkov.com/files/file/827-open-extract/,,d2024.9.7.0,2024-9-7 21:30,refringe-openextracts-1.5.1.zip
+[8]增加拾取距离-DrakiaXYZ-LootRadius,https://hub.sp-tarkov.com/files/file/1870-loot-radius/,,d2024.7.7.0,2024-7-7 11:57,DrakiaXYZ-LootRadius-1.1.0.7z
+[8]任务跟踪显示-DrakiaXYZ-QuestTracker,https://hub.sp-tarkov.com/files/file/1574-quest-tracker/,,d2024.7.7.0,2024-7-7 11:57,DrakiaXYZ-QuestTracker-1.3.0.7z
+[8]自动奔跑-Tyfon-AutoRun,https://hub.sp-tarkov.com/files/file/2035-autorun/#overview,Ctrl+W人物会自动奔跑，不用一直按着W,d2024.8.4.0,2024-8-4 16:15,Tyfon-AutoRun-2.0.0.7z
+[8]boss提醒器-BossNotifier,https://hub.sp-tarkov.com/files/file/1737-boss-notifier/,按O可以在左下角提示BOSS刷新信息,d2024.7.7.0,2024-7-7 11:56,BossNotifier.zip
+[8]真实的尸体伤口-BORKEL'S BLOODY BULLET WOUNDS(BBBWP),https://hub.sp-tarkov.com/files/file/1740-borkel-s-bloody-bullet-wounds/,更真实的伤口和血迹,d2024.8.18.0,2024-8-18 21:55,BBBWP-1.2.2.zip
+[8]多种可选准心-SimpleCrosshair,https://hub.sp-tarkov.com/files/file/1920-simple-crosshair/,,d2024.8.6.0,2024-8-6 20:15,SimpleCrosshair-1.1.3-0d34777e.zip
+[8]可交互的撤离点及其API-Jehree-InteractableExfilsAPI,https://hub.sp-tarkov.com/files/file/2286-interactable-exfils-api/,,d2024.8.29.0,2024-8-29 22:58,Jehree-InteractableExfilsAPI-1.2.0.zip
+[9]全局功能大修_separator,,,,,
+[9]游戏画质改善-阿曼达的图形-Amanda's Graphics,https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/,游戏内画质增强mod,d2024.7.7.0,2024-7-7 12:06,AmandsGraphics.1.6.3.zip
+[9]内置动态地图-DynamicMaps,https://hub.sp-tarkov.com/files/file/1981-dynamic-maps/,战局内按M，或查看地图可显示。,d2024.8.6.0,2024-8-6 20:15,DynamicMaps-0.3.4-b6d8bf85.zip
+[9]物品信息显示优化-子弹专家-MunitionsExpert,https://hub.sp-tarkov.com/files/file/1324-munitions-expert-reboot/,,d2024.8.4.0,2024-8-4 16:15,MunitionsExpert-1.4.0.zip
+[9]物品信息显示优化-物品信息-odt-iteminfo,https://hub.sp-tarkov.com/files/file/985-item-info/,顾名思义,d2024.7.17.0,2024-7-17 18:51,odt-iteminfo.zip
+[9]物品信息显示优化-物品打勾标记提供更多信息-MoreCheckmarks,https://hub.sp-tarkov.com/files/file/1159-morecheckmarks/,顾名思义,d2024.7.8.0,2024-7-8 20:04,MoreCheckmarks-1.5.14-for-3.9.0-30626.zip
+[9]名人堂摆件增益优化-Utjan.Hall of Fame Improvements,https://hub.sp-tarkov.com/files/file/2038-hall-of-fame-improvements/,,d2024.8.4.0,2024-8-4 18:39,utjan.HoFImprovements-1.2.0.zip
+[9]第三人称-SERVPH's Third Person,https://www.nexusmods.com/sptaki/mods/18,顾名思义,d2024.8.7.0,2024-7-7 4:02,Third Person (3.8.0)-18-1-0-1712892594.zip
+[9]去除屏幕顶部发光-Hide Top Glow,https://hub.sp-tarkov.com/files/file/2096-hide-top-glow/,,d2024.8.9.0,2024-8-9 19:57,Hide Top Glow 1.1.zip
+[9]自定义游戏BGM-BobbysMusicPlayer,https://hub.sp-tarkov.com/files/file/2250-custom-menu-music-soundtrack-mod-bobby-s-music-player/,黑猴专题，战局外是歌曲，战局内是纯音乐BGM,d2024.9.4.0,2024-8-13 20:10,BobbysMusicPlayerv1.2.2-hotfix-2.zip
+[9]原版HUD开关-ConfigHUD,https://hub.sp-tarkov.com/files/file/2249-confighud/,,d2024.8.17.0,2024-8-17 17:00,ConfigHUD-03.zip
+[9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices,https://hub.sp-tarkov.com/files/file/1561-live-flea-prices/,自动同步实时跳蚤价格，感谢群友雨轩修正了镜像链接，实现正常同步,d2024.9.17.0,2024-9-17 16:08,DrakiaXYZ-LiveFleaPrices-1.3.1.zip
+[9]动态天气与季节-PreyToLive-DynamicWeatherAndSeasons,https://hub.sp-tarkov.com/files/file/2135-dynamic-weather-seasons/,,d2024.9.15.0,2024-9-15 1:44,PreyToLive-DynamicWeatherAndSeasons-v1.0.1.zip
+[9]物品信息显示优化-物品售价-ItemSellPrice,https://hub.sp-tarkov.com/files/file/1230-item-sell-price/,可以在物品详情里显示物品售价,d2024.8.4.0,2024-8-4 16:15,ItemSellPrice-1.4.0.zip
+[10]物品高效整理（告别华容道）_separator,,,,,
+[10]UI大修-Tyfon-UIFixes,https://hub.sp-tarkov.com/files/file/1860-ui-fixes/,对NJT的垃圾UI操作进行大量改进，让体验更好，包含比如支持将两个不同物品交换位置,d2024.9.21.0,2024-9-21 19:50,Tyfon-UIFixes-2.5.0.zip
+[10]仓库搜索框-StashSearch,https://hub.sp-tarkov.com/files/file/1769-stash-search/,在仓库上增加一个搜索栏方便搜索物品,d2024.9.5.0,2024-9-5 18:39,StashSearch.7z
+[10]物品自动分类功能-INVENTORY ORGANIZING FEATURES,https://hub.sp-tarkov.com/files/file/2122-inventory-organizing-features-3-9-0/,使用特定的标签来实现自动物品分类和容器锁定位置。,d2024.7.12.0,2024-7-7 4:02,INVENTORY ORGANIZING FEATURES 3.8.0 SENKO EDITION FIX.zip
+[10]物品容器间快速移动-DrakiaXYZ-QuickMoveToContainer,https://hub.sp-tarkov.com/files/file/1859-quick-move-to-containers/,打开容器后，按Ctrl+点击物品即可自动将物品放到已打开的对应容器内,d2024.7.7.0,2024-7-7 11:57,DrakiaXYZ-QuickMoveToContainer-1.1.0.7z
+[10]从武器架装备武器-DrakiaXYZ-EquipFromWeaponRack,https://hub.sp-tarkov.com/files/file/1567-equip-from-weapon-rack/,,d2024.7.7.0,2024-7-7 11:56,DrakiaXYZ-EquipFromWeaponRack-1.2.0.7z
+[10]物品真实堆叠-True Items Redux,https://hub.sp-tarkov.com/files/file/2206-true-items-redux/#overview,提供其他物品的堆叠功能,d2024.8.2.0,2024-8-2 18:44,True-Items-Redux-1.2.1.zip
+[10]便捷出售-IhanaMies-LootValue,https://hub.sp-tarkov.com/files/file/1606-lootvalue/#overview,,d2024.7.19.0,2024-9-15 1:34,IhanaMies-LootValue-3.0.3.7z
+[10]右键快速出售按钮-QuickSell,https://hub.sp-tarkov.com/files/file/2318-quicksell/,,d2024.9.21.0,2024-9-21 19:50,QuickSell-3.9.8-v1.1.0.zip
+[11]作弊MOD_separator,,,,,
+[11]扫敌雷达-Tyr-RadarStandalone,https://hub.sp-tarkov.com/files/file/1522-accurate-circular-radar/,挂！光环雷达，可以标识周围120米内的AI分布。,d2024.7.8.0,2024-7-8 20:01,Radar-3.9.0.zip
+[11]任务跳过功能-Terkoiz-Skipper,https://hub.sp-tarkov.com/files/file/1861-skipper/,在任务条件项后面添加一个跳过按钮，可以一键完成任务。,d2024.8.4.0,2024-8-4 16:00,Terkoiz-Skipper-1.1.1.zip
+[11]物品感应-AmandsSense,https://github.com/Amands2Mello/AmandsSense/releases/tag/2.0.0a,附近可拾取物扫描，使用方法：游戏内双击F,d2024.8.4.0,2024-8-4 16:24,AmandsSense.2.0.0.zip
+[11]我就是爹游戏模式-dvize.DadGamerMode,https://hub.sp-tarkov.com/files/file/926-dad-gamer-mode/,其实就是无敌mod也提供类COD呼吸回血,d2024.8.2.0,2024-8-2 18:39,dvize.DadGamerMode-v1.9.3.0.zip
+[11]空中支援-SamSWAT-FireSupport,https://hub.sp-tarkov.com/files/file/1654-samswat-s-fire-support-arys-reloaded/,提供A10攻击机空袭支援和直升机接送撤离，直升机撤离是撤到本局出发站点，即使是中转站也能回。,d2024.8.4.0,2024-8-4 16:25,SamSWAT-FireSupport-ArysReloaded-2.2.4.7z
+[11]装备自动维修-dvize.ARSE SCRATCHING SERVICE (ASS),https://hub.sp-tarkov.com/files/file/1138-arse-scratching-service-ass/,战局内装备自动恢复耐久，默认关闭。,d2024.8.4.0,2024-8-4 16:25,dvize.ASS-v1.7.0.0.zip
+[11]万能菜单-ervph‘s Tarky Menu,https://www.nexusmods.com/sptaki/mods/15,小型超模，默认关闭。,d2024.7.18.0,2024-7-7 4:02,Tarky Menu MPT (3.8.0) RELEASE-15-1-12-1712892860.zip
+[11]迎新礼物任务-ShadowXtrex-WelcomeGifts,https://hub.sp-tarkov.com/files/file/993-welcome-gifts/,用任务的方式将礼品分派给了不同的商人,d2024.7.7.0,2024-7-7 12:02,ShadowXtrex-WelcomeGifts-v390.0.1.7z
+[11]血量随等级提升-HealthPerLevel（好奇猫自适配版,https://hub.sp-tarkov.com/files/file/1690-health-per-level-reboot/,顾名思义，与[5]自定义档案-ShadowXtrex-CustomProfiles冲突,d2024.8.6.0,2024-7-7 4:02,HealthPerLevel-mainREBOOT1.4.0.zip
+[12]修复、优化_separator,,,,,
+[12]防卡手-HandsAreNotBusy,https://hub.sp-tarkov.com/files/file/1810-handsarenotbusy/,防卡手快捷键：end，手卡了就按一下,d2024.7.7.0,2024-7-7 11:56,HandsAreNotBusy.zip
+[12]商人列表滚动-Kaeno-TraderScrolling,https://hub.sp-tarkov.com/files/file/1508-kaeno-traderscrolling/,提供商人界面的滚动选择功能,d2024.7.7.0,2024-7-7 11:56,Kaeno-TraderScrolling.zip
+[12]任务列表修复-DrakiaXYZ-TaskListFixes,https://hub.sp-tarkov.com/files/file/1114-task-list-fixes/,任务列表排序修复,d2024.7.7.0,2024-7-7 12:06,DrakiaXYZ-TaskListFixes-1.5.0.7z
+[12]更好的枪匠界面ChooChoo-Tradermodding,https://hub.sp-tarkov.com/files/file/1795-trader-modding-and-improved-weapon-building/,,d2024.7.17.0,2024-7-17 18:51,ChooChoo-Tradermodding-1.8.0.zip
+[12]远景阴影闪烁修复-ShadowFlickerFix,https://hub.sp-tarkov.com/files/file/2214-shadow-flicker-fix/,减少低画质下的远景闪烁,d2024.8.8.0,2024-8-8 20:09,ShadowFlickerFix.zip
+[12]机器人渲染控制-AdvancedBotCulling,https://hub.sp-tarkov.com/files/file/2342-advanced-bot-culling/,可以控制指定距离外的AI不渲染，从而减少一些系统需求,d2024.9.7.0,2024-9-7 21:28,AdvancedBotCulling.zip
+[13]MOD工具_separator,,,,,
+[13]存档编辑器-SPT-AKI Profile Editor,https://hub.sp-tarkov.com/files/file/184-spt-aki-profile-editor/,,,2024-7-7 4:01,
+[13]MOD工具-AI刷新和行为检修-DrakiaXYZ-BotDebug,https://hub.sp-tarkov.com/files/file/1242-botdebug/,检查PMC生成情况的工具，默认关闭。F9/F10可实现类似透视的效果，但主要是显示各AI的行为信息，用来检查AI是否出问题了。,d2024.8.4.0,2024-8-4 16:27,DrakiaXYZ-BotDebug-1.4.0_3.9.0.7z
+[13]战局外检修标签-Tyfon-DebugTooltip,https://hub.sp-tarkov.com/files/file/2112-debug-tooltip/,,d2024.8.4.0,2024-8-4 16:29,Tyfon-DebugTooltip-1.0.2.7z
+[13]自由摄像头-Terkoiz-Freecam,https://hub.sp-tarkov.com/files/file/279-freecam/,可以让你的视野脱离人物，到处飞,d2024.8.4.0,2024-8-4 16:27,Terkoiz-Freecam-1.4.4.zip
+[14]《现实化诺文斯克》数值、沉浸感再平衡_separator,,,,,
+《现实化诺文斯克》专属商人及任务线-AliceIllusion,Samuel是不是好奇猫自己修改、制作,整合包专属商人，已整合专属《诺文斯克之影》系列任务,,2024-8-4 16:31,
+《现实化诺文斯克》SAIN预设-NorvinskStalkerAIpreset,,整合包专属SAIN预设-持续更新,,2024-8-4 16:37,
+《现实化诺文斯克》BepInex客户端MOD的Config,,对游戏界面有自己习惯请关掉此项。否则进入游戏将只有左下角蹲姿体力槽,,2024-7-7 4:02,
+《现实化诺文斯克》PathToTarkov沉浸感路径,,,d2024.9.16.0,2024-9-17 0:16,Trap-PathToTarkov-5.3.3.zip
+《现实化诺文斯克》现实主义装备物品设置和预设,,现实主义的本整合包所有自定义参数均在此,d2024.9.15.0,2024-7-7 4:02,Moxo-Pixel Realism compatibility patch 2.0.5.zip
+《现实化诺文斯克》药品酒水沉浸感增强设置,,在config里增加了BackdoorBandit的C4炸弹的工作台配方,d2024.5.16.0,2024-9-8 12:36,SkillsExtended.7z
+《现实化诺文斯克》Raid Overhaul沉浸感增强设置,,,d2024.9.14.0,2024-9-14 22:16,RaidOverhaul.7z
+《现实化诺文斯克》Softcore沉浸感增强设置,,软核的设置目前跟1.1.8一致,d2023.11.18.0,2024-7-7 4:02,Realism-Mod-v0.14.2-SPT-v3.7.1.zip
+《现实化诺文斯克》SWAG-Donuts沉浸感增强设置,,所有AI数量和刷新率在这里设置,d2023.11.4.0,2024-7-7 4:02,SWAG-Donuts-v3.2.2.zip
+《现实化诺文斯克》MOD商人任务文本翻译,,翻译者：群友????。现包括Artem、Painter、scorpion三个商人的任务文本翻译。,,2024-7-7 4:02,
+《现实化诺文斯克》AntigravArmbands沉浸感增强设置,,增加更多的反重力臂章和减重等级,d2023.11.2.0,2024-7-7 4:02,Kiki-AntigravArmbands.2.2.6.zip
+《现实化诺文斯克》True Items沉浸感增强设置,,增加了更多物品的堆叠,d2023.12.9.0,2024-7-7 4:02,True Items v1.0.3.rar
+《现实化诺文斯克》WTT-PackNStrap沉浸感增强设置,,增加更多可以放进保险箱的容器，并修正了臂包的售价。感谢群友：渗透者之心的定价计算,d2024.5.3.0,2024-7-7 4:02,WTT-PackNStrap.rar
+《现实化诺文斯克》外骨骼DolgExoS2沉浸感增强设置,,对外骨骼的各个参数进项了修改,d2024.5.17.0,2024-7-7 4:02,SamSWAT-DolgExoS2.zip
+《现实化诺文斯克》SkillsExtended沉浸感增强设置,,在config里增加了BackdoorBandit的C4炸弹的工作台配方,d2024.5.16.0,2024-7-7 4:02,SkillsExtended.7z
