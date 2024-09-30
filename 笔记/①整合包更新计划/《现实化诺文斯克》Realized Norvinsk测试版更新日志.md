@@ -144,7 +144,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [2]新物品-krackasourus的可集换卡和物品-ALL IN ONE，物品太多，顶掉了太多其他类型的垃圾。
 	- 一堆懒得做现实主义兼容，使用频率又少的MOD武器。
 
-# 24-9-xx日志：
+# 24-9-30更新日志：
 
 - 新增：
 	- [1]前置框架-商人可售卖装有东西的容器-TradersSellBundles
@@ -173,4 +173,4 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 调整Order.json，改进MOD间的兼容性。
 	- 翻译新增加的任务线文本。
 - 淘汰：
-	- 
+	- ![](assets/Pasted%20image%2020240930192245.png)
