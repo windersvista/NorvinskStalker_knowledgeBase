@@ -48,7 +48,7 @@
 | "SE Exfil"                | Emercom Checkpoint | Emercom检查站 | [link](https://mapgenie.io/tarkov/maps/interchange?locationIds=28340) |
 | "PP Exfil"                | Power Station V-Ex | 电站黑车       | [link](https://mapgenie.io/tarkov/maps/interchange?locationIds=28339) |
 | "Saferoom Exfil"          | Saferoom Exfil     | 商场地下安全屋    | [link](https://mapgenie.io/tarkov/maps/interchange?locationIds=28342) |
-| "Hole Exfill"             | Hole in the Fence  | 篱笆破口       | [link](https://mapgenie.io/tarkov/maps/interchange?locationIds=28349) |
+| "Hole Exfill"             | Hole in the Fence  | 围栏破洞       | [link](https://mapgenie.io/tarkov/maps/interchange?locationIds=28349) |
 | "Interchange Cooperation" | Scav Camp (Co-Op)  | Scav营地     | [link](https://mapgenie.io/tarkov/maps/interchange?locationIds=28343) |
 
 ## Woods-森林

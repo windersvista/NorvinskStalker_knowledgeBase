@@ -151,6 +151,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [5]伪无缝地图-通往塔科夫之路-Trap-PathToTarkov
 	- 《现实化诺文斯克》PathToTarkov沉浸感路径
 	- [4]新商人-Viper
+	- [3]新武器-机枪-WTT-Armory-M249，并增加现实主义补丁
 - 更新：
 	- [10]右键快速出售按钮-QuickSell
 	- [10]UI大修-Tyfon-UIFixes
@@ -167,6 +168,9 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 调整《现实化诺文斯克》现实主义装备物品设置和预设，更新配件参数：前握把属性、枪托属性、消声器属性等
 	- 调整《现实化诺文斯克》现实主义装备物品设置和《现实化诺文斯克》药品酒水沉浸感增强设置：现在部分水和饮料，以及糖不用再一口气喝完吃完了。
 	- 调整《现实化诺文斯克》专属商人及任务线-AliceIllusion：售卖列表添加多两把武器。
-	- 重新增加了PTT和原本弃置的PTT路径
+	- 调整[5]自定义档案-ShadowXtrex-CustomProfiles
+	- 重新增加了PTT和原本弃置的PTT路径。
+	- 调整Order.json，改进MOD间的兼容性。
+	- 翻译新增加的任务线文本。
 - 淘汰：
 	- 
