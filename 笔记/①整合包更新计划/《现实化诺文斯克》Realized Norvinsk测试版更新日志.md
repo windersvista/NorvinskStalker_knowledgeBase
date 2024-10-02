@@ -183,8 +183,9 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [6]AI拟人MOD的前置框架-DrakiaXYZ-BigBrain（吃帧数）
 	- [6]AI路径扩展-DrakiaXYZ-Waypoints
 - 调整：
-	- 调整《现实化诺文斯克》初始角色开局：PMC老兵-容易的起始装备和库存
-	- 
+	- 稍微调降了所有地图的物资刷新率
+	- 调整了《现实化诺文斯克》初始角色开局：PMC老兵-容易的起始装备和库存
+	- 调整了《现实化诺文斯克》初始角色开局：PMC新兵-一般的起始装备和库存
 	- 各角色主家不再能访问到商人
 	- 改动部分点位的仓库大小
 	- 调低所有特殊AI（非PMC、Scav的其他AI）的刷新率
