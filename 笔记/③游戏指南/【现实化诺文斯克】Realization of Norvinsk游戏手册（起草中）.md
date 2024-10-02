@@ -10,42 +10,6 @@
 > 
 > 而是在原版基础上通过Mod：PathToTarkov（PTT）进行地图间移动设置、CustomProfiles（自定义档案）增加专属起始角色、Realism（现实主义）进行更进一步现实化改造（《诺潜》已经有一定现实化改造了），加入整合包专属商人、整合包专属任务线，具备撬锁、枪破门、技能大改、医疗方式大修、AI行为拟人化、武器装备的数值重新平衡等等，提供区别于原版塔科夫的真实性沉浸式游戏体验。
 
-## 鸣谢名单
-
-### **Q群群友:**
-诺文斯克潜行者1.0.0版教程的修正：随风而去
-1.0.0版整问题反馈：珠泪哀歌族·？
-1.0.0版大地图汉化：出走在远方
-“点开始游戏却没有反应”的解决方案：夜熙、夢遊于華胥之國、旗礼、BadForNight
-Traveler商人位置修改补丁的制作和测试：KHORNE制作，树上骑柒只猴
-制作对应的实时地图修改：树上骑柒只猴
-1.0.5版新traveler大地图指引制作：风吟随行
-1.0.5版测试人员：珠泪哀歌族·？、那我就特别凶、恰啡就是咖啡、憨伍蒂
-1.1.0版测试人员：T1anMen9、Niegerlia、Rivaille、E_lizard、加把劲骑士、Kang、Weeping Dawn
-1.0.0热修鸣谢：Kang、E_lizard、B站UP：Oo大H豆oO、刀刀
-1.1.8版测试人员：一只梅狸猫、公用带星怒、随风而去、童某、悲剧龙
-现实化诺文斯克制作过程中：渗透者之心的物价建议、✘✘✘✘的任务文本翻译、颜开的起始角色建议。
-
-### 离线塔科夫MOD社区
-塔科夫 MOD 社区网站：https://hub.sp-tarkov.com/files/
-国内塔科夫 MOD 社区 ODDBA：https://sns.oddba.cn/
-
-本整合包所使用的每个MOD的主页列表：
-[5.List of the mod used in Realization Norvinsk](../{0}ModPack%20Download/5.List%20of%20the%20mod%20used%20in%20Realization%20Norvinsk.md)
-
-说明手册借鉴自：
-
-B站up主BB84 的辐射 4 整合包《废土蓝调》:
-https://www.bilibili.com/video/BV1z54y1Z7hv/
-
-### 谨以此整合包纪念我的两只爱猫
-
-- 大头（左）：2024年3月11日
-- 灵灵（右）：2024年3月13日
-![](assets/Pasted%20image%2020240930211216.png)
-
-## 整合包游戏手册
-
 ### 整合包的特色玩法总结性介绍
 
 - 《现实化诺文斯克》Realization of Norvinsk倾向于单机化、RPG化和潜行者化。**主要差异通过5个核心MOD来实现与离线/在线版塔科夫是完全不同的游戏体验。**
@@ -87,3 +51,45 @@ https://www.bilibili.com/video/BV1z54y1Z7hv/
 
 2. 启动游戏，在新建档案的版本列表中找到它：
 ![](assets/Pasted%20image%2020240930215751.png)
+
+
+
+
+
+
+
+
+
+## 特别鸣谢
+
+### **Q群群友:**
+诺文斯克潜行者1.0.0版教程的修正：随风而去
+1.0.0版整问题反馈：珠泪哀歌族·？
+1.0.0版大地图汉化：出走在远方
+“点开始游戏却没有反应”的解决方案：夜熙、夢遊于華胥之國、旗礼、BadForNight
+Traveler商人位置修改补丁的制作和测试：KHORNE制作，树上骑柒只猴
+制作对应的实时地图修改：树上骑柒只猴
+1.0.5版新traveler大地图指引制作：风吟随行
+1.0.5版测试人员：珠泪哀歌族·？、那我就特别凶、恰啡就是咖啡、憨伍蒂
+1.1.0版测试人员：T1anMen9、Niegerlia、Rivaille、E_lizard、加把劲骑士、Kang、Weeping Dawn
+1.0.0热修鸣谢：Kang、E_lizard、B站UP：Oo大H豆oO、刀刀
+1.1.8版测试人员：一只梅狸猫、公用带星怒、随风而去、童某、悲剧龙
+现实化诺文斯克制作过程中：渗透者之心的物价建议、✘✘✘✘的任务文本翻译、颜开的起始角色建议。
+
+### 离线塔科夫MOD社区
+塔科夫 MOD 社区网站：https://hub.sp-tarkov.com/files/
+国内塔科夫 MOD 社区 ODDBA：https://sns.oddba.cn/
+
+本整合包所使用的每个MOD的主页列表：
+[5.List of the mod used in Realization Norvinsk](../{0}ModPack%20Download/5.List%20of%20the%20mod%20used%20in%20Realization%20Norvinsk.md)
+
+说明手册借鉴自：
+
+B站up主BB84 的辐射 4 整合包《废土蓝调》:
+https://www.bilibili.com/video/BV1z54y1Z7hv/
+
+### 谨以此整合包纪念我的两只爱猫
+
+- 大头（左）：2024年3月11日
+- 灵灵（右）：2024年3月13日
+![](assets/Pasted%20image%2020240930211216.png)

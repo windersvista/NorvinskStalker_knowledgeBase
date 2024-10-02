@@ -174,3 +174,18 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 新增加的任务线文本翻译。
 - 淘汰：
 	- ![](assets/Pasted%20image%2020240930192245.png)
+
+# 24-10-xx更新日志：
+
+- 新增：
+	- [8]可拾取穿墙物品-ReachExtender
+- 更新：
+	- [6]AI拟人MOD的前置框架-DrakiaXYZ-BigBrain（吃帧数）
+	- [6]AI路径扩展-DrakiaXYZ-Waypoints
+- 调整：
+	- 调整《现实化诺文斯克》初始角色开局：PMC老兵-容易的起始装备和库存
+	- 
+	- 各角色主家不再能访问到商人
+	- 改动部分点位的仓库大小
+	- 调低所有特殊AI（非PMC、Scav的其他AI）的刷新率
+	- 再次调整Order.json，改进MOD间的兼容性。
