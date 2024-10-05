@@ -1,4 +1,4 @@
-## 有缝大地图MOD：Path to Tarkov的Config解析
+## 地图间移动MOD：Path to Tarkov的Config解析
 
 > [!NOTE] 好奇猫注：
 > 以下内容是我个人的对MOD功能的个人理解，如有错误，请及时反馈。
