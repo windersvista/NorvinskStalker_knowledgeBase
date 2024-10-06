@@ -175,7 +175,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 - 淘汰：
 	- ![](assets/Pasted%20image%2020240930192245.png)
 
-# 24-10-xx更新日志：
+# 24-10-06-0.9.5Hotfix更新日志：
 
 - 新增：
 	- [8]可拾取穿墙物品-ReachExtender
@@ -183,6 +183,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [6]AI拟人MOD的前置框架-DrakiaXYZ-BigBrain（吃帧数）
 	- [6]AI路径扩展-DrakiaXYZ-Waypoints
 	- [4]新商人-毒蛇-Viper
+	- [9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices
 - 调整：
 	- 稍微调降了所有地图的物资刷新率
 	- 调整了《现实化诺文斯克》初始角色开局：PMC老兵-容易的起始装备和库存
@@ -191,6 +192,9 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 各角色主家不再能访问到商人
 	- 改进部分点位的仓库大小
 	- 调低所有AI（非PMC、Scav的其他AI）的刷新率和刷新频率
+	- 减少武器故障率
+	- 新增了一些任务汉化
+	- 尝试让[9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices不再爆红
 	- 再次调整Order.json，改进MOD间的兼容性。
 - 淘汰
 	- 无
