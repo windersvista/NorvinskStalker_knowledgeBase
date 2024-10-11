@@ -175,26 +175,30 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 - 淘汰：
 	- ![](assets/Pasted%20image%2020240930192245.png)
 
-# 24-10-06-0.9.5Hotfix更新日志：
+# 24-10-11更新日志：
 
 - 新增：
+	- [4]新商人-藏身处物资商人-acidphantasm-harryhideout
 	- [8]可拾取穿墙物品-ReachExtender
+	- [8]声音可视化-acidphantasm-accessibilityindicators
+	- [9]简单的锻炼QTE-acidphantasm-simpleworkoutqte
 - 更新：
 	- [6]AI拟人MOD的前置框架-DrakiaXYZ-BigBrain（吃帧数）
 	- [6]AI路径扩展-DrakiaXYZ-Waypoints
 	- [4]新商人-毒蛇-Viper
 	- [9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices
+	- [2]新物品-镀金钥匙链（更好的钥匙容器）-Jehree-GildedKeyStorage
+	- [8]人物技能扩展和撬锁-SkillsExtended
 - 调整：
+	- 关闭部分物品MOD，减轻服务器负担（大概吧）
 	- 稍微调降了所有地图的物资刷新率
-	- 调整了《现实化诺文斯克》初始角色开局：PMC老兵-容易的起始装备和库存
-	- 调整了《现实化诺文斯克》初始角色开局：PMC新兵-一般的起始装备和库存
-	- 调整了《现实化诺文斯克》初始角色开局：泰拉集团实验受害者-很难起始装备和库存、技能
-	- 各角色主家不再能访问到商人
+	- 将角色和难度分离，现在难度主要靠主家为主
+	- 各主家不再能访问到除了黑商、藏身处物资商人以外的其他商人
 	- 改进部分点位的仓库大小
 	- 调低所有AI（非PMC、Scav的其他AI）的刷新率和刷新频率
 	- 减少武器故障率
 	- 新增了一些任务汉化
-	- 尝试让[9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices不再爆红
+	- 尝试让[9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices不再爆红，跳蚤价格能同步
 	- 再次调整Order.json，改进MOD间的兼容性。
 - 淘汰
 	- 无
