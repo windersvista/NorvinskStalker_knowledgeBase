@@ -205,3 +205,38 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 无
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
+
+# 24-10-xx-0.9.7更新日志：
+
+- 新增：
+	- [12]修复小白格bug-MarsyApp-WhiteBoxFix
+	- [2]新服饰-RCTA.-.Synaptic.T1.1.4
+	- [8]怜悯的战利品-bakahashi-pityloot
+- 更新：
+	- [9]内置动态地图-DynamicMaps
+	- [11]我就是爹游戏模式-dvize.DadGamerMode
+	- [11]物品感应-AmandsSense
+	- [10]便捷出售-IhanaMies-LootValue
+	- [10]仓库搜索框-StashSearch
+	- [10]UI大修-Tyfon-UIFixes
+	- [9]物品打勾标记提供更多信息-MoreCheckmarks
+	- [9]游戏画质改善-阿曼达的图形-Amanda's Graphics
+	- [8]多种可选准心-SimpleCrosshair
+	- [8]boss提醒器-BossNotifier
+	- [8]任务跟踪显示-DrakiaXYZ-QuestTracker
+	- [8]声音可视化-acidphantasm-accessibilityindicators
+	- [7]瞄准视野大修-Fontaine-FOV-Fix
+	- [6]AI动态生成点-SWAG-Donuts（吃帧数）
+	- [6]AI自动搜索物品-Skwizzy-LootingBots（吃帧数）
+	- [6]AI增强-SAIN（吃帧数）
+	- [4]新商人-赌鬼-TheGambler
+	- [2]新物品-镀金钥匙链（更好的钥匙容器）-Jehree-GildedKeyStorage
+- 调整：
+	- 得到Volcano小火山的授权使用他的汉化。
+	- 现在实验室的电梯可以正常使用了
+	- 现在撬锁工具重新有次数限制了
+	- 
+- 淘汰
+	- 无
+- 与正式版的距离
+	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
