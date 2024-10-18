@@ -232,6 +232,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [4]新商人-赌鬼-TheGambler
 	- [2]新物品-镀金钥匙链（更好的钥匙容器）-Jehree-GildedKeyStorage
 - 调整：
+	- 优化了所有角色的初始条件
 	- 得到Volcano小火山的授权使用他的汉化。
 	- 现在实验室的电梯可以正常使用了
 	- 现在撬锁工具重新有次数限制了

@@ -56,8 +56,7 @@
 	3. 即此时游戏本体路径应为：E:\\EFT_Offline\\SPT_39x。MO2路径应为：E:\\EFT_Offline\\Realized_Norvinsk_v0.9x。
 		#### 注意！mo2文件夹不能放在本体文件里！我整合包的mod安装方式不是老一套！
 	1. 电脑首次安装塔科夫的玩家，请先按照“1、【非正版玩家才用】3.7.6新正版验证程序”中的去验证说明.txt使用塔科夫去验证补丁。
-	2. 注意：是电脑从来没装过任何版本的《逃离塔科夫》、或完整卸载过塔科夫的电脑的才需要使用这个“去正版验证文件”文件。电脑已有正版《逃离塔科夫》或其他离线版本的玩家请跳过这一步。
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps1.jpg)
+	2. 注意：**是电脑从来没装过任何版本的《逃离塔科夫》、或完整卸载过塔科夫的电脑的才需要使用这个“去正版验证文件”文件。**电脑已有正版《逃离塔科夫》或其他离线版本的玩家请跳过这一步。
 	6. 创建实例。以上步骤——下载游戏本体和做正版验证确认完成后，打开E:\\EFT_Offline\\Realized_Norvinsk_v0.9x，运行里面的ModOrganizer.exe，便可打开MO2。
 	7. 如果直接照抄我上面的实例路径（即盘符、文件夹、路径全部一致），打开MO2后看到的界面应该是下图所示，等于MO2直接读取了我包中已有的实例。可**跳到第五步**之后，继续操作。
 	8. 如果没有使用我上面的实例路径，MO2应该会提示以下错误，这表示MO2没找到可识别的实例，这里只需要按“确定”即可跳到创建实例的步骤。
@@ -86,15 +85,14 @@
 		![](assets/Pasted%20image%2020241002172504.png)
 	15. 到这里，开始设置阶段。
 		在进行下一步之前，先改设置换成中文界面tools-settings-Chinese(Simplified)然后OK即可——
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps3.jpg) 
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps4.jpg) 
-	16. 然后**将MOD列表中的备注拉出来**——
+		![](assets/Pasted%20image%2020241018222440.png)
+	1. 然后**将MOD列表中的备注拉出来**——
 		右键黄框一栏，按如图所示将“备注”开启，我在备注中添加了大量说明信息。
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps5.jpg)
-	17. 然后接着下一步——恢复预先准备的MOD排序的备份还原。还原备份操作如下：点击“配置档案”栏，确认此时选择的是“诺文斯克潜行者118”的档案：
+		![](assets/Pasted%20image%2020241018222517.png)
+	1. 然后接着下一步——恢复预先准备的MOD排序的备份还原。还原备份操作如下：点击“配置档案”栏，确认此时选择的是“现实化诺文斯克vX.x.x”的档案：
 		![](assets/Pasted%20image%2020241002173706.png)
 		 然后：
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps7.jpg) 
+		 ![](assets/Pasted%20image%2020241018222640.png)
 		点击以上高亮的黄色箭头，会出现以下界面，因为我只提供一个备份，所以点击唯一一个选项即可。
 		![](assets/Pasted%20image%2020241002173523.png)
 		#### 注意：难度默认选择==《现实化诺文斯克》初始角色开局：PMC老兵-容易==
@@ -103,33 +101,29 @@
 ## 游玩前检查和设置：
 
 - #### 检查
-	- 需要检查一下“运行”旁边的路径——
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps9.jpg) 
-		
-	- 这里点击“编辑”打开以下窗口——
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps10.jpg) 
-		
+	- 需要检查一下“运行”旁边的路径，这里点击“编辑”打开以下窗口——
+		![](assets/Pasted%20image%2020241018222740.png)
 	- 确保“程序”的路径是指向你游戏本体里的sptvfsbridge.bat。确保“启动于”的路径是指向你的游戏本体的路径。
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps11.jpg) 
+		![](assets/Pasted%20image%2020241018222811.png)
 		
-	- 两个都确保以后，点击MO2界面的“run”会自动依次运行离线塔科夫的服务器端：
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps12.jpg) 
+	- 两个都确保以后，点击MO2界面的“运行”会自动依次运行离线塔科夫的服务器端：
+		![](assets/Pasted%20image%2020241018223146.png)
 		
-	- 服务器加载时如果有大段黄字不用在意，仅是因为部分mod没有更新到现在本体的版本，但其实能用，不影响游玩。
-	- 然而此时还不能直接按“开始游戏”，先点击右上角“设置”
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps19.jpg) 确定了“选择文件夹”项的路径是你游戏本体路径，如：E:\\EFT_Offline\\SPT_39x文件夹后，再重启客户端、服务器端，才可开始游戏。
+	- 然而此时还不能直接按“开始游戏”，先点击右上角“设置”：
+		![](assets/Pasted%20image%2020241018223251.png)
+		
+		确定了“选择文件夹”项的路径是你游戏本体路径，如：E:\\EFT_Offline\\SPT_39x文件夹后，再重启客户端、服务器端，才可开始游戏。
 		
 	- **温馨提示：如果你的电脑配置较差，服务器开启较慢。SPT Launcher启动后，服务器端可能并未启动完成，就会显示“默认服务器‘SPT-AKI’不可用”。**
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps20.jpg) 
+		![](assets/Pasted%20image%2020241018223008.png)
 		
-	- 请在服务器端显示“服务器正在运行 玩得开心！！存档变动已保存”之后再点客户端上的“重试”就可以正常启动客户端了。
+	- 请在服务器端显示“**服务器正在运行 玩得开心！！**”之后再点客户端上的“重试”就可以正常启动客户端了。
 		![](assets/Pasted%20image%2020241002180943.png)
 		
-	- #### 注：如果首次启动游戏，出现以下提示,请安装教程开头提到的系统环境软件。
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps14.jpg) 
 		
 	- 可自行新建存档。在“电子邮箱”一栏随便输入你喜欢的命名，例如：
-		![](file:///C:\Users\SAMUEL~1\AppData\Local\Temp\ksohtml14592\wps15.jpg) 
+		![](assets/Pasted%20image%2020241018223330.png)
+		
 		##### 并点击“登录/注册”便可创建账号，开始游戏。
 
 
