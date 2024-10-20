@@ -212,6 +212,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [12]修复小白格bug-MarsyApp-WhiteBoxFix
 	- [2]新服饰-RCTA.-.Synaptic.T1.1.4
 	- [8]怜悯的战利品-bakahashi-pityloot
+	- [2]可以玩的GameBoy-WTT-KomradeKid
 - 更新：
 	- [9]内置动态地图-DynamicMaps
 	- [11]我就是爹游戏模式-dvize.DadGamerMode
@@ -231,9 +232,11 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [6]AI增强-SAIN（吃帧数）
 	- [4]新商人-赌鬼-TheGambler
 	- [2]新物品-镀金钥匙链（更好的钥匙容器）-Jehree-GildedKeyStorage
+	- [6]可指挥的AI队友-friendlypmc（吃帧数）
 - 调整：
-	- 优化了所有角色的初始条件
-	- 得到Volcano小火山的授权使用他的汉化。
+	- 感谢Volcano小火山的授权，让整合包可以使用他制作的MOD汉化。
+	- 优化了所有角色的初始装备
+	- PTT终究不是traveler，限制商人和仓库并不会给游戏体验带来更多沉浸感，反而是负担，所以取消。现在PTT提供的仅仅只是地图间移动功能和不同出生点的选择。
 	- 现在实验室的电梯可以正常使用了
 	- 现在撬锁工具重新有次数限制了
 	- 
