@@ -206,13 +206,20 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
 
-# 24-10-xx-0.9.7更新日志：
+# 24-10-27-v0.9.7更新日志：
 
+### ⚠️警告：更新此版本需要重开新档！！
 - 新增：
-	- [12]修复小白格bug-MarsyApp-WhiteBoxFix
-	- [2]新服饰-RCTA.-.Synaptic.T1.1.4
-	- [8]怜悯的战利品-bakahashi-pityloot
-	- [2]可以玩的GameBoy-WTT-KomradeKid
+	- [12]修复小白格bug-MarsyApp-WhiteBoxFix，可以修复屏幕中央白色方块bug
+	- [2]新服饰-RCTA.-.Synaptic.T1.1.4，几套可以让任务变成机器人的衣服
+	- [8]怜悯的战利品-bakahashi-pityloot，让物资的生成紧贴人物的各项需要，可以控制物资刷新
+	- [2]可以玩的GameBoy-WTT-KomradeKid，可以让你在塔科夫里玩Gameboy
+	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod，测试，将改变人物角色持握武器的动作动画，变得更真实。
+	- [6]超精简AI生成-DewardianDev-MOAR，准备取代SWAG管理AI生成，已测试，不好用。
+	- [6]更好的生成-PreyToLive-BetterSpawnsPlus，测试中，用于取代SWAG管理AI生成。
+	- [4]任务条件随机化-leaves-questrandomizer，默认关闭，打开他的话需要重开新档，会讲大部分任务的完成条件改掉。
+	- [2]新服饰-Skeleton
+	- [3]全地图随机阔剑地雷-DrakiaXYZ-Hazardifier
 - 更新：
 	- [9]内置动态地图-DynamicMaps
 	- [11]我就是爹游戏模式-dvize.DadGamerMode
@@ -233,13 +240,22 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [4]新商人-赌鬼-TheGambler
 	- [2]新物品-镀金钥匙链（更好的钥匙容器）-Jehree-GildedKeyStorage
 	- [6]可指挥的AI队友-friendlypmc（吃帧数）
+	- [3]015新内容-RaiRaiTheRaichu-Update15Backport
+	- [9]物品信息显示优化-子弹专家-MunitionsExpert
+	- [5]现实主义大修-Fontaine-Realism-Mod
 - 调整：
-	- 感谢Volcano小火山的授权，让整合包可以使用他制作的MOD汉化。
+	- **感谢Volcano小火山的授权，让整合包可以使用他制作的大量MOD汉化。**
+	- 外骨骼头盔现在可以放到面具槽位，来让他的防毒面具功能生效
 	- 优化了所有角色的初始装备
-	- PTT终究不是traveler，限制商人和仓库并不会给游戏体验带来更多沉浸感，反而是负担，所以取消。现在PTT提供的仅仅只是地图间移动功能和不同出生点的选择。
+	- PTT终究不是traveler，限制商人和仓库并不会给游戏体验带来更多沉浸感，反而是负担，所以关闭了。现在PTT提供的仅仅只是地图间移动功能和不同出生点的选择。
 	- 现在实验室的电梯可以正常使用了
 	- 现在撬锁工具重新有次数限制了
-	- 
+	- 因为SWAG停更，所以开始尝试用[6]更好的生成-PreyToLive-BetterSpawnsPlus取代SWAG来管理AI生成。
+	- 调整子弹的堆叠数量。
+	- 调整可交易物品的堆叠数量。
+	- 更新了大地图。
+	- 削弱AI的听力范围。
+	- 再次调整Order.json，改进MOD间的兼容性。
 - 淘汰
 	- 无
 - 与正式版的距离
