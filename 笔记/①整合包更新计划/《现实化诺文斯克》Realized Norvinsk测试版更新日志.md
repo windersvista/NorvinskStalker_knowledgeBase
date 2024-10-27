@@ -244,7 +244,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [9]物品信息显示优化-子弹专家-MunitionsExpert
 	- [5]现实主义大修-Fontaine-Realism-Mod
 - 调整：
-	- **感谢Volcano小火山的授权，让整合包可以使用他制作的大量MOD汉化。**
+	- **特别鸣谢：Volcano进行了部分MOD的汉化并授权本整合包使用。**
 	- 外骨骼头盔现在可以放到面具槽位，来让他的防毒面具功能生效
 	- 优化了所有角色的初始装备
 	- PTT终究不是traveler，限制商人和仓库并不会给游戏体验带来更多沉浸感，反而是负担，所以关闭了。现在PTT提供的仅仅只是地图间移动功能和不同出生点的选择。
