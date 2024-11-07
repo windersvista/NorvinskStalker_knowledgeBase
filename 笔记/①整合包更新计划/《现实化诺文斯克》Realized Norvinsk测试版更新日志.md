@@ -219,7 +219,6 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [6]更好的生成-PreyToLive-BetterSpawnsPlus，测试中，用于取代SWAG管理AI生成。
 	- [4]任务条件随机化-leaves-questrandomizer，默认关闭，打开他的话需要重开新档，会讲大部分任务的完成条件改掉。
 	- [2]新服饰-Skeleton
-	- [3]全地图随机阔剑地雷-DrakiaXYZ-Hazardifier
 - 更新：
 	- [9]内置动态地图-DynamicMaps
 	- [11]我就是爹游戏模式-dvize.DadGamerMode
@@ -258,5 +257,47 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 再次调整Order.json，改进MOD间的兼容性。
 - 淘汰
 	- 无
+- 与正式版的距离
+	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
+
+
+# 24-11-xx-v0.9.75更新日志：
+
+### ⚠️警告：更新此版本需要重开新档！！
+- 新增：
+	- [2]头声选择器-WTT-HeadVoiceSelector，玩家可以像选择服装一样自由选择头部和声音。
+	- [2]女性人物脸型身型和声音-WTT-W.A.A.C
+	- [6]AI自动做任务-DanW-SPTQuestingBots，现在AI除了捡东西，也有自己想做的事情了，比如追杀玩家。
+	- [2]更多的仓库容器-randomizzatore-morecases，贵的离谱但容量更大的仓库容器。
+	- 《现实化诺文斯克》BetterBackpacks沉浸感增强设置，增加了对MOD背包的扩大支持。
+- 更新：
+	- [6]AI视野真实化-That's Lit（吃帧数）
+	- [6]超精简AI生成-DewardianDev-MOAR
+	- [9]主菜单大修-MoxoPixel-MenuOverhaul
+	- [2]可以插卡玩的GameBoy-WTT-KomradeKid
+	- [2]新BOSS-惩罚者-WTT-RogueJustice
+	- [6]AI自动搜索物品-Skwizzy-LootingBots
+	- [4]任务条件随机化-leaves-questrandomizer
+	- [9]内置动态地图-DynamicMaps
+	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod
+- 调整：
+	- **特别鸣谢：Volcano进行了部分MOD的汉化并授权本整合包使用。**
+	- 优化了阿曼达图形的环境光和DOF设置。
+	- 现在所有AI都减少了使用垃圾子弹。
+	- 进一步优化MOAR的AI刷新规则。
+	- 调整战局的总时长为205分钟。
+	- 调低绝大部分弹匣、弹鼓的故障率。
+	- 修复所有实验室电梯门撤离点。
+	- 尝试让黑车恢复付款撤离。
+	- 让部分MOD药品可以在战局内使用了。
+	- 扩大了部分MOD背包的容量。
+	- 再次尝试修复[9]同步线上跳蚤价格-DrakiaXYZ-LiveFleaPrices的爆红。
+	- 调整了AI的强度，让Boss和PMC的强度更平衡。
+	- 正式确定用MOAR来取代SWAG管理AI的生成，并对生成规则进行进一步细化调整。
+	- 清理了一些不再使用的旧MOD。
+	- 再次调整Order.json，改进MOD间的兼容性。
+- 淘汰
+	- [3]全地图随机阔剑地雷-DrakiaXYZ-Hazardifier
+	- [6]更好的生成-PreyToLive-BetterSpawnsPlus
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
