@@ -301,3 +301,37 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [6]更好的生成-PreyToLive-BetterSpawnsPlus
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
+
+
+# 24-11-09-v0.9.7.5.热修日志：
+
+- 新增：
+	- 无
+- 更新：
+	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod
+- 调整：
+	- 《现实化诺文斯克》主家位置：中心区和《现实化诺文斯克》主家位置：海关在0975发布前为了测试改了设置，需要改回。
+	- 调减一点点PMC数量
+
+
+# 24-11-xx-v0.9.7.8更新日志：
+
+### ⚠️警告：
+- 新增：
+	- [3]新配件-EpicRangeTime-Weapons和现实主义兼容
+- 更新：
+	- [6]超精简AI生成-DewardianDev-MOAR
+	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod，并已经包含最新汉化。
+	- [8]随机坠机点-SamSWAT.HeliCrash.ArysReloaded
+	- [12]停止不应有的子弹碎片声-Solarint-BulletCrackFix
+- 调整：
+	- **特别鸣谢：Volcano进行了部分MOD的汉化并授权本整合包使用。**
+	- 极大增加战局大修附属Boss——Legion的刷新几率。因为他的武器是本包中唯一能击穿动力甲的武器。
+	- 将[4]新BOSS-惩罚者-WTT-RogueJustice的生成率固定为25%。
+	- 继续调整MOAR的AI生成数量。
+	- 增补两个MOD背包的扩容
+- 淘汰
+	- 
+- 与正式版的距离
+	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
+
