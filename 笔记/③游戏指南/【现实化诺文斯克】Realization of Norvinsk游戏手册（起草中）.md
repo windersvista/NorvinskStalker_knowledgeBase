@@ -32,11 +32,13 @@
 	- 说明：https://www.bilibili.com/video/BV1W8411Q7h8/
 	- 译作软核，它提供了对游戏经济系统的RPG化修改，去除了大部分NJT为了线上运营设计的限制，并实现了更多适合单机游玩的机制。
 - [5]现实主义大修-Fontaine-Realism-Mod
-	- 说明及游戏外设置：[https://www.bilibili.com/video/BV1de411v7bi/](https://www.bilibili.com/video/BV1de411v7bi/)
-	- 游戏内设置：[https://www.bilibili.com/video/BV17x421U7Af/](https://www.bilibili.com/video/BV17x421U7Af/)
+	- 说明及服务器端设置（主要的功能模块开关都在这）：[https://www.bilibili.com/video/BV1de411v7bi/](https://www.bilibili.com/video/BV1de411v7bi/)
+	- 客户端设置（F12设置，细分设置在这）：[https://www.bilibili.com/video/BV17x421U7Af/](https://www.bilibili.com/video/BV17x421U7Af/)
 	- 治疗方式演示：[https://www.bilibili.com/video/BV1CA4m1F7DX/](https://www.bilibili.com/video/BV1CA4m1F7DX/)
 	- 译作现实主义，对整个塔科夫战斗系统进行了大修。让塔科夫的游玩体验更加偏真实。
 	- 治疗系统补充说明：生存难度、浪人模式时治疗系统大修打开，战局内会无法使用药包加血，药包只能止血和自动恢复少许血量，想要在战局内回满血量，请自备各类针剂和我修改过的部分吃喝（如热棒、士力架、巧克力板、酒类等）。
+	- 请关注生化毒素积累和辐射剂量积累，**气体分析仪和盖革计数器可以放特殊插槽，他们警告你是否身处危险之地**。辐射超60要么去找大妈做要上交小黑的治疗任务，要么删档重开，善用AI2和蓝血针等。
+	- 高危地带**一定要戴防毒面具**，记得按装滤罐。而且尽可能保证面具满耐久。
 - [5]战局大修-Raid Overhaul
 	- 说明：它实现塔科夫战局内时间与现实同步，战局时限增加到16个小时，并提供一系列战局内事件和物资回收箱功能，让玩家可以长期保持在战局内。
 	- 视频：待录
