@@ -314,24 +314,41 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 调减一点点PMC数量
 
 
-# 24-11-xx-v0.9.7.8更新日志：
+# 24-11-17-v0.9.7.8更新日志：
 
 ### ⚠️警告：
+1. **更新此版本需要完全删除旧MO2文件夹（即Realized_Norvinsk_v0.9_Test）并重开新档！！**
+2. **本次更新加入的联机模块仅为方便多机玩家主客分离和技术探索、测试使用。暂不提供教程。自行搭建服务器和自行联机游玩出现的任何技术问题、法律后果请自己承担！我也不提供搭建联机服务器的技术支持！**
 - 新增：
 	- [3]新配件-EpicRangeTime-Weapons和现实主义兼容
+	- [4]新商人-安德鲁迪斯任务狂人-Andrudis Questmaniac，这个mod新增了6个商人和4553个任务
+	- 联机模块，实现服务端、客户端分离，可为多电脑玩家在局域网内提供联机PVE体验。并为SPT3100时的联机服务器做准备。
+		- [0]客机（游戏机）使用的配置文件
+		- [0]主机（服务器）使用的配置文件
+		- [0]离线联机模块-服务器端用-fika-server
+		- [0]离线联机模块-客户端用-Fika.Release
+		- [0]kmyuhkyuk-EFTApi+Fika兼容版本
+		- [0]That's Lit+Sync AI视觉优化+Fika联机兼容（已汉化）
 - 更新：
-	- [6]超精简AI生成-DewardianDev-MOAR
-	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod，并已经包含最新汉化。
+	- [6]超精简AI生成-DewardianDev-MOAR，并更新最新汉化补丁。
+	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod，并更新最新汉化补丁。
 	- [8]随机坠机点-SamSWAT.HeliCrash.ArysReloaded
 	- [12]停止不应有的子弹碎片声-Solarint-BulletCrackFix
+	- [9]内置动态地图-DynamicMaps，并更新最新汉化补丁。
+	- [5]战局大修-Raid Overhaul的汉化补丁
 - 调整：
 	- **特别鸣谢：Volcano进行了部分MOD的汉化并授权本整合包使用。**
 	- 极大增加战局大修附属Boss——Legion的刷新几率。因为他的武器是本包中唯一能击穿动力甲的武器。
 	- 将[4]新BOSS-惩罚者-WTT-RogueJustice的生成率固定为25%。
 	- 继续调整MOAR的AI生成数量。
-	- 增补两个MOD背包的扩容
-- 淘汰
-	- 
+	- 增补两个MOD背包的扩容。
+	- 现在MOD针剂也可以堆叠了。
+	- 动态天气：四季回归，现在天气会按一小时一个月，3个小时一个季节，12小时按序四季循环。
+	- 调整《现实化诺文斯克》SAIN预设-NorvinskStalkerAIpreset，减少AI总体进攻性。
+	- 更新角色："[现实化诺文斯克初始角色]Samuel是不是好奇猫"的出生装备和仓库内容。
+	- 再次调整Order.json，改进MOD间的兼容性。
+- 淘汰/关掉
+	- 一些物品mod和商人mod以减少需要加载的bundle
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
 
