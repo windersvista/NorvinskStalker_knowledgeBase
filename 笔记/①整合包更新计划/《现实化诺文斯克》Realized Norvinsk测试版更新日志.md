@@ -337,7 +337,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [9]内置动态地图-DynamicMaps，并更新最新汉化补丁。
 	- [5]战局大修-Raid Overhaul的汉化补丁
 - 调整：
-	- **特别鸣谢：Volcano进行了部分MOD的汉化并授权本整合包使用。**
+	- **特别鸣谢：
 	- 极大增加战局大修附属Boss——Legion的刷新几率。因为他的武器是本包中唯一能击穿动力甲的武器。
 	- 将[4]新BOSS-惩罚者-WTT-RogueJustice的生成率固定为25%。
 	- 继续调整MOAR的AI生成数量。
@@ -349,6 +349,37 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- 再次调整Order.json，改进MOD间的兼容性。
 - 淘汰/关掉
 	- 一些物品mod和商人mod以减少需要加载的bundle
+- 与正式版的距离
+	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
+
+
+# 24-11-18-v0.9.7.8热修日志：
+
+### ⚠️提醒：本热修不用重开档。
+### 鸣谢：本包陆续更新的汉化均由Volcano制作并授权本包使用。
+- 新增：
+	- 无
+- 更新：
+	- [11]空中支援-SamSWAT-FireSupport的汉化
+	- [10]UI大修-Tyfon-UIFixes
+	- [9]内置动态地图-DynamicMaps（已汉化）
+	- [8]真实的尸体伤口-BORKEL'S BLOODY BULLET WOUNDS(BBBWP)的汉化
+	- [8]武器破门-dvize.BackdoorBandit的汉化
+	- [6]AI自动做任务-DanW-SPTQuestingBots（汉化）
+	- [4]新商人-赌鬼-TheGambler的汉化
+	- [4]新商人-油漆匠-MoxoPixel-Painter的汉化
+	- [3]新配件-MoxoPixel-MagTape的汉化
+	- [3]新配件-MoxoPixel-SandCore的汉化
+	- [2]新装备、衣服-MoxoPixel-TacticalGearComponent的汉化
+- 调整：
+	- 修正了战局大修导致的进实验室需要记号卡的问题。
+	- 修正MOAR的AI数量生成。
+	- 再次调整Order.json，改进MOD间的兼容性。
+	- Boss通知插件的提示能力，现在会根据情报中心等级解锁。F12可调。
+	- 动态地图上显示信息的多寡，现在会根据情报中心等级解锁。F12可调。
+	- MOAR（摩尔生成）的F12编辑预设功能有问题，修改参数请到它本体的config里修改。
+- 淘汰/关掉
+	- 
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
 
