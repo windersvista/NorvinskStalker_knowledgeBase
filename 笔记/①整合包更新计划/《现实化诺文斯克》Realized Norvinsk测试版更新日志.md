@@ -445,9 +445,9 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 ### ⚠️提醒：0979更新热修只需要解压后覆盖MO2文件夹即可，但建议重开档。
 ### 鸣谢：本包陆续更新的汉化均由Volcano制作并授权本包使用。
 - 新增：
-	- 1
+	- 无
 - 更新：
-	- 2222
+	- 无
 - 调整：
 	- [5]现实主义大修-Fontaine-Realism-Mod
 	- [6]超精简AI生成-DewardianDev-MOAR
