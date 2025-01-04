@@ -440,7 +440,7 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
 
 
-# 24-12-06-v0.9.7.9热修更新日志：
+# 24-12-06-v0.9.7.9再次最终修订补丁更新日志：
 
 ### ⚠️提醒：0979更新热修只需要解压后覆盖MO2文件夹即可，但建议重开档。
 ### 鸣谢：本包陆续更新的汉化均由Volcano制作并授权本包使用。
@@ -449,8 +449,9 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 - 更新：
 	- 无
 - 调整：
+	- [5]战局大修-Raid Overhaul，进入实验室不再需要记号卡
 	- [5]现实主义大修-Fontaine-Realism-Mod
-	- [6]超精简AI生成-DewardianDev-MOAR
+	- [6]超精简AI生成-DewardianDev-MOAR，调整AI生成数量和频率
 	- 《现实化诺文斯克》普通模式-主家位置：海关
 	- 《现实化诺文斯克》普通模式-主家位置：森林
 	- 《现实化诺文斯克》普通模式-主家位置：实验室
