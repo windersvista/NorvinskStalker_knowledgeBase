@@ -486,3 +486,22 @@ https://pan.xunlei.com/s/VO3mwz4BFzM69JXGDtNRX3brA1?pwd=vk2m#
 - #### 注意事项：如果使用SWAG，请关闭MOAR和SPTQuestingBots。之前使用MOAR生成的存档想切换SWAG需要重开档，SWAG切换回MOAR同理。
 - 与正式版的距离
 	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
+
+
+# 25-01-05-v0.9.8.0补充汉化日志：
+
+
+### 更新内容
+- 新增：
+	- 
+- 更新：
+	- [4]新任务线-可重复赏金任务-Trap-BabaYaga的汉化
+		- ![[7a7a8ee22836a09a17d96117c3c1dac5.png]]
+	- 《现实化诺文斯克》现实主义装备物品设置和预设，增加了现实主义任务的全部汉化
+		- ![[8598ea97b23c15331d44f03eda284e42.png]]
+	- 《现实化诺文斯克》客户端MOD-F12设置cfg所在，调整了IRL的cfg
+- 调整：
+	- [8]武器操控大修-TarkovIRL_WeaponsHandlingMod（已汉化），重新调整了死区的设置，现在转身有死区，但不会晃到头晕。
+- #### 注意事项：如果使用SWAG，请关闭MOAR和SPTQuestingBots。之前使用MOAR生成的存档想切换SWAG需要重开档，SWAG切换回MOAR同理。
+- 与正式版的距离
+	- [《现实化诺文斯克》v0.9——1.0进度看板](《现实化诺文斯克》v0.9——1.0进度看板.md)
