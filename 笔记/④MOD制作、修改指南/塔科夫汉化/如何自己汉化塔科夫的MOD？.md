@@ -67,7 +67,17 @@
 
 下面让我来演示一下整个流程——
 
-（视频演示如何提取文本和翻译）
+#### 第一步：下载
+下载工具：从https://sns.oddba.cn/153095.html下载【全版本通用】ConfigurationManager-CNupdate 模组管理器中文版v1.1.0 增加通用汉化模块
+下载词条提取器：从https://sns.oddba.cn/155191.html下载
+
+#### 第二步：安装
+
+讲解在MO2怎么安装
+
+#### 第三步：使用
+
+
 
 ## 讲解Simple Translator
 
