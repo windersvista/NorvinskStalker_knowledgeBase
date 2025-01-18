@@ -68,12 +68,14 @@
 下面让我来演示一下整个流程——
 
 #### 第一步：下载
-下载工具：从https://sns.oddba.cn/153095.html下载【全版本通用】ConfigurationManager-CNupdate 模组管理器中文版v1.1.0 增加通用汉化模块
-下载词条提取器：从https://sns.oddba.cn/155191.html下载
+1. 下载工具：从https://sns.oddba.cn/153095.html下载【全版本通用】ConfigurationManager-CNupdate 模组管理器中文版v1.1.0 增加通用汉化模块
+2. 下载词条提取器：从https://sns.oddba.cn/155191.html下载
 
 #### 第二步：安装
 
-讲解在MO2怎么安装
+1. 将（附带外部文本功能的模组管理器）解压后的以下两个文件覆盖游戏本体路径\BepInEx\plugins\spt中的同名文件
+![[Pasted image 20250118230904.png]]
+2. 将下载好的词条提取器（【汉化脚本】CNupdate汉化文本转换脚本v1.1.1.exe）放到游戏本体路径\BepInEx\plugins\zh-cn中
 
 #### 第三步：使用
 
