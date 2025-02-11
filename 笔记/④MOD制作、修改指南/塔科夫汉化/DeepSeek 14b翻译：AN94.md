@@ -1,5 +1,6 @@
-
 > [!NOTE]
+> {
+> 
 >     "678fe4a4906c7bd23722c71f Name": "AN-94 5.45x39 assault rifle",
 > 
 >     "678fe4a4906c7bd23722c71f Shortname": "AN-94",
@@ -53,7 +54,8 @@
 >     "679a766855f7e9fa7b1abfdf Shortname": "AK-74 polymer",
 > 
 >     "679a766855f7e9fa7b1abfdf Description": "A camoflauge painted Izhmash 6P1 Sb.8 polymer pistol grip for AK and compatibles, designed to replace the old bakelite grip."
-
+> 
+> }
 
 
 好的，我现在需要处理用户提供的JSON数据，并将其翻译成中文。首先，我注意到每个对象都有三个字段：Name、Shortname和Description，分别对应名称、短名称和描述。
@@ -68,7 +70,7 @@
 </think>
 
 > [!NOTE]
->
+> {
 >     "678fe4a4906c7bd23722c71f Name": "AN-94 5.45×39自动步枪",
 >     "678fe4a4906c7bd23722c71f Shortname": "AN-94",
 >     "678fe4a4906c7bd23722c71f Description": "AN-94自动步枪是作为俄罗斯军队现役AK-74系列的继任者而设计的。由于其复杂的设计和较高的成本，它未能取代AK-74，但作为一种特种用途武器，在有限使用中。AN-94具有独特的延迟后坐功能，前两发的后坐力会有所延迟。这在不利战斗条件下提高了命中概率。AN-94提供了独特的双发 burst 功能，以每分钟1800发的速度，第二发非常接近第一发。这个特点通常被称为超 burst 机制。",
@@ -84,4 +86,4 @@
 >     "679a766855f7e9fa7b1abfdf Name": "AK-74 聚合物护木（迷彩）",
 >     "679a766855f7e9fa7b1abfdf Shortname": "AK-74 聚合物",
 >     "679a766855f7e9fa7b1abfdf Description": "一种迷彩涂装的Izhmash 6P1 Sb.8聚合物护木，适用于 AK 和兼容步枪，设计用于替换旧式的 bakelite 护木。"
-
+> }
