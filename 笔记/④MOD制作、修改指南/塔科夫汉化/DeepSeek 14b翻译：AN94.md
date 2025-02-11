@@ -1,60 +1,61 @@
-{
-
-    "678fe4a4906c7bd23722c71f Name": "AN-94 5.45x39 assault rifle",
-
-    "678fe4a4906c7bd23722c71f Shortname": "AN-94",
-
-    "678fe4a4906c7bd23722c71f Description": "The AN-94 was designed as a potential replacement to the AK-74 series of rifles currently in service with the Russian Armed Forces. Due to its complex design and expense, it failed to fill its intended role as a replacement for the AK-74, but it is in limited use as a special purpose weapon. The AN-94 has the unique feature of delaying felt recoil for the first two rounds. This increases hit probability in adverse combat conditions. The AN-94 offers a unique two-shot burst function at a stated 1800 rounds per minute, with the second shot firing very close to the first round. This feature is often known as the hyperburst mechanism.",
-
-    "679a6a534f3d279c99b135b9 Name": "Kirov's Custom AN-94 5.45x39 assault rifle",
-
-    "679a6a534f3d279c99b135b9 Shortname": "AN-94-Kirov",
-
-    "679a6a534f3d279c99b135b9 Description": "A custom AN-94 5.45x39mm assault rifle that has been fitted with a railed handguard and a muzzle device to reduce recoil.",
-
-    "678fe67f710e3e53145bc5e0 Name": "AN-94 Polymer Folding Stock",
-
-    "678fe67f710e3e53145bc5e0 Shortname": "AN-94",
-
-    "678fe67f710e3e53145bc5e0 Description": "Standard polymer folding stock for the AN-94 5.45x39mm assault rifle.",
-
-    "679a6e58085b54fdd56f5d0d Name": "AN-94 Skeletonized Folding Stock",
-
-    "679a6e58085b54fdd56f5d0d Shortname": "AN-94",
-
-    "679a6e58085b54fdd56f5d0d Description": "A skeletonized folding stock for the AN-94 5.45x39mm assault rifle.",
-
-    "679a6e9a0f37be945558c4d3 Name": "AN-94 Marksman Stock",
-
-    "679a6e9a0f37be945558c4d3 Shortname": "AN-94",
-
-    "679a6e9a0f37be945558c4d3 Description": "A marksman style stock for the AN-94 5.45x39mm assault rifle.",
-
-    "679a6ee24e1bd9c184e7f307 Name": "AN-94 Buffer Tube",
-
-    "679a6ee24e1bd9c184e7f307 Shortname": "AN-94",
-
-    "679a6ee24e1bd9c184e7f307 Description": "A foldable buffer tube system for the AN-94 5.45x39mm assault rifle.",
-
-    "679a702c47bb7fa666fe618e Name": "AK-74 5.45x39 6L23 30-round magazine (Camo)",
-
-    "679a702c47bb7fa666fe618e Shortname": "6L23 Camo",
-
-    "679a702c47bb7fa666fe618e Description": "A camoflauge painted 30-round polymer Izhmash 6L23 magazine for 5.45x39 ammo, for AK-74 and compatible systems.",
-
-    "679a73b003d8055ba8385ad5 Name": "OmniTech Systems S4 Skeletonized AK Pistol Grip",
-
-    "679a73b003d8055ba8385ad5 Shortname": "S4",
-
-    "679a73b003d8055ba8385ad5 Description": "A skeletonized polymer pistol grip for the AK and compatible rifles.",
-
-    "679a766855f7e9fa7b1abfdf Name": "AK-74 polymer pistol grip (Camo)",
-
-    "679a766855f7e9fa7b1abfdf Shortname": "AK-74 polymer",
-
-    "679a766855f7e9fa7b1abfdf Description": "A camoflauge painted Izhmash 6P1 Sb.8 polymer pistol grip for AK and compatibles, designed to replace the old bakelite grip."
-
-}
+> [!NOTE]
+> {
+> 
+>     "678fe4a4906c7bd23722c71f Name": "AN-94 5.45x39 assault rifle",
+> 
+>     "678fe4a4906c7bd23722c71f Shortname": "AN-94",
+> 
+>     "678fe4a4906c7bd23722c71f Description": "The AN-94 was designed as a potential replacement to the AK-74 series of rifles currently in service with the Russian Armed Forces. Due to its complex design and expense, it failed to fill its intended role as a replacement for the AK-74, but it is in limited use as a special purpose weapon. The AN-94 has the unique feature of delaying felt recoil for the first two rounds. This increases hit probability in adverse combat conditions. The AN-94 offers a unique two-shot burst function at a stated 1800 rounds per minute, with the second shot firing very close to the first round. This feature is often known as the hyperburst mechanism.",
+> 
+>     "679a6a534f3d279c99b135b9 Name": "Kirov's Custom AN-94 5.45x39 assault rifle",
+> 
+>     "679a6a534f3d279c99b135b9 Shortname": "AN-94-Kirov",
+> 
+>     "679a6a534f3d279c99b135b9 Description": "A custom AN-94 5.45x39mm assault rifle that has been fitted with a railed handguard and a muzzle device to reduce recoil.",
+> 
+>     "678fe67f710e3e53145bc5e0 Name": "AN-94 Polymer Folding Stock",
+> 
+>     "678fe67f710e3e53145bc5e0 Shortname": "AN-94",
+> 
+>     "678fe67f710e3e53145bc5e0 Description": "Standard polymer folding stock for the AN-94 5.45x39mm assault rifle.",
+> 
+>     "679a6e58085b54fdd56f5d0d Name": "AN-94 Skeletonized Folding Stock",
+> 
+>     "679a6e58085b54fdd56f5d0d Shortname": "AN-94",
+> 
+>     "679a6e58085b54fdd56f5d0d Description": "A skeletonized folding stock for the AN-94 5.45x39mm assault rifle.",
+> 
+>     "679a6e9a0f37be945558c4d3 Name": "AN-94 Marksman Stock",
+> 
+>     "679a6e9a0f37be945558c4d3 Shortname": "AN-94",
+> 
+>     "679a6e9a0f37be945558c4d3 Description": "A marksman style stock for the AN-94 5.45x39mm assault rifle.",
+> 
+>     "679a6ee24e1bd9c184e7f307 Name": "AN-94 Buffer Tube",
+> 
+>     "679a6ee24e1bd9c184e7f307 Shortname": "AN-94",
+> 
+>     "679a6ee24e1bd9c184e7f307 Description": "A foldable buffer tube system for the AN-94 5.45x39mm assault rifle.",
+> 
+>     "679a702c47bb7fa666fe618e Name": "AK-74 5.45x39 6L23 30-round magazine (Camo)",
+> 
+>     "679a702c47bb7fa666fe618e Shortname": "6L23 Camo",
+> 
+>     "679a702c47bb7fa666fe618e Description": "A camoflauge painted 30-round polymer Izhmash 6L23 magazine for 5.45x39 ammo, for AK-74 and compatible systems.",
+> 
+>     "679a73b003d8055ba8385ad5 Name": "OmniTech Systems S4 Skeletonized AK Pistol Grip",
+> 
+>     "679a73b003d8055ba8385ad5 Shortname": "S4",
+> 
+>     "679a73b003d8055ba8385ad5 Description": "A skeletonized polymer pistol grip for the AK and compatible rifles.",
+> 
+>     "679a766855f7e9fa7b1abfdf Name": "AK-74 polymer pistol grip (Camo)",
+> 
+>     "679a766855f7e9fa7b1abfdf Shortname": "AK-74 polymer",
+> 
+>     "679a766855f7e9fa7b1abfdf Description": "A camoflauge painted Izhmash 6P1 Sb.8 polymer pistol grip for AK and compatibles, designed to replace the old bakelite grip."
+> 
+> }
 
 
 好的，我现在需要处理用户提供的JSON数据，并将其翻译成中文。首先，我注意到每个对象都有三个字段：Name、Shortname和Description，分别对应名称、短名称和描述。
