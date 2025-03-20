@@ -204,7 +204,7 @@ BB84《废土蓝调》:
 
 生存难度、浪人模式时弹道（子弹、护甲体系）大修会启动。我尽可能参照维基百科的现实数据对部分的子弹数值进行了重新设计，子弹伤害和原版不尽相同，具体数值请游戏内自行查阅。
 
-护甲系统大修作者对此功能的解释个人精翻：[https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/?highlight=Realism#tab_e80a36af4af3422f47c9a0d991e9702372e579b1](#tab_e80a36af4af3422f47c9a0d991e9702372e579b1)
+护甲系统大修作者对此功能的解释：[https://hub.sp-tarkov.com/files/file/606-spt-realism-mod/?highlight=Realism#tab_e80a36af4af3422f47c9a0d991e9702372e579b1](#tab_e80a36af4af3422f47c9a0d991e9702372e579b1) 的个人精翻
 
 全新的护甲和身体Hitbox设计：
 
