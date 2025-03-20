@@ -45,7 +45,8 @@
 
 上述新增的四（五）种不同的开局角色，可以在新建档案的列表中找到它们：
 
-![[assets/Pasted image 20250318145756.png]]
+
+![assets/Pasted image 20250318145756.png](assets/Pasted image 20250318145756.png)
 
 ### 整合包游玩简单须知
 
