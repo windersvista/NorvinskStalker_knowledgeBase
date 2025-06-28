@@ -21,7 +21,7 @@ hero:
       link: /笔记/{0}ModPack Download/3.Realization of Norvinsk Beta download
     - theme: brand
       text: 即刻下载《诺文斯克潜行者》
-      link: /笔记/{0}ModPack Download/1.Norvinsk Stalker.v.1.1.8 Download
+      link: /笔记/{0}ModPack Download/1.Norvinsk Stalker.v.1.2.0 Download
     - theme: alt
       text: B站：Samuel是不是好奇猫
       link: https://space.bilibili.com/9883076
