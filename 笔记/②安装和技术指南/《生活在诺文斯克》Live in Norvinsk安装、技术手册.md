@@ -93,7 +93,8 @@
 	11. 点完上面的finish完成就会重启，以下界面宣告着实例创建成功：
 		![](assets/Pasted%20image%2020241002172504.png)
 - #### 必须做的设置
-		1. 在游玩之前，还要做必要的设置。先改设置换成中文界面tools-settings-Chinese(Simplified)然后OK即可
+	- 在游玩之前，还要做必要的设置。
+		- 先改设置换成中文界面tools-settings-Chinese(Simplified)然后OK即可
 		-![](assets/Pasted%20image%2020250716001220.png)
 		2. 必须做：这一步必须做**将MOD列表中的备注拉出来**——右键黄框一栏，按如图所示将“备注”开启，我在备注中添加了大量说明信息。
 		- ![](assets/Pasted%20image%2020250716001026.png)
