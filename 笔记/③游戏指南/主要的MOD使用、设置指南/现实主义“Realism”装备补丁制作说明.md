@@ -41,7 +41,7 @@
         "SemiROF [2.5 表示 2.5% 射速增加]": 2.5,
         "ModMalfunctionChance [越低越好]": -10,
 	    "CanCycleSubs [是否允许在通常不能循环亚音速弹药的弹药中循环亚音速弹药]": false,
-        "Accuracy": -5,
+        "Accuracy [可能控制连续射击中的着弹点散布，越高越好]": -5,
         "HeatFactor [越高越差]": 1.13,
         "CoolFactor [越高越好]": 0.95,
         "DurabilityBurnModificator [越高越差]": 1.1,
