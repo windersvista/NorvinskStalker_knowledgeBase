@@ -83,7 +83,7 @@
 # 25-10-01
 
 
-版本号更新为：Life_in_Norvinsk_Beta_v0.XX
+版本号更新为：Life_in_Norvinsk_Beta_v0.1.2
 #### 更新日志：
 
 - 新增：
