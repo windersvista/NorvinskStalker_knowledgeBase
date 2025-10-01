@@ -80,23 +80,42 @@
 	- 本地人开局死亡服务器会宕机，已停用待查。
 	- 收到反映打完信号弹切刀再切枪会卡手，无法复现，待查。
 
-# 25-10-XX
-
+# 25-10-01
 
 
 版本号更新为：Life_in_Norvinsk_Beta_v0.XX
 #### 更新日志：
 
 - 新增：
+	- [2]新装备-couturier
 	- 
+	- [10]显示价格-showmethemoney
+	- [10]显示价格之快速出售-showmethemoney-quick-sell
+	- [2]新药品-ConsumablesGalore
+	- [9]自动将MOD武器添加到任务要求中-AMQWR
+	- [6]AI视线优化-thuynguyentrungdang版That.s.Lit.+.Sync_v1.3110.1
+- 淘汰/关闭：
+	- 淘汰[10]便捷出售-IhanaMies-LootValue
+	- 淘汰[6]AI分离敌对-SeparateHostility
+	- 淘汰[2]新装备-SerWolfik-Heavy-Troopers
+	- 淘汰[4]新商人-江湖-JiangHu
+	- 默认关闭[13]瞄准点坐标-InternetDuce-AimPointCoordinates
+	- 默认关闭[8]自动奔跑-Tyfon-AutoRun-alt+W自动向前
+	- 默认关闭[4]新任务线-迎新礼物任务-EFCL-WelcomeGifts
+	- 默认关闭[6]AI视觉光依赖化-ombarella测试版，因为有人接手更新了可用的That.s.Lit
 - 更新： 
-	- 
+	- [7]MOD武器配件自动兼容框架-autocompatframework
+	- [8]战场环境临场感增强-SPTBattleAmbience
+	- [6]AI视觉光依赖化-ombarella测试版
+	- [2]新酒水-WTT - CornerStore
+	- [2]腰包-WTT-PackNStrap
 - 调整：
 	- 移除[4]新商人-江湖-JiangHu
+	- 更新了个人的Realism数值
+	- 调整《生活在诺文斯克》AI生成-botplacementsystem沉浸感增强设置，让各个地图生成更合理，调整PMC和Scav的刷新比例，现在更合理。
 - 修复：
-	- 重新制作PMC新兵开局，以修复死亡爆红问题。
-	- 暂时关闭本地人开局，直到我修好它的死亡后爆红。
+	- 重新制作本地人开局，以修复死亡爆红问题。
+
 - 已知问题：
 	- 仓库把现金放钱包进行交易有小概率会爆红，可能只是单个存档的问题，待查。
-	- 本地人开局死亡服务器会宕机，已停用待查。
 	- 收到反映打完信号弹切刀再切枪会卡手，无法复现，待查。
