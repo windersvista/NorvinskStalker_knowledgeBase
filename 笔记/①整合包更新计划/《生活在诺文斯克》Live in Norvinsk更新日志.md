@@ -88,7 +88,6 @@
 
 - 新增：
 	- [2]新装备-couturier
-	- 
 	- [10]显示价格-showmethemoney
 	- [10]显示价格之快速出售-showmethemoney-quick-sell
 	- [2]新药品-ConsumablesGalore
@@ -119,3 +118,43 @@
 - 已知问题：
 	- 仓库把现金放钱包进行交易有小概率会爆红，可能只是单个存档的问题，待查。
 	- 收到反映打完信号弹切刀再切枪会卡手，无法复现，待查。
+
+
+
+# 25-10-10
+
+版本号更新为：Life_in_Norvinsk_Beta_v0.1.3
+#### 更新日志：
+
+- 新增：
+	- [9]预览窗口重制-acidphantasm-previewsizer
+	- [4]新敌人-联合国维和巡逻队-untargohome
+	- [9]动态重量-DynamicItemWeights
+	- [4]新商人-AES
+- 更新： 
+	- [5]武器操控大修-TarkovIRL_W.H.M(关现实主义这个也一起关）
+	- [6]AI视觉光依赖化-ombarella测试版
+	- [5]现实主义大修-Fontaine-Realism
+	- [8]好莱坞级视觉系统合集-HollywoodFX+HollywoodGraphics
+	- [8]更有意义的武器精通-MeaningfulWeaponMasteries
+	- [10]UI大修-Tyfon-UIFixes
+	- [10]显示价格之快速出售-showmethemoney-quick-sell（Q+左Q+右）
+	- [10]显示价格-showmethemoney
+	- 《生活在诺文斯克》-单独-现实主义-Realism数值重制+小火山汉化+兼容补丁里的兼容补丁
+- 淘汰/关闭：
+	- 
+- 调整：
+	- 更新[5]新增5个开局角色-mod_EFCL-CustomProfiles中的部分设置
+	- 增强药品的止痛效果：
+		- 布洛芬 止痛强度5->20 延迟15->10 持续300秒 有少许副作用
+		- 安乃近 止痛强度10->30 延迟15->5 持续180 秒 有更多副作用
+		- AI2      止痛强度15->13 延迟7->15 持续120秒
+		- 肾上腺素 持续240->600秒
+		- 曲马多 持续360->420秒
+	- 更新order.json
+	- 
+- 修复：
+	- 
+
+- 已知问题：
+	- 

@@ -17,11 +17,14 @@ hero:
       text: 开始阅读整合包指南合集
       link: /笔记/index
     - theme: brand
+      text: 即刻下载《诺文斯克潜行者》
+      link: /笔记/{0}ModPack Download/1.Norvinsk Stalker.v.1.2.0 Download
+    - theme: brand
       text: 即刻下载《生活在诺文斯克》
       link: /笔记/{0}ModPack Download/3.Live in Norvinsk download
     - theme: brand
-      text: 即刻下载《诺文斯克潜行者》
-      link: /笔记/{0}ModPack Download/1.Norvinsk Stalker.v.1.2.0 Download
+      text: 萌新专属《独享的塔科夫》
+      link: /笔记/{0}ModPack Download/4.Exclusive Tarkov download
     - theme: alt
       text: B站：Samuel是不是好奇猫
       link: https://space.bilibili.com/9883076

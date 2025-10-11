@@ -253,7 +253,7 @@ Traveler商人位置修改补丁的制作和测试：KHORNE制作，树上骑柒
 国内塔科夫 MOD 社区 ODDBA：https://sns.oddba.cn/
 
 本整合包所使用的每个MOD的主页列表：
-[5.List of the mod used in Realization Norvinsk](../{0}ModPack%20Download/5.List%20of%20the%20mod%20used%20in%20Realization%20Norvinsk.md)
+[6.List of the mod used in Realization Norvinsk](../{0}ModPack%20Download/6.List%20of%20the%20mod%20used%20in%20Realization%20Norvinsk.md)
 
 说明手册借鉴自：
 
