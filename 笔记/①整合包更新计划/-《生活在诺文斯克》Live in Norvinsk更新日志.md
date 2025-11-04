@@ -176,14 +176,20 @@
 	- ![](assets/Pasted%20image%2020251102132604.png)
 - 新增：
 	- [9]藏身处不用打勾-nofirhideout
+	- [8]重生-PlayerLives，可以F12自定义复活消耗针剂，默认F5复活，F9放弃，消耗PNB作为复活针（针剂别堆叠，会一起消耗掉）
 - 更新： 
 	- [2]新装备-couturier
 	- 《生活在诺文斯克》-单独-现实主义-Realism数值重制+小火山汉化+兼容补丁里的兼容补丁
 - 淘汰/关闭：
+	- [8]除颤器F5急救-revival-mod，有些小bug，用[8]重生-PlayerLives更好，更灵活。
 	- 删除一些已经关闭并证明可有可无的mod
 - 调整：
 	- 调整了「生活在诺文斯克」专属开局-泰拉实验受害者的初始技能，现在所有生理技能都是满级。
-	- 调整《生活在诺文斯克》SAIN预设-Live in Norvinsk AI preset中[4]新敌人-联合国维和巡逻队-untargohome的AI行为。
+	- 调整[4]新商人-荷官-Croupier (random loadouts + flea quicksell)，减少赌博箱的可购买上限到2次。
+	- 调整《生活在诺文斯克》难度：生存
+		- 可以在任何地方访问[4]新商人-荷官和[4]新商人-Hephaestus，让玩家有更多容错。
+		- 跳蚤市场开放等级改为1级。
+	- 调整优化《生活在诺文斯克》SAIN预设-Live in Norvinsk AI preset中[4]新敌人-联合国维和巡逻队-untargohome的AI行为。
 	- 所有难度中，机械师和雪人都可以在中心区访问到。
 	- 更新order.json
 	- 将[2]腰包-WTT-PackNStrap中的安全容器全部禁用，因为极可能跟“已知问题”中的爆红问题相关，感谢群友“渗透者之心”的排查。

@@ -18,7 +18,7 @@ hero:
       link: /笔记/index
     - theme: brand
       text: SPT3.7.6《诺文斯克潜行者》
-      link: /笔记/{0}ModPack Download/1.Norvinsk Stalker.v.1.2.0 Download
+      link: /笔记/{0}ModPack Download/1.Norvinsk Stalker Download
     - theme: brand
       text: SPT3.9.8《现实化诺文斯克》
       link: /笔记/{0}ModPack Download/3.Realized Norvinsk Download
