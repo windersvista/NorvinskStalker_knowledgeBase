@@ -88,6 +88,65 @@
 - [5]自定义档案-ShadowXtrex-CustomProfiles
 	- 说明：请看这篇文章：[《生活在诺文斯克》Live in Norvinsk的四种专属角色简介](《生活在诺文斯克》Live%20in%20Norvinsk的四种专属角色简介.md)，从0.9.5测试版起，它和[5]伪无缝地图-通往塔科夫之路-Trap-PathToTarkov一起为整合包玩家提供四种不同的开局角色体验：
 
+### 物品自动分类功能说明
+
+@o  整理。使容器拉入标签指定的物品种类和物品。
+可以多个标签，请确保用空格分隔它们。
+
+示例：
+@o
+@o money;
+@o后面有分类的话要跟英文分号(;)
+
+@o标签的使用方法：
+示例：@o categoryParam1|n:nameParam1|--fir;
+categoryParam1：指物品详情页面的左上角的分类，如果在前面加英文感叹号!则表示不放这类物品。
+n:nameParam1：指名字中包含指定内容的物品。
+--fir：指仅放打勾物品。
+例如：@o muzzle devices|n:suppressor|--fir 意思是指定该容器只能放打勾的名字中带suppressor的枪口零件
+
+以下是我自用的标签模版，供参考，不懂自行设置的可直接复制，分语言使用：
+中文：
+物品箱、THICC物品箱：
+（头盔、耳机、夜视仪）@o 头饰&头盔|耳机|特种瞄具|!弹匣; 
+（武器零件，别放弹匣）@o 武器零件&配件|!弹匣; 
+（面罩、臂章、近战武器）@o 面具&面罩|装备组件|近战武器|地图|!弹匣; 
+钱箱：@o 钱; 
+弹匣箱：@o 弹匣; 
+子弹箱：@o 子弹; 
+武器箱/THICC武器箱：@o 武器;
+狗牌包：@o n:狗牌;
+钥匙扣：@o 机械钥匙
+卡片夹：@o 电子钥匙;
+药品箱，不放针剂：@o !注射器; 
+药品箱，专门放针剂：针剂 @o 注射器 ;
+手雷箱（不知道是不是bug，手雷箱不能用多重标签）：@o 投掷物;
+垃圾箱，也放特殊物品：@o 交换用物品|特殊装备;
+垃圾箱：@o 交换用物品;
+食物箱，放喝的：喝 @o 饮品; 
+食品箱，放吃的：吃 @o 食品; 
+
+------
+英文：
+物品箱、THICC物品箱：
+（头盔、耳机、夜视仪）@o headgear|headsets|special purpose sights|!magazines;
+（武器零件，别放弹匣）@o weapon parts & mods|!magazines;
+（面罩、臂章、近战武器）@o facecovers|gear components|melee weapons|maps|!magazines;
+钱箱：@o money;
+弹匣箱：@o magazines;
+子弹箱：@o ammo;
+武器箱/THICC武器箱：@o weapons;
+狗牌包：@o n:dogtag;
+钥匙扣：@o keys
+卡片夹：@o electronic keys;
+药品箱，不放针剂：@o !injectors;
+药品箱，专门放针剂：针剂 @o injectors ;
+手雷箱（不知道是不是bug，手雷箱不能用多重标签）：@o throwables;
+垃圾箱，也放特殊物品：@o Barter items|special equipment;
+垃圾箱：@o Barter items;
+食物箱，放喝的：喝 @o drinks;
+食品箱，放吃的：吃 @o food;
+
 ### 本整合包必须知道的快捷键
 
 ![](assets/9c877dd1d8740991c2789fc2fc5458df.png)
