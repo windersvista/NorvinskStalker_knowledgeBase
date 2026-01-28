@@ -140,24 +140,24 @@
 | "scav_e8" | Klimov Shopping Mall Exfil | [link](https://mapgenie.io/tarkov/maps/streets?locationIds=300384) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Streets_of_Tarkov?marker=574) |
 
 ## Woods
-|identifier|description|mapgenie.io|escapefromtarkov.fandom.com|
-|----------|-----------|-----------|---------------------------|
-| "Factory Gate" | Friendship Bridge (Co-Op) | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=424607) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=58) |
-| "RUAF Gate" | RUAF Gate | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24857) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=50) |
-| "ZB-016" | ZB-016 | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24858) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=49) |
-| "ZB-014" | ZB-014 | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24862) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=61) |
-| "UN Roadblock" | UN Roadblock | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24855) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=59) |
-| "South V-Ex" | Bridge V-Ex | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65037) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=47) |
-| "Outskirts" | Outskirts | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24866) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=60) |
-| "un-sec" | Northern UN Roadblock | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65038) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=48) |
-| "wood_sniper_exit" | Power Line Passage | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=410432) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=491) |
-| "Outskirts Water" | Scav Bridge | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65035) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=57) |
-| "Dead Man's Place" | Dead Man's Place | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24868) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=53) |
-| "The Boat" | Boat | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24869) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=52) |
-| "Scav House" | Scav House | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24870) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=51) |
-| "East Gate" | Scav Bunker | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65036) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=56) |
-| "Mountain Stash" | Mountain Stash | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24859) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=55) |
-| "West Border" | Eastern Rocks | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24666) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=351) |
-| "Old Station" | Old Railway Depot | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24854) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=350) |
-| "RUAF Roadblock" | RUAF Roadblock | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24857) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=54) |
+| identifier         | description               | mapgenie.io                                                      | escapefromtarkov.fandom.com                                           |
+| ------------------ | ------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
+| "Factory Gate"     | Friendship Bridge (Co-Op) | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=424607) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=58)  |
+| "RUAF Gate"        | RUAF Gate                 | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24857)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=50)  |
+| "ZB-016"           | ZB-016                    | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24858)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=49)  |
+| "ZB-014"           | ZB-014                    | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24862)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=61)  |
+| "UN Roadblock"     | UN Roadblock              | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24855)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=59)  |
+| "South V-Ex"       | Bridge V-Ex               | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65037)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=47)  |
+| "Outskirts"        | Outskirts                 | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24866)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=60)  |
+| "un-sec"           | Northern UN Roadblock     | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65038)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=48)  |
+| "wood_sniper_exit" | Power Line Passage        | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=410432) | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=491) |
+| "Outskirts Water"  | Scav Bridge               | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65035)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=57)  |
+| "Dead Man's Place" | Dead Man's Place          | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24868)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=53)  |
+| "The Boat"         | Boat                      | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24869)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=52)  |
+| "Scav House"       | Scav House                | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24870)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=51)  |
+| "East Gate"        | Scav Bunker               | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=65036)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=56)  |
+| "Mountain Stash"   | Mountain Stash            | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24859)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=55)  |
+| "West Border"      | Eastern Rocks             | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24666)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=351) |
+| "Old Station"      | Old Railway Depot         | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24854)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=350) |
+| "RUAF Roadblock"   | RUAF Roadblock            | [link](https://mapgenie.io/tarkov/maps/woods?locationIds=24857)  | [link](https://escapefromtarkov.fandom.com/wiki/Map:Woods?marker=54)  |
 
