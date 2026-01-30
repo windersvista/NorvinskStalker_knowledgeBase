@@ -8,16 +8,17 @@
 1. 本整合包鼓励玩家扮演丹尼斯。
 
 
-# 26-0X-XX
+# 26-01-30
 
 版本号更新为：Life_in_Norvinsk_Beta_v0.1.8
 版本更新主要方向：适量增加工作台配方，改善游戏体验。
 #### 更新日志：
 
 - 新增：
-	- [8]技能速度调节器-SkillMultiplier，增加技能训练速度。
+	- [8]技能速度调节器-SkillMultiplier，增加技能训练速度，现在是3倍速度。
 - 淘汰：
-	- 
+	- [9]游戏画质改善-阿曼达的图形-Amanda's Graphics
+	- 默认关闭[11]玩家重生-PlayerLives，它的F4放弃有问题，按了放弃会进入“如死”状态。
 - 更新： 
 	- [8]塔科夫天气系统-Tarkov-Weather-System
 - 调整：
@@ -26,10 +27,12 @@
 	- 调整了[2]自定义配方-tarkovcraft中高级子弹配方的产出数量。
 	- 增加商人以物易物的可交易物品黑名单，让交易更合理。
 	- 增加《生活在诺文斯克》技能扩展-SkillsExtended沉浸感增强设置中的数值。
+	- 将[11]声音可视化-accessibilityindicators、[11]内置动态地图-DynamicMaps、[11]玩家重生-PlayerLives移动到[11]作弊MOD分类，并默认关闭[11]玩家重生-PlayerLives。
+	- 将默认的SAIN预设改为Live in Tarkov_preset_for_SAIN413。
 - 修复：
 	- 无
 - 已知问题：
-	- 由物品右键进跳蚤时可能会诱发随机服务端爆红，可能与[5]以物易物经济系统-barter_economy有关，待查，如无法忍受请关闭它：![](assets/Pasted%20image%2020260113201240.png)
+	- 由物品右键进跳蚤时可能会诱发随机服务端爆红，可能与[5]以物易物经济系统-barter_economy有关，待查，如无法忍受请先关闭它：![](assets/Pasted%20image%2020260113201240.png)
 
 
 
