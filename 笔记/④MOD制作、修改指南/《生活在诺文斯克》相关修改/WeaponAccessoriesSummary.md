@@ -1,0 +1,24930 @@
+﻿# Weapon Accessories Summary
+
+## AuxiliaryMod
+
+Total accessories: 48
+
+### catch_m1911_colt_m1911a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.009 | 重量 |
+
+### catch_m1911_colt_m45a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.008 | 重量 |
+
+### catch_m1911_wilson_extended_slide_stop
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.01 | 重量 |
+
+### catch_usp_hk_usp_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.008 | 重量 |
+
+### hammer_m1911_colt_m1911a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.018 | 重量 |
+
+### hammer_m1911_colt_m45a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | -5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.017 | 重量 |
+
+### hammer_m1911_sti_hex
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 8 | 半自动射速 |
+| ModMalfunctionChance | -4 | 修改故障几率 |
+| Weight | 0.018 | 重量 |
+
+### hammer_m1911_wilson_retro_commander
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 5 | 半自动射速 |
+| ModMalfunctionChance | -7 | 修改故障几率 |
+| Weight | 0.016 | 重量 |
+
+### hammer_m1911_wilson_ultralight_skeletonized
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 7.5 | 半自动射速 |
+| ModMalfunctionChance | -5 | 修改故障几率 |
+| Weight | 0.01 | 重量 |
+
+### hammer_usp_hk_usp_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.017 | 重量 |
+
+### tactical_1p29_npz_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_1p59_kmz_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_1p78_npz_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_870_fab_defence_agr_870_cap
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_ekp_killflash
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_g36_hk_complete_hand_stop
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_glock_zev_tech_rmr_adapter_plate
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_mp155_kalashnikov_ultima_underbarrel_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### tactical_mp155_kalshnikov_ultima_pistol_grip_rubberpad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### tactical_nspum_npz_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_pso_belomo_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_reap-ir_trijicon_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_stm9_stmarms_magwell
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### tactical_stm9_stmarms_magwell_gry
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### tactical_sv-98_izhmash_heat_ribbon
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.053 | 重量 |
+
+### tactical_sv98_izhmash_silencer_heat_shield_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_urx_kac_panel_hand_stop
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.005 | 重量 |
+| Handling | 2 | 处理 |
+
+### tactical_urx_kac_panel_hand_stop_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.005 | 重量 |
+| Handling | 2 | 处理 |
+
+### tactical_urx_kac_panel_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 1.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 3 | 瞄准稳定性 |
+| Weight | 0.005 | 重量 |
+| Handling | 1.5 | 处理 |
+
+### tactical_urx_kac_panel_long_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 1.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 3 | 瞄准稳定性 |
+| Weight | 0.005 | 重量 |
+| Handling | 1.5 | 处理 |
+
+### tactical_urx_kac_panel_short
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -0.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -0.5 | 减少水平后坐力 |
+| Dispersion | -0.5 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.005 | 重量 |
+| Handling | 1 | 处理 |
+
+### tactical_urx_kac_panel_short_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -0.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -0.5 | 减少水平后坐力 |
+| Dispersion | -0.5 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.005 | 重量 |
+| Handling | 1 | 处理 |
+
+### tactical_vulcan_armasight_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### trigger_m1911_caspian_trik_trigger
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 10 | 半自动射速 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.015 | 重量 |
+
+### trigger_m1911_colt_m1911a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.014 | 重量 |
+
+### trigger_m1911_colt_m45a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.013 | 重量 |
+
+### trigger_usp_hk_usp_std_trigger
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.013 | 重量 |
+
+### bipod_m60_usord_m60e4_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -8 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.537 | 重量 |
+
+### bipod_pkm_zid_pk_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -8 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.47 | 重量 |
+
+### bipod_all_harris_hbr
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -8 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.277 | 重量 |
+
+### bipod_g36_hk_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -5 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.226 | 重量 |
+
+### bipod_sv-98_izhmash_bipod_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -10 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.472 | 重量 |
+
+### tactical_sr2_killflash
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### tactical_zeus_armasight_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+### bipod_rpd_zid_rpd_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.455 | 重量 |
+
+### bipod_all_atlas_v8_bt10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| AimSpeed | -5 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.312 | 重量 |
+| Handling | -5 | 处理 |
+
+### tactical_all_sako_m10_rear_hook
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.15 | 重量 |
+
+### tactical_shakhin_ciklon_shakhin_eyecup
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.005 | 重量 |
+
+## Barrel
+
+Total accessories: 182
+
+### barrel_deagle_magnum_research_l5_std_127mm_9x33r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -20 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.374 | 重量 |
+
+### barrel_deagle_magnum_research_l5_std_127mm_127x33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -20 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.336 | 重量 |
+
+### barrel_deagle_magnum_research_l6_tiger_152mm_127x33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -20 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.464 | 重量 |
+
+### barrel_deagle_magnum_research_l6_std_152mm_127x33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -20 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.464 | 重量 |
+
+### barrel_deagle_magnum_research_mk19_std_152mm_127x33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.464 | 重量 |
+
+### barrel_m60_usord_e3_long_584mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.3 | 重量 |
+
+### barrel_m60_usord_e4_heavy_fluted_475mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.53 | 重量 |
+
+### barrel_m60_usord_e4_short_458mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 2.5 | 自动射速 |
+| SemiROF | 2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.1 | 重量 |
+
+### barrel_m60_usord_e6_short_458mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2 | 重量 |
+
+### barrel_pkp_zid_std_658mm_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -4 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.4 | 重量 |
+
+### barrel_pkm_zid_std_658mm_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -4 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.4 | 重量 |
+
+### barrel_svt40_toz_625mm_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.33 | 重量 |
+
+### barrel_vpo215_600mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 10 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.205 | 重量 |
+
+### barrel_vpo215_600mm_366tkm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_mr133_660mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.1 | 重量 |
+
+### barrel_g36_hk_318mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.47 | 重量 |
+
+### barrel_mr133_750mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.4 | 重量 |
+
+### barrel_p90_407mm_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_mr43e-1c_750mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.4 | 重量 |
+
+### barrel_mr43e-1c_725mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.2 | 重量 |
+
+### barrel_ks23_700mm_23x75
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.23 | 重量 |
+
+### barrel_ks23_510mm_23x75
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.91 | 重量 |
+
+### barrel_ar10_558mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -17 | 减少相机后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | -3 | 自动射速 |
+| SemiROF | -1.7 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_mr43_sawed_off_310mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_mr43e-1c_510mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.5 | 重量 |
+
+### mechanic_barrel_ar15_260mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.6305 | 重量 |
+
+### barrel_ar15_260mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 3 | 自动射速 |
+| SemiROF | 5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.6305 | 重量 |
+
+### barrel_ar15_ba_hanson_carbine_pro_348mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 7 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.509 | 重量 |
+
+### barrel_ar15_370mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.7326 | 重量 |
+
+### barrel_ar15_adar_406mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.9616 | 重量 |
+
+### barrel_ar15_ba_hanson_carbine_pro_406mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -12 | 减少相机后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | -2.25 | 自动射速 |
+| SemiROF | -1.25 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.78 | 重量 |
+
+### barrel_ar15_457mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.99 | 重量 |
+
+### barrel_mr133_510mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.7 | 重量 |
+
+### barrel_mcx_171mm_762x35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 4 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.409 | 重量 |
+
+### barrel_mcx_229mm_762x35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.479 | 重量 |
+
+### 6783af363a06237d1afd123d
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 3 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 8 | 修改故障几率 |
+| Weight | 0.489 | 重量 |
+
+### 6783af2e6b6b13935074bbb5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 5 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -7 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.419 | 重量 |
+
+### barrel_mr153_610mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.25 | 重量 |
+
+### barrel_mp155_510mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_dvl-10_500mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.378 | 重量 |
+
+### barrel_dvl-10_m2_660mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.112 | 重量 |
+
+### barrel_mc255_755mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.55 | 重量 |
+
+### barrel_p90_264mm_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.5 | 重量 |
+
+### barrel_ar15_508mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.1 | 重量 |
+
+### barrel_590_590a1_std_508mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_416_hk_368mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.835 | 重量 |
+
+### barrel_416_hk_264mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 5 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.615 | 重量 |
+
+### barrel_416_hk_279mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 6 | 自动射速 |
+| SemiROF | 1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.465 | 重量 |
+
+### barrel_416_hk_419mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -0.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.03 | 重量 |
+
+### barrel_416_hk_505mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -7.5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -7.5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -0.75 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.05 | 重量 |
+
+### barrel_rfb_457mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.91 | 重量 |
+
+### barrel_mr133_610mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.1 | 重量 |
+
+### barrel_ar10_457mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -12 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.25 | 自动射速 |
+| SemiROF | -1.2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.12 | 重量 |
+
+### barrel_mr133_710mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_mpx_203mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1 | 自动射速 |
+| SemiROF | 0.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.25 | 重量 |
+
+### barrel_mpx_165mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 6 | 自动射速 |
+| SemiROF | 1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### barrel_mpx_265mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.28 | 重量 |
+
+### barrel_mpx_355mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.35 | 重量 |
+
+### barrel_mpx_ronin_121mm_ported_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_mpx_165mm_ported
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_mpx_ronin_171mm_ported_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_mpx_114mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 4 | 自动射速 |
+| SemiROF | 2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.16 | 重量 |
+
+### barrel_mr133_540mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.75 | 重量 |
+
+### barrel_mr153_710mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.35 | 重量 |
+
+### barrel_mr153_750mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.55 | 重量 |
+
+### barrel_mr153_660mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.25 | 重量 |
+
+### barrel_m9_127mm_m9a3_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### barrel_hk_usp_112mm_1143x23_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.113 | 重量 |
+
+### barrel_mk16_fn_457mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -0.75 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.05 | 重量 |
+
+### barrel_57_fn_120mm_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.17 | 重量 |
+
+### barrel_mk47_cmmg_409mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.13 | 重量 |
+
+### barrel_mk47_cmmg_254mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.47 | 重量 |
+
+### barrel_mk17_fn_508mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -7 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.26 | 重量 |
+
+### barrel_mr133_540mm_plank
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.85 | 重量 |
+
+### barrel_mk16_fn_254mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.9 | 重量 |
+
+### barrel_mk17_fn_330mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 7 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 7 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.02 | 重量 |
+
+### barrel_870_extra_barrel_355mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_mr133_510mm_plank
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_mk17_fn_406mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.12 | 重量 |
+
+### barrel_mk16_fn_355mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1 | 重量 |
+
+### barrel_m1911a1_127mm_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.095 | 重量 |
+
+### barrel_g36_hk_228mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 7 | 自动射速 |
+| SemiROF | 2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.39 | 重量 |
+
+### barrel_417_hk_421mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.24 | 重量 |
+
+### barrel_aug_steyr_a3_417mm_300blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.5 | 重量 |
+
+### barrel_mdr_dt_406mm_300blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.5 | 重量 |
+
+### barrel_mdr_dt_406mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.509 | 重量 |
+
+### barrel_mdr_dt_406mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.62 | 重量 |
+
+### barrel_g36_hk_480mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -7.5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -7.5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1 | 自动射速 |
+| SemiROF | -0.5 | 半自动射速 |
+| ModMalfunctionChance | -7.5 | 修改故障几率 |
+| Weight | 0.69 | 重量 |
+
+### barrel_ar10_kac_508mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.6 | 重量 |
+
+### barrel_m3_benelli_500mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_ar10_kac_406mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.02 | 重量 |
+
+### barrel_mp18_600mm_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.35 | 重量 |
+
+### barrel_mr133_610mm_plank
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.25 | 重量 |
+
+### barrel_uzi_pro_iwi_smg_240mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -4 | 自动射速 |
+| SemiROF | -4 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.288 | 重量 |
+
+### barrel_uzi_pro_iwi_smg_210mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -3 | 自动射速 |
+| SemiROF | -3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.241 | 重量 |
+
+### barrel_uzi_pro_iwi_smg_170mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### barrel_uzi_pro_iwi_semi_114mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.131 | 重量 |
+
+### barrel_uzi_pro_pike_threaded_114mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.13 | 重量 |
+
+### barrel_uzi_iwi_409mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.288 | 重量 |
+
+### barrel_uzi_iwi_259mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.15 | 重量 |
+
+### barrel_uzi_iwi_238mm_3_lug_threaded_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.128 | 重量 |
+
+### barrel_stm9_stmarms_304mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.5 | 重量 |
+
+### barrel_vector_140mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.16 | 重量 |
+
+### barrel_stm9_stmarms_406mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_hk_usp_129mm_1143x23_tactical
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.122 | 重量 |
+
+### barrel_glock_glock_114mm_9x19_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_svd_izhmash_565mm_762x54
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.834 | 重量 |
+
+### barrel_stm9_stmarms_355mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.6 | 重量 |
+
+### barrel_ppsh_269mm_762x25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.51 | 重量 |
+
+### barrel_ump_200mm_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.409 | 重量 |
+
+### barrel_mr133_750mm_plank
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.55 | 重量 |
+
+### barrel_tt_116mm_762x25tt_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### barrel_mk18_610mm_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_trg_sako_m10_508mm_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.87 | 重量 |
+
+### barrel_trg_sako_m10_597mm_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.03 | 重量 |
+
+### barrel_trg_sako_m10_685mm_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.33 | 重量 |
+
+### barrel_ax_accuracy_international_686mm_86x70_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.93 | 重量 |
+
+### barrel_vector_170mm_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.21 | 重量 |
+
+### barrel_rpk16_izhmash_370mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.94 | 重量 |
+
+### barrel_vector_140mm_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.17 | 重量 |
+
+### barrel_t5000_660mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 2.5 | 重量 |
+
+### barrel_hk_usp_132mm_1143x23_expert
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.141 | 重量 |
+
+### barrel_870_vent_rib_barrel_660mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.1 | 重量 |
+
+### barrel_ax_accuracy_international_508mm_762x51_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_glock_salient_arms_114mm_threaded_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_57_fn_120mm_threaded_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_glock_glock_18c_114mm_9x19_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_p226_112mm_9x19_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_870_vent_rib_barrel_cut_off_325mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_rpk16_izhmash_550mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.45 | 重量 |
+
+### barrel_pl15_izhmash_112mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_mr133_710mm_plank
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.35 | 重量 |
+
+### barrel_pl15_izhmash_112mm_threaded_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_mr133_660mm_plank
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.25 | 重量 |
+
+### barrel_vector_170mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### barrel_stm9_stmarms_266mm_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.409 | 重量 |
+
+### barrel_p226_112mm_threaded_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_870_express_rifle_sights_fixed_improved_cylinder_508mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1 | 重量 |
+
+### barrel_870_fixed_improved_cylinder_508mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_glock_alpha_wolf_114mm_threaded_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_ax_accuracy_international_660mm_762x51_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.45 | 重量 |
+
+### barrel_glock_glock_114mm_9x19_compensated
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_ax_accuracy_international_610mm_762x51_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.45 | 重量 |
+
+### barrel_mosin_izhmash_mosin_sawn_off_200mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.7 | 重量 |
+
+### barrel_mosin_izhmash_mosin_custom_threaded_sawn_off_220mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.81 | 重量 |
+
+### barrel_mosin_izhmash_mosin_carabine_514mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.3 | 重量 |
+
+### barrel_mosin_izhmash_mosin_std_730mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.53 | 重量 |
+
+### barrel_glock_double_diamond_114mm_threaded_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### barrel_hk_usp_153mm_1143x23_elite
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.163 | 重量 |
+
+### barrel_hk_usp_153mm_1143x23_match
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.17 | 重量 |
+
+### barrel_m1911a1_127mm_national_match_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### barrel_m1911a1_141mm_threaded_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### barrel_m1a_springfield_armory_6_groove_carbon_410mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.04 | 重量 |
+
+### barrel_m1a_springfield_armory_6_groove_national_match_558mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.11 | 重量 |
+
+### barrel_m700_remington_heavy_threaded_508mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_m700_remington_heavy_5_r_stainless_threaded_508mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_m700_shilen_stainless_660mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.45 | 重量 |
+
+### barrel_m700_remington_heavy_660mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.45 | 重量 |
+
+### barrel_sa58_ds_arms_medium_contour_280mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 8 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 6 | 自动射速 |
+| SemiROF | 2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.83 | 重量 |
+
+### barrel_sa58_ds_arms_medium_contour_406mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.96 | 重量 |
+
+### barrel_sa58_ds_arms_medium_contour_533mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.2 | 重量 |
+
+### barrel_tt_116mm_762x25tt_threaded
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.062 | 重量 |
+
+### barrel_tt_gold_116mm_762x25tt_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### barrel_ump_203mm_threaded_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.415 | 重量 |
+
+### barrel_aug_steyr_a1_508mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1 | 自动射速 |
+| SemiROF | -0.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.83 | 重量 |
+
+### barrel_aug_steyr_a1_417mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.535 | 重量 |
+
+### barrel_aug_steyr_a3_417mm_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.53 | 重量 |
+
+### barrel_glock_glock_gmb_102mm_9x19_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### barrel_sks_molot_520mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.45 | 重量 |
+
+### barrel_sks_molot_520mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.5 | 重量 |
+
+### barrel_sks_toz_520mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.5 | 重量 |
+
+### barrel_9a91_kbp_9a91_180mm_9x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.409 | 重量 |
+
+### barrel_9a91_kbp_vsk94_180mm_9x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.409 | 重量 |
+
+### barrel_rpd_zid_rpd_520mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.8 | 重量 |
+
+### barrel_rpd_kiba_sawed_off_350mm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | 5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 5 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.05 | 重量 |
+
+### barrel_mcx_sig_spear_330mm_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | 15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.4 | 重量 |
+
+### barrel_mcx_sig_spear_330mm_68x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.479 | 重量 |
+
+### barrel_aa12_mps_330mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.8 | 重量 |
+
+### barrel_aa12_mps_threaded_342mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.97 | 重量 |
+
+### barrel_aa12_mps_threaded_417mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.03 | 重量 |
+
+### barrel_aa12_mps_457mm_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Ergonomics | -6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.14 | 重量 |
+
+### AK-50 24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+## ChargingHandle
+
+Total accessories: 35
+
+### charge_ak_css_knurled_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.015 | 重量 |
+
+### charge_ak_zenit_rp1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.017 | 重量 |
+
+### charge_ar15_adar_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.04 | 重量 |
+
+### charge_ar15_colt_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.04 | 重量 |
+
+### charge_417_hk_e1_extended_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.041 | 重量 |
+
+### charge_ar10_kac_charging_handle_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.041 | 重量 |
+
+### charge_ar10_kac_ambi_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.046 | 重量 |
+
+### charge_ar15_badger_ordnance_tactical_latch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.045 | 重量 |
+
+### charge_ar15_geissele_ach
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.03 | 重量 |
+
+### charge_ar15_hk_extended_latch_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.045 | 重量 |
+
+### charge_ar15_masp_ambi_battle_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.035 | 重量 |
+
+### charge_ar15_radian_raptor_ambidextrous_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.04 | 重量 |
+
+### charge_ar15_radian_raptor_ambidextrous_charging_handle_gry
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.04 | 重量 |
+
+### charge_ar15_rainer_arms_avalanche_mod2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.028 | 重量 |
+
+### charge_ax_accuracy_internation_axmc_762x51_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.035 | 重量 |
+
+### charge_ax_accuracy_internation_axmc_86x70_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### charge_m3_benelli_charging_handle_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.013 | 重量 |
+
+### charge_mcx_sig_mcx_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.035 | 重量 |
+
+### charge_mk16_fn_charging_handle_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.017 | 重量 |
+
+### charge_mk47_cmmg_mid_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.03 | 重量 |
+
+### charge_mp5_hk_mp5_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.08 | 重量 |
+
+### charge_mp5k_hk_kurtz_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.075 | 重量 |
+
+### charge_mp9_bt_mp9_charging_handle_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.02 | 重量 |
+
+### charge_mpx_geissele_sch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| CameraRecoil | -1 | 减少相机后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.03 | 重量 |
+
+### charge_mpx_sig_mpx_double_latch_gen2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.029 | 重量 |
+
+### charge_mpx_sig_mpx_double_latch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.033 | 重量 |
+
+### charge_mpx_sig_mpx_single_latch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.032 | 重量 |
+
+### charge_p90_fn_p90_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.017 | 重量 |
+
+### charge_p90_km_the_handler
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.019 | 重量 |
+
+### charge_aug_steyr_a1_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.013 | 重量 |
+
+### charge_aug_steyr_a3_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.011 | 重量 |
+
+### charge_ar15_dd_grip_n_rip_charging_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.043 | 重量 |
+
+### charge_spear_sig_spear_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.035 | 重量 |
+
+### charge_trg_sako_trg_m10_bolt_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 1 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### charge_ar15_magpul_bad_lever
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 2 | 提高人体工学 |
+| Weight | 0.03 | 重量 |
+
+## FlashlightLaser
+
+Total accessories: 23
+
+### tactical_all_bemeyers_mawl_c1_plus
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.28 | 重量 |
+
+### flashlight_armytek_predator_pro_v3_xhp35_hi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.198 | 重量 |
+
+### flashlight_ultrafire_WF-501B
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.112 | 重量 |
+
+### tactical_all_glock_gl_21_vis_lam
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.124 | 重量 |
+
+### tactical_all_holosun_ls321
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.244 | 重量 |
+
+### tactical_all_insight_anpeq15
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.23 | 重量 |
+
+### tactical_all_insight_anpeq2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.258 | 重量 |
+
+### tactical_all_insight_la5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.228 | 重量 |
+
+### tactical_all_insight_wmx200
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### tactical_all_ncstar_tactical_blue_laser
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.05 | 重量 |
+
+### tactical_all_olight_baldr_pro
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.129 | 重量 |
+
+### tactical_all_olight_baldr_pro_tan
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.129 | 重量 |
+
+### tactical_all_steiner_9021_dbal_pl
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.153 | 重量 |
+
+### tactical_all_steiner_las_tac_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.226 | 重量 |
+
+### tactical_all_surefire_x400_vis_laser
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.139 | 重量 |
+
+### tactical_all_surefire_xc1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.045 | 重量 |
+
+### tactical_all_wilcox_raptar_es
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.32 | 重量 |
+
+### tactical_all_zenit_2irs_kleh_lam
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.164 | 重量 |
+
+### tactical_all_zenit_2p_kleh_vis_laser
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.164 | 重量 |
+
+### tactical_all_zenit_2u_kleh
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.284 | 重量 |
+
+### tactical_all_zenit_perst_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.267 | 重量 |
+
+### tactical_tt_dlp_tactical_precision_laser_sight
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.086 | 重量 |
+
+### flashlight_base_zenit_2ds
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+## Foregrip
+
+Total accessories: 57
+
+### handguard_uzi_pro_a3_tactical_angled_foregrip_guard_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_sr3m_tochmash_sr3m_std_plum
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_sr3m_tochmash_sr3m_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_all_bcm_mod_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.053 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_m-lok_bcm_mod_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.053 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_m-lok_bcm_mod_3_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.053 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_all_ckib_ash12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_fortis_shift
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_all_hera_arms_cqr_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -4.5 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 7 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.167 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_all_hk_sturmgriff_assault_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_kac_vertical_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.072 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_magpul_afg_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.082 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_magpul_afg_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.082 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_magpul_afg_fg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.082 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_magpul_afg_od
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.082 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_magpul_rvg_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.082 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_all_magpul_rvg_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.082 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_all_rtm_pillau
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.068 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_stark_se_5_express_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_all_strike_industries_cobra_tactical
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_tango_down_bgv_qditi_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.136 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_tango_down_bgv_qditi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.136 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_tango_down_stubby_bgv_qdk_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.104 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_all_tango_down_stubby_bgv_qdk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.104 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_all_tango_down_stubby_bgv_mk46k_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.072 | 重量 |
+| Handling | 4 | 处理 |
+
+### foregrip_all_tango_down_stubby_bgv_mk46k_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.072 | 重量 |
+| Handling | 4 | 处理 |
+
+### foregrip_all_tango_down_stubby_bgv_mk46k_fg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.072 | 重量 |
+| Handling | 4 | 处理 |
+
+### foregrip_all_td_aluminum_skeletonized
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.133 | 重量 |
+| Handling | 3.5 | 处理 |
+
+### foregrip_all_vtac_uvg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.107 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_all_zenit_rk_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.1 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_all_zenit_rk_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.122 | 重量 |
+| Handling | 5.5 | 处理 |
+
+### foregrip_all_zenit_rk_0
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -3.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.133 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_all_zenit_rk_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.105 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_zenit_rk_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -4.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.155 | 重量 |
+| Handling | 7 | 处理 |
+
+### foregrip_all_zenit_rk_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.175 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_zenit_b25u_rk_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 4 | 提高人体工学 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.185 | 重量 |
+| Handling | 7 | 处理 |
+
+### foregrip_ax_accuracy_international_ax_base_pad_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_keymod_monstrum_vertical_fore_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.028 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_keymod_sig_modular_vertical_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.75 | 瞄准稳定性 |
+| Weight | 0.096 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_keymod_sig_vertical_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.055 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_m-lok_magpul_m-lok_afg_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.034 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_m-lok_magpul_m-lok_afg_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.034 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_m-lok_magpul_m-lok_afg_od
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.034 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_m-lok_magpul_m-lok_afg_sg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.034 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_mp9_bt_mp9_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_t5000_orsis_t5000m_pad_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_aug_steyr_a1_foregrip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_aug_steyr_a1_foregrip_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 6 | 处理 |
+
+### foregrip_all_rtm_osovets_p2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.127 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_rtm_osovets_p2_khk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.127 | 重量 |
+| Handling | 6.5 | 处理 |
+
+### foregrip_all_rtm_pillau_snd
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.065 | 重量 |
+| Handling | 5 | 处理 |
+
+### foregrip_all_rtm_pillau_p2_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.067 | 重量 |
+| Handling | 4 | 处理 |
+
+### foregrip_m-lok_dd_enhanced_vertical_foregrip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.75 | 瞄准稳定性 |
+| Weight | 0.028 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_m-lok_dd_enhanced_vertical_foregrip_cb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.75 | 瞄准稳定性 |
+| Weight | 0.028 | 重量 |
+| Handling | 7.5 | 处理 |
+
+### foregrip_all_strike_industries_cobra_tactical_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 5.25 | 处理 |
+
+### foregrip_all_stark_se_5_express_grip_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5.5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 4.5 | 处理 |
+
+### foregrip_trg_sako_m10_base_pad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -1 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.105 | 重量 |
+
+## Gasblock
+
+Total accessories: 33
+
+### gas_block_416_hk_416a5_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.141 | 重量 |
+
+### gas_block_417_hk_adjustable_5_position_gas_block
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.17 | 重量 |
+
+### gas_block_ak_custom_ak_cut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | -1 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_ak12_izhmash_ak12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_ak_izhmash_ak74_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_ak_izhmash_akm_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_ak_izhmash_pp-19-01_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### gas_block_ak_molot_vepr_km_vpo_136
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_ak_sag_mk_21
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### gas_block_ak_ultimak_m1b
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_ak_troy_top_bottom_vent_hole_combo
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.55 | 重量 |
+
+### gas_block_ak_vs_vs_33c
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.385 | 重量 |
+
+### gas_block_ak_vs_vs_33c_wht
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.385 | 重量 |
+
+### gas_block_akp_slr_ak_railed_gas_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.48 | 重量 |
+
+### gas_block_aksu_izhmash_aksu_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.03 | 重量 |
+
+### gas_block_ar10_cmmg_low_profile
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 2.5 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | -8 | 修改故障几率 |
+| Weight | 0.095 | 重量 |
+
+### gas_block_ar10_kac_low_profile
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -3 | 半自动射速 |
+| ModMalfunctionChance | 8 | 修改故障几率 |
+| Weight | 0.049 | 重量 |
+
+### gas_block_ar10_jp_jpgs6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -5 | 自动射速 |
+| SemiROF | -6 | 半自动射速 |
+| ModMalfunctionChance | 10 | 修改故障几率 |
+| Weight | 0.218 | 重量 |
+
+### gas_block_ar15_colt_m4_front_sight_gas_block_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.136 | 重量 |
+
+### gas_block_ar15_dd_mk12_low_profile
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 2 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | -10 | 修改故障几率 |
+| Weight | 0.053 | 重量 |
+
+### gas_block_ar15_ba_lo_pro
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -1 | 半自动射速 |
+| ModMalfunctionChance | 15 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### gas_block_ar15_jp_jpgs5b
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### gas_block_ar15_windham_weaponry_rail_gas_block
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 1.5 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_g36_hk_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### gas_block_mcx_sig_mcx_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.049 | 重量 |
+
+### gas_block_mk18_sword_mjolnir_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_svd_izhmash_svd_s_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_vepr_molot_vpo-101_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_sks_toz_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_sks_molot_op_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### gas_block_mcx_sig_adjustable_gas_piston
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.049 | 重量 |
+
+### gas_block_pp-19-01_vector_vr_lps_p
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+| Handling | 3.5 | 处理 |
+
+### gas_block_pp19_01_sag_mk1_3_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+| Handling | 3 | 处理 |
+
+## Handguard
+
+Total accessories: 196
+
+### handguard_m60_usord_m60e4_mod1_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.765 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_m60_usord_m60e4_mod1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.765 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_m60_usord_m60e6_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.647 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_uzi_iwi_plastic_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.203 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_uzi_iwi_k_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.243 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_uzi_iwi_vertical_grip_railed
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.243 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sr3m_tochmash_std_plum
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.108 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sr3m_kiba_railed_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.108 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sr3m_tochmash_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.095 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_pk_zenit_b50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.486 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp155_izhmeh_monte_carlo_walnut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 1.08 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp155_kalashnikov_ultima_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.419 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mc255_ckib_255_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 1.08 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_m3_benelli_forend_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.184 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ks23_toz_ks23m_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.783 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mr153_izhmeh_polymer
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 3 | 瞄准稳定性 |
+| Weight | 0.419 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp18_izhmash_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.246 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp18_izhmash_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.176 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mr133_izhmeh_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 1.08 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mr133_custom_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.068 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_590_mossberg_590a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.878 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_590_magpul_moe_590
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.81 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_870_remington_12g_speedfeed_short
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.675 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_870_magpul_moe_870
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.81 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_870_fab_defence_pr870
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 1.08 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_rfb_kel_tec_rfb_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ash12_ckib_ash12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.365 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mdr_dt_mdr_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.363 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mdr_dt_mdr_std_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.363 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_g36_hk_c
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.311 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_g36_hk_k
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 3 | 瞄准稳定性 |
+| Weight | 0.378 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_g36_hk_heatshield_a1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 3 | 瞄准稳定性 |
+| Weight | 0.513 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_417_hk_417_patrol_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.058 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_416_hk_quad_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.053 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_416_hk_quad_rail_w_sight
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.053 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_416_midwest_m_lok_9_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.378 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_416_troy_m_lok_13_inch_carbon_fiber
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_416_midwest_m_lok_13,5_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.499 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_416_hk_mrs_keymod_14_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.527 | 重量 |
+| Handling | 9 | 处理 |
+
+### handguard_416_strike_industries_crux_m_lok_15_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.594 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_416_hk_quad_rail_extended
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.073 | 重量 |
+| Handling | 2 | 处理 |
+
+### handguard_417_hk_417_extended_free_float
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.743 | 重量 |
+| Handling | 2 | 处理 |
+
+### handguard_ar10_cmmg_mk3_rml9_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.209 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar10_noveske_sws_n6_quadrail_10,5_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.678 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar10_noveske_sws_n6_quadrail_split
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.783 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar10_lancer_lch7_12_5_inch_carbon
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.44 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar10_kac_urx4_14_5_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.567 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar10_cmmg_mk3_rml15_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.494 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_adar_wood_v1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.52 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_colt_m4_length_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.227 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_colt_m4_length_std_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.174 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_aeroknox_ax15_4_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.139 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_strike_industries_viper
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.231 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_strike_industries_viper_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.231 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_strike_industries_viper_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -0.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.127 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_strike_industries_viper_lower_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -0.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.127 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_kac_ris
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.34 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_kac_ris_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -0.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -0.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.131 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_kac_urx_3_8_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.324 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_ar15_kac_urx_3_8_inch_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.097 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_ar15_magpul_moe_sl_carabine_length
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.257 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_stmarms_9_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.209 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_fsp_9,5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.472 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_9,5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.404 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_9,5_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.134 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_9,5_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.404 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_9,5_lower_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.134 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_geissele_smr_mk16_95_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.448 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_war_sport_lvoa_s_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.675 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_stngr_vypr_m_lok_10_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.282 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_aeroknox_ax15_10,5_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.463 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_sai_qd_rail_short
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.412 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_ar15_kac_urx_31_10,75_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.432 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_kac_urx_31_10,75_inch_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_stmarms_12_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.27 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_unique_ars_wing_and_skull_12_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_12,25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.506 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_dd_ris_ii_12,25_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.169 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_ar15_jp_rsass_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.419 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_geissele_smr_mk16_135_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.5 | 提高瞄准速度 |
+| Ergonomics | 8.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.57 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_magpul_moe_sl_mid_length
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.311 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_alexander_arms_mk10_rifle_lenght
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.513 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_precision_reflex_carbon_fiber_delta_gen_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.574 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_war_sport_lvoa_c_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.783 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_sai_qd_rail_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.479 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_stmarms_15_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.297 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_ar15_aeroknox_ax15_15,8_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.463 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_ar15_lone_star_ion_lite_m_lok_16_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.513 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_saiga12_izhmash_saiga12k_10_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.243 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_saiga12_chaos_titan_quad_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.551 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_saiga12_utg_pro_mtu002_short_top
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.551 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_saiga12_utg_pro_mtu002_long_top
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.578 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_saiga12_bravo18_saiga_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.499 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_saiga12_custom_guns_type_340
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.5 | 提高瞄准速度 |
+| Ergonomics | 8.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.324 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_svd_izhmash_svd_s_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 1 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_svd_izhmash_svd_modernized_kit
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.648 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_svd_caa_xrs_drg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.878 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_svd_sag_chassis_mk_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 1.202 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak12_izhmash_ak12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.181 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_rpk16_izhmash_rpk16_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.225 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_sag_mk3_chassis_ak545_type
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.833 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_aks74u_izhmash_aks74u_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.157 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_aks74u_zenit_b11
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.209 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_aks74u_alfa_arms_goliaf_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.203 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_aks74u_alfa_arms_goliaf
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_aks74u_caa_xrsu47su
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.702 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_izhmash_ak74m_std_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_izhmash_akm_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_molot_vepr_km_vpo_136
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_molot_vepr_km_vpo_209
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_izhmash_ak74_std_plum
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_izhmash_ak74_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_izhmash_ak100_rail_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.365 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_moe_ak_od
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_moe_ak_sg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_moe_ak_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_moe_ak_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_moe_ak_plm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_tdi_akm_l
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_tdi_akm_l_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_tdi_akm_l_gld
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.298 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_cugir_arms_factory_wasr_10_63_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.378 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_zenit_b10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.257 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_zenit_b10m_b19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.365 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_caa_quad_rail_polymer
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.297 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_strike_industries_trax_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_strike_industries_trax_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 7 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_tdi_x47
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.567 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_cnc_guns_ov_gp
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.724 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_545_design_red_heat_agressor
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_zhukov_u_plm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.419 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_zhukov_u_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.419 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_magpul_zhukov_u_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.419 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_zenit_b30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.501 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_krebs_ufm_akm_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.351 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_vltor_cmrd
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.536 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_hexagon_ak
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.225 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_hexagon_ak_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.5 | 提高瞄准速度 |
+| Ergonomics | 8.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.225 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sr2m_tochmash_std_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.162 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sr2m_tochmash_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.162 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp5k_hk_kurtz_grip_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.325 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_mp5_hk_sd
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.176 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp5_hk_wide_tropical
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 6 | 瞄准稳定性 |
+| Weight | 0.325 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp5_bt_tl_99_3x_nar
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 6 | 瞄准稳定性 |
+| Weight | 0.375 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp5_ptr_tri_rail_forearm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 6 | 瞄准稳定性 |
+| Weight | 0.416 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mp5_caa_hx5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.416 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sa58_ds_arms_picatinny_quad_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 7 | 瞄准稳定性 |
+| Weight | 0.648 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_fal_vltor_casv_fas
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.313 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sa58_ds_arms_picatinny_full_lenght_quad_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.824 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_fal_fn_original_stamped_steel
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.824 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_fal_ds_arms_belgian_style_full_lenght
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.689 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_fal_aim_sport_universal_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.363 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_fal_aim_sport_universal_keymod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 7 | 瞄准稳定性 |
+| Weight | 0.285 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_fal_vltor_casv_fal
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.302 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mcx_sig_gen1_8_inch_keymod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.527 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_mcx_sig_gen1_12_inch_keymod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.581 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_mpx_sig_mpx_gen1_4_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.375 | 重量 |
+| Handling | 9 | 处理 |
+
+### handguard_mpx_sig_mpx_gen1_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.408 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mpx_sig_mpx_gen1_8_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.436 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_mpx_sig_mpx_gen2_4_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.363 | 重量 |
+| Handling | 9 | 处理 |
+
+### handguard_mpx_sig_mpx_gen2_6_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -1.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.412 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_mpx_sig_mpx_gen2_8_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.428 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_mpx_midwest_4,5_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.108 | 重量 |
+| Handling | 9 | 处理 |
+
+### handguard_mpx_midwest_6,5_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.189 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_mpx_midwest_10,5_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.305 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_mpx_midwest_14_inch_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.363 | 重量 |
+| Handling | 9 | 处理 |
+
+### handguard_mpx_lancer_oem_14_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.194 | 重量 |
+| Handling | 9 | 处理 |
+
+### handguard_dvl-10_lobaev_dvl-10_m2_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.436 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_trg_sako_m10_forend_11_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.864 | 重量 |
+| Handling | 6 | 处理 |
+
+### handguard_trg_sako_m10_forend_m_lok_15_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.972 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_trg_sako_m10_forend_15_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 1.053 | 重量 |
+| Handling | 4 | 处理 |
+
+### handguard_mk18_sword_mjolnir_18_inch
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 3 | 瞄准稳定性 |
+| Weight | 0.54 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_ax_accuracy_international_axmc_handguard_16_inch_keyslot_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.581 | 重量 |
+| Handling | 8 | 处理 |
+
+### handguard_t5000_orsis_t5000m_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.486 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_m700_abarms_mrs_mod_x_gen_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.527 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sv-98_cnc_guns_ov_unif_keymod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.446 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sks_molot_op_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.135 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sks_toz_sks_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.135 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_9a91_kbp_9a91_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.225 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_9a91_kbp_vsk94_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.225 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_akademia_dominator
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.425 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ak_alfa_arms_aspid
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.479 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_abarms_mod1_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.127 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_ar15_abarms_mod1_handguard_lower
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.045 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_rpd_zid_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.338 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_pp-19-01_hartman_gurza
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.365 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_mcx_sig_spear_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.5 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.581 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sks_ati_monte_carlo_cover
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.135 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sks_tapco_gas_cover
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.297 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_sks_fab_defence_uas_gas_cover
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.1 | 提高瞄准速度 |
+| Ergonomics | 7.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.284 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_vss_tochmash_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.095 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_vss_tochmash_std_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 2.8 | 提高瞄准速度 |
+| Ergonomics | 6.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.095 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_g36_kac_quad_rail_k
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.2 | 提高瞄准速度 |
+| Ergonomics | 7.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.689 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_g36_hk_slimline_k_hkey
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.3 | 提高瞄准速度 |
+| Ergonomics | 8.0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 6 | 瞄准稳定性 |
+| Weight | 0.594 | 重量 |
+| Handling | 5 | 处理 |
+
+### handguard_velociraptor_tapco_galil_style_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.0 | 提高瞄准速度 |
+| Ergonomics | 6.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.23 | 重量 |
+| Handling | 5 | 处理 |
+
+### AK-50 M-LOK
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3.5 | 提高瞄准速度 |
+| Ergonomics | 8.5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.35 | 重量 |
+| Handling | 5 | 处理 |
+
+## sight
+
+Total accessories: 90
+
+### scope_all_elcan_specter_dr_1-4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.64 | 重量 |
+
+### scope_all_elcan_specter_dr_1-4_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -1 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.64 | 重量 |
+
+### scope_all_elcan_spectre_os4x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.528 | 重量 |
+
+### scope_all_ncstar_advance_dual_optic_3_9x_42
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.595 | 重量 |
+
+### scope_all_leupold_mark4_hamr
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.411 | 重量 |
+
+### scope_all_monstrum_compact_prism_scope_2x32
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.425 | 重量 |
+
+### scope_all_sig_bravo4_4x30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.419 | 重量 |
+
+### scope_all_swampfox_trihawk_prism_scope_3x30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.436 | 重量 |
+
+### scope_all_valday_ps320
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -1 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.57 | 重量 |
+
+### scope_base_primary_arms_compact_prism_scope_2,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.322 | 重量 |
+
+### scope_base_trijicon_acog_ta01nsn_4x32
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.396 | 重量 |
+
+### scope_base_trijicon_acog_ta01nsn_4x32_tan
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.396 | 重量 |
+
+### scope_base_trijicon_acog_ta11_3,5x35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.396 | 重量 |
+
+### scope_g36_hensoldt_hkv_carry_handle_3x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.198 | 重量 |
+
+### scope_g36_hensoldt_hkv_single_optic_carry_handle_1,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.192 | 重量 |
+
+### scope_7mm_vomz_target_ring
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.21 | 重量 |
+
+### scope_all_aksion_ekp_8_18
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.273 | 重量 |
+
+### scope_all_ekb_okp7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.255 | 重量 |
+
+### scope_all_sig_sauer_romeo7_1x30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.354 | 重量 |
+
+### scope_all_elcan_specter_hco
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.433 | 重量 |
+
+### scope_all_eotech_553
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.349 | 重量 |
+
+### scope_all_eotech_exps3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.317 | 重量 |
+
+### scope_all_eotech_hhs_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.635 | 重量 |
+
+### scope_all_eotech_hhs_1_tan
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.635 | 重量 |
+
+### scope_all_eotech_xps3-0
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.255 | 重量 |
+
+### scope_all_eotech_xps3-2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.255 | 重量 |
+
+### scope_all_holosun_hs401g5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.36 | 重量 |
+
+### scope_all_leapers_utg_38_ita_1x30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -1 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3.5 | 提高精度 |
+| Weight | 0.227 | 重量 |
+
+### scope_all_milkor_m2a1_reflex_sight
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.6 | 重量 |
+
+### scope_all_sig_romeo_8t
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.388 | 重量 |
+
+### scope_all_trijicon_srs_02
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.39 | 重量 |
+
+### scope_all_valday_1p87
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.297 | 重量 |
+
+### scope_all_valday_krechet
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.35 | 重量 |
+
+### scope_all_vomz_pilad_p1x42_weaver
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.16 | 重量 |
+
+### scope_all_vortex_razor_amg_uh-1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.334 | 重量 |
+
+### scope_all_walther_mrs
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.113 | 重量 |
+
+### scope_base_aimpoint_pro
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.27 | 重量 |
+
+### scope_base_aimpooint_comp_m4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.37 | 重量 |
+
+### scope_base_hensoldt_hkv_red_dot_sight
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.227 | 重量 |
+
+### scope_dovetail_komz_rusak
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.24 | 重量 |
+
+### scope_dovetail_aksion_ekp_8_02
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.273 | 重量 |
+
+### scope_dovetail_belomo_pk_aa
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.45 | 重量 |
+
+### scope_dovetail_ekb_okp7_dovetail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.295 | 重量 |
+
+### scope_dovetail_npz_pk_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.52 | 重量 |
+
+### scope_p90_fn_ring_sight_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.297 | 重量 |
+
+### scope_all_belomo_pk_06
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### scope_base_aimpoint_acro_p1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.06 | 重量 |
+
+### scope_base_aimpoint_micro_h2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.094 | 重量 |
+
+### scope_base_aimpoint_micro_t1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.084 | 重量 |
+
+### scope_base_burris_fast_fire_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.025 | 重量 |
+
+### scope_base_leupold_deltapoint
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 4 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.053 | 重量 |
+
+### scope_base_sig_romeo_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.089 | 重量 |
+
+### scope_base_trijicon_rmr
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.025 | 重量 |
+
+### scope_25_4mm_vomz_pilad_4x32m
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.31 | 重量 |
+
+### scope_base_npz_1p78_1_2,8x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.6 | 重量 |
+
+### scope_dovetail_npz_1p29_4x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.795 | 重量 |
+
+### scope_base_progress_pu_3,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.4 | 重量 |
+
+### scope_dovetail_belomo_pso_1m2-1_4×24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.6 | 重量 |
+
+### scope_dovetail_belomo_pso_1m2_4x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4.5 | 提高精度 |
+| Weight | 0.6 | 重量 |
+
+### scope_dovetail_belomo_pso_1_4x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.6 | 重量 |
+
+### scope_base_kmz_1p59_3_10x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.94 | 重量 |
+
+### scope_base_kmz_1p69_3_10x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.94 | 重量 |
+
+### scope_30mm_burris_fullfield_tac30_1_4x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.48 | 重量 |
+
+### scope_30mm_eotech_vudu_1_6x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.57 | 重量 |
+
+### scope_30mm_razor_hd_gen_2_1_6x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| Weight | 0.57 | 重量 |
+
+### scope_30mm_s&b_pm_ii_1_8x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.639 | 重量 |
+
+### scope_all_nightforce_nxs_2,5-10x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.51 | 重量 |
+
+### scope_34mm_s&b_pm_ii_3_12x50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.92 | 重量 |
+
+### scope_34mm_hensoldt_zf_4_16x56_ff
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.9 | 重量 |
+
+### scope_30mm_leupold_mark4_lr_6,5_20x50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.62 | 重量 |
+
+### scope_30mm_march_tactical_3-24x42
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.64 | 重量 |
+
+### scope_35mm_leupold_mark_5hd_5_25x56_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.85 | 重量 |
+
+### scope_34mm_s&b_pm_ii_5_25x56
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 1.08 | 重量 |
+
+### scope_34mm_nightforce_atacr_7_35x56
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 1.113 | 重量 |
+
+### scope_base_armasight_vulcan_gen3_bravo_mg_3,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -4 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.9 | 重量 |
+
+### scope_dovetail_npz_nspum_3,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -1 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 1.9 | 重量 |
+
+### tactical_mp155_kalashnikov_ultima_camera
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.21 | 重量 |
+
+### scope_all_torrey_pines_logic_t12_w_30hz
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.063 | 重量 |
+
+### scope_all_flir_rs32_225_9x_35_60hz
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.75 | 重量 |
+
+### scope_base_trijicon_reap-ir
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.58 | 重量 |
+
+### scope_all_sig_sauer_echo1_thermal_reflex_sight_1_2x_30hz,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.417 | 重量 |
+
+### scope_base_armasight_zeus_pro_640_2_16x50_30hz
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.9 | 重量 |
+
+### scope_ags_npz_pag17_2,7x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.51 | 重量 |
+
+### scope_aug_steyr_rail_optic_1,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.624 | 重量 |
+
+### scope_aug_steyr_stg77_optic_1,5x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 1.22 | 重量 |
+
+### scope_sr2m_tochmash_kp_sr2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.27 | 重量 |
+
+### scope_dovetail_aksion_ekp_1s_03
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.273 | 重量 |
+
+### scope_all_wilcox_boss_xe_hp
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### scope_30mm_sig_tango6t_1_6x24
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.626 | 重量 |
+
+### scope_base_ciklon_shakhin_37x
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | -2.5 | 提高瞄准速度 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 1.014 | 重量 |
+
+## Magazine
+
+Total accessories: 224
+
+### mag_uzi_iwi_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_uzi_iwi_9x19_25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.227 | 重量 |
+
+### mag_uzi_pro_iwi_uzi_pro_9x19_25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.217 | 重量 |
+
+### mag_uzi_iwi_9x19_32
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### mag_uzi_pro_iwi_uzi_pro_9x19_32
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.245 | 重量 |
+
+### mag_uzi_iwi_9x19_40
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.26 | 重量 |
+
+### mag_uzi_iwi_9x19_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_deagle_magnum_research_l5_std_9x33r_9
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.18 | 重量 |
+
+### mag_deagle_magnum_research_std_127x33_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.18 | 重量 |
+
+### mag_m60_capco_m60e3_assault_box_762x51_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -15 | 提高人体工学 |
+| Weight | 0.423 | 重量 |
+
+### mag_pkm_zid_pk_std_762x54r_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -15 | 提高人体工学 |
+| Weight | 1.5 | 重量 |
+
+### mag_svt40_toz_svt40_std_762x54r_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.28 | 重量 |
+
+### mag_svt40_toz_svt40_std_762x54r_15
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_msgl_milkor_cylinder_mag_std_40x46_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.8 | 重量 |
+
+### mag_mc255_ckib_mc255_cylinder_std_12g_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### mag_rhino_chiappa_rhino_cylinder_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.11 | 重量 |
+
+### mag_rhino_chiappa_rhino_cylinder_9x33r_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.11 | 重量 |
+
+### mag_rhino_chiappa_rhino_speedloader_9x33R_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### mag_toz-106_mc_20-01_sb3_20x70_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.095 | 重量 |
+
+### mag_toz-106_mc_20-01_sb3_20x70_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.11 | 重量 |
+
+### mag_toz-106_mc_20-01_sb3_20x70_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.13 | 重量 |
+
+### mag_saiga12_izhmash_Sb5_12x76_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.19 | 重量 |
+
+### mag_saiga12_pro_mag_sai_02_12x76_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2.5 | 提高人体工学 |
+| Weight | 0.21 | 重量 |
+
+### mag_saiga12_maxrounds_powermag_20_12x76_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -10 | 提高人体工学 |
+| Weight | 0.66 | 重量 |
+
+### mag_870_remington_magazie_cap_12g_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_mr153_izhmeh_12g_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_mr153_izhmeh_12g_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.11 | 重量 |
+
+### mag_m3_benelli_magazine_cap_12g_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.085 | 重量 |
+
+### mag_mp155_kalashnikov_12g_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.124 | 重量 |
+
+### mag_mr133_izhmeh_12g_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_mr153_izhmeh_12g_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.124 | 重量 |
+
+### mag_m3_benelli_std_12g_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.227 | 重量 |
+
+### mag_870_remington_magazie_extension_12g_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_mr153_izhmeh_12g_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.156 | 重量 |
+
+### mag_mr133_izhmeh_12g_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_mr153_izhmeh_12g_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_590_mossberg_magazie_cap_12g_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### mag_m3_benelli_magazine_extension_12g_9
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.255 | 重量 |
+
+### mag_870_remington_magazie_extension_12g_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.4 | 重量 |
+
+### mag_m3_benelli_magazine_extension_12g_11
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -5 | 提高人体工学 |
+| Weight | 0.299 | 重量 |
+
+### mag_m3_benelli_magazine_extension_12g_13
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -6 | 提高人体工学 |
+| Weight | 0.34 | 重量 |
+
+### mag_ks23_toz_ks23_std_23x75_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_ash12_ckib_ash12_std_127x55_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.4 | 重量 |
+
+### mag_ash12_ckib_ash12_std_127x55_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.28 | 重量 |
+
+### mag_mk18_sword_mjolnir_std_86x70_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.6 | 重量 |
+
+### mag_sv98_izhmash_sv98_std_762x54r_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.115 | 重量 |
+
+### mag_svd_izhmash_svd_std_762x54_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.112 | 重量 |
+
+### mag_svd_izhmash_svd_std_762x54_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.112 | 重量 |
+
+### mag_mosin_izhmash_mosin_std_762x54_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.4 | 重量 |
+
+### mag_mosin_promag_opfor_mag_762x54_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.227 | 重量 |
+
+### mag_dvl-10_lobaev_308_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_m700_wyatt_762x51_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_m700_magpul_pmag_762_ac_762x51_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.09 | 重量 |
+
+### mag_m700_ai_aics_762x51_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_m700_wyatt_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_m700_promag_aa70_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_m700_magpul_pmag_762_ac_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.12 | 重量 |
+
+### mag_m700_ai_aics_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_m700_mdt_aics_762x51_12
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.6 | 重量 |
+
+### mag_m700_promag_aa70_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_ar10_kac_steel_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.41 | 重量 |
+
+### mag_ar10_kac_steel_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.52 | 重量 |
+
+### mag_ar10_magpul_pmag_sr_gen_3_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_417_hk_417_std_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_417_hk_417_std_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.16 | 重量 |
+
+### mag_vepr_molot_308_win_std_762x51_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_vepr_molot_308_win_std_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_m14_springfield_armory_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.159 | 重量 |
+
+### mag_m14_springfield_armory_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.226 | 重量 |
+
+### mag_m14_triple_k_m14_magazine_762x51_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.34 | 重量 |
+
+### mag_m14_x_products_drum_magazine_m14_762x51_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Weight | 0.7 | 重量 |
+
+### mag_ax_accuracy_international_ax_762x51_10_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.5 | 重量 |
+
+### mag_ax_accuracy_international_ax_86x70_10_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.4 | 重量 |
+
+### mag_mk17_fn_mk17_std_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.33 | 重量 |
+
+### mag_mk17_fn_mk17_std_762x51_20_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_t5000_orsis_t5000_std_5_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_fal_ds_arms_fal_sa58_762x51_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.27 | 重量 |
+
+### mag_fal_ds_arms_fal_sa58_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_fal_mmw_fal_sa58_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.29 | 重量 |
+
+### mag_fal_ds_arms_fal_sa58_762x51_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.49 | 重量 |
+
+### mag_fal_sarco_fal_l1a1_orig_762x51_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.49 | 重量 |
+
+### mag_fal_x_products_x_fal_762x51_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Weight | 0.7 | 重量 |
+
+### mag_stanag_surefire_mag5_556x45_60
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -5 | 提高人体工学 |
+| Weight | 0.18 | 重量 |
+
+### mag_stanag_surefire_mag5_556x45_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -8 | 提高人体工学 |
+| Weight | 0.27 | 重量 |
+
+### mag_stanag_hk_416_steel_maritime_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.32 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_556x45_30_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.138 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_556x45_40_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -5 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_window_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.138 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_window_556x45_30_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.138 | 重量 |
+
+### mag_stanag_troy_battlemag_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.138 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_556x45_40
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_stanag_magpul_pmag_d-60_556x45_60
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.58 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_556x45_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.12 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_556x45_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.125 | 重量 |
+
+### mag_stanag_magpul_pmag_gen_m3_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.138 | 重量 |
+
+### mag_stanag_fn_mk16_std_556x45_30_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.117 | 重量 |
+
+### mag_stanag_hk_gen_2_pm_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.16 | 重量 |
+
+### mag_stanag_hk_polymer_mag_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_stanag_fn_mk16_std_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.117 | 重量 |
+
+### mag_g36_hk_std_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.14 | 重量 |
+
+### mag_stanag_colt_ar15_std_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.117 | 重量 |
+
+### mag_sks_toz_std_internal_762x39_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.185 | 重量 |
+
+### mag_sks_kci_drum_762x39_75
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Weight | 1.043 | 重量 |
+
+### mag_sks_promag_aalvx35_762x39_35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1.5 | 提高人体工学 |
+| Weight | 0.197 | 重量 |
+
+### mag_sks_tapco_mag6610_762x39_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.112 | 重量 |
+
+### mag_ak_arsenal_cwp_mag_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.45 | 重量 |
+
+### mag_ak_izhmash_6L29_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.215 | 重量 |
+
+### mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_banana
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_ak_izhmash_akms_aluminium_762x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_ak_fab_defense_ultimag_ak_30r_762x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.156 | 重量 |
+
+### mag_ak_izhmash_rpk_std_bakelite_762x39_40
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2.5 | 提高人体工学 |
+| Weight | 0.32 | 重量 |
+
+### mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_ak_izhmash_rpk_std_61_sector_762x39_40
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2.5 | 提高人体工学 |
+| Weight | 0.46 | 重量 |
+
+### mag_ak_promag_ak_a_16_drum_762x39_73
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -8.5 | 提高人体工学 |
+| Weight | 0.72 | 重量 |
+
+### mag_ak_izhmash_ak103_std_762x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.215 | 重量 |
+
+### mag_ak_izhmash_ak_std_55_762x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.37 | 重量 |
+
+### mag_ak_custom_sawed_off_762x39_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_ak_izhmash_akms_aluminium_762x39_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.12 | 重量 |
+
+### mag_ak_x_products_x_47_drum_762x39_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Weight | 0.7 | 重量 |
+
+### mag_ak_us_palm_ak30_762x39_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_ak_us_palm_ak30_762x39_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_ak_izhmash_6L10_762x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.24 | 重量 |
+
+### mag_ak_molot_rpk_drum_762x39_75
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Weight | 0.9 | 重量 |
+
+### mag_ak74_izhmash_6L31_545x39_60
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_ak74_izhmash_6L20_545x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.215 | 重量 |
+
+### mag_ak74_izhmash_6L18_545x39_45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2.5 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_ak74_izhmash_6L26_545x39_45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2.5 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_ak74_izhmash_6L23_plum_545x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.215 | 重量 |
+
+### mag_ak_izhmash_ak12_early_type_545x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.185 | 重量 |
+
+### mag_ak_izhmash_ak12_std_545x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.19 | 重量 |
+
+### mag_ak74_izhmash_6L23_545x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.215 | 重量 |
+
+### mag_ak74_izhmash_saiga_545_std_545x39_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.112 | 重量 |
+
+### mag_ak74_deltatech_saiga_mk_545_20_545x39_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.13 | 重量 |
+
+### mag_ak_magpul_pmag_20_ak_akm_gen_m3_762x39_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.14 | 重量 |
+
+### mag_ak74_magpul_pmag_30_ak74_gen_m3_545x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_ak_izhmash_rpk16_drum_545x39_95
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -6 | 提高人体工学 |
+| Weight | 0.68 | 重量 |
+
+### mag_vss_tochmash_6L24_9x39_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.25 | 重量 |
+
+### mag_vss_tochmash_6L25_9x39_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_vss_tochmash_sr3m130_9x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.45 | 重量 |
+
+### mag_vss_tochmash_vss_val_9x39_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.254 | 重量 |
+
+### mag_mp7_hk_std_46x30_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_mp7_hk_std_46x30_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.15 | 重量 |
+
+### mag_mp7_hk_std_46x30_40
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_glock_glock_std_9x19_17
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.096 | 重量 |
+
+### mag_glock_magpul_pmag_21_gl9_9x19_21
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_glock_glock_big_stick_9x19_33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.15 | 重量 |
+
+### mag_glock_sgmt_glock_drum_50_9x19_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -4 | 提高人体工学 |
+| Weight | 0.6 | 重量 |
+
+### mag_mp5_hk_kurtz_std_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.12 | 重量 |
+
+### mag_mp5_hk_std_curved_9x19_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_mp5_x_products_x_5_9x19_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Weight | 0.64 | 重量 |
+
+### mag_mp9_bt_mp9_std_9x19_15
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.06 | 重量 |
+
+### mag_mp9_bt_mp9_std_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.067 | 重量 |
+
+### mag_mp9_bt_mp9_std_9x19_25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.072 | 重量 |
+
+### mag_mp9_bt_mp9_std_9x19_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.08 | 重量 |
+
+### mag_m9_beretta_m9a3_std_9x19_17
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.082 | 重量 |
+
+### mag_mp443_izhmeh_std_9x19_18
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.105 | 重量 |
+
+### mag_pm_izhmeh_9x18pm_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.044 | 重量 |
+
+### mag_pm_custom_9x18pm_84
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -5 | 提高人体工学 |
+| Weight | 0.364 | 重量 |
+
+### mag_tt_toz_std_762x25tt_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.08 | 重量 |
+
+### mag_usp_hk_usp_1143x23_12
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.099 | 重量 |
+
+### mag_usp_hk_usp_tactical_1143x23_12
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.092 | 重量 |
+
+### mag_p90_fn_p90_std_57x28_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.45 | 重量 |
+
+### mag_mpx_sig_mag_std_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.14 | 重量 |
+
+### mag_mpx_sig_mpx_std_9x19_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_mpx_tti_sig_mag_w_base_pad_9x19_41
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_mpx_f5_mpx_drum_9x19_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.65 | 重量 |
+
+### mag_ppsh_zis_std_762x25_35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.38 | 重量 |
+
+### mag_ppsh_zis_std_762x25_71
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | -5 | 提高人体工学 |
+| Weight | 0.9 | 重量 |
+
+### mag_sr1mp_tochmash_std_9x21_18
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.105 | 重量 |
+
+### mag_aps_molot_aps_apb_std_9x18pm_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.044 | 重量 |
+
+### mag_p226_sig_std_9x19_15
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.096 | 重量 |
+
+### mag_p226_sig_extended_mag_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.11 | 重量 |
+
+### mag_ump_hk_ump_1143x23_25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_glock_glock_21_std_1143x23_13
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.096 | 重量 |
+
+### mag_glock_kriss_magex_g30_1143x23_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.18 | 重量 |
+
+### mag_m1911_colt_m1911a1_std_1143x23_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.16 | 重量 |
+
+### mag_m1911_mec_gar_extended_1143x23_11
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.24 | 重量 |
+
+### mag_pp-19-01_izhmash_vityaz_std_9x19_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_57_fn_five_seven_std_57x28_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.088 | 重量 |
+
+### mag_pp-91_zmz_pp-91_std_9x18pm_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.103 | 重量 |
+
+### mag_pp-91_zmz_pp-91_std_9x18pm_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.128 | 重量 |
+
+### mag_pl15_izhmash_pl15_std_9x19_16
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.096 | 重量 |
+
+### mag_vpo215_molot_vpo_215_366tkm_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.2 | 重量 |
+
+### mag_m1911_colt_m45a1_std_1143x23_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.14 | 重量 |
+
+### mag_pp-19-01_izhmash_izh-9x19_sb7_9x19_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_pp-19-01_pufgun_mag_sg-919_20_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.085 | 重量 |
+
+### mag_pp-19-01_pufgun_mag_sg-919_30_9x19_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.109 | 重量 |
+
+### mag_rsh12_kbp_rsh12_cylinder_127x55_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.23 | 重量 |
+
+### mag_sr2m_tochmash_9x21_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.17 | 重量 |
+
+### mag_sr2m_tochmash_9x21_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.13 | 重量 |
+
+### mag_aug_steyr_std_556x45_10
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_aug_steyr_std_556x45_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.13 | 重量 |
+
+### mag_aug_steyr_std_556x45_42
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.142 | 重量 |
+
+### mag_glock_glock_big_stick_9x19_24_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.112 | 重量 |
+
+### mag_glock_glock_big_stick_9x19_31_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.14 | 重量 |
+
+### mag_glock_glock_w_pad_9x19_19_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.106 | 重量 |
+
+### mag_stanag_maopul_pmag_airsoft_6_30_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.05 | 重量 |
+
+### mag_9a91_kbp_9a91_std_9x39_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_rpd_zid_rpd_762x39_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.8 | 重量 |
+
+### mag_ar10_lancer_l7_awm_762x51_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_ar10_lancer_l7_awm_762x51_25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.35 | 重量 |
+
+### mag_pd_ussr_toygun_std_20x1mm_18
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.005 | 重量 |
+
+### mag_uzi_pro_iwi_uzi_pro_9x19_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.194 | 重量 |
+
+### mag_aa12_mps_aa12_box_mag_12g_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.34 | 重量 |
+
+### mag_aa12_mps_aa12_drum_mag_12g_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 1.13 | 重量 |
+
+### mag_pm_izhmeh_9x18pm_999_infectedMagazin
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.045 | 重量 |
+
+### mag_tt_toz_std_762x25tt_999_infectedMagazin
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.08 | 重量 |
+
+### mag_mp443_izhmeh_std_9x19_999_infectedMagazin
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.105 | 重量 |
+
+### mag_glock_glock_w_pad_9x19_999_fde_Infected
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.106 | 重量 |
+
+### mag_m1911_colt_m45a1_std_1143x23_999_infected
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.14 | 重量 |
+
+### mag_usp_hk_usp_tactical_1143x23_999_infected
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.092 | 重量 |
+
+### mag_utes_ckib_nsv_belt_127x108_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -20 | 提高人体工学 |
+| Weight | 0.1 | 重量 |
+
+### mag_ags30_zid_ags30_snail_std_30x29_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Weight | 0.088 | 重量 |
+
+### mag_pktm_zid_pk_std_762x54r_250
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -30 | 提高人体工学 |
+| Weight | 1.5 | 重量 |
+
+### mag_m60_lbt_feed_tray_pouch_762x51_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -21 | 提高人体工学 |
+| Weight | 0.276 | 重量 |
+
+### mag_trg_sako_trg_m10_86x70_8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -1 | 提高人体工学 |
+| Weight | 0.19 | 重量 |
+
+### mag_pp-19-01_f5mfg_kr9_drum_mag_9x19_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -13 | 提高人体工学 |
+| Weight | 0.68 | 重量 |
+
+### mag_saiga12_md_arms_saiga_drum_12g_20
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -20 | 提高人体工学 |
+| Weight | 0.66 | 重量 |
+
+### mag_stanag_beta_c_mag_556x45_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -24 | 提高人体工学 |
+| Weight | 1.056 | 重量 |
+
+### mag_uzi_beta_c_mag_9x19_100
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -16 | 提高人体工学 |
+| Weight | 0.997 | 重量 |
+
+### mag_m9_beretta_92_cx4_9x19_30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -2 | 提高人体工学 |
+| Weight | 0.091 | 重量 |
+
+### mag_ar10_x_products_x_25_drum_762x51_50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -15 | 提高人体工学 |
+| Weight | 0.69 | 重量 |
+
+### mag_ak_molot_mag_223_556x45_45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -3.5 | 提高人体工学 |
+| Weight | 0.3 | 重量 |
+
+### mag_m82_barrett_m82a1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | -8 | 提高人体工学 |
+| Weight | 0.612 | 重量 |
+
+## Mount
+
+Total accessories: 242
+
+### mount_uzi_pro_iwi_rail_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_all_iwi_universal_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_uzi_stormwerkz_top_cover_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_uzi_stormwerkz_lower_handguard_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.025 | 重量 |
+
+### mount_pk_zenit_b50_rack_16mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.125 | 重量 |
+
+### mount_pk_zenit_b50_rack_66mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.135 | 重量 |
+
+### mount_svt40_toz_tokarev_pu_base
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.045 | 重量 |
+
+### mount_all_lobaev_dvl_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_all_iea_kh_f_34mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.199 | 重量 |
+
+### mount_mpx_4_inch_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_all_trijicon_ac32062
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.017 | 重量 |
+
+### mount_mk16_pws_srx
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AimStability | 4 | 瞄准稳定性 |
+| Weight | 0.224 | 重量 |
+| Handling | 4 | 处理 |
+
+### mount_590_bat_rb7m
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.234 | 重量 |
+
+### mount_all_aimpoint_qrp2_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.098 | 重量 |
+
+### mount_all_ncstar_mpr45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_all_trijicon_ta51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.113 | 重量 |
+
+### mount_acog_trijicon_rm35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_base_rsr_akr_1913_top_railed_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.067 | 重量 |
+
+### mount_dovetail_rsr_akr_1913_railed_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.099 | 重量 |
+
+### mount_all_zenit_b12
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.087 | 重量 |
+
+### mount_vss_toz_6p29m
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.095 | 重量 |
+
+### mount_7mm_etmi_019
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.053 | 重量 |
+
+### mount_hk_mfi_universal
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.071 | 重量 |
+
+### nvg_wilcox_pvs7_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_all_zenit_b18
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.053 | 重量 |
+
+### mount_vss_zenit_b3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_all_aimpoint_h2_weaver
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.015 | 重量 |
+
+### mount_all_custom_top_rail_13
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_all_kmz_1p69_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.5 | 重量 |
+
+### mount_svd_caa_drg_l_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_g36_hk_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.312 | 重量 |
+
+### mount_all_aimpoint_lrp_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_all_jp_enterprises_ftsm_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 6 | 提高精度 |
+| Weight | 0.194 | 重量 |
+
+### mount_mpx_2_inch_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_all_noname_25mm_ring
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.085 | 重量 |
+
+### mount_all_aimpoint_h1_t1_weaver
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.015 | 重量 |
+
+### mount_all_unv_dloc_ird
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.113 | 重量 |
+
+### mount_hex_hexagon_short
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_mp18_izhmash_ris
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_mp443_zenit_b8
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.043 | 重量 |
+
+### mount_870_utg_mtu028sg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.1 | 重量 |
+
+### mount_all_trijicon_rm33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.017 | 重量 |
+
+### mount_all_utg_rings_25_4mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.19 | 重量 |
+
+### mount_hex_hexagon_medium
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_g36_hk_bottom_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_glock_aimtech_base_glock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_mp9_bt_mp9_side_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_mp9_bt_mp9_bottom_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_sr1mp_tochmash_std_4_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_sks_utg_socom_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_base_hensoldt_top_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.015 | 重量 |
+
+### mount_dovetail_kmz_1p59_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.41 | 重量 |
+
+### mount_vss_zenit_b3_combo
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.08 | 重量 |
+
+### mount_m3_benelli_sport_top_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.11 | 重量 |
+
+### mount_sr1mp_tochmash_std_1_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_mr133_tactica_tula_12003
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_ump_hk_bottom_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_dovetail_aksion_kobra
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.043 | 重量 |
+
+### mount_mosin_aim_sports_mng
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.074 | 重量 |
+
+### mount_mosin_aim_sports_tri_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.18 | 重量 |
+
+### mount_mr133_deltatech_sprut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.096 | 重量 |
+
+### mount_hex_hexagon_medium_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_kochetov_progress_pu_base
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_mosin_kochetov_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_dovetail_caa_xd_rgl
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| Weight | 0.225 | 重量 |
+
+### mount_dovetail_arbalet_vpo_102
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_mp5sd_bt_tri_rail_ring
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.082 | 重量 |
+
+### mount_dovetail_zenit_b13v
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.158 | 重量 |
+
+### mount_g36_hk_magwell_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_m14_vltor_casv_14_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.096 | 重量 |
+
+### mount_g36_hk_side_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_pp-91_rotor_43_kedr_ris
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_dovetail_zenit_b13
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.175 | 重量 |
+
+### mount_hex_hexagon_short_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_dovetail_pilad_043_02
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_m14_sage_m14dcsb_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| Weight | 0.22 | 重量 |
+
+### nvg_norotos_tatm_universal
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_sks_molot_op_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.035 | 重量 |
+
+### mount_m14_amega_mounts_mini_scout_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| Weight | 0.18 | 重量 |
+
+### mount_all_burris_ar_p_e_p_r_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.246 | 重量 |
+
+### mount_all_burris_fast_fire_weaver
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.017 | 重量 |
+
+### nvg_norotos_dual_dovetail_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_vector_kriss_side_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_g36_hk_magwell_ar15_conversion
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_all_b&t_acro_nar_mount_39mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_p90_fn_effen_90_side_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_g36_hk_extendable_folding_sight
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.165 | 重量 |
+
+### mount_all_geissele_super_precision_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 9 | 提高精度 |
+| Weight | 0.194 | 重量 |
+
+### mount_usp_hk_match_compensator
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.34 | 重量 |
+
+### mount_usp_hk_elite_compensator
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.31 | 重量 |
+
+### mount_usp_hk_usp_rail_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.01 | 重量 |
+
+### mount_ump_hk_side_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_dovetail_npz_1p78_1_mount_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_vector_kriss_bottom_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_p226_trijicon_rm50
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.017 | 重量 |
+
+### mount_57_fn_mk2_rmr_dovetail_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_all_dd_offset_flashlight_mount_25mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.06 | 重量 |
+
+### mount_12g_mesa_tactical_magazine_clamp
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.087 | 重量 |
+
+### mount_mp155_kalashnikov_ultima_top_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.125 | 重量 |
+
+### mount_glock_aimtech_tiger_shark_glock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_base_aimpoint_h1_t1_spacer
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.015 | 重量 |
+
+### mount_all_armasight_un_nv_ir_qd_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.017 | 重量 |
+
+### mount_all_armasight_zeus_pro_qd_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.017 | 重量 |
+
+### mount_870_xs_shot_rail_ghost_ring
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.15 | 重量 |
+
+### mount_casv_vltor_2_inch_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_all_sig_romeo_4_base_weaver
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.015 | 重量 |
+
+### mount_all_leupold_deltapoint_weaver
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.045 | 重量 |
+
+### mount_kochetov_arbalet_patriot_k_w
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.2 | 重量 |
+
+### mount_m700_magpul_pro_700_inline_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.28 | 重量 |
+
+### mount_urx_kac_3_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_vector_kriss_mk5_modular_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -0.5 | 减少水平后坐力 |
+| Dispersion | -0.5 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.147 | 重量 |
+
+### mount_vpo215_molot_vpo_215_top_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_orsis_orsis_rail_section_med
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_svd_izhmash_svd_s_lower_band_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.246 | 重量 |
+
+### mount_mk16_fn_scar_side_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_p226_sig_sauer_bridge_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_p90_fn_receiver_side_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_mk16_kinetic_mrex_6_5_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -0.8 | 减少水平后坐力 |
+| Dispersion | -0.5 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AimStability | 4 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 2 | 处理 |
+
+### mount_mk16_kinetic_mrex_6_5_m_lok_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -0.8 | 减少水平后坐力 |
+| Dispersion | -0.5 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AimStability | 4 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 2 | 处理 |
+
+### mount_rfb_kel_tec_bottom_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_glock_um_tactical_um3_sight_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_t5000_orsis_scope_mount_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.08 | 重量 |
+
+### mount_toz-106_noname_dovetail_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_mk16_fn_scar_bottom_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_p90_fn_receiver_top_rail_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.27 | 重量 |
+
+### mount_base_aimpoint_standart_spacer
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.025 | 重量 |
+
+### mount_sr1mp_tochmash_silencer_base
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_orsis_orsis_rail_section_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_dovetail_sag_ak_sidemount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| Weight | 0.165 | 重量 |
+
+### mount_dovetail_sag_svd_low_sidemount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| Weight | 0.165 | 重量 |
+
+### mount_m_lok_magpul_offset_light_optic_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.037 | 重量 |
+
+### mount_qars_troy_qars_3,2_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.045 | 重量 |
+
+### mount_m1911_ncstar_1911_trigger_guard_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_all_recknagel_era_tac_aimpoint_t1_sunshade_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| Weight | 0.015 | 重量 |
+
+### mount_m700_abarms_mod_x_scope_mount_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_m14_ultimak_m8_forward_optic_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.19 | 重量 |
+
+### mount_m700_weaver_extended_multi_slot_base
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_m1a_springfield_armory_socom_16_upper
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.096 | 重量 |
+
+### mount_mp5_bt_mounting_rail_nar_low_profile_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.223 | 重量 |
+
+### mount_m700_badger_ordnance_scope_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.163 | 重量 |
+
+### mount_m700_remington_integral_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.246 | 重量 |
+
+### mount_keymod_cnc_guns_medium_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.06 | 重量 |
+
+### mount_keymod_cnc_guns_short_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.03 | 重量 |
+
+### mount_dovetail_noname_toz106_angled_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_all_larue_picatinny_raiser_qd_lt101
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.11 | 重量 |
+
+### mount_m_lok_magpul_cantilever_rail_light_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_rpk16_izhmash_rpk16_side_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.045 | 重量 |
+
+### mount_geissele_reptilia_rof_90_trijicon_30mm_ddc
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_keymod_vltor_2_inch_casv_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.045 | 重量 |
+
+### mount_casv_vltor_5_inch_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_all_geissele_super_precision_30mm_ddc
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 9 | 提高精度 |
+| Weight | 0.194 | 重量 |
+
+### mount_all_primary_arms_compact_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.11 | 重量 |
+
+### mount_mp155_kalashnikov_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### nvg_custom_pnv10t_dovetail_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.08 | 重量 |
+
+### mount_rfb_ket_tec_rfb_scope_mount_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_keymod_vltor_4_inch_casv_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_cust_custom_guns_short_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_casv_vltor_4_inch_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.06 | 重量 |
+
+### mount_glock_tango_down_aam_01_acro_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.007 | 重量 |
+
+### mount_keymod_vltor_6_inch_casv_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_geissele_reptilia_rof_90_trijicon_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_m14_arms_18_low_profile_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.22 | 重量 |
+
+### mount_geissele_geissele_super_precision_top_ring_cap_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_all_nightforce_x_treme_duty_ultralite_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.19 | 重量 |
+
+### mount_m_lok_magpul_0,93_inch_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.035 | 重量 |
+
+### mount_m_lok_magpul_2,5_inch_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_all_accuracy_international_ax50_scope_mount_34mm_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.23 | 重量 |
+
+### mount_all_recknagel_era_tac_one_piece_mount_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 9 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_all_recknagel_era_tac_one_piece_mount_34mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 9 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_mk10_alexander_arms_10_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_mk10_alexander_arms_3_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.022 | 重量 |
+
+### mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_34mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 9 | 提高精度 |
+| Weight | 0.226 | 重量 |
+
+### mount_all_nightforce_x_treme_duty_ultralite_one_piece_magmount_multimount_34mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 7 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_geissele_geissele_super_precision_top_ring_cap_30mm_ddc
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_keymod_strike_industries_4_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_keymod_strike_industries_6_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.065 | 重量 |
+
+### mount_keymod_strike_industries_bridge_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_keyslot_accuracy_international_adapter_kit_medium_rail_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_keyslot_accuracy_international_adapter_kit_short_rail_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.065 | 重量 |
+
+### mount_keyslot_accuracy_international_at_x_forend_rail_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_m14_leapers_utg_4_point_locking_deluxe_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_m1911_weigand_weig_a_tinny_1911_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.12 | 重量 |
+
+### mount_m_lok_magpul_4,1_inch_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_qars_troy_qars_4,2_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.065 | 重量 |
+
+### mount_rahg_remington_2_inch_rahg_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_rahg_remington_4_inch_rahg_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_svd_izhmash_svd_modernized_kit_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| Weight | 0.24 | 重量 |
+
+### mount_sr2m_zenit_b17
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.04 | 重量 |
+
+### mount_dovetail_sag_bit_bracket
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 7 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_sr2m_tochmash_short_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_sr2m_tochmash_med_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.06 | 重量 |
+
+### mount_aug_steyr_aug_a3_m1_long_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.154 | 重量 |
+
+### mount_aug_steyr_aug_a3_m1_short_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.114 | 重量 |
+
+### mount_pri_precision_reflex_long_rail_section_gen3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.16 | 重量 |
+
+### mount_pri_precision_reflex_bottom_rail_section_gen3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.075 | 重量 |
+
+### mount_pri_precision_reflex_short_rail_section_gen3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### helmet_ops_core_single_clamp_rail_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### helmet_ops_core_picatinny_rail_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.02 | 重量 |
+
+### mount_sks_toz_sks_rear_sight_block
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_sks_molot_sks_rear_sight_block
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.25 | 重量 |
+
+### mount_sks_choate_sks_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.175 | 重量 |
+
+### mount_all_zenit_kr2_gen_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.036 | 重量 |
+
+### mount_all_gbrs_hydra_micro_kit
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | -5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.141 | 重量 |
+
+### mount_all_gbrs_hydra_micro_kit_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| AimSpeed | -5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.141 | 重量 |
+
+### mount_sks_tapco_intrafuse_sks_railed_bottom_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.1 | 重量 |
+
+### mount_lenok_hartman_lenok_weaver_70mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.019 | 重量 |
+
+### mount_all_sig_alpha4_ultralight_30mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.19 | 重量 |
+
+### mount_mk16_pmm_bottom_rail_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.045 | 重量 |
+
+### mount_mk16_pmm_bottom_rail_m_lok_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.045 | 重量 |
+
+### mount_mk16_pmm_mre_xl_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.125 | 重量 |
+| Handling | 5 | 处理 |
+
+### mount_mk16_pmm_mre_xl_m_lok_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.125 | 重量 |
+| Handling | 5 | 处理 |
+
+### mount_mk16_pmm_rail_elimination_panel
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 4 | 瞄准稳定性 |
+| Weight | 0.006 | 重量 |
+
+### mount_mk16_pmm_rail_elimination_panel_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 4 | 瞄准稳定性 |
+| Weight | 0.006 | 重量 |
+
+### mount_mk16_pmm_side_rail_m_lok
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.021 | 重量 |
+| Handling | 4 | 处理 |
+
+### mount_mk16_pmm_side_rail_m_lok_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.021 | 重量 |
+| Handling | 4 | 处理 |
+
+### mount_mk16_vltor_casv_handguard
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -3.5 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.29 | 重量 |
+| Handling | 7 | 处理 |
+
+### mount_mk16_vltor_casv_handguard_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -3.5 | 减少散射 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| Weight | 0.29 | 重量 |
+| Handling | 7 | 处理 |
+
+### mount_mk16_vltor_casv_handguard_extender
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+
+### mount_mk16_vltor_casv_handguard_extender_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+
+### mount_dovetail_tochmash_sr3mp_side_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.11 | 重量 |
+
+### mount_dovetail_tochmash_sr3mp_side_rail_plum
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.11 | 重量 |
+
+### mount_sr3m_tochmash_sr3mp_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_sr3m_tochmash_sr3mp_rail_plum
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_hkey_hk_rail_3_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_12g_leapers_utg_universal_shotgun_barrel_mount_3_slot
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.125 | 重量 |
+
+### mount_aug_corvus_defencio_a3_rail_moi_30_slots
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| Weight | 0.18 | 重量 |
+
+### mount_aug_corvus_defencio_forward_accessory_rail_keymod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.057 | 重量 |
+
+### mount_keymod_corvus_defencio_1_8_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.21 | 重量 |
+
+### mount_keymod_corvus_defencio_6_8_inch_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.057 | 重量 |
+
+### mount_keymod_odin_works_bipod_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.021 | 重量 |
+
+### mount_keyslot_accuracy_international_harris_bipod_stud
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.03 | 重量 |
+
+### mount_m_lok_magpul_bipod_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.03 | 重量 |
+
+### mount_trg_sako_m10_scope_mount
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.273 | 重量 |
+
+### mount_trg_sako_short_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.05 | 重量 |
+
+### mount_trg_sako_med_picatinny_rail_section
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_saiga12_chaos_titan_quad_rail_cover
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.07 | 重量 |
+
+### mount_saiga12_chaos_titan_top_cover
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.09 | 重量 |
+
+### mount_all_leupold_ims_35mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.17 | 重量 |
+
+### mount_all_kac_mws_bipod_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.042 | 重量 |
+
+### mount_rfb_kel_tec_rfb_3_quad_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.11 | 重量 |
+
+### mount_12g_toni_system_barrel_clamp_rail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.118 | 重量 |
+
+### mount_all_ciklon_shakhin_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| Weight | 0.014 | 重量 |
+
+## bayonet
+
+Total accessories: 286
+
+### mosin_bayonet
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 3 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | -1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.43 | 重量 |
+
+### m9_bayonet
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 3 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | -6 | 提高人体工学 |
+| Accuracy | -1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.44 | 重量 |
+
+### 6kh4_bayonet
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 3 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | -6 | 提高人体工学 |
+| Accuracy | -1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.38 | 重量 |
+
+### muzzle_borelock_aseutra_borelock_thread_protector_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.085 | 重量 |
+
+### muzzle_trg_sako_m10_thread_protector_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### muzzle_uzi_iwi_short_vented_barrel_shroud_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_uzi_pro_iwi_masada_thread_protector_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_uzi_pro_iwi_retaining_nut_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.078 | 重量 |
+
+### muzzle_uzi_iwi_3_lug_retaining_nut_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.078 | 重量 |
+
+### muzzle_uzi_iwi_3_lug_barrel_thread_protector_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_9a91_kbp_hanguard_retainer
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.01 | 重量 |
+
+### muzzle_sr2m_tochmash_hand_stop_9x21
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.087 | 重量 |
+
+### muzzle_aug_ratworx_suppressor_adapter_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_aug_ratworx_suppressor_adapter_300BLK
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_pp-91-01_zmz_std_9x18pm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_all_sig_qd_muzzle_base_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_ak_kiba_thread_adapter_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_sv98_izhmash_thread_muzzle_adapter_762x54
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### muzzle_svd_rotor43_svd_s_dtk_adapter_762x54
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.18 | 重量 |
+
+### muzzle_sks_weapon_tuning_wt0032_1_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.055 | 重量 |
+
+### muzzle_all_silencerco_omega_45k_piston_adapter_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.141 | 重量 |
+
+### muzzle_mp5_hk_lug_adapter_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### muzzle_ak_tactica_tula_ak_adapter_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_saiga12_silencerco_salvo_adaper_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_rpd_zid_thread_protector_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.01 | 重量 |
+
+### muzzle_12g_silencerco_salvo_adaper_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.13 | 重量 |
+
+### muzzle_all_kel_tec_thread_spacer_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.091 | 重量 |
+
+### muzzle_mosin_weapon_tuning_wt1052_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### muzzle_mosin_noname_custom_thread_adapter_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.09 | 重量 |
+
+### muzzle_mosin_tiger_rock_muzzle_brake_adapter_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_mp9_bt_supressor_mount_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_all_gemtech_direct_mount_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_all_silencerco_hybrid_46_direct_thread_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_all_silencerco_omega_45k_direct_thread_adapter_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.135 | 重量 |
+
+### muzzle_ak_cnc_warrior_ar15_thread_adapter_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_mp5_hk_navy_style_3_lug_supressor_adapter_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.091 | 重量 |
+
+### muzzle_vector_kriss_thread_protector_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_vector_kriss_thread_protector_std_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_vpo215_molot_vpo_215_thread_protector_std_366tkm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_glock_double_diamond_thread_protector_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_m700_remington_stainless_thread_protector_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_m9_beretta_m9a3_protector_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_glock_salient_arms_thread_protector_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_ai_accuracy_international_thread_protector_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_m700_remington_thread_protector_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_m1a_smith_enterprise_socom_16_threaded_gas_lock_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_glock_alpha_wolf_thread_protector_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_saiga12_izhmash_saiga12_std_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_psr_awc_thread_protector_std_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_usp_hk_usp_std_thread_protector_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_p226_sig_thread_protector_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_all_kel_tec_thread_protector_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_ak_molot_vpo_209_366TKM
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.01 | 重量 |
+
+### muzzle_p90_fn_p90_std_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0.005 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ar15_dt_mdr_std_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -12 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### muzzle_ar10_dt_mdr_std_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -12 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### muzzle_ak_izhmash_akml_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -14 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### muzzle_all_kel_tec_rfb_std_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_mpx_sig_mpx_a2_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_ar15_adar_2_15_std_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_m60_usord_e3_std_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.114 | 重量 |
+
+### muzzle_m60_usord_e6_std_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -12 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.127 | 重量 |
+
+### muzzle_ar15_colt_usgi_a2_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.059 | 重量 |
+
+### muzzle_ar15_kac_qd_compensator_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -4 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_mp7_hk_a1_std_46x30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0.005 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### muzzle_ar10_kac_qdc_flash_supressor_kit_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_all_hk_prolonged_flash_hider_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.122 | 重量 |
+
+### muzzle_sv-98_izhmash_std_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.105 | 重量 |
+
+### muzzle_svd_izhmash_svd_s_std_762x54
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -12 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### muzzle_mp5_b&t_mp5_qd_muzzle_brake_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.128 | 重量 |
+
+### muzzle_mp5_hk_noveske_style_3_lug_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -9 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.38 | 重量 |
+
+### muzzle_g36_hk_complete_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### muzzle_g36_hk_incomplete_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_g36_hk_4_prong_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### muzzle_vector_kriss_flash_hider_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_vector_kriss_flash_hider_std_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_fal_ds_arms_austrian_style_muzzle_brake_long_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -18 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_ar15_yankee_hill_phantom_aggressive_end_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_aug_steyr_a1_closed_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_aug_steyr_a3_closed_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_aug_steyr_a3_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.074 | 重量 |
+
+### muzzle_ar15_griffin_gatelok_hammer_comp_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.068 | 重量 |
+
+### muzzle_ar10_aac_scar_h_miter_51t_flash_hider_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.16 | 重量 |
+
+### muzzle_m1a_springfield_armory_national_match_flash_suppressor_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -16 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | -16 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_rpk16_izhmash_rpk16_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.09 | 重量 |
+
+### muzzle_ar15_fn_scar_l_3_prong_flash_hider_w_mount_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.15 | 重量 |
+
+### muzzle_ar15_hk_blitz_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.085 | 重量 |
+
+### muzzle_ar15_kac_qdc_3_prong_flash_eliminator_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.065 | 重量 |
+
+### muzzle_ar15_surefire_warcomp_556_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_ar15_surefire_sf3p_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_ar15_surefire_sf4p_fh556rc_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### muzzle_ar15_aac_blackout_51t_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.122 | 重量 |
+
+### muzzle_ar10_aac_blackout_51t_flash_hider_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.122 | 重量 |
+
+### muzzle_ar15_silencerco_asr_flash_hider_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_ar15_aeroknox_butterfly_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_ar10_2a_x3_titanium_compensator_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -9 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### muzzle_all_yankee_hill_anihilator_flash_hider_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.128 | 重量 |
+
+### muzzle_sa58_ds_arms_3_prong_trident_flash_hider_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_m14_smith_enterprise_vortex_dc_flash_eliminator_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -17 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.06 | 重量 |
+
+### muzzle_m14_yankee_hill_phantom_qd_flash_hider_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_base_sig_flash_hider_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -18 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -18 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_base_sig_micro_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -19 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -19 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_base_sig_two_port_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.095 | 重量 |
+
+### muzzle_ar10_kac_qdc_muzzle_brake_kit_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.145 | 重量 |
+
+### muzzle_ak74_jmac_rrd_4c_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.085 | 重量 |
+
+### muzzle_ar15_deltatech_dtk_ar15_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -30 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.125 | 重量 |
+
+### muzzle_ar10_deltatech_dtk_ar10_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -30 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.125 | 重量 |
+
+### muzzle_ar10_fortis_red_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.108 | 重量 |
+
+### muzzle_ak_spike_tactical_ak_dynacomp_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -15 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.076 | 重量 |
+
+### .366 TKM Dynacomp
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -24 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.076 | 重量 |
+
+### muzzle_sv-98_srw_dtk_jet_mk2_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -14 | 减少水平后坐力 |
+| Dispersion | -14 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.46 | 重量 |
+
+### muzzle_pp-19-01_izhmash_vityaz_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -9 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_pk_zenit_dtk_1p_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -20 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.125 | 重量 |
+
+### muzzle_ak_zenit_dtk1_762x39_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -20 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.123 | 重量 |
+
+### .366 TKM DTK-1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -20 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.123 | 重量 |
+
+### muzzle_ak74_srvv_mbr_jet_545_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -14 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_ar15_taa_zk_23_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.028 | 重量 |
+
+### muzzle_ar10_taa_zk_38_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.035 | 重量 |
+
+### muzzle_ar10_odin_works_atlas_7_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_ak_venom_antidote_muzzle_brake_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.096 | 重量 |
+
+### muzzle_ar15_dd_wave_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.109 | 重量 |
+
+### muzzle_ar10_dd_wave_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.109 | 重量 |
+
+### muzzle_ak_lantac_dgnak47b_muzzle_brake_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.09 | 重量 |
+
+### muzzle_ar10_lantac_dgn762b_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.09 | 重量 |
+
+### muzzle_ar15_awc_psr_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.141 | 重量 |
+
+### muzzle_all_awc_psr_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.165 | 重量 |
+
+### muzzle_all_aseutra_borelock_muzzle_brake_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.192 | 重量 |
+
+### muzzle_trg_coretac_corebrake_muzzle_brake_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | -1 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.295 | 重量 |
+
+### muzzle_trg_sako_trg_22_42_m10_muzzle_brake_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | -2 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.281 | 重量 |
+
+### muzzle_all_awc_psr_muzzle_brake_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.177 | 重量 |
+
+### muzzle_all_taccom_carbine_brake_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.079 | 重量 |
+
+### muzzle_dvl-10_lobaev_dvl-10_m2_std_308
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -30 | 减少水平后坐力 |
+| Dispersion | -20 | 减少散射 |
+| CameraRecoil | -30 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.098 | 重量 |
+
+### muzzle_ak_srvv_mbrfhmb_762_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -20 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_svt40_toz_std_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_ar10_keeno_arms_shrewd_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_ak_molot_vepr_km_vpo_136_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.02 | 重量 |
+
+### .366 TKM Brake
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.02 | 重量 |
+
+### muzzle_pk_zid_pkm_long_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -15 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.057 | 重量 |
+
+### muzzle_pk_zid_pkm_std_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -12 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_ak_izhmash_akm_std_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.02 | 重量 |
+
+### muzzle_ak74_izhmash_ak101_std_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak12_izhmash_ak12_muzzle_brake_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak74_izhmash_ak74m_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak74_izhmash_ak103_std_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak74_izhmash_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_aks74u_izhmash_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak74_izhmash_ak102_std_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak74_izhmash_ak105_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak74_izhmash_ak104_std_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_ak_jmac_rrd_4c_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### .366 TKM RRD-4C
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### muzzle_ar15_ferfrans_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.15 | 重量 |
+
+### muzzle_ar15_vendetta_precision_vp_09_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -18 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### muzzle_ash12_ckib_ash12_std_127x55
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -18 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.15 | 重量 |
+
+### muzzle_ar15_nordic_corvette_compensator_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -9 | 减少散射 |
+| CameraRecoil | -11 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.125 | 重量 |
+
+### muzzle_ar10_nordic_corvette_compensator_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -12 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.125 | 重量 |
+
+### muzzle_saiga_9_izhmash_saiga_9_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.07 | 重量 |
+
+### muzzle_all_stmarms_stm9_muzzle_brake_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.084 | 重量 |
+
+### muzzle_ar15_bulletec_st_6012_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.125 | 重量 |
+
+### muzzle_t5000_orsis_t5000m_std_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -30 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.098 | 重量 |
+
+### muzzle_ak_hexagon_reactor_muzzle_brake_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.095 | 重量 |
+
+### muzzle_ar10_cmmg_sv_brake_compensator_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.08 | 重量 |
+
+### muzzle_ar15_thunder_beast_223cb_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.109 | 重量 |
+
+### muzzle_ak_vector_vr_05t_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -30 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.116 | 重量 |
+
+### muzzle_ar15_walkerdr_nero_556_inconel_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.108 | 重量 |
+
+### muzzle_ar10_sig_clutch_lok_qd_flash_hider_68x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.122 | 重量 |
+
+### muzzle_ar10_thunder_beast_30cb_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.109 | 重量 |
+
+### muzzle_mosin_witt_machine_custom_clamp_on_muzzle_brake_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.17 | 重量 |
+
+### muzzle_mosin_tacfire_tanker_style_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -28 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -12 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.25 | 重量 |
+
+### muzzle_mosin_tpp_clamp_on_muzzle_brake_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### muzzle_ar15_sai_jail_break_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_m1a_springfield_armory_socom_16_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -4 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.13 | 重量 |
+
+### muzzle_ar10_surefire_procomp_762_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.097 | 重量 |
+
+### muzzle_ar10_dead_air_silencers_keymount_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_all_accuracy_international_tactical_muzzle_brake_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.23 | 重量 |
+
+### muzzle_m14_jp_enterprises_tactical_compensator_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.13 | 重量 |
+
+### muzzle_all_silencerco_ac858_asr_muzzle_brake_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### AK-50 .50 BMG muzzle brake
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.11 | 重量 |
+
+### muzzle_ar10_precision_armament_m11_severe_duty_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_m14_smith_enterprise_good_iron_muzzle_brake_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -13 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_ar15_alientech_gubich_muzzle_brake_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.085 | 重量 |
+
+### muzzle_ferfrans_ferfrans_crd_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.14 | 重量 |
+
+### muzzle_ar10_lantac_bmd_adapter_a3_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.03 | 重量 |
+
+### muzzle_base_lantac_blast_mitigation_device_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -20 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.176 | 重量 |
+
+### muzzle_ar10_surefire_warden_direct_thread_blast_regulator_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.21 | 重量 |
+
+### muzzle_ar15_surefire_warden_direct_thread_blast_regulator_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -25 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.221 | 重量 |
+
+### muzzle_ar15_double_star_carlson_tac_comp_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.209 | 重量 |
+
+### muzzle_ar15_noveske_kx3_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.4 | 自动射速 |
+| SemiROF | 1.4 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.204 | 重量 |
+
+### muzzle_ar15_troy_claymore_muzzle_brake_556_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -13 | 减少水平后坐力 |
+| Dispersion | -8 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.064 | 重量 |
+
+### muzzle_ak74_pws_cqb74_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -15 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### muzzle_ar15_pws_cqb_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -15 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### muzzle_glock_carver_custom_decelerator_3_port_gen_3_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -5 | 自动射速 |
+| SemiROF | -5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_glock_carver_custom_4_port_gen_3_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -7.5 | 自动射速 |
+| SemiROF | -7.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.046 | 重量 |
+
+### muzzle_glock_strike_industries_g4_slide_compensator_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.105 | 重量 |
+
+### muzzle_glock_lone_wolf_compensator_9_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -20 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.036 | 重量 |
+
+### muzzle_glock_lone_wolf_alphawolf_bullnosed_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -14 | 减少水平后坐力 |
+| Dispersion | -14 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_glock_double_diamond_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -20 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| AutoROF | -9 | 自动射速 |
+| SemiROF | -9 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.063 | 重量 |
+
+### muzzle_tt_pm_laser_dtk_tt
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -5 | 自动射速 |
+| SemiROF | -5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.036 | 重量 |
+
+### muzzle_m1911_anarchy_outdoors_1911_muzzle_brake_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | -2.5 | 自动射速 |
+| SemiROF | -2.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.105 | 重量 |
+
+### muzzle_p226_tj_compensator_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -2 | 提高精度 |
+| AutoROF | -1.5 | 自动射速 |
+| SemiROF | -1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.036 | 重量 |
+
+### muzzle_mc255_ckib_choke_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -4 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 15 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.1 | 重量 |
+
+### muzzle_12g_remington_tactical_12
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.101 | 重量 |
+
+### muzzle_saiga12_css_monster_caw_large_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -15 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -18 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -5 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.34 | 重量 |
+
+### muzzle_12g_red_heat_gk-02_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -15 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.233 | 重量 |
+
+### muzzle_12g_me_muzzle_adapter_cylinder_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### muzzle_dvl-10_lobaev_dvl-10_std_308
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -15 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.105 | 重量 |
+
+### silencer_apb_toz_apb_std_9x18pm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.49 | 重量 |
+
+### silencer_mpx_ronin_8_inch_supressor_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.377 | 重量 |
+
+### silencer_sig_mpx_sd_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -12 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.6 | 重量 |
+
+### silencer_mpx_ronin_12_inch_supressor_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.6 | 重量 |
+
+### silencer_all_aac_illusion_9_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.294 | 重量 |
+
+### silencer_bt_b&t_g28_sd_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 1.9 | 自动射速 |
+| SemiROF | 2.65 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.46 | 重量 |
+
+### silencer_vepr_rotor43_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 2.3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.9 | 重量 |
+
+### silencer_all_rotor_43_v2_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2.25 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.57 | 重量 |
+
+### silencer_base_rotor43_svd_dtk_762x54
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 1.7 | 自动射速 |
+| SemiROF | 2.3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.81 | 重量 |
+
+### silencer_all_rotor_43_v2_366TKM
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.57 | 重量 |
+
+### silencer_all_rotor_43_v1_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.49 | 重量 |
+
+### silencer_all_rotor_43_v2_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.57 | 重量 |
+
+### silencer_uzi_iwi_silencer_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.68 | 重量 |
+
+### silencer_ar10_aac_762_sdn_6_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2.3 | 自动射速 |
+| SemiROF | 3.15 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.567 | 重量 |
+
+### silencer_mp7_bt_rotex_2_46x30
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 1.1 | 自动射速 |
+| SemiROF | 1.2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.607 | 重量 |
+
+### silencer_sr3m_tochmash_std_9x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.575 | 重量 |
+
+### silencer_val_tochmash_std_9x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.496 | 重量 |
+
+### silencer_vss_tochmash_std_9x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.496 | 重量 |
+
+### silencer_wave_dd_wave_qd_supressor_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.488 | 重量 |
+
+### silencer_akm_zenit_dtk-4m_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 0.9 | 自动射速 |
+| SemiROF | 0.9 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.354 | 重量 |
+
+### silencer_base_awc_thor_psr_xl_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 2.8 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.737 | 重量 |
+
+### silencer_base_gemtech_one_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.46 | 重量 |
+
+### silencer_pb_tochmash_std_9x18pm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.131 | 重量 |
+
+### silencer_kac_nt-4_556x45_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.68 | 重量 |
+
+### silencer_kac_nt-4_556x45_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.68 | 重量 |
+
+### silencer_qdc_kac_qdc_suppressor_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.453 | 重量 |
+
+### silencer_kac_qdc_65x35
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.51 | 重量 |
+
+### silencer_all_sig_srd_9_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.255 | 重量 |
+
+### silencer_ak_hexagon_dtkp_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.412 | 重量 |
+
+### silencer_hex_hexagon_wafflemaker_suppressor_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -8 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.29 | 重量 |
+
+### silencer_akm_hexagon_akm_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.462 | 重量 |
+
+### silencer_ak74_hexagon_ak74_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.462 | 重量 |
+
+### silencer_sks_hexagon_sks_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.462 | 重量 |
+
+### silencer_ak12_izhmash_ak12_supressor_std_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.45 | 重量 |
+
+### silencer_socom_surefire_socom556_mini_monster_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.413 | 重量 |
+
+### silencer_socom_surefire_socom556_monster_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -16 | 减少水平后坐力 |
+| Dispersion | -7 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 18 | 提高精度 |
+| AutoROF | 1.5 | 自动射速 |
+| SemiROF | 2 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.496 | 重量 |
+
+### silencer_mount_silencerco_hybrid_46_multi
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.49 | 重量 |
+
+### silencer_base_sig_srd_762_qd_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.46 | 重量 |
+
+### silencer_all_sig_srd_762_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.46 | 重量 |
+
+### silencer_socom_surefire_socom556_rc2_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.482 | 重量 |
+
+### silencer_all_izhmash_pl15_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.293 | 重量 |
+
+### silencer_p90_fn_p90_attenuator_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.354 | 重量 |
+
+### silencer_pp-91-01_zmz_kedr_b_std_9x18pm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.13 | 重量 |
+
+### silencer_ash12_ckib_ash12_std_127x55
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.7 | 重量 |
+
+### silencer_aks74u_tochmash_pbs-4_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.7 | 重量 |
+
+### silencer_akm_tochmash_pbs-1_762x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.435 | 重量 |
+
+### silencer_mosin_bramit_std_762x54r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.1 | 重量 |
+
+### silencer_sv98_izhmash_silencer_std_762x54
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### silencer_glock_fischer_development_fd917_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.35 | 重量 |
+
+### silencer_all_silencerco_osprey_9_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### silencer_tt_custom_noname_762x25tt
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.332 | 重量 |
+
+### silencer_tbac_thunder_beast_ultra_5_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.21 | 重量 |
+
+### silencer_57_gemtech_sfn_57_57x28
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.15 | 重量 |
+
+### silencer_borelock_aseutra_sl7i_bl_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | -17 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.64 | 重量 |
+
+### silencer_ai_accuracy_international_tactical_sound_moderator_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.665 | 重量 |
+
+### silencer_trg_pgm_sako_trg_type_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 17 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.665 | 重量 |
+
+### silencer_all_cgs_hekate_dt_338_86x70
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -15 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 17 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.507 | 重量 |
+
+### silencer_pp-19-01_izhmash_vityaz_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 1.18 | 自动射速 |
+| SemiROF | 1.5 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.53 | 重量 |
+
+### silencer_qdc_kac_prs_qdc_762x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 1.9 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.59 | 重量 |
+
+### silencer_mp9_bt_supressor_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.29 | 重量 |
+
+### silencer_all_alpha_dog_alpha_9_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.29 | 重量 |
+
+### silencer_ump_b&t_ump_45_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 9 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.453 | 重量 |
+
+### silencer_ak74_spectehnika_tgpa_545x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.7 | 重量 |
+
+### silencer_base_silencerco_omega_45k_1143x23
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### silencer_asr_silencerco_saker_556_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.51 | 重量 |
+
+### silencer_hk_mp5_sd_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.496 | 重量 |
+
+### silencer_sr1mp_tochmash_sr1mp_std_9x21
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.49 | 重量 |
+
+### silencer_12g_hexagon_12k
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.493 | 重量 |
+
+### silencer_base_silencerco_salvo_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.97 | 重量 |
+
+### silencer_aug_aseutra_sl7i_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.494 | 重量 |
+
+### silencer_aug_reflex_suppressor_t4aug_ranger_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.38 | 重量 |
+
+### silencer_sdqd_griffin_m4sd_k_silencer_556x45
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.397 | 重量 |
+
+### silencer_clutchlok_sig_slx68_mg_qd_suppressor_68x51
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.66 | 重量 |
+
+### silencer_sr2m_tochmash_suppressor_9x21
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -6.5 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 10 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.575 | 重量 |
+
+### silencer_9a91_kbp_9a91_silencer_9x39
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -18 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.496 | 重量 |
+
+### silencer_silencerco_sparrow_22lr
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -15 | 减少水平后坐力 |
+| Dispersion | -6 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | -3 | 提高人体工学 |
+| Accuracy | 8 | 提高精度 |
+| AutoROF | 2 | 自动射速 |
+| SemiROF | 3 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.184 | 重量 |
+
+### muzzle_tkpd_izhmash_93x64
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -10 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.151 | 重量 |
+
+### muzzle_uzi_iwi_retaining_nut_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5.5 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | -5 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | -2 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.085 | 重量 |
+
+### muzzle_12g_mps_thread_protector_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.092 | 重量 |
+
+### muzzle_12g_mps_aa12_muzzle_device_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.101 | 重量 |
+
+## PistolGrip
+
+Total accessories: 120
+
+### pistolgrip_deagle_hogue_rubber_grips_ergo
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.12 | 重量 |
+| Handling | 15 | 处理 |
+
+### pistolgrip_deagle_hogue_rubber_grips
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+| Handling | 15 | 处理 |
+
+### pistolgrip_rhino_chiappa_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_rhino_chiappa_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.1 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_m9_beretta_m9a3_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_pm_fab_defence_pm_g_od
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.072 | 重量 |
+| Handling | 15 | 处理 |
+
+### pistolgrip_pm_pm_laser_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_pm_fab_defence_pm_g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 15 | 瞄准稳定性 |
+| Weight | 0.072 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_pm_gct_pm_tactic_kit
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.114 | 重量 |
+| Handling | 15 | 处理 |
+
+### pistolgrip_pm_izhmeh_pm_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.102 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_pb_tochmash_pb_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.102 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_aps_molot_aps_apb_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.102 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_mp443_izmeh_mp443_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.055 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_tt_toz_tt_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_tt_toz_tt_gold
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_tt_pm_laser_tt_206
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_tt_noname_hogue_like
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_tt_razor_arms_rubber_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_glock_pachmayr_tactical_rubber_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_p226_sig_p226_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_p226_sig_p226_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_p226_sig_stainless_elite
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_p226_hogue_p226_rubber_w_grooves
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_p226_sig_emperor_scorpion
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_p226_axelson_tactical_mk25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_p226_hogue_chain_link_g10_g_mascus
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m1911_colt_m1911a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.27 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_m1911_kiba_geneburn_custom_pad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.12 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m1911_colt_m45a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.22 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_m1911_pachmayr_american_legend_grip_423
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.2 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_mft_engage_ak47_pistol_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.12 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_aeroknox_scorpius
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.14 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_custom_arms_ags74_pro_stage_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.15 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_fab_defence_agr_47
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.12 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_izhmash_ak12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.05 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_pkm_zid_pk_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_pkm_zid_pk_black
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_izhmash_ak74_bakelit
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_izhmash_ak74_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.065 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_izhmash_akm_bakelit
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_izhmash_akm_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_ak_izhmash_aks74u_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_ak_kgb_mg47
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.153 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_kgb_mg47_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.153 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_magpul_moe_ak
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_molot_bakelit
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_strike_indsustries_enhanced_pistol_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.091 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_strike_indsustries_enhanced_pistol_grip_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.091 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_tango_down_ak_battle_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_tango_down_ak_battle_grip_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_tapco_saw_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_tapco_saw_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_us_palm_ak_palm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ak_zenit_rk3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.19 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_pp-19-01_izhmash_vityaz_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_aeroknox_orion_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_stark_ar_rifle_grip_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_stark_ar_rifle_grip_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_colt_a2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.045 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_damage_industries_ecs_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_dlg_123
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.1 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_f1_firearms_st1_skeletonized
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_f1_firearms_st2_pc_skeletonized
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.087 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_f1_firearms_st2_skeletonized
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.085 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hera_arms_hg15
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hk_battle_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_magpul_moe
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.05 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_magpul_moe_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.05 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hogue_overmolded_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hogue_overmolded_gg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_tactical_dynamics_hexgrip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.064 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_mpx_sig_mpx_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_ar15_magpul_miad_gen_1_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.05 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hogue_overmolded_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hk_battle_grip_beavertail
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hk_ergo_psg1_style_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hk_grip_v2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hk_battle_grip_beavertail_ral
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_tactical_dynamics_skeletonized_anodized
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.038 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_hogue_overmolded_od
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_sig_mcx_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_ar15_hogue_overmolded_ge
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_naroh_arms_gral_s
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.092 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_fal_fab_defense_ag_fal
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.088 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_sa58_ds_arms_metric_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_sa58_ds_arms_saw_style
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_vz58_fab_defence_ag_58
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.113 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_mosin_tacfire_pgmn
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.16 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m700_magpul_pro_700_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m14_sage_ebr_m14alcs_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_pp-91_zmz_pp_std_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.071 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_svd_s_izhmash_svd_s_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_sks_tapco_saw_style
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_val_tochmash_val_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.146 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_val_tochmash_val_std_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.146 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_mdr_dt_mdr_std_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_mdr_dt_mdr_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_t5000_orsis_t5000_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.1 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_toz-106_toz_000_002
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_870_fab_defense_agr_870_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_val_rotor_43_tube_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.065 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ks23_toz_ks23_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.15 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m3_benelli_telescopic_stock_handle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.135 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_mp155_kalshnikov_ultima_pistol_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_rsh12_kbp_rsh12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.11 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_sr2m_tochmash_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_sr2m_tochmash_std_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_9a91_kbp_9a91_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.146 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_ak_custom_guns_ak_to_ar15_cg101_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.045 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_rpd_zid_wood_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_ak_pufgun_sg_m2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.132 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_svd_s_lynxarms_svd_s_to_ak_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| AimSpeed | 3 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.033 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_ar15_sig_reduced_angle_pistol_grip_ct
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.08 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_uzi_iwi_uzi_cover_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.07 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_m60_usord_m60e4_trigger_group
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.101 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m60_usord_m60e6_trigger_group
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.098 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m60_usord_m60e6_trigger_group_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0.02 | 减少散射 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.098 | 重量 |
+| Handling | 13 | 处理 |
+
+### pistolgrip_m60_usord_m60e4_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.039 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_m60_usord_m60e6_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.042 | 重量 |
+| Handling | 10 | 处理 |
+
+### pistolgrip_m60_usord_m60e6_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0.01 | 减少散射 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.042 | 重量 |
+| Handling | 10 | 处理 |
+
+## Receiver
+
+Total accessories: 99
+
+### reciever_deagle_magnum_research_l6_tiger
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.52 | 重量 |
+
+### reciever_deagle_magnum_research_l5_std_9x33r
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.44 | 重量 |
+
+### reciever_deagle_magnum_research_l5_std_127x33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.38 | 重量 |
+
+### reciever_deagle_magnum_research_l6_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.52 | 重量 |
+
+### reciever_deagle_magnum_research_mk19_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.52 | 重量 |
+
+### reciever_svt40_toz_svt40_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_57_fn_five_seven_cover_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.16 | 重量 |
+
+### reciever_pl15_izhmash_pl15_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.16 | 重量 |
+
+### reciever_p226_sig_p226r_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_p226_sig_legion_full_size
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_p226_sig_emperor_scorpion
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.22 | 重量 |
+
+### reciever_p226_sig_stainless_elite
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.22 | 重量 |
+
+### reciever_p226_axelson_tactical_mk25
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 6 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.24 | 重量 |
+
+### reciever_m9_beretta_m9a3_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_usp_hk_expert
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.44 | 重量 |
+
+### reciever_usp_hk_usp_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.409 | 重量 |
+
+### reciever_usp_hk_tactical
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 3 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.472 | 重量 |
+
+### reciever_usp_hk_elite
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.55 | 重量 |
+
+### reciever_usp_hk_match
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 6 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.45 | 重量 |
+
+### reciever_m1911_colt_m1911a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.41 | 重量 |
+
+### reciever_m1911_colt_m45a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.47 | 重量 |
+
+### reciever_glock_lone_wolf_alphawolf_custom_pat_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 6 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.3 | 重量 |
+
+### reciever_glock_zev_tech_hex_rmr_cut_gen_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_glock_zev_tech_spartan_rmr_cut_gen_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_glock_gspc_moto_slide_cut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.25 | 重量 |
+
+### reciever_glock_gspc_viper_slide_cut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.25 | 重量 |
+
+### reciever_glock_lone_wolf_alphawolf
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_glock_glock_17_mos_slide
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.325 | 重量 |
+
+### reciever_glock_glock_19x_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_glock_glock_17_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.355 | 重量 |
+
+### reciever_glock_glock_18c_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.32 | 重量 |
+
+### reciever_glock_polymer80_ps9
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.355 | 重量 |
+
+### reciever_stm9_stmarms_stm9_machined_std_9x19
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 4 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_ar10_kac_sr25_upper_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.65 | 重量 |
+
+### reciever_mk18_sword_mjolnir_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.45 | 重量 |
+
+### reciever_mk47_cmmg_mk47_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.25 | 重量 |
+
+### reciever_ar15_hk_hk416a5_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_g28_hk_g28_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_ar15_vltor_mur-1s
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.246 | 重量 |
+
+### reciever_ar15_lone_star_tx15_lightweight
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 4 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_ar15_aeroknox_ax15_upper
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 6 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.285 | 重量 |
+
+### reciever_ar15_noveske_gen3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.212 | 重量 |
+
+### reciever_ar15_adar_2-15_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_ar15_colt_m4a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2495 | 重量 |
+
+### reciever_ak12_izhmash_ak12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.215 | 重量 |
+
+### reciever_rpk16_izhmash_rpk16_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.215 | 重量 |
+
+### reciever_ak_rifle_dynamics_rd_704_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_ak_sag_ak545_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_svd_izhmash_svd_s_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_svd_izhmash_svd_s_cut_off
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.05 | 重量 |
+
+### reciever_pp-19-01_izhmash_vityaz_sn
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.136 | 重量 |
+
+### reciever_vepr_molot_vpo-101_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### reciever_val_tochmash_val_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_pp-19-01_izhmash_vityaz_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.136 | 重量 |
+
+### reciever_vss_tochmash_vss_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_saiga12_izhmash_saiga12k_10_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### reciever_aks74u_izhmash_aks74u_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.136 | 重量 |
+
+### reciever_aks74u_izhmash_aks74ub_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.142 | 重量 |
+
+### reciever_ak_izhmash_akm_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_ak50_theakguy
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_ak_molot_akm_type
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_ak74_izhmash_ak74m_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_ak74_izhmash_ak74_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.088 | 重量 |
+
+### reciever_ak_zenit_b33
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.215 | 重量 |
+
+### reciever_ak_akademia_bastion
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.237 | 重量 |
+
+### reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.195 | 重量 |
+
+### reciever_ak_fab_defence_pdc
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.202 | 重量 |
+
+### reciever_p90_fn_ps90_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.31 | 重量 |
+
+### reciever_p90_fn_p90_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.31 | 重量 |
+
+### reciever_mp5_hk_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.588 | 重量 |
+
+### reciever_mp5_hk_sd
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -1 | 修改故障几率 |
+| Weight | 0.62 | 重量 |
+
+### reciever_mp5k_hk_kurtz_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.45 | 重量 |
+
+### reciever_mp9_bt_mp9_upper_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_mp9_bt_mp9_upper_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_p90_fn_effen_90
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.25 | 重量 |
+
+### reciever_ppsh_zis_ppsh41_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 1.1 | 重量 |
+
+### reciever_mpx_sig_mpx_gen1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.488 | 重量 |
+
+### reciever_mcx_sig_mcx_gen1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.488 | 重量 |
+
+### reciever_mk17_fn_scar_h_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_mk17_fn_scar_h_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_mk16_fn_scar_l_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_mk16_fn_scar_l_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.2 | 重量 |
+
+### reciever_fal_fn_fal_dust_cover_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.175 | 重量 |
+
+### reciever_sa58_ds_arms_extreme_duty_scope_mount_extended
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.215 | 重量 |
+
+### reciever_ax_accuracy_international_axmc_upper_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.38 | 重量 |
+
+### reciever_ax_accuracy_international_axmc_std_762x51_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_ax_accuracy_international_axmc_std_86x70_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.31 | 重量 |
+
+### reciever_aug_steyr_aug_a3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.794 | 重量 |
+
+### reciever_sr2m_tochmash_sr2_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.168 | 重量 |
+
+### reciever_sks_toz_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.09 | 重量 |
+
+### reciever_sks_molot_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.09 | 重量 |
+
+### reciever_pm_izhmeh_pm_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.19 | 重量 |
+
+### reciever_sks_utg_mtu017
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.215 | 重量 |
+
+### reciever_mcx_sig_spear_upper
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_saiga12_izhmash_fa_zombie_custom
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### reciever_aks74u_legal_arsenal_pilgrim_dust_cover
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.12 | 重量 |
+
+### reciever_uzi_pro_iwi_upper_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.27 | 重量 |
+
+### reciever_aug_vltor_aug_a3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 5 | 提高精度 |
+| ModMalfunctionChance | -2 | 修改故障几率 |
+| Weight | 0.7 | 重量 |
+
+### reciever_trg_sako_trg_m10_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| Weight | 0.54 | 重量 |
+
+## Stock
+
+Total accessories: 244
+
+### stock_m60_usord_m60e6_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.239 | 重量 |
+| Handling | 10 | 处理 |
+
+### stock_m60_usord_m60e6_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.239 | 重量 |
+| Handling | 10 | 处理 |
+
+### stock_m60_usord_m60e4_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.253 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_uzi_pro_iwi_pro_backplate
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.041 | 重量 |
+| Handling | 0 | 处理 |
+
+### stock_uzi_pro_iwi_pro_buttstock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.454 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_uzi_pro_a3_tactical_modular_folding_brace
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.102 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_all_sig_mpx_brace
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 15 | 瞄准稳定性 |
+| Weight | 0.392 | 重量 |
+| Handling | 15 | 处理 |
+
+### stock_uzi_pro_sb_tactical_stabilizing_brace
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.381 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_uzi_iwi_type_7
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.41 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_uzi_iwi_type_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_uzi_iwi_type_5
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.65 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_uzi_iwi_type_6
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.29 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_uzi_pro_csm_rear_rail_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.04 | 重量 |
+| Handling | 0 | 处理 |
+
+### stock_uzi_pro_a3_tactical_rear_stock_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.03 | 重量 |
+| Handling | 0 | 处理 |
+
+### stock_uzi_stormwerkz_ris_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.062 | 重量 |
+| Handling | 0 | 处理 |
+
+### stock_avt40_toz_wood_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -12 | 减少相机后坐力 |
+| AimSpeed | -5 | 提高瞄准速度 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 13 | 瞄准稳定性 |
+| Weight | 1.217 | 重量 |
+| Handling | 2 | 处理 |
+
+### stock_pk_zid_plastic_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.5 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_pk_zid_wood_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -9 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| AimSpeed | -3 | 提高瞄准速度 |
+| Ergonomics | 4 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 12 | 瞄准稳定性 |
+| Weight | 0.6 | 重量 |
+| Handling | 3 | 处理 |
+
+### stock_pk_zenit_pt2_classic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.643 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sr2m_tochmash_sr2m_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.21 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sr2m_tochmash_sr2mp_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.204 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_590_mesa_leo_stock_adapter_gen1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 2 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 0 | 处理 |
+
+### stock_870_mesa_leo_stock_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.4 | 重量 |
+
+### stock_vector_kriss_non_folding_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | True | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.28 | 重量 |
+| Handling | 0 | 处理 |
+
+### stock_ak_caa_akts
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.24 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_utg_sfs_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 0 | 瞄准稳定性 |
+| Weight | 0.31 | 重量 |
+| Handling | 1 | 处理 |
+
+### stock_ak_caa_akts_ak74
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.25 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_sag_ak_stock_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 2 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.175 | 重量 |
+
+### stock_ak_rifle_dynamics_ak_to_m4_stock_adapter_gen_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -1 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 1 | 提高瞄准速度 |
+| Ergonomics | 1 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.23 | 重量 |
+
+### stock_all_sig_folding_knuckle
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -3 | 减少相机后坐力 |
+| AimSpeed | 8 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.2 | 重量 |
+| Handling | 10 | 处理 |
+
+### stock_svd_s_lynxarms_sch_svd_s
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.127 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak12_izhmash_ak12_stock_tube_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.12 | 重量 |
+
+### stock_rpk16_izhmash_rpk_stock_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.142 | 重量 |
+
+### stock_sks_tapco_intrafuse_buffer_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.19 | 重量 |
+
+### stock_sa58_ds_arms_para_folding_buffer_tube_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.31 | 重量 |
+
+### stock_akms_fab_defence_m4_akms_p
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -1 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | True | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.436 | 重量 |
+
+### stock_ak_zenit_pt-3_lock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -6.5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.31 | 重量 |
+
+### stock_ak_zenit_pt_1_lock_fixed
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.31 | 重量 |
+
+### stock_ak_zenit_pt-3m_lock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.31 | 重量 |
+
+### stock_ace_double_star_ace_recoil_pad_05
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.22 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_aim_sports_buttpad_extended
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.2 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mr43_izhmeh_mr43_buttpad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.12 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_p90_fn_p90_butt_pad_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_p90_damage industries_butt_pad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.09 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_izhmash_6g15u_butt_pad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.155 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_rubber_butt_pad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.055 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp155_kalshnikov_ultima_stock_buttpad_small
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.155 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp155_kalshnikov_ultima_stock_buttpad_med
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.215 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp155_kalshnikov_ultima_stock_buttpad_large
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.273 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_417_hk_g28_buffer_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.114 | 重量 |
+
+### stock_ar15_hk_enhanced_stock_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.188 | 重量 |
+
+### stock_ar15_colt_stock_tube_A2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.109 | 重量 |
+
+### stock_ar15_rtm_atp_buffer_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.115 | 重量 |
+
+### stock_ar15_strike_industries_advanced_receiver_extension_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.11 | 重量 |
+
+### stock_ar15_strike_industries_advanced_receiver_extension
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.11 | 重量 |
+
+### stock_ar15_cmmg_mil_spec_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | -5 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.136 | 重量 |
+
+### stock_ar15_colt_stock_tube_com
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.086 | 重量 |
+
+### stock_ar15_colt_stock_tube_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.086 | 重量 |
+
+### stock_ar15_stm_com_spec_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.086 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ar15_mesa_crosshair_hydraulic_buffer_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 3 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.3 | 重量 |
+
+### stock_870_fab_defense_agr_870_stock_tube
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.162 | 重量 |
+
+### stock_ar15_adar_wood_v1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.695 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_vltor_emod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -10 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 11 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 12 | 瞄准稳定性 |
+| Weight | 0.397 | 重量 |
+| Handling | 9 | 处理 |
+
+### stock_ar15_hk_slim_line
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 12 | 提高瞄准速度 |
+| Ergonomics | 16 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.198 | 重量 |
+| Handling | 15 | 处理 |
+
+### stock_ar15_kriss_defiance_ds150
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_kriss_defiance_ds150_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_b5_precision
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.585 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_417_hk_417_adjustable_buttstock_cheek
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.057 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_417_hk_417_adjustable_buttstock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.283 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_high_standart_m4ss
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.181 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_fab_defense_gl_shock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.308 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_hera_arms_cqr
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.499 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_strike_industries_viper_mod_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.155 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_strike_industries_viper_pdw_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.573 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_troy_m7a1_pdw_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_troy_m7a1_pdw_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_double_star_ace_arfx_skeleton_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.317 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_ubr_gen2_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.601 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_ubr_gen2_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.601 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_ergo_f93_pro_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.59 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_fab_defense_gl_core
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.271 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_prs_gen3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 15 | 瞄准稳定性 |
+| Weight | 0.788 | 重量 |
+| Handling | 3 | 处理 |
+
+### stock_ar15_magpul_prs_gen3_gry
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -12 | 减少垂直后坐力 |
+| HorizontalRecoil | -10 | 减少水平后坐力 |
+| Dispersion | -2 | 减少散射 |
+| CameraRecoil | -10 | 减少相机后坐力 |
+| AimSpeed | -2 | 提高瞄准速度 |
+| Ergonomics | 5 | 提高人体工学 |
+| Accuracy | 2 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 15 | 瞄准稳定性 |
+| Weight | 0.788 | 重量 |
+| Handling | 3 | 处理 |
+
+### stock_ar15_magpul_prs_gen2_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -11 | 减少垂直后坐力 |
+| HorizontalRecoil | -9 | 减少水平后坐力 |
+| Dispersion | -1 | 减少散射 |
+| CameraRecoil | -9 | 减少相机后坐力 |
+| AimSpeed | -1 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 1 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 14 | 瞄准稳定性 |
+| Weight | 0.762 | 重量 |
+| Handling | 4 | 处理 |
+
+### stock_ar15_sb_tactical_sba3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| AimSpeed | 12 | 提高瞄准速度 |
+| Ergonomics | 15 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 8 | 瞄准稳定性 |
+| Weight | 0.213 | 重量 |
+| Handling | 14 | 处理 |
+
+### stock_ar15_armacon_baskak
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.27 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_cmmg_ripstock_micro
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.28 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_double_star_ace_socom_gen_4
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.47 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_izhmash_ak12_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.148 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ar15_magpul_moe_carbine_sg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_moe_carbine_od
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_moe_carbine_fg
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_moe_carbine_blk
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_moe_carbine_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_magpul_ctr_carbine
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -9 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -7 | 减少相机后坐力 |
+| AimSpeed | 8 | 提高瞄准速度 |
+| Ergonomics | 12 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 12 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 10 | 处理 |
+
+### stock_ar15_magpul_ctr_carbine_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -9 | 减少垂直后坐力 |
+| HorizontalRecoil | -7 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -7 | 减少相机后坐力 |
+| AimSpeed | 8 | 提高瞄准速度 |
+| Ergonomics | 12 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 12 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 10 | 处理 |
+
+### stock_ar15_fab_defense_glr_16_s
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.276 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_lmt_sopmod
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -7 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 10 | 提高瞄准速度 |
+| Ergonomics | 14 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.148 | 重量 |
+| Handling | 12 | 处理 |
+
+### stock_ar15_hk_e1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.369 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_417_hk_417_concave_e2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.369 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_mft_bus
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.481 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak74m_izhmash_ak74m_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ak74_izhmash_ak74_std_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_akms_izhmash_akms_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.65 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_akms_izhmash_akmsn_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.645 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_saiga12_izhmash_saiga12_fold_ak_type
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_pp-19-01_izhmash_vityaz_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.218 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ak_hera_arms_cqr47
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.525 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_zenit_pt_1
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.449 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_zenit_pt-3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.519 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_fab_defense_uas_ak_p
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_hexagon_kocherga_red
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.18 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak74_izhmash_ak74_std_plum
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_kiba_framestock_tourniquet
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.264 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_aks74_izhmash_aks74_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.264 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ak_izhmash_ak100_triangle_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.264 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_aks74u_izhmash_aks74u_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.218 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ak74_izhmash_ak74_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ak_molot_vepr_km_vpo_136
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_izhmash_akm_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_molot_vpo_209
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_magpul_zhukov_s
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.425 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_evo
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.397 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ak_promag_archangel_opfor_aa47
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.39 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_vss_tochmash_vss_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.7 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_val_tochmash_val_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.5 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_svd_s_izhmash_svd_s_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.55 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mk16_vltor_stock_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | True | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.29 | 重量 |
+
+### stock_mk16_vltor_stock_adapter_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | True | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.29 | 重量 |
+
+### stock_mk16_jmac_rsa_1913_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | True | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.076 | 重量 |
+
+### stock_mk16_vltor_vss_11
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.22 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_vltor_vss_11_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.22 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_stock_butt_pad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.1 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_folding_stock_extension_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.3 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_folding_stock_extension
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.3 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_folding_stock_cheek
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_folding_stock_cheek_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_folding_stock_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mk16_fn_scar_folding_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.35 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_fal_magpul_prs_2
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.86 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sa58_ds_arms_para_folding_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.8 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sa58_ds_arms_para_spr_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.95 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sa58_ds_arms_para_brs
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.81 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sa58_ds_arms_humpback_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.8 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_g36_tommy_built_ar15_stock_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.14 | 重量 |
+
+### stock_g36_hk_kv_3_adjustable
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.453 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_g36_hk_idz
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.41 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_g36_hk_idz_convex_buttpad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_g36_hk_idz_concave_buttpad
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.06 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_g36_hk_buttstock_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.354 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mpx_maxim_defence_cqb_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.501 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mpx_pmm_ulss
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.462 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_all_sig_mpx_mcx_early_type
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.396 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_all_sig_thin_folding_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.27 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_all_sig_telescoping_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.336 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp5_hk_pistol_end_cap
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.18 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp5k_hk_kurtz_end_cap
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.13 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp5_hk_a3_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.653 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mp5_hk_a2_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.454 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ump_hk_ump_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.255 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_vector_kriss_gen_2_folding_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.3 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_vector_kriss_pistol_sling_adapter
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.25 | 重量 |
+
+### stock_mp7_hk_a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.2 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mp7_hk_a2_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.2 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mp9_bt_mp9_folding_stock_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.15 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_aps_toz_apb_wire
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.15 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_glock_fab_defence_glr_17
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.39 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp18_izhmash_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.56 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp18_izhmash_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.47 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m3_benelli_5_position_telescoping_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.772 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m3_benelli_pistol_grip_synthetic_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.043 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_870_remington_sps_12g
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.64 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_870_shockwave_technologies_raptor_grip
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_590_magpul_sga
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.68 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_870_magpul_sga
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.68 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ks23_toz_ks23_std_metal
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.26 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ks23_toz_ks23_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.44 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mc255_ckib_255_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mp155_kalshnikov_ultima_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.51 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mp155_izhmeh_monte_carlo_walnut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.64 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mr133_plastic_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.46 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mr133_std_long
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.64 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mr133_pistol_plastic
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -6 | 减少垂直后坐力 |
+| HorizontalRecoil | -6 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | True | 枪托允许瞄准 |
+| AimStability | 5 | 瞄准稳定性 |
+| Weight | 0.1 | 重量 |
+
+### stock_590_mossberg_590a1_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.64 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_p90_fn_p90_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_p90_fn_ps90_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.4 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ppsh_zis_ppsh41_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.05 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_m1a_promag_archangel_prs
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.905 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m14_troy_sass_chassis
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 2.659 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m1a_springfield_armory_socom_16
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.004 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m14_sage_ebr_m14alcs
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 6 | 提高瞄准速度 |
+| Ergonomics | 11 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.9 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m14_sage_ebr_m14alcs_buttstock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.004 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_vepr_molot_vpo-101_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.25 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_vepr_pflevsha_svd_type_walnut
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.07 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_vpo215_molot_vpo_215_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.25 | 重量 |
+| Handling | 5 | 处理 |
+
+### pistolgrip_ax_accuracy_international_ax_pistol_grip_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.22 | 重量 |
+| Handling | 8 | 处理 |
+
+### pistolgrip_ax_gtac_ax_pistol_grip_adapter_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.15 | 重量 |
+
+### stock_ax_accuracy_international_ax_butt_stock_pb
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.52 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_cnc_cnc_guns_m12b
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.44 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sv-98_cnc_guns_ov_sv98
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.15 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sv-98_izhmash_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 2.513 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_dvl-10_lobaev_dvl-10_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.467 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_t5000_orsis_t5000_se_chassis
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.62 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_t5000_orsis_t5000_se_folding_stock_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.51 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_m700_ai_at_aics_chasiss
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.8 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m700_magpul_pro_700_chasiss
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.1 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m700_magpul_pro_700_folding_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.02 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m700_abarms_mrs_mod_x_gen_3
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.9 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m700_abarms_mod_x_side_folder
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.12 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m700_promag_archangel_precision_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 2.2 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_m700_hogue_overmolded_ghillie_green_pillar_bedded_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.8 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sks_molot_op_sks_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.74 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_sks_toz_sks_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.703 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_sks_fab_defence_uas_sks
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.034 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sks_tapco_intrafuse_sks_railed
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | 0 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | 0 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.75 | 重量 |
+| Handling | 7 | 处理 |
+
+### stock_mosin_izhmash_mosin_carabine_sniper_cut_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.55 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_izhmash_mosin_carabine_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.6 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_izhmash_mosin_infantry_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.8 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_izhmash_mosin_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.75 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_mosin_izhmash_mosin_sniper_sawn_off_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.85 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_izhmash_mosin_carabine_sawn_off_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.8 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_ati_monte_carlo
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.2 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_mosin_promag_archangel_opfor_prs
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 2 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_toz-106_fab_defense_gpcp_custom_stock_cheek
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.155 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_toz-106_pafnuch_mosin_custom
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.29 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_toz-106_toz_full_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.25 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_toz-106_toz_short_std_wood
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.25 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_9a91_kbp_9a91_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.5 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_vsk94_kbp_vsk94_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.7 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ak_custom_arms_st_ef74_butt_extension
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 6 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.055 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_rpd_zid_rpd_wood_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.12 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_ar15_dd_enhanced_collapsible_buttstock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.227 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_ar15_dd_enhanced_collapsible_buttstock_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.227 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_base_dd_thicker_convex_shape_buttpad_12mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 2 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.055 | 重量 |
+| Handling | 2 | 处理 |
+
+### stock_base_dd_thicker_convex_shape_buttpad_20mm
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -3 | 减少垂直后坐力 |
+| HorizontalRecoil | -3 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -5 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.063 | 重量 |
+| Handling | 3 | 处理 |
+
+### stock_all_sig_stock_locking_hinge_assembly
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -2 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -2 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 8 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.2 | 重量 |
+
+### stock_base_sig_low_profile_tube_ct
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -4 | 减少垂直后坐力 |
+| HorizontalRecoil | -2 | 减少水平后坐力 |
+| CameraRecoil | -6 | 减少相机后坐力 |
+| Ergonomics | 0 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 0.162 | 重量 |
+
+### stock_ar15_magpul_moe_sl_k_carbine_ct
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.226 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_sks_ati_monte_carlo
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 1.1 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_fab_fab_defence_uas_folding_stock
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -8 | 减少垂直后坐力 |
+| HorizontalRecoil | -8 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.45 | 重量 |
+| Handling | 8 | 处理 |
+
+### stock_aa12_mps_aa12_stock_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.9 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_aa12_mps_aa12_stock_std_labs
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.9 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_aa12_mps_aa12_stock_std_fde
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 10 | 瞄准稳定性 |
+| Weight | 0.9 | 重量 |
+| Handling | 5 | 处理 |
+
+### stock_trg_sako_trg_m10_chassis_std
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | -5 | 减少垂直后坐力 |
+| HorizontalRecoil | -5 | 减少水平后坐力 |
+| Dispersion | 0 | 减少散射 |
+| CameraRecoil | -8 | 减少相机后坐力 |
+| AimSpeed | 5 | 提高瞄准速度 |
+| Ergonomics | 10 | 提高人体工学 |
+| Accuracy | 0 | 提高精度 |
+| HasShoulderContact | True | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| AimStability | 15 | 瞄准稳定性 |
+| Weight | 1.267 | 重量 |
+| Handling | 13 | 处理 |
+
+## UBGL
+
+Total accessories: 2
+
+### launcher_ar15_colt_m203_40x46
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 1 | 减少垂直后坐力 |
+| HorizontalRecoil | 0.5 | 减少水平后坐力 |
+| Dispersion | 3 | 减少散射 |
+| CameraRecoil | 1 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -5 | 提高人体工学 |
+| Accuracy | -4 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 1.36 | 重量 |
+
+### launcher_ak_toz_gp25_40_vog
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| VerticalRecoil | 0.8 | 减少垂直后坐力 |
+| HorizontalRecoil | 0.4 | 减少水平后坐力 |
+| Dispersion | 2 | 减少散射 |
+| CameraRecoil | 0.8 | 减少相机后坐力 |
+| AimSpeed | 0 | 提高瞄准速度 |
+| Ergonomics | -4 | 提高人体工学 |
+| Accuracy | -3 | 提高精度 |
+| HasShoulderContact | False | 是否有肩部接触 |
+| BlocksFolding | False | 阻止折叠 |
+| AutoROF | 0 | 自动射速 |
+| SemiROF | 0 | 半自动射速 |
+| ModMalfunctionChance | 0 | 修改故障几率 |
+| StockAllowADS | False | 枪托允许瞄准 |
+| Weight | 1.5 | 重量 |
+
