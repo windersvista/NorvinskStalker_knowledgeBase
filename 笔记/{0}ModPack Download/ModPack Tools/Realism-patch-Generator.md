@@ -1,15 +1,15 @@
 # SPT现实主义MOD兼容补丁生成器
 
 
-Python版本下载链接：
-	[https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4](https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4)
+>Python版本下载链接：
+>[https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4](https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4)
 
-C#版本下载链接：
-	[https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0](https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0)
+>C#版本下载链接：
+>[https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0](https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0)
 
-Git Hub源码链接：
-	Python:https://github.com/windersvista/Realism-patch-Generator
-	C#:https://github.com/windersvista/RealismPatchGenerator_CSharp
+>Git Hub源码链接：
+>Python:https://github.com/windersvista/Realism-patch-Generator
+>C#:https://github.com/windersvista/RealismPatchGenerator_CSharp
 
 ## 📋 项目概述
 
