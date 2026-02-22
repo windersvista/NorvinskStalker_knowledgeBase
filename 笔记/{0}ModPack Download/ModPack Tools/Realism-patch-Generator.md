@@ -2,18 +2,22 @@
 
 
 >Python版本下载链接：
+>
 >[https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4](https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4)
 
 >C#版本下载链接：
+>
 >[https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0](https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0)
 
 >Git Hub源码链接：
+>
 >Python:https://github.com/windersvista/Realism-patch-Generator
 >C#:https://github.com/windersvista/RealismPatchGenerator_CSharp
 
+🐱：之所以有C#版本是因为Python脚本运行需要另外先安装环境，而C#版可以编译成exe直接运行。免去用户额外安装python环境的需求。
 ## 📋 项目概述
 
-**EFT 现实主义MOD兼容补丁生成器 是一个功能强大的Python脚本，用于为《逃离塔科夫》(Escape from Tarkov)的SPT3.11.4的 现实主义MOD (Realism Mod) 自动生成兼容补丁。它可以根据Items文件夹中的物品数据，使用预定义的模板快速生成规范化的配置文件。
+**EFT 现实主义MOD兼容补丁生成器** 是一个功能强大的Python脚本，用于为《逃离塔科夫》(Escape from Tarkov)的SPT3.11.4的 现实主义MOD (Realism Mod) 自动生成兼容补丁。它可以根据Items文件夹中的物品数据，使用预定义的模板快速生成规范化的配置文件。
 
 ## 🎯 核心特性
 
