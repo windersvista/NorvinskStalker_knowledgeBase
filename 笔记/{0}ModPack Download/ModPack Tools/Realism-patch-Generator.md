@@ -1,13 +1,16 @@
 # SPT现实主义MOD兼容补丁生成器
 
+
 Python版本下载链接：
 	[https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4](https://github.com/windersvista/Realism-patch-Generator/releases/tag/2.4)
+
 C#版本下载链接：
 	[https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0](https://github.com/windersvista/RealismPatchGenerator_CSharp/releases/tag/1.0)
 
 Git Hub源码链接：
 	Python:https://github.com/windersvista/Realism-patch-Generator
 	C#:https://github.com/windersvista/RealismPatchGenerator_CSharp
+
 ## 📋 项目概述
 
 **EFT 现实主义MOD兼容补丁生成器 是一个功能强大的Python脚本，用于为《逃离塔科夫》(Escape from Tarkov)的SPT3.11.4的 现实主义MOD (Realism Mod) 自动生成兼容补丁。它可以根据Items文件夹中的物品数据，使用预定义的模板快速生成规范化的配置文件。
@@ -23,22 +26,19 @@ Git Hub源码链接：
 
 ## 📊 版本历史
 
-| 版本 | 日期 | 主要更新 |
-
-|------|------|---------|
-
-| **v2.4** | 2026-02-21 | 🛡️ **现实主义规则校验 & 物理推断** - 强制校验数值范围，材质推断，枪管长度转换初速等物理逻辑。 |
-| v2.3 | 2026-02-21 | 📁 **源文件名分类输出** - 输出文件名与输入文件名对应，修正 `__init__` 分类字典。 |
-| v2.2 | 2026-02-21 | 🏢 **输入属性优先与Locales提取** - 支持从 `locales` 提取名称，完善 `CLONE` 格式。 |
-| **v2.0** | 2026-02-20 | 📌 **ItemToClone格式支持** - 支持新的物品引用格式，HandbookParent智能映射，常量前缀识别 |
-| v1.9 | 2026-02-20 | 递归文件夹扫描 |
-| v1.8 | 2026-02-20 | Clone链递归处理、enable字段检查 |
-| v1.7 | 2026-02-20 | 消耗品模板支持、TacticalCombo类型识别 |
-| v1.6 | 2026-02-20 | 模板路径迁移、ammo和gear模板、TemplateID格式 |
-| v1.5-v1.0 | 2026-02-20 | 基础功能开发 |
+| 版本        | 日期         | 主要更新                                                          |
+| --------- | ---------- | ------------------------------------------------------------- |
+| **v2.4**  | 2026-02-21 | 🛡️ **现实主义规则校验 & 物理推断** - 强制校验数值范围，材质推断，枪管长度转换初速等物理逻辑。        |
+| v2.3      | 2026-02-21 | 📁 **源文件名分类输出** - 输出文件名与输入文件名对应，修正 `__init__` 分类字典。           |
+| v2.2      | 2026-02-21 | 🏢 **输入属性优先与Locales提取** - 支持从 `locales` 提取名称，完善 `CLONE` 格式。   |
+| **v2.0**  | 2026-02-20 | 📌 **ItemToClone格式支持** - 支持新的物品引用格式，HandbookParent智能映射，常量前缀识别 |
+| v1.9      | 2026-02-20 | 递归文件夹扫描                                                       |
+| v1.8      | 2026-02-20 | Clone链递归处理、enable字段检查                                         |
+| v1.7      | 2026-02-20 | 消耗品模板支持、TacticalCombo类型识别                                     |
+| v1.6      | 2026-02-20 | 模板路径迁移、ammo和gear模板、TemplateID格式                               |
+| v1.5-v1.0 | 2026-02-20 | 基础功能开发                                                        |
 
 ## 📁 项目结构
-
 
 ```
 
