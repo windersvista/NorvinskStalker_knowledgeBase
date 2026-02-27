@@ -74,7 +74,7 @@
 #### 第二步：安装
 
 1. 将（附带外部文本功能的模组管理器）解压后的以下两个文件覆盖游戏本体路径\BepInEx\plugins\spt中的同名文件
-	 ![[Pasted image 20250212035622.png]]
+	 ![[assets/Pasted image 20250212035622.png]]
 2. 将下载好的词条提取器（【汉化脚本】CNupdate汉化文本转换脚本v1.1.1.exe）放到游戏本体路径\BepInEx\plugins\zh-cn中
 
 #### 第三步：使用
