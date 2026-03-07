@@ -6,6 +6,7 @@
 ## 背景与目的
 
 现实主义mod大幅重构了原版塔科夫的武器系统，使数值体系更复杂。但原版数值存在问题（如“用脚填”导致不合理属性搭配），例如：
+
 - 导气箍影响准确性
 - 枪管影响瞄准速度
 - 弹鼓影响枪口初速
@@ -19,6 +20,7 @@
 补丁使用JSON格式，通过物品的MongoID为键，指定`$type`和属性字段。文件放置在mod目录（如`user/mods/SPT-Realism/db/templates/attatchments`），重启SPT后生效。
 
 ### 装备物品（Gear，如背包、护甲）
+
 - **用途**：调整非武器装备的属性。
 - **关键属性**：
   - `AllowADS`：是否允许瞄准镜（true=允许）。
@@ -29,6 +31,7 @@
   - `weaponErgonomicPenalty`：人机工程惩罚（越低越差）。
 
 ### 附件物品（WeaponMod，如消音器、枪管）
+
 - **用途**：修改武器配件的性能。
 - **关键属性**：
   - `VerticalRecoil` / `HorizontalRecoil`：垂直/水平后坐力（越低越好）。
@@ -52,6 +55,7 @@
   - `ModShotDispersion`：霰弹散布（负值=减少）。
 
 ### 武器（Gun，如AK74M）
+
 - **用途**：调整枪械基础数值。
 - **关键属性**：
   - `WeapAccuracy`：基础精度修正。
@@ -77,11 +81,13 @@
   - `RecoilIntensity`：后坐力动画强度。
 
 ### 换肤（Skin）
+
 - **用途**：克隆其他物品的统计数据。
 - **关键属性**：
   - `TemplateID`：原版物品ID（用于克隆数据）。
 
 ## 注意事项
+
 - **数值调整**：参考“Realism统计数据”（如枪管长度对初速的影响）。从小幅修改开始，测试平衡。
 - **版本兼容**：基于1.5.3版，检查最新更新。
 - **风险**：过度调整可能破坏游戏稳定。备份文件，使用调试模式验证。
@@ -113,10 +119,9 @@
         "weaponErgonomicPenalty [数值越低越差]": 0
     },
     "[附件物品，在此处填入物品的模板MongoID]": {
-        "$type": "RealismMod.WeaponMod, RealismMod",
-        "ItemID": "5cebec00d7f00c065c53522a",
-        "Name": "silencer_p90_fn_p90_attenuator_57x28",
-        "ModType [请参考SPT模组页面链接的文档]": "",
+        "ReloadSpeed [更换弹匣速度，数值越高越快]": 5
+        "LoadUnloadModifier [子弹压弹/退弹速度乘数，数值越高越快]": 20
+        "CheckTimeModifier [检查弹匣速度乘数，数值越高越快]": 3
         "VerticalRecoil [数值越低越好]": 0,
         "HorizontalRecoil [数值越低越好]": -3,
         "Dispersion [数值越低越好，整体散布]": -15,
@@ -125,22 +130,22 @@
         "SemiROF [2.5代表2.5%射速提升]": 2.5,
         "ModMalfunctionChance [数值越低越好]": -10,
         "CanCycleSubs [是否允许在通常无法循环亚音速弹的口径中循环亚音速弹药]": false,
-        "Accuracy": -5,
+        "Accuracy [数值越高越好]": -5,
         "HeatFactor [数值越高越差]": 1.13,
         "CoolFactor [数值越高越好]": 0.95,
         "DurabilityBurnModificator [数值越高越差]": 1.1,
-        "Velocity [2%初速提升，如果是枪管，则使用同口径相近长度枪管的现实主义模组数据]": 2,
-        "RecoilAngle [5 = 后坐角度增加5%以上，趋向90度（垂直向上）]": 5,
+        "Velocity [2=2%初速提升，如果是枪管，则使用同口径相近长度枪管的现实主义模组数据]": 2,
+        "RecoilAngle [5=后坐角度增加5%以上，趋向90度（垂直向上）]": 5,
         "ConflictingItems [应冲突的物品，将与原冲突列表合并，而非覆盖]": [],
-        "Ergonomics": 0,
-        "Weight": 0.354,
+        "Ergonomics [数值越高越好]": 0,
+        "Weight [重量，制作补丁时使用输入文件的同属性值]": 0.354,
         "Loudness [负值表示更安静，用于致聋机制和SAIN模组]": -32,
-        "Convergence [数值越高，响应更迅速，更不飘，枪口上扬和后坐爬升更小]": 0,
-        "LoyaltyLevel": 3,
+        "Convergence [数值越高越好，响应更迅速，更不飘，枪口上扬和后坐爬升更小]": 0,
+        "LoyaltyLevel[商店解锁等级（1-4），制作补丁时使用输入文件的同属性值]": 3,
         "Flash [数值越高，若为消音器或非枪口装置则气体更多，否则火焰更明显]": 15,
         "Handling [武器在移动鼠标或行走/侧移时惯性阻力更小]": 6,
-        "AimStability [武器瞄准晃动更小]": 7.5,
-        "AimSpeed [数值越高越好]": 5,
+        "AimStability [武器瞄准稳定性，越高越好]": 7.5,
+        "AimSpeed [越高越好]": 5,
         "StockAllowADS [覆盖被设定为阻止开镜的装备物品]": false,
         "HasShoulderContact [枪托是否实际接触玩家肩部]": true,
         "CenterOfImpact [若为枪管则影响精度，数值越高精度越差]": 0.042,
@@ -200,3 +205,5 @@
         "TemplateID [要克隆属性的物品ID，必须是原版物品，而非模组添加的物品]": "60363c0c92ec1c31037959f5"
     }
 }
+
+```
