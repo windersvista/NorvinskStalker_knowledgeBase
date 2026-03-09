@@ -6,6 +6,20 @@
 
 ## [Unreleased]
 
+## [v3.6] - 2026-03-10
+
+### 新增
+- 弹药规则新增 3 个故障相关字段：`MalfMisfireChance`、`MisfireChance`、`MalfFeedChance`。
+- 在高穿深档位（`pen_high` / `pen_very_high` / `pen_ap_extreme`）中加入故障概率正向增量修正。
+
+### 变更
+- `ArmorDamage` 全面切换为系数制语义，范围统一到小数倍率体系（目标约 `1.00 ~ 1.50`）。
+- 高压口径（`rifle_762x51` / `full_power_rifle` / `magnum_heavy` / `anti_materiel_50bmg`）故障概率上限提升到 `0.015`。
+- `generate_realism_patch.py` 对故障概率字段增加硬限制：最终值统一夹紧在 `0.001 ~ 0.015`。
+
+### 文档
+- 更新《弹药属性规则指南》：覆盖字段由 12 项扩展到 15 项，补充故障字段解释与高压/高穿规则说明。
+
 ## [v3.5] - 2026-03-10
 
 ### 新增
