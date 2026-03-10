@@ -11,6 +11,8 @@
 
 本文用于快速上手 `generate_realism_patch.py`，并说明输入格式、规则配置与常见问题。
 
+  
+
 ## 1. 工具作用
 
 本工具会读取 `input/` 中的物品数据，结合 `现实主义物品模板/` 重建并生成 Realism 数值配置，并输出到 `output/`。
@@ -21,6 +23,7 @@
 - 每次运行前自动清空 `output/`，避免旧结果干扰。
 - 武器和附件规则范围支持独立配置文件维护。
 - 支持武器二级细分修正（口径与枪托形态）。
+- 支持弹药三层分档重算（口径 + 穿深 + 弹种型号）。
 
 ## 2. 环境要求
 
@@ -30,6 +33,7 @@
 ## 3. 目录说明
 
 关键目录和文件：
+
 - `generate_realism_patch.py`: 主脚本。
 - `input/`: 输入物品 JSON 数据。
 - `output/`: 输出结果目录（运行时自动刷新）。
@@ -37,7 +41,7 @@
 - `weapon_rule_ranges.py`: 武器规则范围配置。
 - `attachment_rule_ranges.py`: 附件规则范围配置。
 - `weapon_refinement_rules.py`: 武器口径与枪托二级修正规则。
-
+- `ammo_rule_ranges.py`: 弹药三层规则配置。
 ## 4. 快速开始
 
 ### 方式 A：双击批处理（推荐 Windows 用户）
@@ -51,9 +55,10 @@
 在项目根目录执行：
 
 ```powershell
-.\.venv\Scripts\python.exe generate_realism_patch.py
-```
 
+.\.venv\Scripts\python.exe generate_realism_patch.py
+
+```
 ## 5. 输入格式要求
 
 脚本会自动识别以下格式：
@@ -63,7 +68,7 @@
 - 说明：可直接对现有数值对象做重写和规则校验。
 
 2. `STANDARD`
-- 特征：包含 `parentId` 或 `itemTplToClone`。
+- 特征：包含 `parentId` 或 `itemTplToClone`。 
 
 3. `CLONE`
 - 特征：包含 `clone` 字段。
@@ -81,47 +86,82 @@
 
 - 输出根目录为 `output/`。
 - 按源文件路径输出，目录结构与 `input/` 保持一致。
-- 输出文件命名规则：`原文件名_realism_patch.json`。
+- 输出文件命名规则：`原文件名_realism_patch.json`。  
 
 示例：
+
 - 输入：`input/attatchments/ScopeTemplates.json`
 - 输出：`output/attatchments/ScopeTemplates_realism_patch.json`
-
 ## 7. 数值生成逻辑（核心流程）
 
 ### 7.1 流程图
 
+  
+
 ```mermaid
+
 flowchart TD
-	A[启动脚本] --> B[递归扫描 input/ 下所有 JSON]
-	B --> C[逐文件读取 items_data]
-	C --> D[逐物品检测格式]
 
-	D --> E{格式类型}
-	E -->|CURRENT_PATCH| F1[直接以输入对象为基线]
-	E -->|TEMPLATE_ID| F2[按 TemplateID 检索模板]
-	E -->|CLONE| F3[按 clone 检索模板或递归解析引用链]
-	E -->|STANDARD/ITEMTOCLONE/VIR| F4[解析 parent_id 并选择模板或默认模板]
+    A[启动脚本] --> B[递归扫描 input/ 下所有 JSON]
 
-	F1 --> G[提取统一 item_info]
-	F2 --> G
-	F3 --> G
-	F4 --> G
+    B --> C[逐文件读取 items_data]
 
-	G --> H[合并输入属性到数值对象]
-	H --> I[现实主义规则校验]
+    C --> D[逐物品检测格式]
 
-	I --> I1[必填字段补全]
-	I1 --> I2[基础安全夹紧]
-	I2 --> I3[武器一级规则: weapon_rule_ranges.py]
-	I3 --> I4[武器二级规则: weapon_refinement_rules.py]
-	I4 --> I5[附件规则: attachment_rule_ranges.py]
-	I5 --> I6[自动化现实修正]
+  
 
-	I6 --> J[按类型统计并按源文件聚合]
-	J --> K[清空 output/ 旧结果]
-	K --> L[按 input 相对路径导出 *_realism_patch.json]
-	L --> M[完成]
+    D --> E{格式类型}
+
+    E -->|CURRENT_PATCH| F1[直接以输入对象为基线]
+
+    E -->|TEMPLATE_ID| F2[按 TemplateID 检索模板]
+
+    E -->|CLONE| F3[按 clone 检索模板或递归解析引用链]
+
+    E -->|STANDARD/ITEMTOCLONE/VIR| F4[解析 parent_id 并选择模板或默认模板]
+
+  
+
+    F1 --> G[提取统一 item_info]
+
+    F2 --> G
+
+    F3 --> G
+
+    F4 --> G
+
+  
+
+    G --> H[合并输入属性到数值对象]
+
+    H --> I[现实主义规则校验]
+
+  
+
+    I --> I1[必填字段补全]
+
+    I1 --> I2[基础安全夹紧]
+
+    I2 --> I3[武器一级规则: weapon_rule_ranges.py]
+
+    I3 --> I4[武器二级规则: weapon_refinement_rules.py]
+
+    I4 --> I5[附件规则: attachment_rule_ranges.py]
+
+    I5 --> I6[弹药规则: ammo_rule_ranges.py]
+
+    I6 --> I7[自动化现实修正]
+
+  
+
+    I7 --> J[按类型统计并按源文件聚合]
+
+    J --> K[清空 output/ 旧结果]
+
+    K --> L[按 input 相对路径导出 *_realism_patch.json]
+
+    L --> M[完成]
+
 ```
 
 脚本的数值生成遵循“识别 -> 构建 -> 合并 -> 校验 -> 导出”的流水线：
@@ -139,6 +179,7 @@ flowchart TD
 - 对字符串类型 `parentId`（如 `GAS_BLOCK`）先做标准化映射。
 
 4. 构建数值基线
+
 - `CURRENT_PATCH`：直接以输入对象为基线重写。
 - `TEMPLATE_ID`：按 `TemplateID` 在模板库检索基线模板。
 - `CLONE`：优先从模板库按 `clone` 查找；找不到时可递归解析同文件引用链。
@@ -155,6 +196,7 @@ flowchart TD
 - 先按 `weapon_rule_ranges.py` 的基础档位夹紧。
 - 再按 `weapon_refinement_rules.py` 做口径 + 枪托二级修正。
 - 附件：按 `attachment_rule_ranges.py` 的档位规则夹紧。
+- 弹药：按 `ammo_rule_ranges.py` 执行三层重算（口径基础 + 穿深增量 + 弹种型号增量）。
 - 最后应用自动化现实修正（材质、尺寸、枪管长度推断等）。
 
 7. 分类与按源文件聚合
@@ -199,7 +241,7 @@ flowchart TD
 - 先小范围修改一个规则区间。
 - 运行后比对对应物品字段是否被夹紧到新范围。
 
-## 10. 推荐维护流程
+## 10. 推荐维护流程 
 
 1. 先在 `input/` 放最小样本数据做验证。
 2. 调整规则配置文件中的范围。
