@@ -6,6 +6,69 @@
 
 ## [Unreleased]
 
+## [v3.11] - 2026-03-11
+
+### 变更
+- 扩展瞄具名称识别关键词，新增 `1p87`、`comp_m4/compm4`、`boss_xe` 及历史拼写兼容词（如 `aimpooint`）。
+- 调整 `ModType = sight` 在 `ScopeTemplates.json` 条件下的兜底顺序：关键词未命中时优先按红点兜底，降低因通用 parent 回填导致的高倍率偏置。
+
+### 修复
+- 修复 `5c7d55de2e221644f31bff68`、`655f13e0a246670fb0373245`、`5c0505e00db834001b735073` 等红点/全息镜条目被套用高倍率规则的问题。
+
+## [v3.10] - 2026-03-10
+
+### 变更
+- 优化瞄具档位识别：`ModType = sight` 的判定顺序调整为“名称关键词优先 -> parent/base_profile 回退 -> 默认 red dot”。
+- 扩展 `_infer_sight_profile_from_name` 关键词与倍率规则，补充红点/全息常见命名（如 `eotech`、`aimpoint`、`holosun`、`rmr` 等）及倍率表达式识别（如 `1x`、`3x`、`1-4x`）。
+
+### 修复
+- 修复 `ScopeTemplates` 在 `CURRENT_PATCH` 且 `parentId` 缺失时，因 parent 回填优先导致大量 `sight` 条目被归并为同一档位的问题。
+
+## [v3.9] - 2026-03-10
+
+### 变更
+- 调整 `weapon_refinement_rules.py` 中 `stockless` 相关修正策略，使冲锋枪在“无抵肩”场景下不再出现显著超出预期的后坐抬升。
+- 对齐 `mount` 附件热量字段策略，避免为无热管理语义的导轨/镜座注入不必要的 `HeatFactor` / `CoolFactor` 数值。
+
+### 修复
+- 修复部分 `SMGTemplates` 条目在 `stockless` 命中后 `VerticalRecoil` 明显偏离武器规则指南预期的问题。
+- 修复 `mount` 档位出现 `HeatFactor: 0.01`、`CoolFactor: 0.01` 的无意义占位值问题。
+
+## [v3.8] - 2026-03-10
+
+### 新增
+- 基于 `现实主义物品模板/ammo/ammoTemplates.json`（402 条）重建弹药第三层类型词典。
+- 第三层新增档位：`tracer`、`shot_shell_payload`、`ball_standard`，覆盖示踪弹、霰弹载荷类与普通球弹族。
+
+### 变更
+- `AMMO_SPECIAL_KEYWORDS` 与 `AMMO_SPECIAL_MODIFIERS` 按模板真实 `Name` 词元重新制定，并保留 `model_m995` / `model_m855a1` 优先档位。
+- `generate_realism_patch.py` 的第三层识别改为“词元精确匹配优先”，复合词保留短语匹配能力。
+
+### 修复
+- 修复短关键词（如 `ap` / `sp`）在子串匹配下可能误命中无关名称的问题（例如 `lapua` 类文本）。
+
+### 文档
+- 更新 `弹药属性规则指南.md` 第 2.1 节，明确第三层数据来源、档位定义与匹配机制。
+
+## [v3.7] - 2026-03-10
+
+### 新增
+- 弹药规则新增第三层“弹种型号”分类：`AMMO_SPECIAL_KEYWORDS` + `AMMO_SPECIAL_MODIFIERS`。
+- 新增型号优先档位：`model_m995`、`model_m855a1`，用于同口径内高穿弹精细区分。
+- 穿深分层扩展为 `11` 级，新增 `pen_lvl_11`（`101~130`）用于非常大口径/极高压/顶级高穿深弹药。
+
+### 变更
+- `AMMO_PENETRATION_TIERS` 改为 `1~130` 的分层体系，按每 10 点约 1 级映射，`pen_lvl_10` 调整为 `91~100`。
+- 重设各弹药类型 `PenetrationPower` 区间以匹配新分层体系，并同步二级穿深增量修正。
+- 补充无点格式口径关键词兼容（如 `556x45`、`545x39`、`58x42`、`Caliber58x42`），修复部分第三方弹药误落入默认档的问题。
+- `ArmorDamage` 规则统一为护甲/插板耐久损伤倍率，最终值硬限制在 `1.00~1.20`。
+
+### 修复
+- 修复同口径下 `M995` 与 `M855A1` 等高穿弹在随机采样下可能出现关系反转的问题（通过第三层型号修正显著降低概率）。
+
+### 文档
+- 更新 `弹药属性规则指南.md`：补充 11 级穿深标准映射、第三层型号规则、以及新默认穿深档位说明。
+
 ## [v3.6] - 2026-03-10
 
 ### 新增
