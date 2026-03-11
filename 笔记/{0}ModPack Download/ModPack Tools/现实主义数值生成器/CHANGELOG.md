@@ -6,6 +6,15 @@
 
 ## [Unreleased]
 
+## [v3.12] - 2026-03-12
+
+### 变更
+- 武器第三层枪托细分修正补充 `CameraRecoil` 与 `VisualMulti` 两个字段到全部档位（`fixed_stock` / `folding_stock_extended` / `folding_stock_collapsed` / `bullpup` / `stockless`），以区分机械后坐与视觉/镜头后坐。
+- 新增武器口径子档 `intermediate_rifle_58x42`，并加入 `5.8x42` / `58x42` / `Caliber58x42` 关键词映射，覆盖 QBZ191 类输入。
+
+### 修复
+- 修复部分 `9x39` 武器在仅有名称口径信息时未稳定命中口径细分的问题，确认 `subsonic_heavy_9x39` 可通过主流程识别并参与数值重算。
+
 ## [v3.11] - 2026-03-11
 
 ### 变更
