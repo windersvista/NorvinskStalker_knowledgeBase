@@ -61,7 +61,9 @@ generate_realism_patch.py 会读取 input/ 中的物品数据，结合 现实主
 ### 方式 B：命令行运行
 
 ```powershell
+
 .\.venv\Scripts\python.exe generate_realism_patch.py
+
 ```
 
 ## 5. 输入格式
@@ -171,7 +173,9 @@ generate_realism_patch.py 会读取 input/ 中的物品数据，结合 现实主
 ### 审计输出
   
 ```powershell
+
 .\.venv\Scripts\python.exe audit_output_rule_violations.py
+
 ```
 
 
@@ -189,7 +193,9 @@ generate_realism_patch.py 会读取 input/ 中的物品数据，结合 现实主
 ### 名称回归测试
 
 ```powershell
+
 .\.venv\Scripts\python.exe -m unittest tests.test_name_extraction
+
 ```
 
 覆盖范围：
