@@ -1,202 +1,140 @@
-# 装备补丁制作样例说明
+# 现实主义“Realism”装备补丁属性规则说明（v3.15）
 
-> [!NOTE]
-> 本文档基于《现实主义（Realism）1.6.3版》的补丁样例说明翻译整理，旨在指导如何调整SPT游戏中的装备数值。
+本文档不再作为旧版官方样例翻译存档使用，而是作为当前仓库里“装备与字段语义”的参考说明。它用于解释 Gear、WeaponMod、Gun 常见字段的含义，以及当前生成器对装备类物品实际做了哪些处理。
 
-## 背景与目的
+## 1. 当前定位
 
-现实主义mod大幅重构了原版塔科夫的武器系统，使数值体系更复杂。但原版数值存在问题（如“用脚填”导致不合理属性搭配），例如：
-- 导气箍影响准确性
-- 枪管影响瞄准速度
-- 弹鼓影响枪口初速
-- 标准AR15导气管属性优于红管
-- 某些裸枪故障率异常高
+- 如果你在看“规则怎么自动生成”，优先看三份规则指南和详细使用说明。
+- 如果你在看“某个字段在 Realism 里大致是什么意思”，再看本文档。
+- 如果你在手工补丁和自动生成之间来回对照，本文档可以作为字段语义索引。
 
-安装mod后，需手动调整数值以实现更符合“现实”的游戏体验，避免这些缺陷。
+## 2. 当前生成器对 Gear 的实际处理
 
-## 补丁格式说明
+与 Gun、WeaponMod、Ammo 不同，Gear 当前没有独立的 profile 规则文件。
 
-补丁使用JSON格式，通过物品的MongoID为键，指定`$type`和属性字段。文件放置在mod目录（如`user/mods/SPT-Realism/db/templates/attatchments`），重启SPT后生效。
+主流程目前只会对 Gear 做三项夹紧：
 
-### 装备物品（Gear，如背包、护甲）
-- **用途**：调整非武器装备的属性。
-- **关键属性**：
-  - `AllowADS`：是否允许瞄准镜（true=允许）。
-  - `ReloadSpeedMulti`：装填速度倍率（>1=更快）。
-  - `Comfort`：舒适度修正（越低越好）。
-  - `speedPenaltyPercent`：移动速度惩罚（越低越差）。
-  - `mousePenalty`：鼠标惩罚（通常0）。
-  - `weaponErgonomicPenalty`：人机工程惩罚（越低越差）。
+- ReloadSpeedMulti：0.85 到 1.25
+- Comfort：0.6 到 1.4
+- speedPenaltyPercent：-40 到 10
 
-### 附件物品（WeaponMod，如消音器、枪管）
-- **用途**：修改武器配件的性能。
-- **关键属性**：
-  - `VerticalRecoil` / `HorizontalRecoil`：垂直/水平后坐力（越低越好）。
-  - `Dispersion`：整体散布（越低越好）。
-  - `CameraRecoil`：相机后坐力（越低越好）。
-  - `AutoROF` / `SemiROF`：射速增加百分比。
-  - `ModMalfunctionChance`：故障率修正（越低越好）。
-  - `Accuracy`：连续射击散布（越高越好）。
-  - `HeatFactor` / `CoolFactor`：热量/冷却因子。
-  - `DurabilityBurnModificator`：耐久消耗（越低越好）。
-  - `Velocity`：枪口初速百分比增加。
-  - `RecoilAngle`：后坐力角度。
-  - `Ergonomics`：人机工程（越高越好）。
-  - `Weight`：重量（kg）。
-  - `Loudness`：噪音水平（负值=更安静）。
-  - `Convergence`：灵敏度（越高越好）。
-  - `Handling`：操作性（越高越好）。
-  - `AimStability`：瞄准稳定性（越高越好）。
-  - `AimSpeed`：瞄准速度（越高越好）。
-  - `CenterOfImpact`：精度（越高=精度越低）。
-  - `ModShotDispersion`：霰弹散布（负值=减少）。
+这意味着：
 
-### 武器（Gun，如AK74M）
-- **用途**：调整枪械基础数值。
-- **关键属性**：
-  - `WeapAccuracy`：基础精度修正。
-  - `BaseTorque`：平衡（负值=前重）。
-  - `HasShoulderContact`：是否有肩托。
-  - `Ergonomics`：人机工程。
-  - `VerticalRecoil` / `HorizontalRecoil`：后坐力。
-  - `Dispersion`：散布。
-  - `CameraRecoil`：相机后坐力。
-  - `VisualMulti`：视觉后坐力倍率。
-  - `Convergence`：灵敏度。
-  - `RecoilAngle`：后坐力角度。
-  - `BaseMalfunctionChance`：基础故障率。
-  - `HeatFactorGun` / `CoolFactorGun`：热量/冷却因子。
-  - `CenterOfImpact`：内置枪管精度。
-  - `HipAccuracyRestorationDelay/Speed`：腰射精度恢复。
-  - `Velocity`：初速。
-  - `RecoilDamping` / `RecoilHandDamping`：后坐力阻尼。
-  - `AutoROF` / `SemiROF`：射速。
-  - `BaseReloadSpeedMulti` / `BaseChamberSpeedMulti`：装填/装弹速度。
-  - `IsManuallyOperated`：是否手动操作。
-  - `OffsetRotation`：射击后偏移。
-  - `RecoilIntensity`：后坐力动画强度。
+- Gear 当前更偏“安全收口”，而不是复杂分档生成
+- 如果未来要让护甲、背包、Rig 走更细规则，建议新建独立 gear_rule_ranges.py，而不是继续堆在主脚本里
 
-### 换肤（Skin）
-- **用途**：克隆其他物品的统计数据。
-- **关键属性**：
-  - `TemplateID`：原版物品ID（用于克隆数据）。
+## 3. Gear 常见字段语义
 
-## 注意事项
-- **数值调整**：参考“Realism统计数据”（如枪管长度对初速的影响）。从小幅修改开始，测试平衡。
-- **版本兼容**：基于1.5.3版，检查最新更新。
-- **风险**：过度调整可能破坏游戏稳定。备份文件，使用调试模式验证。
-- **工具**：用JSON编辑器检查语法。社区有现成补丁分享。
+- AllowADS：是否允许开镜
+- ReloadSpeedMulti：装填速度倍率，越高越快
+- Comfort：舒适度或负重体验系数，越低通常越轻松
+- speedPenaltyPercent：移动速度惩罚，越负说明减速越明显
+- mousePenalty：鼠标灵敏度惩罚
+- weaponErgonomicPenalty：对持枪人机的惩罚
 
-```
+## 4. WeaponMod 常见字段语义
+
+- VerticalRecoil / HorizontalRecoil：后坐修正
+- Dispersion：整体散布
+- CameraRecoil：镜头后坐
+- ModMalfunctionChance：故障率修正
+- Accuracy：精度修正
+- HeatFactor / CoolFactor：发热与散热倾向
+- DurabilityBurnModificator：耐久烧蚀倾向
+- Velocity：枪口初速修正
+- RecoilAngle：后坐方向偏转
+- Ergonomics：人机工程修正
+- Loudness：噪音修正
+- Convergence：收束/响应性
+- Handling：操作性
+- AimStability：瞄准稳定性
+- AimSpeed：开镜速度
+- CenterOfImpact：对精度或弹着点的偏移影响
+
+这些字段的自动区间与命中逻辑，以 附件属性规则指南.md 和 attachment_rule_ranges.py 为准。
+
+## 5. Gun 常见字段语义
+
+- WeapAccuracy：基础武器精度修正
+- BaseTorque：平衡感，负值通常更前重
+- HasShoulderContact：是否具备抵肩支撑
+- Ergonomics：基础人机
+- VerticalRecoil / HorizontalRecoil：武器后坐
+- Dispersion：散布
+- CameraRecoil：镜头后坐
+- VisualMulti：视觉后坐倍率
+- Convergence：响应/收束速度
+- BaseMalfunctionChance：基础故障率
+- HeatFactorGun / CoolFactorGun：基础发热与散热
+- AutoROF / SemiROF：自动与半自动循环速度
+- BaseReloadSpeedMulti / BaseChamberSpeedMulti：装填与上膛修正
+- BaseChamberCheckSpeed / BaseFixSpeed：检膛与排故速度
+- RecoilIntensity：程序动画后坐强度
+
+这些字段的自动区间与二级修正，以 武器属性规则指南.md、weapon_rule_ranges.py、weapon_refinement_rules.py 为准。
+
+## 6. 当前建议的手工介入方式
+
+### 6.1 想改普遍规律
+
+优先改规则文件，而不是手改 output/ 中的大量结果。
+
+### 6.2 想改单个物品
+
+可以在 output/ 中找到对应源文件的结果，只改目标 ItemID 的字段。
+
+### 6.3 想新增映射或默认模板
+
+先看 generator_static_data.py，而不是直接去改主脚本顶部常量。
+
+## 7. 最小示例
+
+### Gear
+
+```json
 {
-    "Comments": {
-        "Comments are in the square brackets, do not include these": [
-            "注释位于方括号中，请勿包含这些内容"
-        ],
-        "the $type must be EXACTLY the same as in these examples, and they must be used correctly": [
-            "$type 必须与这些示例中的完全一致，并且必须正确使用"
-        ],
-        "$type and ItemID are required, other fields are not unless it's a gun in which case all are required": [
-            "$type 和 ItemID 是必填项，除非是枪械（此时所有字段均为必填），否则其他字段非必填"
-        ]
-    },
-    "[装备物品，在此处填入物品的模板MongoID]": {
-        "$type [客户端用于动态分配模板类型]": "RealismMod.Gear, RealismMod",
-        "ItemID [与对象键名相同]": "ValidMongoID",
-        "Name [仅供清晰标识]": "backpack_wild",
-        "AllowADS [是否阻止开镜，若为可切换面罩则仅在展开时生效]": true,
-        "LoyaltyLevel [若使用商人改动则为商人等级]": 2,
-        "ReloadSpeedMulti [数值越高越好]": 1.05,
-        "Comfort [数值越低越好，重量修正系数]": 1.04,
-        "speedPenaltyPercent [数值越低越差]": -2,
-        "mousePenalty [保持为0]": 0,
-        "weaponErgonomicPenalty [数值越低越差]": 0
-    },
-    "[附件物品，在此处填入物品的模板MongoID]": {
-        "$type": "RealismMod.WeaponMod, RealismMod",
-        "ItemID": "5cebec00d7f00c065c53522a",
-        "Name": "silencer_p90_fn_p90_attenuator_57x28",
-        "ModType [请参考SPT模组页面链接的文档]": "",
-        "VerticalRecoil [数值越低越好]": 0,
-        "HorizontalRecoil [数值越低越好]": -3,
-        "Dispersion [数值越低越好，整体散布]": -15,
-        "CameraRecoil [数值越低越好]": -10,
-        "AutoROF [1代表1%射速提升]": 1,
-        "SemiROF [2.5代表2.5%射速提升]": 2.5,
-        "ModMalfunctionChance [数值越低越好]": -10,
-        "CanCycleSubs [是否允许在通常无法循环亚音速弹的口径中循环亚音速弹药]": false,
-        "Accuracy": -5,
-        "HeatFactor [数值越高越差]": 1.13,
-        "CoolFactor [数值越高越好]": 0.95,
-        "DurabilityBurnModificator [数值越高越差]": 1.1,
-        "Velocity [2%初速提升，如果是枪管，则使用同口径相近长度枪管的现实主义模组数据]": 2,
-        "RecoilAngle [5 = 后坐角度增加5%以上，趋向90度（垂直向上）]": 5,
-        "ConflictingItems [应冲突的物品，将与原冲突列表合并，而非覆盖]": [],
-        "Ergonomics": 0,
-        "Weight": 0.354,
-        "Loudness [负值表示更安静，用于致聋机制和SAIN模组]": -32,
-        "Convergence [数值越高，响应更迅速，更不飘，枪口上扬和后坐爬升更小]": 0,
-        "LoyaltyLevel": 3,
-        "Flash [数值越高，若为消音器或非枪口装置则气体更多，否则火焰更明显]": 15,
-        "Handling [武器在移动鼠标或行走/侧移时惯性阻力更小]": 6,
-        "AimStability [武器瞄准晃动更小]": 7.5,
-        "AimSpeed [数值越高越好]": 5,
-        "StockAllowADS [覆盖被设定为阻止开镜的装备物品]": false,
-        "HasShoulderContact [枪托是否实际接触玩家肩部]": true,
-        "CenterOfImpact [若为枪管则影响精度，数值越高精度越差]": 0.042,
-        "ModShotDispersion [负值减小鹿弹散布]": -25
-    },
-    "[武器，在此处填入物品的模板MongoID]": {
-        "$type": "RealismMod.Gun, RealismMod",
-        "ItemID": "5ac4cd105acfc40016339859",
-        "Name": "weapon_izhmash_ak74m_545x39",
-        "WeapType [请参考SPT模组页面链接的文档]": "",
-        "OperationType [请参考SPT模组页面链接的文档]": "",
-        "WeapAccuracy [基础武器精度修正]": 0,
-        "BaseTorque [步枪的默认平衡度，负值表示更前重]": -3.8,
-        "HasShoulderContact [武器是否自带抵肩枪托]": false,
-        "Ergonomics": 80,
-        "VerticalRecoil": 84,
-        "HorizontalRecoil": 195,
-        "Dispersion [散布]": 11,
-        "CameraRecoil": 0.033,
-        "VisualMulti [视觉后坐，数值越高视觉后坐越明显（抖动、旋转）]": 1.025,
-        "Convergence [响应速度/平顺性]": 15,
-        "RecoilAngle [90为垂直向上，65为向右]": 87,
-        "BaseMalfunctionChance": 0.0009,
-        "HeatFactorGun": 0.2,
-        "HeatFactorByShot": 1,
-        "CoolFactorGun": 0.1,
-        "CoolFactorGunMods": 1,
-        "AllowOverheat": true,
-        "CenterOfImpact [若为内置枪管则影响精度，数值越高精度越差]": 0.042,
-        "HipAccuracyRestorationDelay": 0.2,
-        "HipAccuracyRestorationSpeed": 7,
-        "HipInnaccuracyGain": 0.16,
-        "ShotgunDispersion": 0,
-        "Velocity [若枪械有内置枪管，则需要初速属性，请参考枪管与武器的现实主义模组数据]": 0,
-        "RecoilDamping [上下晃动，数值越高晃动越明显]": 0.81,
-        "RecoilHandDamping [前后晃动，数值越高晃动越明显]": 0.64,
-        "WeaponAllowADS [武器是否允许开镜，无视装备阻挡和枪托类型]": false,
-        "Weight": 2.402,
-        "DurabilityBurnRatio": 0.15,
-        "AutoROF": 650,
-        "SemiROF": 390,
-        "LoyaltyLevel": 3,
-        "BaseReloadSpeedMulti [装填速度修正]": 1,
-        "BaseChamberSpeedMulti [上膛速度修正，也适用于手动操作枪械]": 1,
-        "MinChamberSpeed": 0.7,
-        "MaxChamberSpeed": 1.5,
-        "IsManuallyOperated [若为栓动或泵动式则为true]": false,
-        "BaseChamberCheckSpeed": 1.5,
-        "BaseFixSpeed [故障修复速度]": 1.3,
-        "OffsetRotation [数值越高越差，开火后枪口偏离目标的程度]": 0.009,
-        "RecoilIntensity [整体后坐力程序动画强度]": 0.15
-    },
-    "[换肤，在此处填入物品的模板MongoID]": {
-        "$type": "RealismMod.Gear, RealismMod",
-        "ItemID": "6770852638b652c9b4e588a9",
-        "Name": "Name of item",
-        "TemplateID [要克隆属性的物品ID，必须是原版物品，而非模组添加的物品]": "60363c0c92ec1c31037959f5"
-    }
+  "example_gear_id": {
+    "$type": "RealismMod.Gear, RealismMod",
+    "ItemID": "example_gear_id",
+    "Name": "example_backpack",
+    "ReloadSpeedMulti": 1.02,
+    "Comfort": 0.95,
+    "speedPenaltyPercent": -4
+  }
 }
+```
+
+### WeaponMod
+
+```json
+{
+  "example_mod_id": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
+    "ItemID": "example_mod_id",
+    "Name": "example_suppressor",
+    "ModType": "muzzle_suppressor",
+    "Ergonomics": -8,
+    "VerticalRecoil": -10,
+    "Loudness": -28
+  }
+}
+```
+
+### Gun
+
+```json
+{
+  "example_gun_id": {
+    "$type": "RealismMod.Gun, RealismMod",
+    "ItemID": "example_gun_id",
+    "Name": "example_rifle_556x45",
+    "Ergonomics": 90,
+    "VerticalRecoil": 95,
+    "HorizontalRecoil": 170
+  }
+}
+```
+
+## 8. 文档策略
+
+本文档负责解释字段语义与当前 Gear 处理定位，不再重复维护旧版官方样例全文。涉及具体自动生成区间时，请回到对应规则指南与代码文件查看。
