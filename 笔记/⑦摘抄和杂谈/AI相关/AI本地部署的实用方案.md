@@ -241,7 +241,7 @@ interface.launch(server_name="0.0.0.0")
 
 这个方案在NVIDIA RTX 3060上实测可实现：
 
-- 知识库检索响应 <0.5秒
+- 知识库检索响应 &lt;0.5秒
     
 - 模型生成速度 15-20 token/秒
     

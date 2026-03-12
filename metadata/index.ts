@@ -12,6 +12,6 @@ export const githubRepoLink = 'https://github.com/windersvista/NorvinskStalker_k
 export const discordLink = 'https://afdian.com/a/samuel_szeto'
 
 /** 无协议前缀域名 */
-export const plainTargetDomain = 'https://norvinsk-stalker-knowledge-base.vercel.app'
+export const plainTargetDomain = 'norvinsk-stalker-knowledge-base.vercel.app'
 /** 完整域名 */
 export const targetDomain = `https://${plainTargetDomain}`
