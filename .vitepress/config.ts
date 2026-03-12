@@ -12,6 +12,91 @@ import { discordLink, githubRepoLink, siteDescription, siteName, targetDomain } 
 import { creatorNames, creatorUsernames } from './creators'
 import { sidebar } from './docsMetadata.json'
 
+const allowedHtmlTags = new Set(['a', 'br', 'details', 'img', 'kbd', 'span', 'summary'])
+const allowedMarkdownComponents = new Set(['HomePage', 'TocList'])
+
+function escapeUnsafeAngleBracketsInLine(line: string) {
+  let result = ''
+  let index = 0
+  let inlineCodeDelimiter = ''
+
+  while (index < line.length) {
+    if (line[index] === '`') {
+      let delimiterLength = 1
+      while (line[index + delimiterLength] === '`')
+        delimiterLength++
+
+      const delimiter = line.slice(index, index + delimiterLength)
+      if (!inlineCodeDelimiter)
+        inlineCodeDelimiter = delimiter
+      else if (inlineCodeDelimiter === delimiter)
+        inlineCodeDelimiter = ''
+
+      result += delimiter
+      index += delimiterLength
+      continue
+    }
+
+    if (!inlineCodeDelimiter && line[index] === '<') {
+      const rest = line.slice(index)
+
+      if (rest.startsWith('<!--') || rest.startsWith('<!') || rest.startsWith('<?')) {
+        result += '<'
+        index++
+        continue
+      }
+
+      if (/^<https?:\/\/[^\s>]+>/.test(rest) || /^<mailto:[^\s>]+>/.test(rest)) {
+        result += '<'
+        index++
+        continue
+      }
+
+      const tagMatch = rest.match(/^<\/?([A-Za-z][A-Za-z0-9-]*)(?=[\s/>])/)
+      if (tagMatch) {
+        const tagName = tagMatch[1]
+        if (allowedHtmlTags.has(tagName.toLowerCase()) || allowedMarkdownComponents.has(tagName)) {
+          result += '<'
+          index++
+          continue
+        }
+      }
+
+      result += '&lt;'
+      index++
+      continue
+    }
+
+    result += line[index]
+    index++
+  }
+
+  return result
+}
+
+function escapeUnsafeAngleBrackets(source: string) {
+  const lines = source.split(/\r?\n/u)
+  let fenceDelimiter = ''
+
+  return lines.map((line) => {
+    const fenceMatch = line.match(/^\s*(`{3,}|~{3,})/u)
+    if (fenceMatch) {
+      const currentDelimiter = fenceMatch[1]
+      if (!fenceDelimiter)
+        fenceDelimiter = currentDelimiter
+      else if (currentDelimiter[0] === fenceDelimiter[0] && currentDelimiter.length >= fenceDelimiter.length)
+        fenceDelimiter = ''
+
+      return line
+    }
+
+    if (fenceDelimiter)
+      return line
+
+    return escapeUnsafeAngleBracketsInLine(line)
+  }).join('\n')
+}
+
 export default defineConfig({
   vue: {
     template: {
@@ -221,6 +306,10 @@ export default defineConfig({
     },
     math: true,
     config: (md) => {
+      md.core.ruler.before('normalize', 'escape-unsafe-angle-brackets', (state) => {
+        state.src = escapeUnsafeAngleBrackets(state.src)
+      })
+
       md.use(MarkdownItFootnote)
       md.use(MarkdownItMathjax3)
       md.use(BiDirectionalLinks({

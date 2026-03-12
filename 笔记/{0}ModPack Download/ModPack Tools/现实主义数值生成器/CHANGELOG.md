@@ -1,9 +1,6 @@
 # 更新日志
 
-<!-- markdownlint-disable MD022 MD024 MD032 MD033 -->
-
 本文件记录项目中所有重要变更。
-
 格式参考 Keep a Changelog，版本号沿用仓库历史中的语义化风格。
 
 ## [Unreleased]
@@ -29,7 +26,7 @@
 - 新增 tests/test_name_extraction.py，覆盖 CLONE、STANDARD、VIR、ITEMTOCLONE 的真实样本回归，以及 CURRENT_PATCH 的合成回归样本。
 
 ### 修复
-- 修复 CLONE 输入仅使用小写 locales.<lang>.name 时名称未被识别的问题。
+- 修复 CLONE 输入仅使用小写“ locales.cn或en.name ”时名称未被识别的问题。
 - 修复审计回读源文件名称后，会被空输出 Name 覆盖回空字符串的问题。
 - 调整审计范围，忽略 mod_profile_unresolved 类条目，不再将“无法推断附件规则档位，未能校验附件范围”计入 warning。
 
