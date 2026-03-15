@@ -13,7 +13,14 @@ import { creatorNames, creatorUsernames } from './creators'
 import { sidebar } from './docsMetadata.json'
 
 const allowedHtmlTags = new Set(['a', 'br', 'details', 'img', 'kbd', 'span', 'summary'])
-const allowedMarkdownComponents = new Set(['HomePage', 'TocList'])
+const allowedMarkdownComponents = new Set([
+  'HomePage',
+  'TocList',
+  'NolebaseGitChangelog',
+  'NolebaseGitContributors',
+  'NolebasePageProperties',
+  'NolebasePagePropertiesEditor',
+])
 
 function escapeUnsafeAngleBracketsInLine(line: string) {
   let result = ''
