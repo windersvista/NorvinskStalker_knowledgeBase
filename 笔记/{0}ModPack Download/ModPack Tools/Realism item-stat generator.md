@@ -3,13 +3,11 @@
 ##### 下载链接： 
 
 - ###### 直接下载：
->[https://github.com/windersvista/Realism-patch-Generator/releases/tag/3.15](https://github.com/windersvista/Realism-patch-Generator/releases/tag/3.15)
+>[https://github.com/windersvista/Realism-patch-Generator/releases/tag/3.5](https://github.com/windersvista/Realism-patch-Generator/releases/tag/3.5)
 
 - ###### 源代码：
 >[https://github.com/windersvista/Realism-patch-Generator](https://github.com/windersvista/Realism-patch-Generator)
 
-
-本文用于快速上手 generate_realism_patch.py，并说明 GUI 调参、输入格式、规则入口与常见问题。
 
 ## 1. 当前工具包含什么
 
