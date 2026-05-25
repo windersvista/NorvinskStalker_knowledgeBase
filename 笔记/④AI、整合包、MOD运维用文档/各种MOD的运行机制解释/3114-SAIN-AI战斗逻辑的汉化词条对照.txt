@@ -1,0 +1,2319 @@
+================================================================================
+  SAIN F6 菜单 汉化对照表 (Localization Table)
+  SAIN Version: 检查 AssemblyInfoClass
+  生成日期: 2026-05-22
+================================================================================
+
+格式说明:
+  [原文] English Original
+  [译文] Chinese Translation (待审阅)
+
+※ 译文为初稿，请审阅后修订。
+
+================================================================================
+一、主窗口 / 顶级UI
+================================================================================
+
+1. 窗口标题
+   [原文] SAIN AI Settings Editor
+   [译文] SAIN AI 设置编辑器
+
+2. 拖拽栏标题
+   [原文] SAIN {version} GUI Editor | Preset: {name}
+   [译文] SAIN {version} GUI编辑器 | 预设: {name}
+
+3. 顶部按钮
+   [原文] Save All Changes
+   [译文] 保存所有修改
+   解释: 导出所有更改到 SAIN/Presets/{presetName} 目录
+
+   [原文] Advanced Settings: [ON/OFF]
+   [译文] 高级设置: [开/关]
+
+   [原文] X
+   [译文] X (关闭按钮，无需翻译)
+
+================================================================================
+二、标签页 (Tabs)
+================================================================================
+
+1. Home
+   [原文] Home
+   [译文] 首页
+   [解释] Select preset and modify global SAIN settings.
+   [解释译文] 选择预设并修改SAIN全局设置。
+
+2. Bot Settings
+   [原文] Bot Settings
+   [译文] Bot设置
+   [解释] Modify Settings that are unique to particular bot types for individual difficulties. Difficulty is determined on spawn by EFT, and is changed by selecting the Difficulty value when starting a raid. As Online is a mix of all difficulties.
+   [解释译文] 根据不同难度，修改特定Bot类型的独立设置。难度由EFT在生成时决定，玩家可在开局时选择难度等级。线上模式为所有难度混合。
+
+3. Personalities
+   [原文] Personalities
+   [译文] 个性设置
+   [解释] Modify Individual Personality settings for how they are assigned to bots, and what each personality does for a bot's behavior.
+   [解释译文] 修改各个个性的分配规则及其对Bot行为的影响。
+
+4. Equipment Stealth
+   [原文] Equipment Stealth
+   [译文] 装备隐蔽值
+   [解释] Modify the stealth value that certain pieces of equipment provide.
+   [解释译文] 修改特定装备提供的隐蔽度数值。
+
+5. Advanced Options
+   [原文] Advanced Options
+   [译文] 高级选项
+   [解释] Edit at your own risk. Enable additional advanced config options here
+   [解释译文] 自行承担修改风险。在此启用额外的高级配置选项。
+
+================================================================================
+三、首页 (Home) - 预设选择
+================================================================================
+
+1. 预设区域
+   [原文] Presets
+   [译文] 预设
+   [解释] Select an Installed preset for SAIN Settings
+   [解释译文] 选择已安装的SAIN设置预设
+
+   [原文] Refresh
+   [译文] 刷新
+   [解释] Refresh installed Presets
+   [解释译文] 刷新已安装的预设列表
+
+   [原文] Create New Preset
+   [译文] 创建新预设
+
+   [原文] Default Presets
+   [译文] 默认预设
+
+   [原文] Custom Presets
+   [译文] 自定义预设
+
+2. 创建新预设界面
+   [原文] Save Info
+   [译文] 保存信息
+   [解释] Update the selected presets name, description, and creator.
+   [解释译文] 更新当前预设的名称、描述和创建者。
+
+   [原文] Save A New Preset
+   [译文] 保存新预设
+
+   [原文] Name
+   [译文] 名称
+
+   [原文] Description
+   [译文] 描述
+
+   [原文] Creator
+   [译文] 创建者
+
+   [原文] Enter Name Here
+   [译文] 在此输入名称
+
+   [原文] Enter Description Here
+   [译文] 在此输入描述
+
+   [原文] Your Name Here
+   [译文] 在此输入您的名字
+
+3. 删除预设
+   [原文] Delete Selected Preset
+   [译文] 删除选中的预设
+
+   [原文] Are you Sure?
+   [译文] 确认删除?
+
+   [原文] CONFIRM DELETE OF {name} ?
+   [译文] 确认删除 {name} ?
+
+4. 版本警告
+   [原文] Warning: The selected preset version is: [{v}], but current SAIN preset version is: [{curV}] (SAIN version [{sainV}]), default bot config values may be set incorrectly due to updates to SAIN. THIS DOESN'T MEAN YOUR GAME IS BROKEN, just be aware bots might not act as intended.
+   [译文] 警告: 所选预设版本为: [{v}]，但当前SAIN预设版本为: [{curV}] (SAIN版本 [{sainV}])。由于SAIN的更新，默认Bot配置值可能会设置不正确。这不代表你的游戏坏了，只是Bot的行为可能不如预期。
+
+================================================================================
+四、首页 (Home) - 全局设置通用操作
+================================================================================
+
+1. 搜索
+   [原文] Search
+   [译文] 搜索
+
+   [原文] Clear
+   [译文] 清除
+
+2. 保存
+   [原文] Save and Export
+   [译文] 保存并导出
+
+   [解释] Click Save to export changes, and send changes to bots if in-game
+   [解释译文] 点击保存以导出更改，若在游戏中则将更改应用到Bot。
+
+3. 未保存警告
+   [原文] YOU HAVE UNSAVED CHANGES!
+   [译文] 你有未保存的修改!
+
+   [解释] Click Save to export changes, and send changes to bots if in-game
+   [解释译文] 点击"保存并导出"以导出更改，若在游戏中则将更改应用到Bot。
+
+================================================================================
+五、全球预设名称 / 难度预设名称
+================================================================================
+
+这些名称出现在首页的 "Default Presets" 列表中:
+
+   [原文] Baby Bots
+   [译文] 宝宝Bot
+   [解释] Bots react slowly and are incredibly inaccurate.
+   [解释译文] Bot反应缓慢且枪法极差。
+
+   [原文] Less Difficult
+   [译文] 较低难度
+   [解释] Bots react more slowly, and are less accurate than usual.
+   [解释译文] Bot反应较慢，枪法比平常差。
+
+   [原文] Default
+   [译文] 默认
+   [解释] Bots are difficult but fair, the way SAIN was meant to played.
+   [解释译文] Bot很强但公平合理，这是SAIN的原始设计意图。
+
+   [原文] Default with Harder PMCs
+   [译文] 默认(Pmc加强)
+   [解释] Default Settings, but PMCs are harder than normal.
+   [解释译文] 默认设置，但PMC比正常更强。
+
+   [原文] I Like Pain
+   [译文] 我喜欢痛苦
+   [解释] Bots react faster, are more accurate, and can see further.
+   [解释译文] Bot反应更快、枪法更准、视野更远。
+
+   [原文] Death Wish
+   [译文] 死亡之愿
+   [解释] Prepare To Die. Bots have almost no scatter, get less recoil, are more accurate, and react deadly fast.
+   [解释译文] 准备受死。Bot几乎没有弹道散布，后坐力更小，枪法更准，反应致命迅速。
+
+================================================================================
+六、Bot设置 标签页
+================================================================================
+
+1. 顶部操作
+   [解释] Apply Values set below to selected Bot Type. Exports edited values to SAIN/Presets/{name}/BotSettings folder
+   [解释译文] 将下方设定应用到已选Bot类型。已编辑的值将导出到 SAIN/Presets/{name}/BotSettings 文件夹
+
+   [原文] Clear Bot Types
+   [译文] 清除Bot类型
+   [解释] Clear all selected bot types
+   [解释译文] 清除所有已选Bot类型
+
+   [原文] Difficulties
+   [译文] 难度
+   [解释] Select which difficulties you wish to modify.
+   [解释译文] 选择你想要修改的难度。
+
+   [原文] Clear Difficulties
+   [译文] 清除难度
+   [解释] Clear all selected difficulties
+   [解释译文] 清除所有已选难度
+
+   [原文] No Bot Types Selected, please select at least one above.
+   [译文] 未选择任何Bot类型，请在上方至少选择一个。
+
+   [原文] No Bot Difficulties Selected, please select at least one above.
+   [译文] 未选择任何难度，请在上方至少选择一个。
+
+   [原文] Select Options to Edit
+   [译文] 选择要编辑的选项
+
+================================================================================
+七、个性设置 (Personalities) 标签页
+================================================================================
+
+1. 个性名称与描述
+
+   [原文] Normal
+   [译文] 普通
+   [解释] An Average Tarkov Enjoyer
+   [解释译文] 一个普通的塔科夫玩家。
+
+   [原文] GigaChad
+   [译文] 超级猛男
+   [解释] A true alpha threat. Hyper Aggressive and typically wearing high tier equipment.
+   [解释译文] 真正的顶级威胁。极度激进，通常穿戴高级装备。
+
+   [原文] Wreckless
+   [译文] 莽夫
+   [解释] This personality tends to sprint at their enemies, and will very frequently scream at everyone - Usually both at the same time. More Aggressive than Gigachads.
+   [解释译文] 倾向于向敌人直线冲刺，经常对所有人咆哮——通常同时做这两件事。比超级猛男更具进攻性。
+
+   [原文] SnappingTurtle
+   [译文] 伏击龟
+   [解释] A player who finds the balance between rat and chad, yin and yang. Will rat you out but can spring out at any moment.
+   [解释译文] 在"老鼠"与"猛男"之间取得平衡的玩家。会蹲坑阴你，但随时可能暴起冲锋。
+
+   [原文] Chad
+   [译文] 猛男
+   [解释] An aggressive player. Typically wearing high tier equipment, and is more aggressive than usual.
+   [解释译文] 激进的玩家。通常穿戴高级装备，比普通更具进攻性。
+
+   [原文] Rat
+   [译文] 老鼠
+   [解释] Scum of Tarkov. Rarely Seeks out enemies, and when they do - they will crab walk all the way there
+   [解释译文] 塔科夫的败类。很少主动寻找敌人，一旦去找，全程蹲着挪过去。
+
+   [原文] Timmy
+   [译文] 萌新
+   [解释] A New Player, terrified of everything.
+   [解释译文] 新手玩家，见什么怕什么。
+
+   [原文] Coward
+   [译文] 懦夫
+   [解释] A player who is more passive and afraid than usual. Will never seek out enemies and will hide in a closet until the scary thing goes away.
+   [解释译文] 比普通玩家更懦弱被动。永远不会主动寻找敌人，会躲在柜子里直到危险消失。
+
+2. 个性编辑器界面文案
+   [解释] Apply Values set below to Personalities. Exports edited values to SAIN/Presets/{name}/Personalities folder
+   [解释译文] 将下方设定应用到所选个性。已编辑的值将导出到 SAIN/Presets/{name}/Personalities 文件夹
+
+================================================================================
+八、装备隐蔽值 标签页
+================================================================================
+
+1. 装备主界面
+   [原文] Possible Item Types For Stealth Modifiers
+   [译文] 可修改隐蔽值的物品类型
+
+   (EEquipmentType枚举值 - 这些是物品分类，不需要翻译，但可以备注中文)
+   - Headwear = 头盔/头饰
+   - BackPack = 背包
+   -等等
+
+   [解释] Modify the stealth value that certain pieces of equipment provide.
+   [解释译文] 修改特定装备提供的隐蔽度数值。
+
+================================================================================
+九、高级选项 标签页
+================================================================================
+
+1. 编辑器默认设置 (显示在Advanced页面顶部)
+   (见下方 编辑器默认设置 部分)
+
+2. 强制Bot决策
+   [原文] Force SAIN Bot Decisions
+   [译文] 强制SAIN Bot决策
+
+   [原文] Force Solo Decision
+   [译文] 强制单人决策
+
+   [原文] Force Squad Decision
+   [译文] 强制小队决策
+
+   [原文] Force Self Decision
+   [译文] 强制自身决策
+
+   [原文] Reset
+   [译文] 重置
+
+3. 强制Bot说话
+   [原文] Force Bots to Say Phrase
+   [译文] 强制Bot说出短语
+
+   [原文] Force ETagStatus for Phrase
+   [译文] 为短语强制ETagStatus
+
+   [原文] With Group Delay?
+   [译文] 应用组延迟?
+
+   [原文] Say Phrase
+   [译文] 说出短语
+
+   (EPhraseTrigger枚举值 - 这些是EFT内置语音触发类型，无需翻译)
+
+================================================================================
+十、全局设置 - 视觉 (Look)
+================================================================================
+
+--- 视觉速度设置 (Vision Speed Settings) ---
+   [原文] Vision Speed Settings
+   [译文] 视觉速度设置
+
+   [原文] Vision Distance Settings
+   [译文] 视觉距离设置
+
+   [原文] Time Settings
+   [译文] 时间设置
+
+   [原文] Flashlights and NVGs Settings
+   [译文] 手电筒与夜视仪设置
+
+   [原文] Not Looking At Bot Settings
+   [译文] 未注视Bot设置
+
+   [原文] No Bush ESP
+   [译文] 无草丛透视
+
+--- 高低差视觉 (ElevationVisionSettings) ---
+   [原文] High Elevation Angle Range
+   [译文] 高仰角角度范围
+   [解释] The difference of angle from the bot's vision to the enemy to fully apply HighElevationVisionModifier. The modifier is smoothed out by the angle difference. So 1.2x at +60 degree, 1.1x at +30 degrees...and so on.
+   [解释译文] Bot视线到敌人的角度差，达到此值时完全应用高仰角视觉修正。修正值随角度差平滑过渡。例如+60度时1.2倍，+30度时1.1倍...以此类推。
+
+   [原文] High Elevation Vision Modifier
+   [译文] 高仰角视觉修正值
+   [解释] Bots will see players this much slower when the enemy's altitude is higher than the bot when the vision angle difference is equal or greater than HighElevationMaxAngle. Higher is slower speed, so 1.2 would result in bots taking 20% longer to spot an enemy
+   [解释译文] 当敌人高于Bot且视角差达到高仰角角度范围时，Bot发现玩家的速度乘以此值。数值越高=越慢。例如1.2意味着Bot需要多花20%的时间来发现敌人。
+
+   [原文] Low Elevation Angle Range
+   [译文] 低俯角角度范围
+   [解释] The difference of angle from the bot's vision to the enemy to fully apply LowElevationVisionModifier. The modifier is smoothed out by the angle difference. So 0.85x at -30 degree, 0.95x at -10 degrees...and so on.
+   [解释译文] Bot视线到敌人的角度差，达到此值时完全应用低俯角视觉修正。修正值随角度差平滑过渡。
+
+   [原文] Low Elevation Vision Modifier
+   [译文] 低俯角视觉修正值
+   [解释] Bots will see sprinting players this much slower when the enemy's altitude is lower than the bot when the vision angle difference is equal or greater than LowElevationMaxAngle. Higher is slower speed, so 0.85 would result in bots taking 15% shorter to spot an enemy
+   [解释译文] 当敌人低于Bot且视角差达到低俯角角度范围时，Bot发现玩家的速度乘以此值。数值越低=越快。例如0.85意味着Bot发现敌人的时间缩短15%。
+
+--- 移动视觉 (MovementVisibilitySettings) ---
+   [原文] Movement Vision Modifier
+   [译文] 移动视觉修正值
+   [解释] Bots will see moving players this much faster, at any range. Higher is slower speed, so 0.66 would result in bots spotting an enemy who is moving 0.66x faster. So if they usually would take 10 seconds to spot someone, it would instead take around 6.6 seconds.
+   [解释译文] Bot发现移动中的玩家速度乘以此值，适用于任意距离。数值越低=辨识越快。如0.66意味着原来10秒的发现时间缩短为约6.6秒。
+
+--- 视觉距离 (VisionDistanceSettings) ---
+   [原文] Movement Vision Distance Modifier
+   [译文] 移动视觉距离修正值
+   [解释] Bots will see moving players this much further. Higher is further distance, so 1.75 would result in bots seeing enemies 1.75x further at max player speed. Scales with player velocity.
+   [解释译文] Bot发现移动中玩家的距离乘以此值。数值越高=距离越远。例如1.75意味着以最大速度移动的玩家被Bot看到的距离为1.75倍。随玩家速度缩放。
+
+--- 周边视野 (PeripheralVisionSettings) ---
+   [原文] 字段无Name属性，但有类级别Description
+   [解释] Adds additional vision speed reduction to targets in a bot's peripheral vision. Scales with the angle from their look direction.
+   [解释译文] 对Bot周边视野内的目标施加额外的视觉速度减益，随视线角度缩放。
+
+--- 第三方视野 (ThirdPartySettings) ---
+   [解释] When an enemy is a certain angle away from their active enemies last known position, this will reduce their vision speed of that target up to the maximum set amount.
+   [解释译文] 当敌人位于Bot当前活跃目标的最后已知位置一定角度外时，对该目标的视觉速度最多降低到设定的最大值。
+
+--- 身体部位可见度 (PartsVisibilitySettings) ---
+   [解释] Scales vision speed based on the number of body parts that are within line of sight to their enemy. Only applies to Non-AI targets.
+   [解释译文] 根据Bot视线内敌人可见的身体部位数量缩放视觉速度。仅对非AI目标(玩家)生效。
+
+--- 姿态可见度 (PoseVisibilitySettings) ---
+   [解释] Scales vision speed based on the pose of their enemy. Only applies to Non-AI targets.
+   [解释译文] 根据敌人的姿态(站立/蹲下/趴下)缩放视觉速度。仅对非AI目标(玩家)生效。
+
+================================================================================
+十一、全局设置 - 通用 (General)
+================================================================================
+
+--- 通用设置 (GeneralSettings) ---
+   [原文] Bots Use Grenades
+   [译文] Bot可使用手雷
+
+   [原文] Bots Use Grenades Vs Other Bots
+   [译文] Bot可对Bot使用手雷
+   [解释] Bots are not as careful with grenades as players, this will prevent accidental deaths fighting other bots.
+   [解释译文] Bot扔手雷不如玩家谨慎，开启此选项可以防止Bot互殴时被友军手雷误杀。
+
+   [原文] Bot Intertia
+   [译文] Bot物理惯性
+   [解释] Bots are properly affected by the weight of their equipment and loot for intertia. Requires raid restart for existing bots, as it applies on bot creation.
+   [解释译文] Bot会按照装备和战利品的重量正确受惯性影响。需要重开战局才能在已存在的Bot上生效（该设置仅在Bot生成时应用）。
+
+   [原文] Vanilla Bot Behavior Settings
+   [译文] 原版Bot行为设置
+   [解释] If a option here is set to ON, they will use vanilla logic, ALL Features will be disabled for these types, including personality, recoil, difficulty, and behavior.
+   [解释译文] 如果这里的选项设为开启，对应类型的Bot将使用原版逻辑，所有SAIN功能将被禁用，包括个性、后坐力、难度和行为。
+
+   [原文] Looting Bots Integration
+   [译文] 拾荒Bot集成
+   [解释] Modify settings that relate to Looting Bots. Requires Looting Bots to be installed.
+   [解释译文] 修改与Looting Bots模组相关的设置。需要安装Looting Bots模组。
+
+--- 原版Bot设置 (VanillaBotSettings) ---
+   [原文] Vanilla Scavs
+   [译文] 原版Scav
+   [解释] REQUIRES RESTART OF GAME. Non Player-Scavs will have vanilla ai behavior.
+   [解释译文] 需要重启游戏。非玩家Scav将使用原版AI行为。
+
+   [原文] Vanilla Bosses
+   [译文] 原版Boss
+   [解释] REQUIRES RESTART OF GAME. Bosses other than the goons will have vanilla ai behavior.
+   [解释译文] 需要重启游戏。除Goon小队外的Boss将使用原版AI行为。
+
+   [原文] Vanilla Boss Followers
+   [译文] 原版Boss随从
+   [解释] REQUIRES RESTART OF GAME. Boss Followers other than the goons will have vanilla ai behavior.
+   [解释译文] 需要重启游戏。除Goon小队外的Boss随从将使用原版AI行为。
+
+   [原文] Vanilla Goons
+   [译文] 原版Goon小队
+   [解释] REQUIRES RESTART OF GAME. Goons will have vanilla behavior. This disables custom personality edits specially made for the goons and I will be very sad.
+   [解释译文] 需要重启游戏。Goon小队将使用原版行为。这将禁用为Goon小队特别定制的个性编辑，作者会很伤心的。
+
+   [原文] Vanilla Bloodhounds
+   [译文] 原版Bloodhounds
+   [解释] REQUIRES RESTART OF GAME
+   [解释译文] 需要重启游戏。
+
+   [原文] Vanilla Rogues
+   [译文] 原版Rogue
+   [解释] REQUIRES RESTART OF GAME
+   [解释译文] 需要重启游戏。
+
+   [原文] Vanilla Cultists
+   [译文] 原版邪教徒
+   [解释] REQUIRES RESTART OF GAME
+   [解释译文] 需要重启游戏。
+
+--- 性能设置 (PerformanceSettings) ---
+   [原文] Performance Mode
+   [译文] 性能模式
+
+--- AI限制 (AILimitSettings) ---
+   [原文] Limit SAIN Function in AI vs AI - Global Toggle
+   [译文] AI对AI时限制SAIN功能 - 全局开关
+   [解释] Disables certains functions when ai are fighting other ai, and they aren't close to a human player. Turn off if you are spectating ai in free-cam.
+   [解释译文] 当AI与AI交火且附近没有真人玩家时，禁用部分功能。如果你用自由镜头观战AI，可以关掉此项。
+
+   [解释] How often (in seconds) to check distances to all human players.
+   [解释译文] 检查与所有真人玩家距离的间隔（秒）。
+
+   [原文] Limit AI vs AI Vision
+   [译文] 限制AI对AI的视觉
+   [解释] Reduces visible range for bots vs other bots if they are not far from a human player.
+   [解释译文] 当Bot之间互相对抗且远离真人玩家时，缩减其视觉范围。
+
+   [原文] Limit AI vs AI Hearing
+   [译文] 限制AI对AI的听觉
+   [解释] Reduces hearing distance for bots vs other bots if they are not far from a human player.
+   [解释译文] 当Bot之间互相对抗且远离真人玩家时，缩减其听觉范围。
+
+--- 门设置 (DoorSettings) ---
+   [原文] No Door Animations
+   [译文] 禁用开门动画
+   [解释] Bots auto open doors instead of getting stuck in an animation, if fika is loaded, this is ignored and it is always disabled.
+   [解释译文] Bot自动开门而非播放卡住的动画。如果加载了Fika模组，此选项将被忽略且始终禁用。
+
+   [原文] Always Push Open Doors
+   [译文] 始终推开房门
+   [解释] Only applies if No Door Animations is set to on. Bots will always push open doors to avoid getting stuck. Can cause cursed looking doors sometimes, but greatly improves their ability to navigate.
+   [解释译文] 仅在"禁用开门动画"开启时生效。Bot将始终推开门以避免卡住。有时会导致门看起来鬼畜，但极大改善了导航能力。
+
+   [原文] Disable All Doors
+   [译文] 禁用所有门
+   [解释] Doors are hard, just turn them all off. Only targets doors that can be open/closed normally.
+   [解释译文] 门太难做了，全关掉算了。仅对可正常开关的门生效。
+
+--- 撤离设置 (ExtractSettings) ---
+   [原文] SAIN Extract Behavior
+   [译文] SAIN撤离行为
+   [解释] REQUIRES GAME RESTART. Disable vanilla bot extract behavior and use SAIN decision making instead.
+   [解释译文] 需要重启游戏。禁用原版Bot撤离行为，改用SAIN的决策系统。
+
+--- 拾荒Bot设置 (LootingBotsSettings) ---
+   [原文] Bot Extraction From Loot
+   [译文] 基于战利品撤离
+
+   [原文] Min Loot Val PMC
+   [译文] PMC最低战利品价值
+
+   [原文] Min Loot Val SCAV
+   [译文] SCAV最低战利品价值
+
+   [原文] Min Loot Val Other
+   [译文] 其他类型最低战利品价值
+
+   [原文] Min Loot Val Exception
+   [译文] 战利品价值例外阈值
+   [解释] If a bot's loot value is greater than or equal to this, they will extract even with space available in their inventory.
+   [解释译文] 如果Bot的装备价值达到或超过此值，即使背包还有空间也会撤离。
+
+--- 玩笑设置 (JokeSettings) ---
+   [原文] Random Cheater AI
+   [译文] 随机作弊AI
+   [解释] Emulate the real Live-Like experience! 1% of bots will be a cheater. They will move faster than they should, have 0 recoil, and perfect aim, always shoot full auto at any range if their weapon supports it, and always fire as fast as possible if they have a semi-auto weapon.
+   [解释译文] 模拟真实线上体验！1%的Bot将成为作弊者。他们将跑得比正常快，无后坐力，枪枪爆头，支持全自动的武器在任何距离都全自动射击，半自动武器则以最快射速射击。
+
+   [原文] Random Speed Hacker Chance
+   [译文] 随机加速挂概率
+   [解释] If for some reason you enabled random cheaters, this is the chance they will be assigned as one.
+   [解释译文] 如果你启用了随机作弊AI，这是被分配为加速挂的概率。
+
+--- 调试设置 (DebugSettings) ---
+   [原文] Draw Debug Gizmos
+   [译文] 绘制调试Gizmos
+
+   [原文] Draw Transform Gizmos
+   [译文] 绘制Transform Gizmos
+
+   [原文] Draw Player Navmesh Sampling Gizmos
+   [译文] 绘制玩家导航网格采样Gizmos
+
+   [原文] Draw Line of Sight Checks
+   [译文] 绘制视线检查
+
+   [原文] Draw Volumetric Light Gizmos
+   [译文] 绘制体积光Gizmos
+
+   [原文] Draw Door Links
+   [译文] 绘制门链接
+
+   [原文] Draw Recoil Gizmos
+   [译文] 绘制后坐力Gizmos
+
+   [原文] Draw Aim Gizmos
+   [译文] 绘制瞄准Gizmos
+
+   [原文] Draw Blind Corner Raycasts
+   [译文] 绘制盲角射线检测
+
+   [原文] Draw Debug Suppression Points
+   [译文] 绘制压制点调试
+
+   [原文] Draw Search Peek Start and End Gizmos
+   [译文] 绘制搜索窥视起终点Gizmos
+
+   [原文] Draw Debug Path Safety Tester
+   [译文] 绘制路径安全测试器调试
+
+   [原文] Path Safety Tester
+   [译文] 路径安全测试器
+
+   [原文] Global Debug Mode
+   [译文] 全局调试模式
+
+   [原文] Global Performance Profiling Mode
+   [译文] 全局性能分析模式
+   [解释] Enables function sampling for Unity Profiling.
+   [解释译文] 启用Unity性能分析器函数采样。
+
+   [原文] Test Bot Sprint Pathfinder
+   [译文] 测试Bot冲刺寻路
+
+   [原文] Test Bot Crawling
+   [译文] 测试Bot爬行
+
+   [原文] Test Grenade Throw
+   [译文] 测试手雷投掷
+
+   [原文] Draw Debug Labels
+   [译文] 绘制调试标签
+
+   [原文] Debug External
+   [译文] 调试外部
+
+   [原文] Debug Recoil Calculations
+   [译文] 调试后坐力计算
+
+   [原文] Debug Aim Calculations
+   [译文] 调试瞄准计算
+
+   [原文] Debug Hearing Calc Results
+   [译文] 调试听觉计算结果
+
+   [原文] Debug Extracts
+   [译文] 调试撤离
+
+   [原文] Collect and Export Bot Layer and Brain Info
+   [译文] 收集并导出Bot层与大脑信息
+
+================================================================================
+十二、全局设置 - 瞄准 (Aim)
+================================================================================
+
+   [原文] Always Aim Center Mass Global
+   [译文] 全局始终瞄准躯干中央
+   [解释] Force Bots to aim for center of mass. If this is disabled, all bots will have Always Aim Center Mass turned OFF, so their individual settings will be ignored.
+   [解释译文] 强制Bot瞄准躯干中央。如果关闭，所有Bot的"始终瞄准躯干中央"将被设为关闭，其个人设置将被忽略。
+
+   [原文] Enemy Move Scatter Max Buff
+   [译文] 敌人移动-散布最大增益
+   [解释] The max buff to bot scatter, so if their enemy is standing still. Scales with velocity. A value of 1 is disabled
+   [解释译文] 当敌人静止时，对Bot散布的最大增益（减小散布）。随敌人速度缩放。值1=禁用。
+
+   [原文] Enemy Move Scatter Max Debuff
+   [译文] 敌人移动-散布最大减益
+   [解释] The minimum debuff to bot scatter, so if their enemy is moving at full speed, but not sprinting. Scales with velocity. A value of 1 is disabled
+   [解释译文] 当敌人全速移动（不冲刺）时，对Bot散布的最大减益（增大散布）。随敌人速度缩放。值1=禁用。
+
+   [原文] Enemy Move Scatter Sprint Debuff
+   [译文] 敌人冲刺-散布减益
+   [解释] How much to divide bot scatter by if their enemy is sprinting. So the lower the number, the worse their aim will be. A value of 1 is disabled
+   [解释译文] 当敌人冲刺时，Bot散布除以此值。数值越小=瞄准越差。值1=禁用。
+
+   [原文] Pose Scatter Multiplier
+   [译文] 姿态散布乘数
+   [解释] Lower is more scatter. If a bot is crouching, reduce their scatter up to X. 1.2 would result in 20% less scatter.
+   [解释译文] 数值越低=散布越小。当Bot蹲下时，散布最多减少到此乘数。1.2=散布减少20%。
+
+   [原文] Prone Scatter Multiplier
+   [译文] 趴下散布乘数
+   [解释] Lower is more scatter. If a bot is prone, reduce their scatter up to X. 1.3 would result in 30% less scatter.
+   [解释译文] 数值越低=散布越小。当Bot趴下时，散布最多减少到此乘数。1.3=散布减少30%。
+
+   [原文] Body Part Visibility Scatter Multiplier
+   [译文] 身体部位可见度散布乘数
+   [解释] Lower is more scatter. If all body parts on an enemy are visible, reduce their scatter up to X. 1.25 would result in 25% less scatter.
+   [解释译文] 数值越低=散布越小。当敌人的所有身体部位可见时，散布最多减少到此乘数。1.25=散布减少25%。
+
+   [原文] Magnified Optic - Ideal Range - Max Buff
+   [译文] 倍镜-理想距离-最大增益
+   [解释] Lower is more scatter. If a target is further than or equal to Optic Ideal Distance, reduce their scatter by X. 1.2 = 20% less scatter
+   [解释译文] 数值越低=散布越小。当目标距离大于等于倍镜理想距离时，散布减少到此乘数。1.2=散布减少20%。
+
+   [原文] Magnified Optic - Ideal Range - Distance
+   [译文] 倍镜-理想距离-距离值
+   [解释] The distance, in meters, that is considered ideal for a magnified optic, if shooting at a target further than or equal to this, reduce scatter.
+   [解释译文] 倍镜的理想射击距离（米）。如果目标距离在此值或以上，减小散布。
+
+   [原文] Magnified Optic - Too Close - Max Debuff
+   [译文] 倍镜-过近距离-最大减益
+   [解释] Lower is more scatter. If a target is closer than or equal to Optic Too Close Distance, increase their scatter by X. 0.8 = 20% more scatter
+   [解释译文] 数值越低=散布越大。当目标距离小于等于倍镜过近距离时，散布增加到此乘数。0.8=散布增大20%。
+
+   [原文] Magnified Optic - Too Close - Distance
+   [译文] 倍镜-过近距离-距离值
+
+   [原文] Red-dot / Holo - Out of Range - Max Debuff
+   [译文] 红点/全息-超距-最大减益
+   [解释] Lower is more scatter. If a target is further than or equal to Red-dot / Holo Out of Range Distance, increase their scatter by X. 0.85 = 15% more scatter
+   [解释译文] 数值越低=散布越大。当目标距离大于等于红点/全息超距距离时，散布增加到此乘数。0.85=散布增大15%。
+
+   [原文] Red-dot / Holo - Out of Range - Distance
+   [译文] 红点/全息-超距-距离值
+
+   [原文] Red-dot / Holo - Ideal Range - Max Buff
+   [译文] 红点/全息-理想距离-最大增益
+   [解释] Lower is more scatter. If a target is further than or equal to Optic Ideal Distance, reduce their scatter by X. 1.15 = 15% less scatter
+   [解释译文] 数值越低=散布越小。当目标距离大于等于理想距离时，散布减少到此乘数。1.15=散布减少15%。
+
+   [原文] Red-dot / Holo - Ideal Range - Distance
+   [译文] 红点/全息-理想距离-距离值
+
+   [原文] Ironsights - Out of Range - Max Debuff
+   [译文] 机瞄-超距-最大减益
+   [解释] Lower is more scatter. If a target is further than or equal to Optic Ideal Distance, reduce their scatter by X. 0.7 = 30% more scatter
+   [解释译文] 数值越低=散布越大。当目标距离大于等于理想距离时，散布增加到此乘数。0.7=散布增大30%。
+
+   [原文] Ironsights - Out of Range - Distance - Scale Start
+   [译文] 机瞄-超距-缩放起始距离
+
+   [原文] Ironsights - Out of Range - Distance - Scale End
+   [译文] 机瞄-超距-缩放结束距离
+
+   [原文] Center Mass Point
+   [译文] 躯干中央瞄准点
+
+   [原文] Global Faster CQB Reactions
+   [译文] 全局快速近战反应
+   [解释] if this toggle is disabled, all bots will have Faster CQB Reactions turned OFF, so their individual settings will be ignored.
+   [解释译文] 如果此开关关闭，所有Bot的"快速近战反应"将被设为关闭，其个人设置将被忽略。
+
+   [原文] Aim Down Sight Aim Time Multiplier
+   [译文] 开镜瞄准时间乘数
+   [解释] If a bot is aiming down sights, their time to aim will be multiplied by this number
+   [解释译文] 当Bot处于开镜状态时，其瞄准时间将乘以此值。
+
+================================================================================
+十三、全局设置 - 听觉 (Hearing)
+================================================================================
+
+   [原文] Door Open Sound Range
+   [译文] 开门声音范围
+   [解释] The Maximum range a bot can hear a door opening
+   [解释译文] Bot能听到开门声的最大范围。
+
+   [原文] Door Kick Sound Range
+   [译文] 踹门声音范围
+   [解释] The Maximum range a bot can hear a door being kicked
+   [解释译文] Bot能听到踹门声的最大范围。
+
+   [原文] Jump Sound Range
+   [译文] 跳跃声音范围
+   [解释] The Maximum range a bot can hear someone jumping
+   [解释译文] Bot能听到跳跃声的最大范围。
+
+   [原文] Rain Sound Multiplier - Outdoors
+   [译文] 雨中声音乘数 - 室外
+   [解释] If it is raining, reduce heard distances by up to X amount. Depending on intensity of rain. Scales linearly with rain value.
+   [解释译文] 下雨时，Bot听觉范围最多缩减到此乘数。取决于雨势强度，随雨量线性缩放。
+
+   [原文] Rain Sound Multiplier - Inside Building
+   [译文] 雨中声音乘数 - 室内
+   [解释] If it is raining, reduce heard distances by up to X amount. Depending on intensity of rain. Scales linearly with rain value.
+   [解释译文] 下雨时（室内），Bot听觉范围最多缩减到此乘数。取决于雨势强度，随雨量线性缩放。
+
+   [原文] Max Footstep Audio Distance
+   [译文] 最大脚步声听觉距离
+
+   [原文] Max Footstep Audio Distance without Headphones
+   [译文] 无耳机时最大脚步声听觉距离
+
+   [原文] Hearing Randomization and Estimation
+   [译文] 听觉随机化与估算
+
+   [原文] Unheard Shot Bullet Fly-by Modifier
+   [译文] 未听到枪声的子弹飞过修正值
+
+   [原文] Minimum Hearing Randomization
+   [译文] 最小听觉随机偏差
+   [解释] Higher = More Randomization, less accuracy in position prediction. Minimum Dispersion of a bot's estimated position from a sound they heard. In Meters.
+   [解释译文] 数值越高=随机偏差越大、位置预测越不准。Bot根据听到的声音估算敌人位置时的最小偏差距离（米）。
+
+   [原文] No Randomization Distance
+   [译文] 无随机化距离
+
+   [原文] Max Randomization Distance
+   [译文] 最大随机化距离
+   [解释] The max cap, in meters, that an estimated position can be from the real position that a sound is played from.
+   [解释译文] 估算位置与实际声源位置之间允许的最大偏差距离上限（米）。
+
+   [原文] Hearing Randomization Angle - Maximum
+   [译文] 听觉随机化角度-最大值
+
+   [原文] Hearing Randomization Angle - Minimum
+   [译文] 听觉随机化角度-最小值
+
+   [原文] Bunker Audio Range
+   [译文] 地堡音频范围
+   [解释] Reduces audio range if a bot and an enemy are not in the same bunker
+   [解释译文] 当Bot和敌人不在同一地堡内时缩减听觉范围。
+
+   [原文] Bunker Elevation Range
+   [译文] 地堡楼层范围
+   [解释] Reduces audio range if a bot and an enemy are both in a bunker, but at different levels
+   [解释译文] 当Bot和敌人同在地堡但不同楼层时缩减听觉范围。
+
+   [原文] Gunshot Occlusion
+   [译文] 枪声遮挡
+   [解释] If an obstacle is inbetween a bot's head and the position of a sound, reduce its range by this amount
+   [解释译文] 当Bot头部与声源之间有障碍物时，听觉范围缩减到此值。
+
+   [原文] Suppressed Gunshot Occlusion
+   [译文] 消音枪声遮挡
+   [解释] If an obstacle is inbetween a bot's head and the position of a sound, reduce its range by this amount
+   [解释译文] 同上，针对消音武器。
+
+   [原文] Footstep Occlusion
+   [译文] 脚步声遮挡
+   [解释] If an obstacle is inbetween a bot's head and the position of a sound, reduce its range by this amount
+   [解释译文] 同上，针对脚步声。
+
+   [原文] Sprint Occlusion
+   [译文] 冲刺声遮挡
+   [解释] If an obstacle is inbetween a bot's head and the position of a sound, reduce its range by this amount
+   [解释译文] 同上，针对冲刺声。
+
+   [原文] Other Occlusion
+   [译文] 其他声音遮挡
+   [解释] If an obstacle is inbetween a bot's head and the position of a sound, reduce its range by this amount
+   [解释译文] 同上，针对其他类型声音。
+
+   [原文] Indoor / Outdoor Difference - Gunfire
+   [译文] 室内外差异-枪声
+   [解释] If bots are not in the same area as the source of a sound, reduce audio range by this amount
+   [解释译文] 当Bot与声源不在同一区域(室内/室外)时，听觉范围缩减到此值。
+
+   [原文] Indoor / Outdoor Difference - Footsteps/Other
+   [译文] 室内外差异-脚步/其他
+   [解释] If bots are not in the same area as the source of a sound, reduce audio range by this amount
+   [解释译文] 同上，针对脚步及其他声音。
+
+   [原文] Environment Modifier Minimum
+   [译文] 环境修正最小值
+
+   [原文] No Headphones
+   [译文] 无耳机
+   [解释] If a bot does not have headphones, reduce audible range of all sounds by this amount.
+   [解释译文] 当Bot未佩戴耳机时，所有声音听觉范围缩减到此值。
+
+   [原文] Heavy Helmet
+   [译文] 重型头盔
+   [解释] If a bot is wearing a heavy helmet, reduce audible range of all sounds by this amount.
+   [解释译文] 当Bot佩戴重型头盔时，所有声音听觉范围缩减到此值。
+
+   [原文] Dying
+   [译文] 濒死状态
+   [解释] If a bot is dying or seriously injured, reduce audible range of all sounds by this amount.
+   [解释译文] 当Bot濒死或重伤时，所有声音听觉范围缩减到此值。
+
+   [原文] Sprinting
+   [译文] 冲刺中
+   [解释] If a bot is sprinting, reduce audible range of all sounds by this amount.
+   [解释译文] 当Bot正在冲刺时，所有声音听觉范围缩减到此值。
+
+   [原文] Heavy Breathing
+   [译文] 剧烈喘息
+   [解释] If a bot is breathing heavily, reduce audible range of all sounds by this amount.
+   [解释译文] 当Bot剧烈喘息时，所有声音听觉范围缩减到此值。
+
+   [原文] Minimum Hear Modifier
+   [译文] 最低听觉修正值
+   [解释] Final Multiplier will not go below this value.
+   [解释译文] 最终乘数不会低于此值。
+
+   [原文] Maximum Hear Modifier
+   [译文] 最高听觉修正值
+   [解释] Final Multiplier will not go above this value.
+   [解释译文] 最终乘数不会高于此值。
+
+   [原文] Minimum Hearing Modifier Distance
+   [译文] 最低听觉修正距离
+   [解释] Sounds that originate closer than this have a 100% chance of being heard.
+   [解释译文] 距离小于此值的声音，Bot有100%概率听到。
+
+   [原文] Scale Start Distance - No Headphones
+   [译文] 缩放起始距离-无耳机
+   [解释] Sounds that originate closer than this have a 100% chance of being heard.
+   [解释译文] 距离小于此值的声音，Bot有100%概率听到。
+
+   [原文] Scale Start Distance - Headphones
+   [译文] 缩放起始距离-有耳机
+   [解释] Sounds that originate closer than this have a 100% chance of being heard.
+   [解释译文] 距离小于此值的声音，Bot有100%概率听到。
+
+   [原文] Midrange Coefficient
+   [译文] 中距离系数
+   [解释] If the distance between a sound and the bot is X distance of its max range, increase its chance to hear slightly.
+   [解释译文] 当声音与Bot之间的距离小于最大范围的该比例时，轻微提升听觉概率。
+
+   [原文] Mid range Minimum Chance - Headphones
+   [译文] 中距离最低概率-有耳机
+   [解释] If a sound is within mid-range. Increase the minimum chance by this amount
+   [解释译文] 如果声音在中距离范围内，最低听觉概率提升此值。
+
+   [原文] Long range Minimum Chance - Headphones
+   [译文] 远距离最低概率-有耳机
+   [解释] If a sound is further than mid-range. Increase the minimum chance by this amount
+   [解释译文] 如果声音超出中距离范围，最低听觉概率提升此值。
+
+   [原文] Standing Still Velocity
+   [译文] 静止速度阈值
+   [解释] Boost Hearing chance slightly if a bot's velocity is under this value.
+   [解释译文] 当Bot速度低于此值时，轻微提升听觉概率。
+
+   [原文] Standing Still Min Chance - No Headphones
+   [译文] 静止最低概率-无耳机
+   [解释] If a bot is standing still, add X percent to a bot minimum hear chance for sounds that aren't gunshots.
+   [解释译文] 当Bot静止时，非枪声类声音的最低听觉概率提升此百分比。
+
+   [原文] Standing Still Min Chance - Headphones
+   [译文] 静止最低概率-有耳机
+   [解释] If a bot is standing still, add X percent to a bot minimum hear chance for sounds that aren't gunshots.
+   [解释译文] 同上，有耳机的情况。
+
+   [原文] Other Sounds Min Chance - Headphones
+   [译文] 其他声音最低概率-有耳机
+   [解释] If the type of sound is not footsteps or gunfire, add X percent to a bot minimum hear chance.
+   [解释译文] 如果声音类型不是脚步声或枪声，最低听觉概率提升此百分比。
+
+   [原文] Active Enemy Min Chance - No Headphones
+   [译文] 当前敌人最低概率-无耳机
+   [解释] If the source of a sound is from a bot's active primary enemy, add X percent to a bot minimum hear chance for sounds that aren't gunshots.
+   [解释译文] 如果声音来源于Bot的当前主要敌人，非枪声类声音的最低听觉概率提升此百分比。
+
+   [原文] Active Enemy Min Chance - Headphones
+   [译文] 当前敌人最低概率-有耳机
+   [解释] 同上，有耳机的情况。
+
+   [原文] Looting Sound
+   [译文] 舔包声音
+
+   [原文] Footstep Skid and Turn
+   [译文] 脚步声(急刹/转身)
+
+   [原文] Grenade Pullout and Pin Pull
+   [译文] 拔出手雷/拉环声
+
+   [原文] Prone Sound
+   [译文] 趴下声音
+
+   [原文] Healing Sound
+   [译文] 治疗声音
+
+   [原文] Reload Sound
+   [译文] 换弹声音
+
+   [原文] Surgery Sound
+   [译文] 手术声音
+
+   [原文] Dryfire Sound
+   [译文] 空仓声音
+
+   [原文] Fall Landing Sound
+   [译文] 落地声音
+
+   [原文] Aim Down Sights Sound
+   [译文] 开镜声音
+
+   [原文] Eat and Drink Sound
+   [译文] 吃喝声音
+
+   [原文] Max Squad Communication Range - No Headphones
+   [译文] 最大小队通讯范围-无耳机
+
+   [原文] Base Hearing Delay Settings
+   [译文] 基础听觉延迟设置
+
+   [原文] Sound Type based Hearing Delay / Reaction Time
+   [译文] 基于声音类型的听觉延迟/反应时间
+   [解释] Optional: If a soundtype is defined here, it will override the Base Hearing Delays defined above.
+   [解释译文] 可选：如果在此定义了声音类型，它将覆盖上面定义的基础听觉延迟。
+
+   [原文] Global Gunshot Audible Range Multiplier
+   [译文] 全局枪声可听范围乘数
+
+   [原文] Global Footstep Audible Range Multiplier
+   [译文] 全局脚步声可听范围乘数
+
+   [原文] Suppressed Sound Modifier
+   [译文] 消音声音修正值
+   [解释] Audible Gun Range is multiplied by this number when using a suppressor
+   [解释译文] 使用消音器时，枪声可听范围乘以此值。
+
+   [原文] Subsonic Sound Modifier
+   [译文] 亚音速声音修正值
+   [解释] Audible Gun Range is multiplied by this number when using a suppressor and subsonic ammo
+   [解释译文] 使用消音器+亚音速弹药时，枪声可听范围乘以此值。
+
+   [原文] Hearing Distances by Ammo Type
+   [译文] 按弹药类型的听觉距离
+   [解释] How far a bot can hear a gunshot when fired from each specific caliber listed here.
+   [解释译文] Bot听到各口径武器射击时的最大距离。
+
+================================================================================
+十四、全局设置 - 中弹效果 (Hit Effects)
+================================================================================
+
+   [原文] New Hit Reactions
+   [译文] 新版中弹反应
+   [解释] Disable to get vanilla bot hit reactions. If this is disabled, all below settings will do nothing.
+   [解释译文] 关闭则使用原版Bot中弹反应。如果关闭此项，以下所有设置将无效。
+
+   [原文] Hit Effect Multiplier
+   [译文] 中弹效果乘数
+   [解释] Higher = getting shot has more affect on bot aim.
+   [解释译文] 数值越高=中弹对Bot瞄准的影响越大。
+
+   [原文] Use Hit Point Direction
+   [译文] 使用中弹方向
+
+   [原文] Min Base Hit Effect Angle
+   [译文] 基础中弹效果最小角度
+   [解释] If Use Hit Point Direction is On, this does nothing.
+   [解释译文] 如果"使用中弹方向"开启，此选项无效。
+
+   [原文] Max Base Hit Effect Angle
+   [译文] 基础中弹效果最大角度
+   [解释] If Use Hit Point Direction is On, this does nothing.
+   [解释译文] 同上。
+
+   [原文] Damage Baseline
+   [译文] 伤害基准值
+
+   [原文] Min Hit Damage Multiplier
+   [译文] 最小中弹伤害乘数
+
+   [原文] Max Hit Damage Multiplier
+   [译文] 最大中弹伤害乘数
+
+================================================================================
+十五、全局设置 - 移动 (Movement)
+================================================================================
+
+   [原文] Can Lean - Global
+   [译文] 可侧身 - 全局
+   [解释] Can any bot lean while peeking and while outside of cover?
+   [解释译文] Bot能否在探头以及在掩体外侧身？
+
+   [原文] Can Lean in Cover - Global
+   [译文] 掩体内可侧身 - 全局
+   [解释] Can any bot lean while in cover?
+   [解释译文] Bot能否在掩体内侧身？
+
+   [原文] Can Jump - Global
+   [译文] 可跳跃 - 全局
+   [解释] Can any bot Jump?
+   [解释译文] Bot能否跳跃？
+
+   [原文] Can Auto Pose - Global
+   [译文] 自动调整姿态 - 全局
+   [解释] Does any bot automatically adjust their crouch height depending on objects between them and their enemy?
+   [解释译文] Bot能否根据其与敌人之间的物体自动调整蹲伏高度？
+
+   [原文] Can Go Prone - Global
+   [译文] 可趴下 - 全局
+   [解释] Can any bot go Prone at all?
+   [解释译文] Bot能否趴下？
+
+   [原文] Can Go Prone from Suppression - Global
+   [译文] 压制时可趴下 - 全局
+   [解释] Can any bot go Prone as a panic response to being suppressed?
+   [解释译文] Bot被压制时能否出于恐慌反应而趴下？
+
+   [原文] Can Vault - Global
+   [译文] 可翻越 - 全局
+   [解释] Can any bot Vault?
+   [解释译文] Bot能否翻越障碍物？
+
+   [原文] Can Vault to get Unstuck - Global
+   [译文] 卡住时翻越 - 全局
+   [解释] Can any bot Vault if they are stuck on map geometry?
+   [解释译文] Bot卡在地图几何体上时能否翻越脱困？
+
+   [原文] Force Constant Sprint Speed
+   [译文] 强制恒定冲刺速度
+   [解释] In vanilla, bot movement speed while sprinting is set to a constant speed, if this is disabled, bots will use the same movement speed calculations as a normal player.
+   [解释译文] 原版中，Bot的冲刺速度为恒定值。如果禁用此项，Bot将使用与普通玩家相同的移速计算。
+
+   [原文] Not Moving Distance Threshold
+   [译文] 未移动距离阈值
+   [解释] How far a bot can be from their last position before they are considered Not Moving. In Meters Squared
+   [解释译文] Bot距离上一次位置多远(米平方)才被视为"未移动"。
+
+   [原文] Not Moving Check Frequency
+   [译文] 未移动检查频率
+   [解释] Every X seconds, check if a bot has moved from their last position.
+   [解释译文] 每X秒检查一次Bot是否移动。
+
+   [原文] Not Moving Vault Time
+   [译文] 未移动触发翻越时间
+   [解释] If a bot is not moving for this length of time or longer, try vaulting to get themselves unstuck
+   [解释译文] 当Bot未移动时间超过此值时，尝试翻越脱困。
+
+   [原文] Not Moving Jump Time
+   [译文] 未移动触发跳跃时间
+   [解释] If a bot is not moving for this length of time or longer, try jumping to get themselves unstuck
+   [解释译文] 当Bot未移动时间超过此值时，尝试跳跃脱困。
+
+   [原文] Not Moving Recalculate Time
+   [译文] 未移动重算路径时间
+   [解释] If a bot is not moving for this length of time or longer, recalculate a path to their destination
+   [解释译文] 当Bot未移动时间超过此值时，重新计算到达目的地的路径。
+
+   [原文] Path Corner Sprint Reach Distance
+   [译文] 路径转角-冲刺到达距离
+   [解释] How far from a corner along a path before a bot considers itself arrived, and attempts to navigate to the next corner.
+   [解释译文] Bot沿路径距转角多远时认为自己已到达，并尝试导航到下一个转角。
+
+   [原文] Path Corner Walk Reach Distance
+   [译文] 路径转角-行走到达距离
+   [解释] How far from a corner along a path before a bot considers itself arrived, and attempts to navigate to the next corner.
+   [解释译文] 同上，行走状态。
+
+   [原文] Max Corner Angle to Pause Sprint
+   [译文] 暂停冲刺的最大转角角度
+   [解释] When a bot approaches a turn along a path, this is the maximum degrees before they pause sprinting to turn instead of keeping sprint active while they turn.
+   [解释译文] Bot沿路径接近转角时，超过此角度后Bot将暂停冲刺并转身，而不是保持冲刺状态转弯。
+
+================================================================================
+十六、全局设置 - 射击 (Shooting)
+================================================================================
+
+   [原文] Base Minimum Time Between Shots
+   [译文] 基础射击间隔最小值
+
+   [原文] Base Maximum Time Between Shots
+   [译文] 基础射击间隔最大值
+
+   [原文] Fullauto Wait Multiplier
+   [译文] 全自动射击间隔乘数
+   [解释] If a bot is on fullauto, the time between shots will be multiplied by this value
+   [解释译文] Bot处于全自动模式时，射击间隔乘以此值。
+
+   [原文] Firerate Randomization
+   [译文] 射速随机化
+   [解释] Randomize the time a bot waits between shots to make it less robotic. A value of 0.25 means it will multiply it by a random value between 0.75x - 1.25x
+   [解释译文] 随机化Bot射击间隔时间，使其表现不那么机械。值0.25意味着射击间隔随机乘以0.75-1.25之间的值。
+
+   [原文] Bots only use Semi Auto
+   [译文] Bot仅使用半自动
+   [解释] If enabled, bots will never be able to use full auto at close/mid range.
+   [解释译文] 开启后，Bot在近/中距离永远无法使用全自动射击。
+
+   [原文] Global Recoil Multiplier
+   [译文] 全局后坐力乘数
+   [解释] Higher = more recoil. Modifies SAIN's recoil scatter feature. 1.5 = 1.5x more recoil from a single gunshot
+   [解释译文] 数值越高=后坐力越大。修改SAIN的后坐力散布功能。1.5=单发后坐力1.5倍。
+
+   [原文] Add or Subtract Recoil
+   [译文] 后坐力加减值
+   [解释] Linearly add or subtract from the final recoil result
+   [解释译文] 线性加减最终后坐力结果。
+
+   [原文] Recoil Decay Coefficient
+   [译文] 后坐力衰减系数
+   [解释] Controls the speed that bots will recover from a weapon's recoil. Higher = faster decay
+   [解释译文] 控制Bot从武器后坐力中恢复的速度。数值越高=衰减越快。
+
+   [原文] Bot Weapon Recoil Baseline
+   [译文] Bot武器后坐力基准值
+
+   [原文] Bot Weapon Recoil Baseline - Realism Mod
+   [译文] Bot武器后坐力基准值-Realism模组
+   [解释] A Bot's weapon's recoil will get divided by this to calculate how much to rotate their view on each shot. This value is used if Realism mod is on to reflect different recoil numbers.
+   [解释译文] Bot武器后坐力将除以此值来计算每发射击的视角旋转量。当Realism模组开启时使用此值以反映不同的后坐力数值。
+
+   [原文] Ammo Shootability
+   [译文] 弹药射击可行性
+
+   [原文] Max FullAuto Distances
+   [译文] 最大全自动距离
+   [解释] The maximum distance a bot using this caliber can fire it full auto. Not all values are used since some calibers don't have any full auto weapons that use it.
+   [解释译文] Bot使用该口径武器进行全自动射击的最大距离。不是所有值都被使用，因为某些口径没有全自动武器。
+
+   [原文] Weapon Shootability
+   [译文] 武器射击可行性
+
+   [原文] Weapon Firerate Wait Time
+   [译文] 武器射速等待时间
+
+   [原文] Bot Preferred Shoot Distances
+   [译文] Bot首选射击距离
+
+================================================================================
+十七、全局设置 - 思维 (Mind/Mental)
+================================================================================
+
+   [原文] Enemy Suppression Toggle
+   [译文] 敌人压制开关
+
+   [原文] Force Single Personality For All Bots
+   [译文] 强制所有Bot使用单一个性
+   [解释] All Spawned SAIN bots will be assigned the selected Personality, if any are set to true, no matter what.
+   [解释译文] 所有生成的SAIN Bot将全部被分配为选定的个性（如有任意个性设为开启），无论什么条件。
+
+   [原文] Boss Personalities
+   [译文] Boss个性
+   [解释] Sets the personality that a boss will always use.
+   [解释译文] 设置Boss始终使用的个性。
+
+   [原文] Global Aggression
+   [译文] 全局攻击性
+   [解释] Higher = More aggressive bots, less time before seeking enemies. 2x = half the wait time.
+   [解释译文] 数值越高=Bot越具攻击性，搜索敌人的等待时间越短。2倍=等待时间缩短一半。
+
+   [原文] Bots can use Stealth Search
+   [译文] Bot可使用潜行搜索
+   [解释] If a bot thinks he was not heard, and isn't currently fighting an enemy, they can decide to be stealthy while they seek out an enemy, if they are inside a building.
+   [解释译文] 如果Bot认为自己未被听到且当前未在交战，当其在建筑物内时可以选择潜行接近搜索敌人。
+
+   [原文] Only Sneaky Personalities can be Stealthy
+   [译文] 仅潜行型个性可潜行
+   [解释] Only allow sneaky personality types (rat, snapping turtle) to be stealthy while searching for an enemy, ignored if Stealth Search is disabled above
+   [解释译文] 仅允许潜行型个性(老鼠、伏击龟)在搜索敌人时潜行。如果上面的"Bot可使用潜行搜索"已禁用，则此项被忽略。
+
+   [解释] The distance from a bot's search destination that they will begin to be stealthy, if enabled.
+   [解释译文] 如果启用潜行搜索，距离搜索目的地多远时Bot开始潜行。
+
+   [原文] Bot Suppression
+   [译文] Bot压制系统
+   [解释] Toggles whether bots get suppressed or not. If disabled, all options below will do nothing.
+   [解释译文] 控制Bot是否会被压制。如果关闭，以下所有选项将无效。
+
+   [原文] Suppression Distance Scale Start
+   [译文] 压制距离缩放起点
+   [解释] The distance between the bullet, and a bot's head to receive full suppression effect. In Meters.
+   [解释译文] 子弹与Bot头部之间的完全压制效果距离（米）。
+
+   [原文] Suppression Distance Scale End
+   [译文] 压制距离缩放终点
+   [解释] The maximum distance between the bullet, and a bot's head to be considered Suppressing fire. In Meters. Scales linearly between Scale End and Scale Start.
+   [解释译文] 子弹与Bot头部之间被视为压制火力的最大距离（米）。在缩放终点和起点之间线性缩放。
+
+   [原文] Suppression Distance Amplify Distance
+   [译文] 压制距离增强距离
+   [解释] If a bullet is closer than this distance, in meters, to the bot's head. Amplify the amount of suppression.
+   [解释译文] 如果子弹与Bot头部的距离小于此值（米），增强压制效果。
+
+   [原文] Suppression Distance Amplify Amount
+   [译文] 压制距离增强倍率
+   [解释] If a bullet is closer than Amplify Distance to the bot's head. Amplify the amount of suppression by this multiplier.
+   [解释译文] 如果子弹与Bot头部的距离小于增强距离，压制效果乘以这个倍率。
+
+   [解释] The maximum distance between the bullet, and a bot's head to be considered under active enemy fire.
+   [解释译文] 子弹与Bot头部之间被视为处于活跃敌人火力下的最大距离。
+
+   [原文] Suppression States
+   [译文] 压制状态
+   [解释] Configure each tier of suppression.
+   [解释译文] 配置各级压制状态。
+
+   [原文] Amount Multiplier
+   [译文] 压制量乘数
+   [解释] Linearly increase or decrease the amount of suppression points bots receive from 1 bullet. Higher = Bots get suppressed more easily.
+   [解释译文] 线性增减Bot被单发子弹命中时获得的压制点数。数值越高=Bot越容易被压制。
+
+   [原文] Strength Multiplier
+   [译文] 压制强度乘数
+   [解释] Linearly increase or decrease the strength of suppression effects on bots. Higher = Suppression has more effect on bot stats.
+   [解释译文] 线性增减压制效果对Bot属性的影响强度。数值越高=压制对Bot属性影响越大。
+
+   [原文] Decay Tick Amount
+   [译文] 衰减每Tick量
+   [解释] How much suppression to remove per update tick.
+   [解释译文] 每次更新Tick移除多少压制值。
+
+   [原文] Decay Tick Frequency
+   [译文] 衰减Tick频率
+   [解释] How often to tick decay per second. 0.25 = 4 per second
+   [解释译文] 每秒衰减Tick频率。0.25=每秒4次。
+
+   [原文] State Update Tick Frequency
+   [译文] 状态更新Tick频率
+   [解释] How often to check suppression state per second. 0.5 = 2 per second
+   [解释译文] 每秒检查压制状态的频率。0.5=每秒2次。
+
+   [原文] Suppression Amounts Per Caliber
+   [译文] 各口径压制量
+   [解释] For each bullet that flies by a bot, add this number to their suppression counter, which decays constantly and linearly.
+   [解释译文] 对于从Bot旁边飞过的每发子弹，将其压制计数器增加此数值（该计数器持续线性衰减）。
+
+   [原文] Max Suppression Number
+   [译文] 最大压制值
+   [解释] Suppression caps at this number.
+   [解释译文] 压制值上限。
+
+================================================================================
+十八、全局设置 - 说话 (Talk)
+================================================================================
+
+   [原文] Talkative Scavs
+   [译文] 多话的Scav
+   [解释] When at peace, scavs will talk to each other and be noisy. Revealing their location.
+   [解释译文] 和平状态下，Scav会互相交谈发出噪音，暴露自己的位置。
+
+   [原文] Talkative PMCs
+   [译文] 多话的PMC
+   [解释] When at peace, pmcs will talk to each other and be noisy. Revealing their location.
+   [解释译文] 和平状态下，PMC会互相交谈发出噪音，暴露自己的位置。
+
+   [原文] Talkative Raiders and Rogues
+   [译文] 多话的Raider与Rogue
+   [解释] When at peace, raiders and rogues will talk to each other and be noisy. Revealing their location.
+   [解释译文] 和平状态下，Raider和Rogue会互相交谈发出噪音，暴露自己的位置。
+
+   [原文] Talkative Bosses
+   [译文] 多话的Boss
+   [解释] When at peace, Bosses and boss guards will talk to each other and be noisy. Revealing their location.
+   [解释译文] 和平状态下，Boss和Boss守卫会互相交谈发出噪音，暴露自己的位置。
+
+   [原文] Talkative Goons
+   [译文] 多话的Goon小队
+   [解释] When at peace, The Goons will talk to each other and be noisy. Revealing their location.
+   [解释译文] 和平状态下，Goon小队会互相交谈发出噪音，暴露自己的位置。
+
+   [原文] Human Response Chance
+   [译文] 人类玩家回应概率
+   [解释] Percentage chance to respond to a voiceline from a friendly human player.
+   [解释译文] 回应友方人类玩家语音的百分比概率。
+
+   [原文] AI Response Chance
+   [译文] AI回应概率
+   [解释] Percentage chance to respond to a voiceline from a friendly AI player.
+   [解释译文] 回应友方AI语音的百分比概率。
+
+   [原文] Human Response Max Distance
+   [译文] 人类玩家回应最大距离
+
+   [原文] AI Response Max Distance
+   [译文] AI回应最大距离
+
+   [原文] Response Frequency
+   [译文] 回应频率
+   [解释] 2 = 1 check every 2 second
+   [解释译文] 2=每2秒检查一次。
+
+   [原文] Response Delay Randomization Min
+   [译文] 回应延迟随机化最小值
+
+   [原文] Response Delay Randomization Max
+   [译文] 回应延迟随机化最大值
+
+   [原文] Vanilla Bot Talking
+   [译文] 原版Bot说话
+   [解释] Disable all SAIN based handling of bot talking. No more squad chatter, no more quiet bots, completely disables SAIN's handling of bot voices
+   [解释译文] 禁用所有SAIN对Bot说话的处理。不再有小队闲聊，不再有安静的Bot，完全禁用SAIN的Bot语音处理。
+
+================================================================================
+十九、全局设置 - 小队说话 (Squad Talk)
+================================================================================
+
+   [原文] Callout Reloading Chance
+   [译文] 换弹喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Reloading Frequency
+   [译文] 换弹喊话频率
+   [解释] 4 = once every 4 seconds
+   [解释译文] 4=每4秒一次。
+
+   [原文] Callout Lost Enemy Visual Chance
+   [译文] 丢失敌人视野喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Rat Chance
+   [译文] 发现蹲坑敌人喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Rat Time Since Seen Enemy
+   [译文] 发现蹲坑敌人-上次看到敌人时间
+
+   [原文] Callout Enemy Conversation Chance
+   [译文] 敌人交谈喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Call Enemy Conversation Max Distance
+   [译文] 敌人交谈最大距离
+
+   [原文] Callout Enemy Health Status Chance
+   [译文] 敌人血量状态喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Enemy Health Status Frequency
+   [译文] 敌人血量状态喊话频率
+   [解释] 8 = once every 8 seconds
+   [解释译文] 8=每8秒一次。
+
+   [原文] Callout Enemy Killed Chance
+   [译文] 击杀敌人喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Enemy Killed Squadleader Confirm Chance
+   [译文] 队长确认击杀概率
+   [解释] When a member calls out that they killed an enemy, this is the chance the squad leader will acknowledge and confirm the kill with a compliment.
+   [解释译文] 当队员报告击杀敌人时，队长确认并称赞的概率。
+
+   [原文] Toxic Squad Leader
+   [译文] 毒舌队长
+   [解释] Old bug turned into a feature. Squad leaders will yell Nice Work when a friendly squad member is killed.
+   [解释译文] 旧Bug变成了特性。当友方队员被杀时，队长会大喊"干得好"。
+
+   [原文] Friend Close Distance
+   [译文] 友方近距判定
+   [解释] The distance to a friendly that a bot will consider speaking to them.
+   [解释译文] Bot认为可以与之交谈的友方距离。
+
+   [原文] Callout Friendly Killed Chance
+   [译文] 友方阵亡喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Retreat Chance
+   [译文] 撤退喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Retreat Frequency
+   [译文] 撤退喊话频率
+   [解释] 10 = once every 10 seconds
+   [解释译文] 10=每10秒一次。
+
+   [原文] Callout Retreat Group Delay
+   [译文] 撤退喊话组延迟
+   [解释] Group Delay = Squad Members will share cooldown on certain voicelines to prevent spam
+   [解释译文] 组延迟=小队成员共享特定语音的冷却时间，防止刷屏。
+
+   [原文] Callout Under Fire Chance
+   [译文] 被射击喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Need Help Delay
+   [译文] 求助喊话延迟
+   [解释] Group Delay = Squad Members will share cooldown on certain voicelines to prevent spam
+   [解释译文] 组延迟=小队成员共享特定语音的冷却时间，防止刷屏。
+
+   [原文] Callout Under Fire Frequency
+   [译文] 被射击喊话频率
+   [解释] 10 = once every 10 seconds
+   [解释译文] 10=每10秒一次。
+
+   [原文] Callout Need Help Chance
+   [译文] 求助喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Callout Noise Heard Chance
+   [译文] 听到动静喊话概率
+   [解释] If conditions are met, this is the chance a bot will actually say a voiceline.
+   [解释译文] 条件满足时，Bot实际说出语音的概率。
+
+   [原文] Call Heard Noise Max Distance
+   [译文] 报告动静最大距离
+   [解释] Max Distance from a non-gunshot sound to report it to squad members with a voiceline.
+   [解释译文] 报告非枪声动静给小队成员的最大距离。
+
+================================================================================
+二十、全局设置 - 战斗力计算 (Power Calc)
+================================================================================
+
+   [原文] PMC Power
+   [译文] PMC战斗力分
+   [解释] Add X points to a bot's power level if they are a PMC
+   [解释译文] 如果Bot是PMC，战斗力加X分。
+
+   [原文] Scav Power
+   [译文] Scav战斗力分
+   [解释] Add X points to a bot's power level if they are a Scav
+   [解释译文] 如果Bot是Scav，战斗力加X分。
+
+   [原文] Shotgun Power
+   [译文] 霰弹枪战斗力分
+   [解释] Add X points to a bot's power level if they are using this type of weapon as their primary.
+   [解释译文] 如果Bot的主武器为此类型，战斗力加X分。
+
+   [原文] Smg Power
+   [译文] 冲锋枪战斗力分
+   [解释] 同上
+
+   [原文] Assault Carbine Power
+   [译文] 突击卡宾枪战斗力分
+   [解释] 同上
+
+   [原文] Assault Rifle Power
+   [译文] 突击步枪战斗力分
+   [解释] 同上
+
+   [原文] Machinegun Power
+   [译文] 机枪战斗力分
+   [解释] 同上
+
+   [原文] Sniper Rifle Power
+   [译文] 狙击步枪战斗力分
+   [解释] 同上
+
+   [原文] Marksman Rifle Power
+   [译文] 精确射手步枪战斗力分
+   [解释] 同上
+
+   [原文] Pistol Power
+   [译文] 手枪战斗力分
+   [解释] 同上
+
+   [原文] Red Dot / 1x Holo Sight Power
+   [译文] 红点/1倍全息镜战斗力分
+   [解释] Add X points to a bot's power level if they are using this type of attachment on their primary.
+   [解释译文] 如果Bot的主武器装备了此类型配件，战斗力加X分。
+
+   [原文] Magnified Optic Power
+   [译文] 倍镜战斗力分
+   [解释] 同上
+
+   [原文] Suppressor Power
+   [译文] 消音器战斗力分
+   [解释] 同上
+
+   [原文] Body Armor Class Power
+   [译文] 护甲等级战斗力分
+   [解释] For each AC level, add X to a bot's power level. So if they have level 4 armor, add this value 4 times.
+   [解释译文] 每个防护等级加X分。例如等级4护甲，则加此值4次。
+
+   [原文] Body Armor Class Power - Realism Mod
+   [译文] 护甲等级战斗力分-Realism模组
+
+   [原文] Helmet Class Power
+   [译文] 头盔等级战斗力分
+   [解释] If a bot has an armored helmet above class 1, but lower than 5, add X to their power level.
+   [解释译文] 如果Bot佩戴等级1以上5以下的装甲头盔，战斗力加X分。
+
+   [原文] Heavy Helmet Class Power
+   [译文] 重型头盔等级战斗力分
+   [解释] If a bot has an armored helmet above class 4, add X to their power level.
+   [解释译文] 如果Bot佩戴等级4以上的装甲头盔，战斗力加X分。
+
+   [原文] Faceshield Power
+   [译文] 面罩战斗力分
+   [解释] If a bot has an armored face shield, add X to their Power Level.
+   [解释译文] 如果Bot佩戴装甲面罩，战斗力加X分。
+
+   [原文] Headphones Power
+   [译文] 耳机战斗力分
+   [解释] If a bot has headphones, add X to their Power Level.
+   [解释译文] 如果Bot佩戴耳机，战斗力加X分。
+
+================================================================================
+二十一、全局设置 - 导航 (Steering)
+================================================================================
+
+   [原文] Max Path Length
+   [译文] 最大路径长度
+   [解释] How far along a path to an enemy a bot will check vision to, in meters.
+   [解释译文] Bot沿路径向敌人移动时检查视野的距离（米）。
+
+   [原文] Path Nodes Stack Height
+   [译文] 路径节点堆叠高度
+   [解释] X number of points will be generated above each node in the path
+   [解释译文] 每个路径节点上方生成X个检测点。
+
+   [原文] Distance Between Nodes
+   [译文] 节点间距
+
+   [原文] Random Bot Aim Sway
+   [译文] 随机Bot瞄准摇摆
+
+   [原文] Last Seen to Last Known Position Distance Threshold
+   [译文] 最后看到与最后已知位置距离阈值
+   [解释] If the last known position of an enemy (something heard or reported by their squad) is within X distance (meters) to the place they last saw an enemy, focus on the place they were last seen.
+   [解释译文] 如果敌人的最后已知位置（听到的或小队报告的）距离Bot最后看到敌人的位置在此距离内（米），则以最后看到的位置为准。
+
+   [原文] Smooth Turn Settings
+   [译文] 平滑转向设置
+
+================================================================================
+二十二、全局设置 - 地点特定修正 (Location Specific)
+================================================================================
+
+   [原文] Location Specific Modifiers
+   [译文] 地点特定修正值
+   [解释] These modifiers only apply to bots on the location they are assigned to. Applies to all bots equally.
+   [解释译文] 这些修正值仅对位于指定地点的Bot生效，对所有Bot平等适用。
+
+================================================================================
+二十三、全局设置 - 全局难度 (Global Difficulty)
+================================================================================
+
+   [原文] Vision Distance Multiplier
+   [译文] 视觉距离乘数
+   [解释] Higher is more difficult.
+   [解释译文] 数值越高=难度越大。
+
+   [原文] Vision Speed Multiplier
+   [译文] 视觉速度乘数
+   [解释] Lower is more difficult.
+   [解释译文] 数值越低=难度越大。
+
+   [原文] Scatter Multiplier
+   [译文] 散布乘数
+   [解释] Lower is more difficult.
+   [解释译文] 数值越低=散布越小，难度越大。
+
+   [原文] Hearing Distance Multiplier
+   [译文] 听觉距离乘数
+   [解释] Higher is more difficult.
+   [解释译文] 数值越高=难度越大。
+
+   [原文] Aggression Multiplier
+   [译文] 攻击性乘数
+   [解释] Higher is more difficult.
+   [解释译文] 数值越高=难度越大。
+
+   [原文] Precision Speed Multiplier
+   [译文] 精确瞄准速度乘数
+   [解释] Lower is more difficult.
+   [解释译文] 数值越低=难度越大。
+
+   [原文] Accuracy Speed Multiplier
+   [译文] 精度速度乘数
+   [解释] Lower is more difficult.
+   [解释译文] 数值越低=难度越大。
+
+================================================================================
+二十四、Bot设置 - 核心 (SAIN Core)
+================================================================================
+
+   [原文] Field of View
+   [译文] 视野角度
+
+   [原文] Base Vision Distance
+   [译文] 基础视觉距离
+
+   [原文] Gain Sight Coeficient
+   [译文] 获得视野系数
+   [解释] Default EFT Config. Affects how quickly this bot will notice their enemies. Small changes have dramatic affects on vision speed.
+   [解释译文] 默认EFT配置。影响Bot发现敌人的速度。微小的改动对视觉速度有巨大影响。
+
+   [原文] Accuracy Speed
+   [译文] 精度速度
+   [解释] Default EFT Config. Affects how quickly this bot will aim at targets.
+   [解释译文] 默认EFT配置。影响Bot瞄准目标的速度。
+
+   [解释] Default EFT Config. I do not know what this does exactly.
+   [解释译文] 默认EFT配置。我也不知道这个具体是干嘛的。
+
+   [原文] Hearing Distance Multiplier
+   [译文] 听觉距离乘数
+   [解释] Modifies the distance that this bot can hear sounds
+   [解释译文] 修改Bot听到声音的距离。
+
+   [原文] Can Use Grenades
+   [译文] 可使用手雷
+
+================================================================================
+二十五、Bot设置 - 瞄准 (SAIN Aiming)
+================================================================================
+
+   [原文] Always Aim Center Mass
+   [译文] 始终瞄准躯干中央
+   [解释] Force this bot type to aim for center of mass.
+   [解释译文] 强制此Bot类型瞄准躯干中央。
+
+   [原文] Can Aim for Headshots
+   [译文] 可爆头瞄准
+
+   [原文] Can Aim for Headshots - Percentage Chance
+   [译文] 爆头瞄准-百分比概率
+
+   [原文] Distance Aim Time Multiplier
+   [译文] 距离瞄准时间乘数
+   [解释] Multiplies the time a bot takes to aim based on distance. Higher values will cause bots to take longer to aim depending on distance.
+   [解释译文] 根据距离乘以Bot瞄准所需时间。数值越高=距离越远瞄准越慢。
+
+   [原文] Angle Aim Time Multiplier
+   [译文] 角度瞄准时间乘数
+   [解释] Multiplies the time a bot takes to aim based on the angle they have to turn to line up a shot. Higher values will cause bots to take longer to aim depending on the angle to turn.
+   [解释译文] 根据Bot所需转角乘以瞄准时间。数值越高=转向角度越大瞄准越慢。
+
+   [原文] Faster CQB Reactions
+   [译文] 快速近战反应
+   [解释] Sets whether this bot reacts and aims faster before being able to shoot at close ranges
+   [解释译文] 设置此Bot在近距离是否拥有更快的反应和瞄准速度。
+
+   [原文] Faster CQB Reactions Max Distance
+   [译文] 快速近战反应最大距离
+
+   [原文] Faster CQB Reactions Minimum Speed
+   [译文] 快速近战反应最低速度
+   [解释] Absolute minimum speed (in seconds) that bot can react and shoot
+   [解释译文] Bot反应并射击的绝对最低速度（秒）。
+
+   [原文] Max Aiming Upgrade By Time
+   [译文] 瞄准时间最大提升值
+   [解释] VANILLA EFT CONFIG VALUE : Lower = Better. How much to cap this bots aim improvement based on time. 0.25 means they will multiply their aim offset by 0.25x when aiming. Making their shots more accurate
+   [解释译文] 原版EFT配置值：越低=越好。Bot随时间提升瞄准精度的上限。0.25意味着瞄准时瞄准偏移可以乘0.25倍，使射击更精准。
+
+   [原文] Distance To Not Scatter Aim
+   [译文] 无视散布的距离
+   [解释] VANILLA EFT CONFIG VALUE : If an enemy is closer than this distance, ignore scatter.
+   [解释译文] 原版EFT配置值：如果敌人距离小于此值，忽略散布。
+
+   [原文] Scatter Multiplier - Moving
+   [译文] 散布乘数 - 移动中
+   [解释] VANILLA EFT CONFIG VALUE
+   [解释译文] 原版EFT配置值
+
+   [原文] Aim Time Multiplier - Moving
+   [译文] 瞄准时间乘数 - 移动中
+   [解释] VANILLA EFT CONFIG VALUE
+   [解释译文] 原版EFT配置值
+
+   [原文] Max Aim Time
+   [译文] 最大瞄准时间
+   [解释] VANILLA EFT CONFIG VALUE : A cap on how long it will take this bot to finish aiming at a target, and begin shooting.
+   [解释译文] 原版EFT配置值：Bot完成瞄准并开始射击的最大时间上限。
+
+   [原文] Hit Aim Time Penalty Seconds - Min
+   [译文] 中弹瞄准时间惩罚 - 最小值
+   [解释] VANILLA EFT CONFIG VALUE
+   [解释译文] 原版EFT配置值
+
+   [原文] Hit Aim Time Penalty Seconds - Max
+   [译文] 中弹瞄准时间惩罚 - 最大值
+   [解释] VANILLA EFT CONFIG VALUE
+   [解释译文] 原版EFT配置值
+
+   [原文] Enemy First Contact Reaction Delay
+   [译文] 首次接敌反应延迟
+   [解释] VANILLA EFT CONFIG VALUE
+   [解释译文] 原版EFT配置值
+
+================================================================================
+二十六、Bot设置 - 手雷 (SAIN Grenade)
+================================================================================
+
+   [原文] Can Throw at Visible Enemies
+   [译文] 可向可见敌人投掷
+   [解释] Toggles bots throwing grenades directly at enemies they can see.
+   [解释译文] 控制Bot是否向他们能看到的敌人直接投掷手雷。
+
+   [原文] Since Since Enemy Seen before Throw
+   [译文] 看到敌人后投掷延迟
+   [解释] How long it has been since a bot's enemy has been visible before a bot can consider throwing a grenade.
+   [解释译文] 自Bot上次看到敌人后，需要过去多久才能考虑投掷手雷。
+
+   [原文] Time Before Next Throw - Min
+   [译文] 下次投掷间隔 - 最小值
+   [解释] How much time to wait before a bot is allowed to throw another grenade.
+   [解释译文] Bot投掷另一颗手雷前需要等待的最短时间。
+
+   [原文] Time Before Next Throw - Max
+   [译文] 下次投掷间隔 - 最大值
+   [解释] 同上
+
+   [原文] Minimum Friendly Distance to Throw Target
+   [译文] 投掷目标与友方最小距离
+   [解释] How close a friendly bot can be in Meters to a bot's grenade target before it stops them from throwing it.
+   [解释译文] 友方Bot距离投掷目标多近时，Bot会停止投掷手雷（米）。
+
+   [原文] Minimum Enemy Distance to Bot
+   [译文] 敌人距离Bot最小距离
+   [解释] How close a enemy can be in Meters before a bot doesn't try throwing grenades.
+   [解释译文] 敌人距离Bot多近时，Bot不会尝试投掷手雷（米）。
+
+   [原文] Grenade Spread
+   [译文] 手雷投掷散布
+   [解释] How much distance, in meters, to randomize a bot's throw target position.
+   [解释译文] Bot投掷目标位置的随机化距离（米）。
+
+================================================================================
+二十七、Bot设置 - 视觉 (SAIN Look)
+================================================================================
+
+   [原文] Can Use Flashlights
+   [译文] 可使用手电筒
+
+   [原文] Full 360 Vision Cheat Vision
+   [译文] 360度全向作弊视野
+
+================================================================================
+二十八、Bot设置 - 思维 (SAIN Mind)
+================================================================================
+
+   [原文] Global Aggression Multiplier
+   [译文] 攻击性乘数
+   [解释] How quickly bots will move to search for enemies after losing sight, and how carefully they will search. Higher number equals higher aggression.
+   [解释译文] Bot丢失目标后搜索敌人的速度以及搜索的谨慎程度。数值越高=越具攻击性。
+
+   [原文] Weapon Proficiency
+   [译文] 武器熟练度
+   [解释] How Well this bot can fire any weapon type, affects recoil, fire-rate, and burst length. Higher number equals harder bots.
+   [解释译文] Bot使用各种武器的能力，影响后坐力、射速和连发长度。数值越高=Bot越强。
+
+   [原文] Suppression Resistance
+   [译文] 压制抗性
+
+   [原文] Talk Frequency
+   [译文] 说话频率
+   [解释] How often to check if a bot wants to talk. Higher = More Delay between Talking.
+   [解释译文] 检查Bot是否想说话的频率。数值越高=说话间隔越长。
+
+   [原文] Squad Talk Frequency. Higher = More Delay between Talking.
+   [译文] 小队说话频率。数值越高=说话间隔越长。
+
+   [原文] Squad Leader Talk Frequency. Higher = More Delay between Talking.
+   [译文] 队长说话频率。数值越高=说话间隔越长。
+
+   [原文] Enable Extracts
+   [译文] 启用撤离
+
+   [原文] Max Raid Percentage before Extract
+   [译文] 撤离前最大战局进度百分比
+   [解释] The longest possible time before this bot can decide to move to extract. Based on total raid timer and time remaining. 60 min total raid time with 6 minutes remaining would be 10 percent
+   [解释译文] Bot决定撤离前的最大可能时间。基于总战局时间与剩余时间计算。60分钟总时间剩余6分钟=10%。
+
+   [原文] Min Raid Percentage before Extract
+   [译文] 撤离前最小战局进度百分比
+   [解释] 同上
+
+================================================================================
+二十九、Bot设置 - 移动 (SAIN Move)
+================================================================================
+
+   [原文] Strafe Speed
+   [译文] 横移速度
+   [解释] How fast a bot will strafe when fighting an enemy at close range
+   [解释译文] Bot在近距交火时的横移速度。
+
+   [原文] Can Lean
+   [译文] 可侧身
+   [解释] Can this bot lean while peeking and while outside of cover?
+   [解释译文] Bot能否在探头以及在掩体外侧身？
+
+   [原文] Can Lean in Cover
+   [译文] 掩体内可侧身
+   [解释] Can this bot lean while in cover?
+   [解释译文] Bot能否在掩体内侧身？
+
+   [原文] Can Jump
+   [译文] 可跳跃
+   [解释] Can this bot Jump?
+   [解释译文] Bot能否跳跃？
+
+   [原文] Can Auto Pose
+   [译文] 自动调整姿态
+   [解释] Does this bot automatically adjust their crouch height depending on objects between them and their enemy?
+   [解释译文] Bot能否根据其与敌人之间的物体自动调整蹲伏高度？
+
+   [原文] Can Go Prone
+   [译文] 可趴下
+   [解释] Can this bot go Prone at all?
+   [解释译文] Bot能否趴下？
+
+   [原文] Can Go Prone from Suppression
+   [译文] 压制时可趴下
+   [解释] Can this bot go Prone as a panic response to being suppressed?
+   [解释译文] Bot被压制时能否出于恐慌反应而趴下？
+
+   [原文] Can Vault
+   [译文] 可翻越
+   [解释] Can this bot Vault?
+   [解释译文] Bot能否翻越障碍物？
+
+   [原文] Can Vault to get Unstuck
+   [译文] 卡住时翻越
+   [解释] Can this bot Vault if they are stuck on map geometry?
+   [解释译文] Bot卡在地图几何体上时能否翻越脱困？
+
+================================================================================
+三十、Bot设置 - 散布 (SAIN Scatter)
+================================================================================
+
+   [原文] Arm Injury Scatter Multiplier
+   [译文] 手臂受伤散布乘数
+   [解释] Increase scatter when a bots arms are injured.
+   [解释译文] 当Bot手臂受伤时增大散布。
+
+   [原文] Arm Injury Aim Speed Multiplier
+   [译文] 手臂受伤瞄准速度乘数
+   [解释] Increase scatter when a bots arms are injured.
+   [解释译文] 当Bot手臂受伤时增大散布/减慢瞄准速度。
+
+================================================================================
+三十一、Bot设置 - 射击 (SAIN Shoot)
+================================================================================
+
+   [原文] Full Auto Scatter Multiplier
+   [译文] 全自动散布乘数
+
+================================================================================
+三十二、个性设置 - 分配 (Personality Assignment)
+================================================================================
+
+   [原文] Personality Enabled
+   [译文] 启用该个性
+   [解释] Enables or Disables this Personality, if a All Chads, All GigaChads, or AllRats is enabled in global settings, this value is ignored
+   [解释译文] 启用或禁用该个性。如果全局设置中启用了"全Chad/全GigaChad/全Rat"，此值将被忽略。
+
+   [原文] Power Level Scale Start
+   [译文] 战斗力缩放起点
+   [解释] When a bot is at, or above this power level, they will start to have a chance to be assigned this personality.
+   [解释译文] 当Bot战斗力达到或超过此值时，开始有概率被分配此个性。
+
+   [原文] Power Level Scale End
+   [译文] 战斗力缩放终点
+   [解释] When a bot is at, or above this power level, they will have the full percentage chance to be assigned this personality.
+   [解释译文] 当Bot战斗力达到或超过此值时，获得被分配此个性的完整百分比概率。
+
+   [解释] The lower the power level, the higher the chance
+   [解释译文] 战斗力越低，被分配概率越高。
+
+   [原文] Maximum Chance If Meets Requirements
+   [译文] 满足条件时的最大概率
+
+   [原文] Allowed Bot Types
+   [译文] 允许的Bot类型
+
+================================================================================
+三十三、个性设置 - 通用行为 (Personality General)
+================================================================================
+
+   [原文] Aggression Multiplier
+   [译文] 攻击性乘数
+   [解释] Linearly increases or decreases search time and hold ground time.
+   [解释译文] 线性增加或减少搜索时间和原地坚守时间。
+
+   [原文] Kick Open All Possible Doors
+   [译文] 踹开所有可能的门
+   [解释] If this personality has an enemy, always kick open doors if they can.
+   [解释译文] 如果此个性的Bot有敌人，只要可能就踹开门。
+
+   [原文] Dogfight - Path Distance - Start
+   [译文] 近距交火-路径距离-开始
+
+   [原文] Dogfight - Time Since Seen - End
+   [译文] 近距交火-上次看到时间-结束
+
+   [原文] Dogfight - Path Distance - End
+   [译文] 近距交火-路径距离-结束
+
+   [原文] Hold Ground Base Time
+   [译文] 原地坚守基础时间
+   [解释] The base time, before modifiers, that a personality will stand their ground and shoot or return fire on an enemy if caught out of cover.
+   [解释译文] 修正前的基础时间。此个性的Bot在掩体外被敌人发现时，会坚守阵地射击或还击的基础时间。
+
+   [原文] Suppression Resistance
+   [译文] 压制抗性
+
+   [原文] Enemy Suppression Toggle
+   [译文] 敌人压制开关
+
+   [原文] Suppression Distance - Close
+   [译文] 压制距离 - 近
+   [解释] If a enemy's visible path point is closer than this to where a bot thinks they are, they can suppress without checking the angle
+   [解释译文] 如果敌人的可见路径点距离Bot认为的位置小于此值，可以无需检查角度直接进行压制。
+
+   [原文] Suppression Distance - Far
+   [译文] 压制距离 - 远
+   [解释] If a enemy's visible path point is closer than this to where a bot thinks they are, they can suppress after checking the angle.
+   [解释译文] 如果敌人的可见路径点距离Bot认为的位置小于此值，检查角度后可以压制。
+
+   [原文] Suppression Distance - Far Angle
+   [译文] 压制距离 - 远距离角度
+   [解释] If the horizontal angle from an enemy visible path point to where their last known position is less than this, they can suppress.
+   [解释译文] 如果敌人可见路径点到其最后已知位置的水平角度小于此值，可以压制。
+
+   [解释] If a bot thinks it is under fire from a sniper, they will always want to sprint to cover.
+   [解释译文] 如果Bot认为自己在被狙击手射击，他们将始终冲刺寻找掩体。
+
+   [原文] Always Sprint
+   [译文] 始终冲刺
+   [解释] If a bot thinks it is under fire from a sniper, they will always sprint while seeking that sniper.
+   [解释译文] 如果Bot认为自己在被狙击手射击，他们在搜寻狙击手时将始终冲刺。
+
+   [原文] Distance Under Fire
+   [译文] 被射击判定距离
+   [解释] If an enemy is further than this distance, in meters. They will be considered a sniper if shooting at a bot.
+   [解释译文] 如果敌人在此距离之外（米），他们向Bot射击时会被视为狙击手。
+
+   [原文] Distance Enemy is no longer Sniper
+   [译文] 不再视为狙击手的距离
+   [解释] If an enemy is closer than this distance, in meters. They will no longer be considered a sniper if they were previously.
+   [解释译文] 如果敌人在此距离之内（米），他们向Bot射击时将不再被视为狙击手。
+
+================================================================================
+三十四、个性设置 - 说话 (Personality Talk)
+================================================================================
+
+   [原文] Can Yell Taunts
+   [译文] 可嘲讽叫骂
+   [解释] Hey you...yeah YOU! FUCK YOU! You heard?
+   [解释译文] 嘿你...对就是你！F**K YOU！听到了吗？
+
+   [原文] Can Yell Taunts Frequently
+   [译文] 可频繁嘲讽叫骂
+   [解释] HEY COCKSUCKAAAA
+   [解释译文] 嘿混蛋AAAA
+
+   [原文] Can Yell Taunts Constantly
+   [译文] 可不停嘲讽叫骂
+   [解释] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+   [解释译文] 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊
+
+   [解释] Will this personality yell back at enemies taunting them
+   [解释译文] 此个性是否会回应敌人的嘲讽叫骂。
+
+================================================================================
+三十五、个性设置 - 搜索 (Personality Search)
+================================================================================
+
+   [原文] Heard From Peace Behavior
+   [译文] 和平状态听到敌人后的行为
+   [解释] When a bot hears an enemy, and was previously at peace, so had no enemy and was in patrol, what is their reaction?
+   [解释译文] 当Bot听到敌人动静，且之前处于和平状态（无目标、在巡逻）时的反应。
+
+   [解释] Will this personality type hear and chase after distant gunshots if they aren't fired at them?
+   [解释译文] 此个性是否会听到并与非针对自己的远距离枪声交战？
+
+   [解释] If a sound is further than this, it will be considered chasing a gunshot sound, and will be ignored if WillChaseDistantGunshots is set to off.
+   [解释译文] 如果声音的距离超过此值，将被视为追逐远距离枪声。如果"追赶远距离枪声"关闭，将被忽略。
+
+   [原文] Start Search Base Time
+   [译文] 开始搜索基础时间
+   [解释] The base time, before modifiers, that a personality will usually start searching for their enemy.
+   [解释译文] 修正前的基础时间，此个性通常开始搜索敌人的时间。
+
+   [原文] Search Wait Multiplier
+   [译文] 搜索等待乘数
+   [解释] Linearly increases or decreases the time a bot pauses while searching.
+   [解释译文] 线性增减Bot搜索时暂停等待的时间。
+
+================================================================================
+三十六、个性设置 - 冲锋 (Personality Rush)
+================================================================================
+
+   [原文] Can Rush Healing/Reloading/Grenade-Pulling Enemies
+   [译文] 可冲锋正在治疗/换弹/拔雷的敌人
+
+   [原文] Can Jump Push
+   [译文] 可跳角突击
+   [解释] Can this personality jump when rushing an enemy?
+   [解释译文] 此个性冲向敌人时能否跳跃出击？
+
+   [原文] Jump Push Chance
+   [译文] 跳角突击概率
+   [解释] If a bot can Jump Push, this is the chance they will actually do it.
+   [解释译文] 如果Bot可以跳角突击，实际执行的概率。
+
+   [原文] Can Bunny Hop during Jump Push
+   [译文] 跳角突击时可连跳
+   [解释] Can this bot hit a clip on you?
+   [解释译文] 此Bot能在你身上打出精彩集锦吗？
+
+   [原文] Bunny Hop Chance
+   [译文] 连跳概率
+   [解释] If a bot can bunny hop, this is the chance they will actually do it.
+   [解释译文] 如果Bot可以连跳，实际执行的概率。
+
+================================================================================
+ 三十七、编辑器默认设置 (Editor Defaults - 位于Advanced页面)
+================================================================================
+
+--- 通用 ---
+   [原文] Show Advanced Bot Configs
+   [译文] 显示高级Bot配置
+   [解释] Show Advanced Settings. Most of these should remain unchanged, unless you want to change something specific.
+   [解释译文] 显示高级设置。大多数项目应保持默认，除非你想修改特定内容。
+
+   [原文] Show Developer Options
+   [译文] 显示开发者选项
+   [解释] You shouldn't change any of these unless you know exactly what it does based on exploring SAIN's codebase.
+   [解释译文] 除非你通过研读SAIN源码确切知道这些选项的作用，否则不应修改。
+
+--- GUI 尺寸 ---
+   [原文] GUI Size Scaling
+   [译文] GUI界面缩放
+
+   [原文] Config Entry Sliders
+   [译文] 配置项滑块
+
+   [原文] ConfigEntryHeight
+   [译文] 配置项行高
+
+   [原文] ConfigSliderWidth
+   [译文] 配置滑块宽度
+
+   [原文] ConfigResultsWidth
+   [译文] 配置结果区宽度
+
+   [原文] ConfigResetWidth
+   [译文] 配置重置区宽度
+
+   [原文] SubList_Indent_Vertical
+   [译文] 子列表垂直缩进
+
+   [原文] SubList_Indent_Horizontal
+   [译文] 子列表水平缩进
+
+================================================================================
+三十八、全局设置补充 - 视觉-时间与天气 (Look - Time)
+================================================================================
+
+--- 夜间视觉效果 ---
+   [原文] Vision Distance Multiplier
+   [译文] 视觉距离乘数
+   [解释] By how much to lower visible distance at nighttime. At the default value of 0.2, bots will see 0.2 times as far, or 20% of their base vision distance at night-time.
+   [解释译文] 夜间视觉距离缩减倍率。默认值0.2意味着Bot夜间视觉距离为基础值的20%。
+
+   [原文] Snow Vision Distance Multiplier
+   [译文] 雪地夜间视觉距离乘数
+   [解释] By how much to lower visible distance at nighttime in the snow.
+   [解释译文] 雪地图夜间视觉距离缩减倍率。
+
+   [原文] Vision Speed Max Multiplier
+   [译文] 视觉速度最大乘数
+   [解释] Bot Vision Speed will be reduced up to X times longer to spot enemies, depending on visibility and time of day. Higher = Worse Vision.
+   [解释译文] Bot发现敌人的速度最多缩减X倍，取决于能见度和时间。数值越高=视力越差。
+
+--- 天气视觉效果 ---
+   [原文] Minimum Multiplier
+   [译文] 天气最低乘数
+   [解释] Weather will not multiply vision distance any lower than this number.
+   [解释译文] 天气对视觉距离的乘数不会低于此值。
+
+   [原文] Minimum Weather Vision Distance
+   [译文] 天气最低视觉距离
+   [解释] Base Vision distance - after weather calculation and before time effects - will not go lower than this.
+   [解释译文] 基础视觉距离（经过天气计算、时间效果应用前）不会低于此值（米）。
+
+--- 雾 ---
+   [原文] Minimum Fog Effect
+   [译文] 雾天最低效果
+   [解释] Fog will scale between X and 1 depending on fog intensity. Reducing vision distance by X amount. 0.4 = up to 40% vision distance from fog alone.
+   [解释译文] 雾在X到1之间缩放，取决于雾的强度。0.4=最多降至40%视觉距离。
+
+--- 雨 ---
+   [原文] Very Light Rain Threshold
+   [译文] 极小雨阈值
+
+   [原文] Very Light Rain Scaling Coef
+   [译文] 极小雨缩放系数
+
+   [原文] Light Rain Threshold
+   [译文] 小雨阈值
+
+   [原文] Light Rain Scaling Coef
+   [译文] 小雨缩放系数
+
+   [原文] Normal Rain Threshold
+   [译文] 中雨阈值
+
+   [原文] Normal Rain Scaling Coef
+   [译文] 中雨缩放系数
+
+   [原文] Heavy Rain Threshold
+   [译文] 大雨阈值
+
+   [原文] Heavy Rain Scaling Coef
+   [译文] 大雨缩放系数
+
+   [原文] Very Heavy Rain Scaling Coef
+   [译文] 暴雨缩放系数
+   [解释] If rain is above Heavy Rain Threshold use this scaling coef.
+   [解释译文] 如果雨量超过大雨阈值，使用此缩放系数。
+
+--- 云 ---
+   [原文] Clear Skies Threshold
+   [译文] 晴天云量阈值
+
+   [原文] Cloudy Threshold
+   [译文] 多云阈值
+
+   [原文] Cloudy Scaling Coef
+   [译文] 多云缩放系数
+   [解释] How much to reduce vision by if it is cloudy.
+   [解释译文] 多云时视觉缩减倍率。
+
+   [原文] Very Cloudy Scaling Coef
+   [译文] 阴天缩放系数
+   [解释] How much to reduce vision by if it is very cloudy.
+   [解释译文] 阴天时视觉缩减倍率。
+
+--- 昼夜时间 ---
+   [原文] Dawn Start Hour
+   [译文] 黎明开始时刻
+
+   [原文] Dawn End Hour
+   [译文] 黎明结束时刻
+
+   [原文] Dusk Start Hour
+   [译文] 黄昏开始时刻
+
+   [原文] Dusk End Hour
+   [译文] 黄昏结束时刻
+
+================================================================================
+三十九、全局设置补充 - 视觉-手电筒与夜视仪 (Look - Light/NVG)
+================================================================================
+
+   [原文] Flashlight Enable Visibility Ratio
+   [译文] 手电筒开启能见度阈值
+   [解释] If visibility is lower than or equal to this ratio, bots will want to turn on their flashlight to see.
+   [解释译文] 当能见度低于或等于此比例时，Bot会想打开手电筒。
+
+   [原文] Flashlight Disable Visibility Ratio
+   [译文] 手电筒关闭能见度阈值
+   [解释] If a bot has a flashlight enabled to see at night, and visibility is higher than or equal to this ratio, bots will want to turn off their flashlight.
+   [解释译文] Bot在夜间开着手电筒时，若能见度高于或等于此比例，会想关掉手电筒。
+
+   [原文] Nightvision Enable Visibility Ratio
+   [译文] 夜视仪开启能见度阈值
+   [解释] If visibility is lower than or equal to this ratio, bots will want to turn on their night vision goggles to see.
+   [解释译文] 当能见度低于或等于此比例时，Bot会想打开夜视仪。
+
+   [原文] Nightvision Disable Visibility Ratio
+   [译文] 夜视仪关闭能见度阈值
+   [解释] If a bot has night vision goggles enabled to see at night, and visibility is higher than or equal to this ratio, bots will want to turn off their NVGs.
+   [解释译文] Bot在夜间开着夜视仪时，若能见度高于或等于此比例，会想关掉夜视仪。
+
+================================================================================
+四十、全局设置补充 - 视觉-未注视Bot (Look - Not Looking)
+================================================================================
+
+   [原文] Bot Reaction and Accuracy Changes Toggle - Experimental
+   [译文] Bot反应与精度变化开关 - 实验性
+   [解释] Experimental: Bots will have slightly reduced accuracy and vision speed if you are not looking in their direction. So if a bot notices and starts shooting you while your back is turned, they will be less accurate and notice you more slowly.
+   [解释译文] 实验性功能：当你没有看向Bot的方向时，Bot的精度和视觉速度会略微降低。如果你背对Bot时被发现并遭到射击，他们会没那么准且发现你的速度更慢。
+
+   [原文] Bot Reaction and Accuracy Changes Time Limit
+   [译文] Bot反应与精度变化时间限制
+   [解释] The Maximum Time that a bot can be shooting at you before the reduced spread no longer has an affect. So if a bot is shooting at you from the back for X seconds, after that time it will no longer reduce their accuracy to give you a better chance to react.
+   [解释译文] Bot向你射击时散布降低效果的最大持续时间。即Bot从背后射击你X秒后，散布降低效果将不再生效，让你有适当的反击机会。
+
+   [原文] Bot Reaction and Accuracy Changes Angle
+   [译文] Bot反应与精度变化角度
+   [解释] The Maximum Angle for the player to be considered looking at a bot.
+   [解释译文] 判定玩家是否"看着"Bot的最大角度。
+
+   [原文] Bot Reaction Multiplier When Out of Sight
+   [译文] 未在视野内时Bot反应乘数
+   [解释] How much to multiply bot vision speed by if you aren't looking at them when they notice you. Higher = More time before reacting.
+   [解释译文] 你没有看向Bot时他们发现你的视觉速度乘数。数值越高=他们反应所需时间越长。
+
+   [原文] Bot Accuracy and Spread Increase When Out of Sight
+   [译文] 未在视野内时Bot精度与散布增量
+   [解释] How much additional random Spread to add to a bot's aim if the player isn't looking at them. 1 means it will randomize in a 1 meter sphere around their original aim target. Higher = More spread and less accurate bots.
+   [解释译文] 玩家未看向Bot时，Bot瞄准增加的额外随机散布量。1意味着在原瞄准点周围1米球体内随机散布。数值越高=散布越大、精度越低。
+
+================================================================================
+四十一、全局设置补充 - 视觉-防草丛透视 (Look - No Bush ESP)
+================================================================================
+
+   [原文] No Bush ESP
+   [译文] 防草丛透视
+   [解释] Adds extra vision check for bots to help prevent bots seeing or shooting through foliage.
+   [解释译文] 为Bot添加额外的视觉检查，防止Bot透过植被看到或射中玩家。
+
+   [原文] No Bush ESP Enhanced Raycasts
+   [译文] 防草丛透视增强射线
+   [解释] Experimental: Increased Accuracy and extra checks
+   [解释译文] 实验性：提高精度并增加额外检查。
+
+   [原文] No Bush ESP Enhanced Raycast Frequency p/ Second
+   [译文] 防草丛透视增强射线频率/秒
+   [解释] Experimental: How often to check for foliage vision blocks
+   [解释译文] 实验性：检查植被遮挡视野的频率。
+
+   [原文] No Bush ESP Enhanced Raycasts Ratio
+   [译文] 防草丛透视增强射线比率
+   [解释] Sets the ratio of visible to not visible body parts to not block vision. 0.75 means half the body parts of the player must be visible to not block vision.
+   [解释译文] 设置可见与不可见身体部位的比例以避免视野被阻挡。0.75意味着至少75%的身体部位可见才不会被阻挡。
+
+   [原文] No Bush ESP Debug
+   [译文] 防草丛透视调试
+
+================================================================================
+四十二、个性设置补充 - 掩体 (Personality Cover Settings)
+================================================================================
+(以下选项无Name属性，使用字段名作为显示名)
+
+   [原文] CanShiftCoverPosition
+   [译文] 可切换掩体位置
+
+   [原文] ShiftCoverTimeMultiplier
+   [译文] 切换掩体时间乘数
+
+   [原文] MoveToCoverNoEnemySpeed
+   [译文] 无敌人时移向掩体速度
+
+   [原文] MoveToCoverNoEnemyPose
+   [译文] 无敌人时移向掩体姿态
+
+   [原文] MoveToCoverHasEnemySpeed
+   [译文] 有敌人时移向掩体速度
+
+   [原文] MoveToCoverHasEnemyPose
+   [译文] 有敌人时移向掩体姿态
+
+================================================================================
+四十三、其他可本地化文本 (不在F6菜单中但用户可见)
+================================================================================
+
+1. 控制台命令
+   [原文] saineditor
+   [译文] (无需翻译，控制台命令保持英文)
+
+   [原文] Toggle SAIN GUI Editor
+   [译文] 切换SAIN GUI编辑器
+
+2. JSON导出文件名
+   [原文] Possible Item Types For Stealth Modifiers
+   [译文] 可修改隐蔽值的物品类型
+
+3. 默认预设创建者
+   [原文] Solarint
+   [译文] (保持原名)
+
+4. 默认预设描述模板
+   [原文] The Default {difficulty} SAIN Preset.
+   [译文] 默认{difficulty}难度的SAIN预设。
+
+================================================================================
+以下空白，待补充。
+================================================================================
