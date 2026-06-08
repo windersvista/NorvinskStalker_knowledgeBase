@@ -21,7 +21,7 @@ v4.5.0 通过三层组件协同工作：
 
 | 组件 | 状态 | 说明 |
 |------|------|------|
-| `friendlyPMC-Optimizer.dll` | **编译交付 (11 KB)** | 5 个 Harmony Prefix 补丁，0 错误 0 警告编译 |
+| `friendlyPMC-Optimizer.dll` | **编译交付 (~22 KB)** | 10 个 Harmony Prefix 补丁，0 错误 0 警告编译 |
 | `friendlyPMC.dll` | 保留原版 | 不直接修改，由 Optimizer 运行时增强 |
 | 服务端 TypeScript | **源码交付** | 消息队列、索引、配置化、清理等 8 项优化 |
 | 客户端 C# 源码 | **参考交付** | 完整优化源码在 `decompiled-client/` (共 22,134 行) |
@@ -39,6 +39,22 @@ v4.5.0 通过三层组件协同工作：
 | `BeingHitOptimizer` | `FollowerCommonLayer.BeingHitAction` | 每 Bot 200ms 节流 | GC -3~5% (战斗时) |
 | `BulletImpactOptimizer` | `BulletImpactPatch.PatchPostfix` | 无 Follower 时完全拦截 | 单人 Raid 0ms 开销 |
 | `JsonCacheOptimizer` | `NpcMessage.NpcSendThankYou` | 双检锁全局缓存 | UI 响应 +200ms |
+
+---
+
+## Optimizer 战术重构补丁 (5 项，新增于 2026-06-06)
+
+基于 SAIN 算法移植，增强 Follower 战斗行为:
+
+| 补丁 | 目标 | 策略 | 效果 |
+|------|------|------|------|
+| `TacticalSearchPatch` | `FollowerFightLayer.GetDecision()` | 4 状态搜索机 (DirectMove→Wait→Advance) | Follower 丢失敌人后主动搜索 |
+| `TacticalCoverSortPatch` | `Covers.GetClosestCoverPoint()` | 方向感知掩体排序桩 | 掩体选取 Hooks 就绪 |
+| `TacticalSprintPatch` | `FollowerGoToEnemy.UpdateNodeByBrain` | 被压制/腿部受伤禁止冲刺 | 冲刺行为更智能 |
+| `TacticalRushPatch` | `FollowerPusherLayer.EngageEnemy()` | 敌人重伤自动突进判定 | Pusher 主动抓时机冲锋 |
+| `BossProtectPatch` | `FollowerFightLayer.GetDecision()` + `DefaultTactic()` | Boss被攻击时强制protection + 远距离coverBoss→EngageEnemy | 50-100m外Boss受击时Follower主动推进反击 |
+
+**可调参数 (TacticalParams):** 搜索基础时间、等待倍率、冲刺距离限制、突进血量阈值等 9 项可配置参数。
 
 ---
 
@@ -81,7 +97,7 @@ v4.5.0 通过三层组件协同工作：
 
 | 文件 | 组件 | 说明 |
 |------|------|------|
-| `BepInEx/plugins/friendlyPMC/friendlyPMC-Optimizer.dll` | Optimizer | Harmony 运行时补丁 (11 KB) |
+| `BepInEx/plugins/friendlyPMC/friendlyPMC-Optimizer.dll` | Optimizer | Harmony 运行时补丁 (~22 KB) |
 | `decompiled-client/Utils/JsonHelper.cs` | 源码参考 | JSON Converter 全局缓存 |
 | `decompiled-client/Utils/CoverSpatialGrid.cs` | 源码参考 | 50m 网格空间分区 |
 | `decompiled-client/Utils/PooledObjects.cs` | 源码参考 | 统一对象池系统 |
@@ -90,6 +106,11 @@ v4.5.0 通过三层组件协同工作：
 | `user/mods/friendlyPMC/config/settings.schema.json` | 服务端 | 设置 JSON Schema |
 | `user/mods/friendlyPMC/config/progress.schema.json` | 服务端 | 任务进度 Schema |
 | `user/mods/friendlyPMC/config/squad-profile.schema.json` | 服务端 | Follower 档案 Schema |
+| `friendlyPMC-Optimizer/Patches/TacticalSearchPatch.cs` | Optimizer | 搜索状态机补丁 |
+| `friendlyPMC-Optimizer/Patches/TacticalSprintPatch.cs` | Optimizer | 冲刺判断补丁 |
+| `friendlyPMC-Optimizer/Patches/TacticalRushPatch.cs` | Optimizer | 突进判定补丁 |
+| `friendlyPMC-Optimizer/Patches/BossProtectPatch.cs` | Optimizer | Boss保护反应补丁 |
+| `friendlyPMC-Optimizer/Patches/TacticalParams.cs` | Optimizer | 可调参数类 |
 
 ---
 
@@ -115,7 +136,7 @@ v4.5.0 通过三层组件协同工作：
 
 **安装后验证:**
 - BepInEx 控制台应显示 `friendlyPMC-Optimizer: Applying performance patches...`
-- BepInEx 控制台应显示 `friendlyPMC-Optimizer: All patches applied.`
+- BepInEx 控制台应显示 `friendlyPMC-Optimizer: All patches applied (10 total).`
 
 ## 回滚
 
@@ -129,7 +150,7 @@ v4.5.0 通过三层组件协同工作：
 
 - Optimizer 通过反射访问原始 DLL 的内部字段，极端情况下 BepInEx 加载顺序可能导致反射失败 (Harmony 会自动跳过失败补丁)
 - 客户端 C# 源码因 IL 反编译语法问题无法直接 `dotnet build`，需原作者源码环境重新编译
-- FollowerCombatManager 和 CheckSeenEnemies 节流等部分优化仅存在于源码参考中，Optimizer 未覆盖
+- FollowerCombatManager、CheckSeenEnemies 节流和掩体方向排序完整实现等部分优化仅存在于源码参考中，Optimizer 未覆盖
 
 ---
 
