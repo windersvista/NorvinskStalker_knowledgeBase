@@ -1,4 +1,4 @@
-# SAIN 原版与 Moew 兼容版差异对照表
+# SAIN 原版与 v4.2.0 增强版差异对照表
 
 > 原版: Solarint/SAIN v4.1.3 | 兼容版: Moew-SAIN-For-3114 v4.3.0
 > 日期: 2026-05-31

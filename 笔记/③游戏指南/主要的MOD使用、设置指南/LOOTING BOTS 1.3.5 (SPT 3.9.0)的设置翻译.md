@@ -1,4 +1,6 @@
-## **Loot Finder-寻找战利品**
+# LOOTING BOTS 1.3.5 (SPT 3.9.0) 设置翻译
+
+## **Loot Finder-寻找战利品**
 
 - `Enable corpse looting` - 启用所选机器人类型的尸体掠夺功能
 - `Enable corpse line of sight check` - 扫描战利品时，如果机器人看不到尸体，它们将被忽略

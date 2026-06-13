@@ -1,7 +1,6 @@
-
 > [!NOTE] 备注
 > 这个文档所使用的解说样例是ShadowXtrex-CustomProfiles-v394.0.1的27_Custom_TASBot.json。
-> 用来解释SPT新建存档时需要选择的Profile的内部结构，为我构想的类似“职业”的游戏体验做准备。
+> 用来解释SPT新建存档时需要选择的Profile的内部结构，为我构想的类似"职业"的游戏体验做准备。
 
 ---
 

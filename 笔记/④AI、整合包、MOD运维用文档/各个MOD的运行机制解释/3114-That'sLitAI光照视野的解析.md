@@ -205,7 +205,7 @@ ThatsLitPlugin (BepInEx 入口)
 
 **效果**：当 SAIN 的 NoBushESP 过于激进地阻止 Bot 射击（例如玩家离 Bot 仅 2m 但 Bot 被灌木逻辑阻挡），That's Lit 以概率方式解除该阻挡。概率由距离、Bot 警戒级别、玩家姿态、Bot 是否在瞄准等因素综合计算。
 
-> [!] 仅当 SAIN 已安装且 `Interrupt SAIN No Bush` 配置启用时生效。
+> [!IMPORTANT] 仅当 SAIN 已安装且 `Interrupt SAIN No Bush` 配置启用时生效。
 
 #### 3.6.6 InitiateShotMonitor -- 玩家射击监听
 
