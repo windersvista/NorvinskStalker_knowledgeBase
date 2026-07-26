@@ -8,7 +8,7 @@ import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-in
 import { buildEndGenerateOpenGraphImages } from '@nolebase/vitepress-plugin-og-image/vitepress'
 import { UnlazyImages } from '@nolebase/markdown-it-unlazy-img'
 
-import { discordLink, githubRepoLink, siteDescription, siteName, targetDomain } from '../metadata'
+import { githubRepoLink, siteDescription, siteName, targetDomain } from '../metadata'
 import { creatorNames, creatorUsernames } from './creators'
 import { sidebar } from './docsMetadata.json'
 
@@ -215,9 +215,6 @@ export default defineConfig({
       name: 'msapplication-TileColor',
       content: '#603cba',
     }],
-    // Proxying Plausible through Netlify | Plausible docs
-    // https://plausible.io/docs/proxy/guides/netlify
-    ['script', { 'defer': 'true', 'data-domain': 'nolebase.ayaka.io', 'data-api': '/api/v1/page-external-data/submit', 'src': '/assets/page-external-data/js/script.js' }],
   ],
   themeConfig: {
     outline: { label: '页面大纲', level: 'deep' },
@@ -228,7 +225,6 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
-      { icon: 'discord', link: discordLink },
     ],
     footer: {
       message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',

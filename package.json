@@ -8,6 +8,7 @@
     "url": "https://github.com/nolebase"
   },
   "license": "MIT",
+  "packageManager": "pnpm@11.5.2",
   "keywords": [
     "vitepress",
     "nolebase",
