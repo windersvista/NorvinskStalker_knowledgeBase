@@ -58,6 +58,11 @@ html, body {
   50% { opacity: 0; }
 }
 
+/* 主标题琥珀磷光光晕（仅深色） */
+.dark .VPHomeHero > .container > .main > .name {
+  text-shadow: 0 0 18px rgba(232, 176, 75, 0.45);
+}
+
 /* 副标题（诺文斯克，你始终无法逃离的世界） */
 .VPHomeHero > .container > .main > .text {
   color: var(--nv-khaki);

@@ -119,6 +119,7 @@ export default defineConfig({
   },
   lang: 'zh-CN',
   appearance: 'dark',
+  srcExclude: ['**/node_modules/**', '**/dist/**', 'docs/**'],
   title: siteName,
   description: siteDescription,
   ignoreDeadLinks: true,
