@@ -16,16 +16,16 @@ hero:
     - theme: brand
       text: 开始阅读整合包指南合集
       link: /笔记/index
-    - theme: brand
+    - theme: alt
       text: SPT3.7.6《诺文斯克潜行者》
       link: /笔记/{0}ModPack Download/1.Norvinsk Stalker Download
-    - theme: brand
+    - theme: alt
       text: SPT3.9.8《现实化诺文斯克》
       link: /笔记/{0}ModPack Download/3.Realized Norvinsk Download
-    - theme: brand
+    - theme: alt
       text: SPT3.11.4《生活在诺文斯克》
       link: /笔记/{0}ModPack Download/4.Live in Norvinsk download
-    - theme: brand
+    - theme: alt
       text: 萌新专属《独享的塔科夫》
       link: /笔记/{0}ModPack Download/5.Exclusive Tarkov download
     - theme: alt
@@ -41,16 +41,18 @@ hero:
 features:
   - title: 专注于将塔科夫“单机化”
     details: 让逃离塔科夫的单机游玩更沉浸、更真实、更危险、更艰难，最终，打造一个更硬核的单机化塔科夫体验
-    icon: 🌈
+    icon: ◈
   - title: 超过100+的MOD总数
     details: 所有整合包拥有超过100个MOD，涵盖武器、服装、配件、玩法大修、地图大修、玩法大修等几乎所有方向的修改，并进行细致的自定义调试和bug修理。
-    icon: 📃
+    icon: ▣
   - title: 紧跟SPT（单人塔科夫）更新
     details: 适配SPT不同版本：3.7.6/3.9.8/3.11.4乃至SPT4，老版本适合老配置电脑游玩，每个版本都因mod的差异各有不同。
-    icon: 🚀
-  - title: 特别鸣谢
-    details: 本站的建设感谢Nólëbase[https://github.com/nolebase]的简单易上手的知识库部署方案，并感谢jackie_xiao提供的教程和git模版[https://github.com/Jackiexiao/nolebase-template]
-    icon: 🗃
+    icon: ↻
+  - title: 版本选择向导
+    details: 不知道哪个整合包适合你？按配置、经验与玩法偏好，一分钟找到你的诺文斯克入口
+    icon: ⌖
+    link: /笔记/{0}ModPack Download/0.版本选择向导
+    linkText: 查看向导
 ---
 
 <HomePage />
