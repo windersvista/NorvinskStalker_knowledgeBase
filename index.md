@@ -11,7 +11,7 @@ hero:
   tagline: 欢迎来到Samuel是不是好奇猫的知识库，我正在创建基于离线版逃离塔科夫SPT的单机化整合包。欢迎进群交流：881730404
   image:
     src: /logo.png
-    alt: Vitest
+    alt: Norvinsk Stalker Logo
   actions:
     - theme: brand
       text: 开始阅读整合包指南合集
