@@ -146,11 +146,11 @@ html, body {
 }
 
 /* alt 按钮文字加终端方括号 */
-.VPHero .VPButton.alt .text::before {
+.VPHero .VPButton.alt::before {
   content: '[ ';
 }
 
-.VPHero .VPButton.alt .text::after {
+.VPHero .VPButton.alt::after {
   content: ' ]';
 }
 
@@ -217,7 +217,7 @@ html, body {
 }
 
 /* 侧边栏激活项：琥珀左边条指示 */
-.VPSidebarItem .item > .link.is-active > .text {
+.VPSidebarItem.is-active > .item > .link > .text {
   border-left: 3px solid var(--nv-amber);
   padding-left: 9px;
   margin-left: -12px;
