@@ -37,6 +37,7 @@ import { creators } from '../creators'
 
 import AppContainer from './components/AppContainer.vue'
 import DocFooter from './components/DocFooter.vue'
+import HeroTerminal from './components/HeroTerminal.vue'
 import HomePage from './components/HomePage.vue'
 import Share from './components/Share.vue'
 import TocList from './components/TocList.vue'
@@ -61,6 +62,9 @@ const ExtendedTheme: Theme = {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'home-hero-before': () => [
+        h(HeroTerminal),
+      ],
       'doc-top': () => [
         h(NolebaseHighlightTargetedHeading),
       ],

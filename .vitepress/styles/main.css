@@ -34,134 +34,37 @@ html, body {
 
 /* ==========================================================================
    首页 Hero
+   默认 VPHomeHero（左右分栏布局）整体隐藏，由 home-hero-before 插槽挂载的
+   HeroTerminal 组件（居中终端风）接管；组件专属样式见其 scoped CSS
    ========================================================================== */
-
-/* 主标题（glitch 字符 id）：等宽 + 琥珀磷光 */
-.VPHomeHero > .container > .main > .name {
-  font-family: 'Black Ops One', Consolas, 'Courier New', monospace;
-  letter-spacing: 2px;
-}
-
-/* 主标题尾部的闪烁方块光标 */
-.dark .VPHomeHero > .container > .main > .name::after {
-  content: '';
-  display: inline-block;
-  width: 0.45em;
-  height: 0.8em;
-  margin-left: 0.15em;
-  vertical-align: -0.08em;
-  background: var(--nv-amber);
-  animation: nv-blink 1.1s steps(1) infinite;
-}
-
-@keyframes nv-blink {
-  50% { opacity: 0; }
-}
-
-/* 主标题琥珀磷光光晕（仅深色） */
-.dark .VPHomeHero > .container > .main > .name {
-  text-shadow: 0 0 18px rgba(232, 176, 75, 0.45);
-}
-
-/* 副标题（诺文斯克，你始终无法逃离的世界） */
-.VPHomeHero > .container > .main > .text {
-  color: var(--nv-khaki);
-  font-weight: 700;
-  letter-spacing: 3px;
-}
-
-/* 副标题下方的琥珀警示条纹分隔带 */
-.VPHomeHero > .container > .main > .text::after {
-  content: '';
-  display: block;
-  height: 8px;
-  width: min(320px, 70%);
-  margin: 20px auto 0;
-  background: repeating-linear-gradient(
-    45deg,
-    var(--nv-amber) 0 12px,
-    transparent 12px 24px
-  );
-  opacity: 0.7;
-}
-
-/* 介绍行：等宽终端风 */
-.VPHomeHero > .container > .main > .tagline {
-  font-family: Consolas, 'Courier New', monospace;
-  color: var(--nv-text-3);
-}
-
-/* 首页标题字号（自适应） */
-.VPHomeHero > .container > .main > .name {
-  font-size: 3.2rem;
-}
-
-.VPHomeHero > .container > .main > .text {
-  font-size: 2rem;
-  padding-top: 20px;
-}
-
-.VPHomeHero > .container > .main > .tagline {
-  padding-top: 24px;
-}
-
-@media (min-width: 960px) {
-  .VPHomeHero > .container > .main > .name {
-    font-size: 4rem;
-  }
-
-  .VPHomeHero > .container > .main > .text {
-    font-size: 2.6rem;
-    padding-top: 28px;
-  }
-}
-
-@media (max-width: 640px) {
-  .VPHomeHero > .container > .main > .name {
-    font-size: 2.2rem;
-  }
-
-  .VPHomeHero > .container > .main > .text {
-    font-size: 1.5rem;
-    padding-top: 16px;
-    letter-spacing: 1px;
-  }
+.VPHomeHero {
+  display: none;
 }
 
 /* ==========================================================================
-   首页按钮
-   brand（锈红实底）由 vars.css 的 --vp-c-brand-2/3 驱动；
-   此处处理 alt（琥珀描边终端按钮）与等宽字体
+   导航栏终端化轻量换肤（不干扰 nolebase 插件注入的导航按钮）
    ========================================================================== */
-.VPHero .actions .action {
+
+/* 站点标题：等宽 + 琥珀 */
+.VPNavBarTitle .title {
   font-family: Consolas, 'Courier New', monospace;
-}
-
-.VPHero .VPButton.alt {
-  border-color: var(--nv-amber);
-  color: var(--nv-amber);
-  background-color: transparent;
-  transition: all 0.2s ease;
-}
-
-.VPHero .VPButton.alt:hover {
-  border-color: var(--nv-amber);
-  color: var(--nv-bg);
-  background-color: var(--nv-amber);
-}
-
-/* alt 按钮文字加终端方括号 */
-.VPHero .VPButton.alt::before {
-  content: '[ ';
-}
-
-.VPHero .VPButton.alt::after {
-  content: ' ]';
-}
-
-/* brand 按钮文字加粗 */
-.VPHero .VPButton.brand {
   font-weight: 700;
+  color: var(--nv-amber);
+  letter-spacing: 1px;
+}
+
+/* 搜索框：暗色终端面板风 */
+.VPNavBarSearch .DocSearch-Button {
+  background-color: var(--nv-bg-soft);
+  border: 1px solid var(--nv-line);
+  border-radius: 4px;
+  font-family: Consolas, 'Courier New', monospace;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.VPNavBarSearch .DocSearch-Button:hover {
+  background-color: var(--nv-bg-mute);
+  border-color: var(--nv-amber);
 }
 
 /* ==========================================================================
@@ -270,13 +173,6 @@ html, body {
     var(--nv-rust) 0 6px,
     transparent 6px 12px
   );
-}
-
-/* 动效敏感用户：禁用光标闪烁 */
-@media (prefers-reduced-motion: reduce) {
-  .dark .VPHomeHero > .container > .main > .name::after {
-    animation: none;
-  }
 }
 
 /* ==========================================================================
