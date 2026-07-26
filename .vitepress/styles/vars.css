@@ -1,93 +1,141 @@
 /**
- * Colors: Palette
+ * Norvinsk Stalker · 塔科夫军事终端主题变量
  *
- * The primitive colors used for accent colors. These colors are referenced
- * by functional colors such as "Text", "Background", or "Brand".
+ * 深色（默认）：军用终端 —— 近黑绿底 + 磷光琥珀 + 卡其
+ * 浅色（简化）：军事文件 —— 卡其纸底 + 深橄榄 + 深琥珀
  *
- * Each colors have exact same color scale system with 3 levels of solid
- * colors with different brightness, and 1 soft color.
- *
- * - `XXX-1`: The most solid color used mainly for colored text. It must
- *   satisfy the contrast ratio against when used on top of `XXX-soft`.
- *
- * - `XXX-2`: The color used mainly for hover state of the button.
- *
- * - `XXX-3`: The color for solid background, such as bg color of the button.
- *    It must satisfy the contrast ratio with pure white (#ffffff) text on
- *    top of it.
- *
- * - `XXX-soft`: The color used for subtle background such as custom container
- *    or badges. It must satisfy the contrast ratio when putting `XXX-1` colors
- *    on top of it.
- *
- *    The soft color must be semi transparent alpha channel. This is crucial
- *    because it allows adding multiple "soft" colors on top of each other
- *    to create a accent, such as when having inline code block inside
- *    custom containers.
+ * 变量语义说明（与 VitePress 默认主题一致）：
+ * - XXX-1：文字级颜色（链接、强调文字）
+ * - XXX-2：按钮 hover 底色
+ * - XXX-3：按钮实底（其上为白色/浅色文字，需保证对比度）
+ * - XXX-soft：半透明浅底（徽章、自定义容器背景）
  * -------------------------------------------------------------------------- */
 
+/* ========== 浅色（军事文件风 · 简化版） ========== */
 :root {
-  --vp-c-sky-1: #3c96ca;
-  --vp-c-sky-2: #49a1d4;
-  --vp-c-sky-3: #49a1d4;
-  --vp-c-sky-soft: rgba(73, 161, 212, 0.84);
-}
+  /* 调色板 */
+  --nv-bg: #ece6d4;
+  --nv-bg-soft: #e3dcc7;
+  --nv-bg-mute: #d8d0b8;
+  --nv-line: #c9bfa2;
+  --nv-text-1: #2e3324;
+  --nv-text-2: #4c5340;
+  --nv-text-3: #6b7157;
+  --nv-khaki: #7a6a45;
+  --nv-amber: #8a5a12;
+  --nv-rust: #b03a26;
 
-.dark {
-  --vp-c-sky-1: #49a3d7;
-  --vp-c-sky-2: #58b1e5;
-  --vp-c-sky-3: #58b1e5;
-  --vp-c-sky-soft: #58b1e5;
-}
+  /* VitePress 功能色映射 */
+  --vp-c-brand-1: #8a5a12;
+  --vp-c-brand-2: #a03826;
+  --vp-c-brand-3: #b03a26;
+  --vp-c-brand-soft: rgba(154, 107, 30, 0.16);
 
-/**
- * Colors: Function
- *
- * - `default`: The color used purely for subtle indication without any
- *   special meanings attched to it such as bg color for menu hover state.
- *
- * - `brand`: Used for primary brand colors, such as link text, button with
- *   brand theme, etc.
- *
- * - `tip`: Used to indicate useful information. The default theme uses the
- *   brand color for this by default.
- *
- * - `warning`: Used to indicate warning to the users. Used in custom
- *   container, badges, etc.
- *
- * - `danger`: Used to show error, or dangerous message to the users. Used
- *   in custom container, badges, etc.
- *
- * To understand the scaling system, refer to "Colors: Palette" section.
- * -------------------------------------------------------------------------- */
+  --vp-c-bg: var(--nv-bg);
+  --vp-c-bg-alt: var(--nv-bg-soft);
+  --vp-c-bg-elv: var(--nv-bg-soft);
+  --vp-c-bg-soft: var(--nv-bg-soft);
+  --vp-c-bg-mute: var(--nv-bg-mute);
 
-:root {
-  /* 主色 */
-  --vp-c-brand-1: var(--vp-c-sky-1);
-  --vp-c-brand-2: var(--vp-c-sky-2);
-  --vp-c-brand-3: var(--vp-c-sky-3);
-  --vp-c-brand-soft: var(--vp-c-sky-soft);
-}
+  --vp-c-text-1: var(--nv-text-1);
+  --vp-c-text-2: var(--nv-text-2);
+  --vp-c-text-3: var(--nv-text-3);
 
-/**
- * Component: Home
- * -------------------------------------------------------------------------- */
+  --vp-c-divider: var(--nv-line);
+  --vp-c-gutter: var(--nv-line);
 
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    #8d6fc7 40%,
-    #4fc4d8
-  );
+  /* 行内代码与代码块 */
+  --vp-code-bg: #e0d8bf;
+  --vp-code-color: #55603c;
+  --vp-code-block-bg: #ddd5bc;
+  --vp-code-line-highlight-color: rgba(154, 107, 30, 0.12);
+
+  /* 自定义容器：tip 使用琥珀系，warning/danger 见下 */
+  --vp-custom-block-tip-bg: rgba(154, 107, 30, 0.10);
+  --vp-custom-block-tip-code-bg: rgba(154, 107, 30, 0.14);
+  --vp-custom-block-warning-bg: rgba(154, 107, 30, 0.10);
+  --vp-custom-block-warning-code-bg: rgba(154, 107, 30, 0.14);
+  --vp-custom-block-danger-bg: rgba(176, 58, 38, 0.08);
+  --vp-custom-block-danger-code-bg: rgba(176, 58, 38, 0.12);
+
+  /* 首页 hero：浅色下不用透明渐变文字，直接深橄榄色 */
+  --vp-home-hero-name-color: #4c5340;
+  --vp-home-hero-name-background: none;
+  /* logo 光晕：柔和的琥珀纸光 */
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #8d73bf90 30%,
-    #d6c0e890
+    rgba(176, 141, 62, 0.35) 30%,
+    rgba(154, 107, 30, 0.20)
   );
-  --vp-home-hero-image-filter: blur(30px);
+  --vp-home-hero-image-filter: blur(56px);
+
+  /* nolebase 标题高亮插件 */
+  --vp-nolebase-highlight-targeted-heading-bg: rgba(176, 141, 62, 0.35);
 }
 
+/* ========== 深色（军用终端 · 完整版） ========== */
+.dark {
+  /* 调色板 */
+  --nv-bg: #0e0f0b;
+  --nv-bg-soft: #14160f;
+  --nv-bg-mute: #191b12;
+  --nv-line: #2a3320;
+  --nv-text-1: #d3d9c2;
+  --nv-text-2: #a8b391;
+  --nv-text-3: #8fa66a;
+  --nv-khaki: #cbb58a;
+  --nv-amber: #e8b04b;
+  --nv-rust: #b03a26;
+
+  /* VitePress 功能色映射
+     brand-1 琥珀用于链接/强调文字；brand-2/3 锈红用于主按钮 */
+  --vp-c-brand-1: #e8b04b;
+  --vp-c-brand-2: #c7452e;
+  --vp-c-brand-3: #b03a26;
+  --vp-c-brand-soft: rgba(232, 176, 75, 0.14);
+
+  --vp-c-bg: var(--nv-bg);
+  --vp-c-bg-alt: var(--nv-bg-soft);
+  --vp-c-bg-elv: var(--nv-bg-soft);
+  --vp-c-bg-soft: var(--nv-bg-soft);
+  --vp-c-bg-mute: var(--nv-bg-mute);
+
+  --vp-c-text-1: var(--nv-text-1);
+  --vp-c-text-2: var(--nv-text-2);
+  --vp-c-text-3: var(--nv-text-3);
+
+  --vp-c-divider: var(--nv-line);
+  --vp-c-gutter: var(--nv-line);
+
+  /* 行内代码与代码块：终端黑底绿字 */
+  --vp-code-bg: #1a1d12;
+  --vp-code-color: #9db06e;
+  --vp-code-block-bg: #0a0b08;
+  --vp-code-line-highlight-color: rgba(232, 176, 75, 0.10);
+
+  /* 自定义容器 */
+  --vp-custom-block-tip-bg: rgba(232, 176, 75, 0.07);
+  --vp-custom-block-tip-code-bg: rgba(232, 176, 75, 0.12);
+  --vp-custom-block-warning-bg: rgba(232, 176, 75, 0.08);
+  --vp-custom-block-warning-code-bg: rgba(232, 176, 75, 0.12);
+  --vp-custom-block-danger-bg: rgba(176, 58, 38, 0.10);
+  --vp-custom-block-danger-code-bg: rgba(176, 58, 38, 0.14);
+
+  /* 首页 hero：琥珀磷光文字 + 琥珀光晕 */
+  --vp-home-hero-name-color: #e8b04b;
+  --vp-home-hero-name-background: none;
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    rgba(232, 176, 75, 0.30) 30%,
+    rgba(143, 166, 106, 0.18)
+  );
+  --vp-home-hero-image-filter: blur(72px);
+
+  /* nolebase 标题高亮插件 */
+  --vp-nolebase-highlight-targeted-heading-bg: rgba(232, 176, 75, 0.25);
+}
+
+/* logo 光晕模糊半径的响应式调整 */
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);
@@ -98,23 +146,4 @@
   :root {
     --vp-home-hero-image-filter: blur(72px);
   }
-}
-
-/**
- * Component: Badge
- * -------------------------------------------------------------------------- */
-:root {
-  /* 配置一下 tips 的自定义块的颜色为非默认的产品色，避免与文字不兼容导致可读性下降 */
-  --vp-custom-block-tip-bg: #def4f4;
-  --vp-custom-block-tip-code-bg: #cbd9dd7d;
-}
-
-.dark:root {
-  /* 配置一下在暗色模式下 tips 的自定义块的颜色为非默认的产品色，避免与文字不兼容导致可读性下降 */
-  --vp-custom-block-tip-bg: #02474e;
-  --vp-custom-block-tip-code-bg: #0d1e1e9c;
-}
-
-:root {
-  --vp-nolebase-highlight-targeted-heading-bg: rgba(253, 216, 95, 0.31);
 }
