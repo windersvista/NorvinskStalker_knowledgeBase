@@ -288,3 +288,81 @@ html, body {
 .vp-doc a:hover {
   text-decoration: underline;
 }
+
+/* ==========================================================================
+   任务 D：文档页终端化精修
+   调色板全部消费 vars.css 的 --nv-* 变量（深/浅双套自动适配），
+   唯一直接色值为琥珀半透明 rgba(232,176,75,0.05)，浅色下亦可接受
+   ========================================================================== */
+
+/* ---------- D-1 代码块终端标题栏 ---------- */
+
+/* 横向滚动交给 pre 承担，标题栏固定在面板顶部不随代码滚动 */
+.vp-doc div[class*='language-'] {
+  overflow: hidden;
+}
+
+.vp-doc div[class*='language-'] pre {
+  overflow-x: auto;
+}
+
+/* 标题栏本体：暗色面板底 + 等宽提示符，底边分隔线；
+   右侧 padding 预留，避免与 VitePress 原生右上角 .lang 语言标签遮挡 */
+.vp-doc div[class*='language-']::before {
+  content: '>_';
+  display: block;
+  padding: 6px 120px 6px 14px;
+  background-color: var(--nv-bg-soft);
+  border-bottom: 1px solid var(--nv-line);
+  font-family: Consolas, 'Courier New', monospace;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 1px;
+  color: var(--nv-amber);
+}
+
+/* 标题栏右侧三个小方块（盒阴影实现，非圆点）；
+   定位在 .lang 语言标签左侧，互不遮挡 */
+.vp-doc div[class*='language-']::after {
+  content: '';
+  position: absolute;
+  top: 10px;
+  right: 96px;
+  width: 8px;
+  height: 8px;
+  background-color: var(--nv-amber);
+  box-shadow:
+    -14px 0 0 var(--nv-text-3),
+    -28px 0 0 var(--nv-text-3);
+}
+
+/* ---------- D-2 表格军事面板化 ---------- */
+.vp-doc table {
+  border: 1px solid var(--nv-line);
+}
+
+/* 表头：面板底色 + 等宽 + 琥珀文字 */
+.vp-doc th {
+  background-color: var(--nv-bg-soft);
+  font-family: Consolas, 'Courier New', monospace;
+  color: var(--nv-amber);
+  border: 1px solid var(--nv-line);
+}
+
+/* 单元格边框细化 */
+.vp-doc td {
+  border: 1px solid var(--nv-line);
+}
+
+/* 行 hover 底色微亮（琥珀 5%） */
+.vp-doc tbody tr:hover td {
+  background-color: rgba(232, 176, 75, 0.05);
+}
+
+/* ---------- D-3 引用块终端化 ---------- */
+.vp-doc blockquote {
+  border-left: 3px solid var(--nv-amber);
+  background-color: rgba(232, 176, 75, 0.05);
+  color: var(--nv-text-2);
+  border-radius: 0 4px 4px 0;
+}

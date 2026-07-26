@@ -39,6 +39,7 @@ import AppContainer from './components/AppContainer.vue'
 import DocFooter from './components/DocFooter.vue'
 import HeroTerminal from './components/HeroTerminal.vue'
 import HomePage from './components/HomePage.vue'
+import NotFoundTerminal from './components/NotFoundTerminal.vue'
 import Share from './components/Share.vue'
 import TocList from './components/TocList.vue'
 
@@ -77,6 +78,10 @@ const ExtendedTheme: Theme = {
       ],
       'nav-screen-content-after': () => [
         h(NolebaseEnhancedReadabilitiesScreenMenu),
+      ],
+      // 404 页面：终端风「信号丢失」组件
+      'not-found': () => [
+        h(NotFoundTerminal),
       ],
     })
   },
