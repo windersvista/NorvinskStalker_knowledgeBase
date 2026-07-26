@@ -4,8 +4,281 @@ html, body {
   -webkit-tap-highlight-color: transparent; /* 避免触屏下的点击高亮颜色 */
 }
 
-/* 参考 Vitest */
-/* fix height ~ 2 lines of text: 3 or more cards per row */
+/* ==========================================================================
+   Black Ops One 军用 stencil 字体（仅拉丁字形，中文自动回退系统黑体）
+   ========================================================================== */
+@font-face {
+  font-family: 'Black Ops One';
+  src: url(/fonts/black-ops-one-latin-regular.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ==========================================================================
+   扫描线（仅深色模式，CRT 终端质感）
+   固定定位覆盖全屏，pointer-events: none 不影响交互
+   ========================================================================== */
+.dark body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.12) 0 1px,
+    transparent 1px 3px
+  );
+}
+
+/* ==========================================================================
+   首页 Hero
+   ========================================================================== */
+
+/* 主标题（glitch 字符 id）：等宽 + 琥珀磷光 */
+.VPHomeHero > .container > .main > .name {
+  font-family: 'Black Ops One', Consolas, 'Courier New', monospace;
+  letter-spacing: 2px;
+}
+
+/* 主标题尾部的闪烁方块光标 */
+.dark .VPHomeHero > .container > .main > .name::after {
+  content: '';
+  display: inline-block;
+  width: 0.45em;
+  height: 0.8em;
+  margin-left: 0.15em;
+  vertical-align: -0.08em;
+  background: var(--nv-amber);
+  animation: nv-blink 1.1s steps(1) infinite;
+}
+
+@keyframes nv-blink {
+  50% { opacity: 0; }
+}
+
+/* 副标题（诺文斯克，你始终无法逃离的世界） */
+.VPHomeHero > .container > .main > .text {
+  color: var(--nv-khaki);
+  font-weight: 700;
+  letter-spacing: 3px;
+}
+
+/* 副标题下方的琥珀警示条纹分隔带 */
+.VPHomeHero > .container > .main > .text::after {
+  content: '';
+  display: block;
+  height: 8px;
+  width: min(320px, 70%);
+  margin: 20px auto 0;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--nv-amber) 0 12px,
+    transparent 12px 24px
+  );
+  opacity: 0.7;
+}
+
+/* 介绍行：等宽终端风 */
+.VPHomeHero > .container > .main > .tagline {
+  font-family: Consolas, 'Courier New', monospace;
+  color: var(--nv-text-3);
+}
+
+/* 首页标题字号（自适应） */
+.VPHomeHero > .container > .main > .name {
+  font-size: 3.2rem;
+}
+
+.VPHomeHero > .container > .main > .text {
+  font-size: 2rem;
+  padding-top: 20px;
+}
+
+.VPHomeHero > .container > .main > .tagline {
+  padding-top: 24px;
+}
+
+@media (min-width: 960px) {
+  .VPHomeHero > .container > .main > .name {
+    font-size: 4rem;
+  }
+
+  .VPHomeHero > .container > .main > .text {
+    font-size: 2.6rem;
+    padding-top: 28px;
+  }
+}
+
+@media (max-width: 640px) {
+  .VPHomeHero > .container > .main > .name {
+    font-size: 2.2rem;
+  }
+
+  .VPHomeHero > .container > .main > .text {
+    font-size: 1.5rem;
+    padding-top: 16px;
+    letter-spacing: 1px;
+  }
+}
+
+/* ==========================================================================
+   首页按钮
+   brand（锈红实底）由 vars.css 的 --vp-c-brand-2/3 驱动；
+   此处处理 alt（琥珀描边终端按钮）与等宽字体
+   ========================================================================== */
+.VPHero .actions .action {
+  font-family: Consolas, 'Courier New', monospace;
+}
+
+.VPHero .VPButton.alt {
+  border-color: var(--nv-amber);
+  color: var(--nv-amber);
+  background-color: transparent;
+  transition: all 0.2s ease;
+}
+
+.VPHero .VPButton.alt:hover {
+  border-color: var(--nv-amber);
+  color: var(--nv-bg);
+  background-color: var(--nv-amber);
+}
+
+/* alt 按钮文字加终端方括号 */
+.VPHero .VPButton.alt .text::before {
+  content: '[ ';
+}
+
+.VPHero .VPButton.alt .text::after {
+  content: ' ]';
+}
+
+/* brand 按钮文字加粗 */
+.VPHero .VPButton.brand {
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   首页 Features 卡片：终端面板 + 警示条纹顶边
+   ========================================================================== */
+.VPFeatures .VPFeature {
+  border: 1px solid var(--nv-line);
+  background-color: var(--nv-bg-soft);
+  position: relative;
+  overflow: hidden;
+}
+
+.VPFeatures .VPFeature::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--nv-amber) 0 8px,
+    transparent 8px 16px
+  );
+  opacity: 0.55;
+}
+
+.VPFeatures .VPFeature .title {
+  font-family: Consolas, 'Courier New', monospace;
+  color: var(--nv-amber);
+}
+
+.VPFeatures .VPFeature .title::before {
+  content: '> ';
+  color: var(--nv-text-3);
+}
+
+.VPFeatures .VPFeature .details {
+  color: var(--nv-text-2);
+}
+
+/* ==========================================================================
+   文档页
+   ========================================================================== */
+
+/* h1 终端提示符前缀 */
+.vp-doc > div > h1::before {
+  content: '> ';
+  font-family: Consolas, 'Courier New', monospace;
+  color: var(--nv-text-3);
+}
+
+/* 代码块：终端面板边框 */
+.vp-doc div[class*='language-'] {
+  border: 1px solid var(--nv-line);
+  border-radius: 5px;
+}
+
+/* 侧边栏激活项：琥珀左边条指示 */
+.VPSidebarItem .item > .link.is-active > .text {
+  border-left: 3px solid var(--nv-amber);
+  padding-left: 9px;
+  margin-left: -12px;
+}
+
+/* warning 自定义容器：左侧琥珀警示条纹 */
+.vp-doc .custom-block.warning {
+  position: relative;
+  border-left: none;
+}
+
+.vp-doc .custom-block.warning::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 6px;
+  border-radius: 4px 0 0 4px;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--nv-amber) 0 6px,
+    transparent 6px 12px
+  );
+}
+
+/* danger/caution 自定义容器：左侧锈红警示条纹 */
+.vp-doc .custom-block.danger,
+.vp-doc .custom-block.caution {
+  position: relative;
+  border-left: none;
+}
+
+.vp-doc .custom-block.danger::before,
+.vp-doc .custom-block.caution::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 6px;
+  border-radius: 4px 0 0 4px;
+  background: repeating-linear-gradient(
+    45deg,
+    var(--nv-rust) 0 6px,
+    transparent 6px 12px
+  );
+}
+
+/* 动效敏感用户：禁用光标闪烁 */
+@media (prefers-reduced-motion: reduce) {
+  .dark .VPHomeHero > .container > .main > .name::after {
+    animation: none;
+  }
+}
+
+/* ==========================================================================
+   以下为从旧版保留的无害兼容性补丁
+   ========================================================================== */
+
+/* 参考 Vitest：VPTeamMembers 高度修复 */
 .VPTeamMembersItem.small .profile .data .affiliation {
   min-height: 3rem;
 }
@@ -14,7 +287,6 @@ html, body {
   min-height: 3rem;
 }
 
-/* fix height ~ 3 lines of text: 4 cards per row */
 @media (min-width: 1064px) and (max-width: 1143px) {
   .VPTeamMembersItem.small .profile .data .affiliation {
     min-height: 4rem;
@@ -25,7 +297,6 @@ html, body {
   }
 }
 
-/* fix height ~ 3 lines of text: 3 cards per row */
 @media (min-width: 815px) and (max-width: 875px) {
   .VPTeamMembersItem.small .profile .data .affiliation {
     min-height: 4rem;
@@ -36,7 +307,6 @@ html, body {
   }
 }
 
-/* fix height ~ 3 lines of text: 2 cards per row */
 @media (max-width: 612px) {
   .VPTeamMembersItem.small .profile .data .affiliation {
     min-height: 4rem;
@@ -47,7 +317,6 @@ html, body {
   }
 }
 
-/* fix height: one card per row */
 @media (max-width: 568px) {
   .VPTeamMembersItem.small .profile .data .affiliation {
     min-height: unset;
@@ -58,7 +327,6 @@ html, body {
   }
 }
 
-/* 覆盖 VPTeamMembers 组件内部处理的子元素包含特定 max-width 样式致使元素宽度与正文不一致的问题 */
 .vp-doc .VPTeamMembers.small.count-2 .container,
 .vp-doc .VPTeamMembers.small.count-3 .container {
   max-width: 1152px !important;
@@ -72,85 +340,12 @@ html, body {
   max-width: unset;
 }
 
-/* 标题所需要的字体 */
-@font-face {
-  font-family: tengwarannatar;
-  src: url(/tengwar-annatar-glaemscrafu.woff2) format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: block;
-}
-
-/* 标题所需要的字体 */
-@font-face {
-  font-family: tengwarannatar-bold;
-  src: url(/tengwar-annatar-glaemscrafu-bold.woff2) format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: block;
-}
-
-/* 首页标题样式 */
-.VPHomeHero > .container > .main > h1 {
-  font-size: 5rem;
-  font-family: 'tengwarannatar-bold';
-}
-
-/* 首页子标题样式 */
-.VPHomeHero > .container > .main > .text {
-  padding-top: 45px;
-  font-size: 4rem;
-}
-
-/* 首页介绍样式 */
-.VPHomeHero > .container > .main > .tagline {
-  padding-top: 24px;
-}
-
-/* 自适应样式 */
-@media (max-width: 1024px) {
-  /* 首页标题样式 */
-  .VPHomeHero > .container > .main > h1 {
-    font-size: 3.5rem;
-  }
-
-  /* 首页子标题样式 */
-  .VPHomeHero > .container > .main > .text {
-    padding-top: 30px;
-    font-size: 3rem;
-  }
-
-  /* 首页介绍样式 */
-  .VPHomeHero > .container > .main > .tagline {
-    padding-top: 20px;
-  }
-}
-
-/* 自适应样式 */
-@media (max-width: 640px) {
-  /* 首页标题样式 */
-  .VPHomeHero > .container > .main > h1 {
-    font-size: 2.5rem;
-  }
-
-  /* 首页子标题样式 */
-  .VPHomeHero > .container > .main > .text {
-    padding-top: 20px;
-    font-size: 2rem;
-  }
-
-  /* 首页介绍样式 */
-  .VPHomeHero > .container > .main > .tagline {
-    padding-top: 20px;
-  }
-}
-
 /* 主页下方的页脚透明度 */
 .VPFooter {
   opacity: 0.8;
 }
 
-/* 正文结尾的 CC 协议链接基本样式 */
+/* 正文结尾的 CC 协议链接 */
 .footer-cc-link {
   color: var(--vp-c-text-2);
   transition: all 0.3s ease;
@@ -158,17 +353,11 @@ html, body {
   text-decoration-color: rgb(114, 114, 114);
 }
 
-/* 正文结尾的 CC 协议链接鼠标 hover 样式 */
 .footer-cc-link:hover {
   color: var(--vp-c-text-1);
 }
 
-/* 正文结尾的 CC 协议链接暗色模式下鼠标 hover 样式 */
-.dark .footer-cc-link:hover {
-  color: var(--vp-c-text-1);
-}
-
-/* 调整文档页面页脚到正文结尾的间隔距离 */
+/* 文档页面页脚到正文结尾的间隔 */
 .VPDoc .VPDocFooter {
   margin-top: 32px;
 }
@@ -178,7 +367,6 @@ html, body {
   margin-top: 32px;
   opacity: 0.9;
   font-size: 12px;
-  /* 确保脚注上的返回链接符号 ↩ 不会被 body 的 Emoji 字体覆盖渲染为 ↩️ */
   font-family: sans-serif;
 }
 
@@ -186,7 +374,7 @@ html, body {
   line-height: 18px;
 }
 
-/* 覆盖正文的 h1 标题样式 */
+/* 正文 h1 标题间距 */
 .vp-doc > div > h1 {
   margin-bottom: 16px;
 }
@@ -198,80 +386,4 @@ html, body {
 
 .vp-doc a:hover {
   text-decoration: underline;
-}
-
-/**
-  Discord 链接按钮样式
-*/
-
-.VPHero.VPHomeHero .actions a[href="https://discord.gg/XuNFDcDZGj"] {
-  color: white;
-  background-color: #404eed;
-}
-
-.VPHero.VPHomeHero .actions a[href="https://discord.gg/XuNFDcDZGj"]:hover {
-  color: white;
-  background-color: #6975f2;
-}
-
-.VPHero.VPHomeHero .actions a[href="https://discord.gg/XuNFDcDZGj"]:active {
-  color: white;
-  background-color: #404eed;
-}
-
-/**
-  暗色模式下 Discord 链接按钮样式
-*/
-
-.dark .VPHero.VPHomeHero .actions a[href="https://discord.gg/XuNFDcDZGj"] {
-  color: white;
-  background-color: #444c9e;
-}
-
-.dark .VPHero.VPHomeHero .actions a[href="https://discord.gg/XuNFDcDZGj"]:hover {
-  color: white;
-  background-color: #404eed;
-}
-
-.dark .VPHero.VPHomeHero .actions a[href="https://discord.gg/XuNFDcDZGj"]:active {
-  color: white;
-  background-color: #444c9e;
-}
-
-/**
-  GitHub 链接按钮样式
-*/
-
-.VPHero.VPHomeHero .actions a[href="https://github.com/nolebase/integrations"] {
-  color: white;
-  background-color: #000;
-}
-
-.VPHero.VPHomeHero .actions a[href="https://github.com/nolebase/integrations"]:hover {
-  color: white;
-  background-color: #4b4b4b;
-}
-
-.VPHero.VPHomeHero .actions a[href="https://github.com/nolebase/integrations"]:active {
-  color: white;
-  background-color: #000;
-}
-
-/**
-  暗色模式下 GitHub 链接按钮样式
-*/
-
-.dark .VPHero.VPHomeHero .actions a[href="https://github.com/nolebase/integrations"] {
-  color: white;
-  background-color: #4b4b4b;
-}
-
-.dark .VPHero.VPHomeHero .actions a[href="https://github.com/nolebase/integrations"]:hover {
-  color: white;
-  background-color: #252525;
-}
-
-.dark .VPHero.VPHomeHero .actions a[href="https://github.com/nolebase/integrations"]:active {
-  color: white;
-  background-color: #4b4b4b;
 }
